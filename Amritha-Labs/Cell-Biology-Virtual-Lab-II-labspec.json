@@ -1,0 +1,41 @@
+{
+        "course": {"org": "Amritha-University","id": "CBII-AU", "display_name": "Cell Biology Virtual Lab II"},
+        "overview": "Cell Biology Virtual Lab II",
+        "experiments": [{"name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"name": "Mitosis in Onion Root Tips",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                          {"name": "Hemocytometer (Counting of Cells)",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"name": "Actin Assembly",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"name": "Cell Attachment",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"name": "Cell Migration",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"name": "Cell Proliferation",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                            {"name": "Lignin Staining",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                            {"name": "Maintanence of Mamalian Cell Lines",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]}
+                        ]
+
+}

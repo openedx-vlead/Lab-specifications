@@ -1,0 +1,33 @@
+{
+ "course": {"org": "Amritha-University","id": "BIOTECH17", "display_name": "Population ecology Virtual Lab II"},
+        "overview": "Population ecology Virtual Lab II",
+        "experiments": [{"name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"name": "Effects of Carrying Capacity and Satiation in Predator-Prey Dynamics",
+                         "subsections": [{"name": "Simulator"}
+                                         ]},
+                          {"name": "Effect of Predator Efficiency on Equilibrium Densities & Pop. Stability",
+                          "subsections": [{"name": "Simulator"}
+                                         ]},
+                           {"name": "Harvesting a Prey Population",
+                           "subsections": [{"name": "Simulator"}
+                                         ]},
+                           {"name": "Predator - Prey Dynamics - Rats and Snakes (Lotka Volterra Simulation)",
+                           "subsections": [{"name": "Simulator"}
+                                         ]},
+                           {"name": "Optimal Pollinators",
+                          "subsections": [{"name": "Simulator"}
+                                         ]},
+                           {"name": "Optimal Foraging : Searching Predators that Maximize Energy",
+                          "subsections": [{"name": "Simulator"}
+                                         ]},
+                            {"name": "Optimal Foraging: Sit-and-wait Predators that Maximize Energy",
+                          "subsections": [{"name": "Simulator"}
+                                         ]},
+                            {"name": "Optimal Foraging with Minimal Time: A Case of Searching Predators",
+                          "subsections": [{"name": "Simulator"}
+                                         ]}
+                        ]
+}
+

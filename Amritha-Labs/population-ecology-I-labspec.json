@@ -1,0 +1,32 @@
+{
+        "course": {"org": "Amritha-University","id": "BIOTECH18", "display_name": "Population ecology Virtual Lab I"},
+        "overview": "Population ecology Virtual Lab I",
+        "experiments": [{"name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"name": "Conserving an Endangered Species",
+                         "subsections": [{"name": "Simulator"}
+                                         ]},
+                          {"name": "Interspecific Competition and Coexistence",
+                          "subsections": [{"name": "Simulator"}
+                                         ]},
+                           {"name": "Effect of Interspecific Competition on Species Border (Interspecific Competition and Geographic Distributions)",
+                           "subsections": [{"name": "Simulator"}
+                                         ]},
+                           {"name": "Logistic Population Growth: Continuous and Discrete",
+                           "subsections": [{"name": "Simulator"}
+                                         ]},
+                           {"name": "Metapopulation Dynamics -Levins Model",
+                          "subsections": [{"name": "Simulator"}
+                                         ]},
+                           {"name": "Parasitoid-Host Dynamics",
+                          "subsections": [{"name": "Simulator"}
+                                         ]},
+                            {"name": "Population with Continuous and Discrete Growth",
+                          "subsections": [{"name": "Simulator"}
+                                         ]},
+                            {"name": "Spread of a Pest Population - Population Invasion",
+                          "subsections": [{"name": "Simulator"}
+                                         ]}
+                        ]
+}

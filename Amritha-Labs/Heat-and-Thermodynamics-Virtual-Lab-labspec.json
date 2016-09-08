@@ -1,0 +1,36 @@
+{
+"course": {"org": "Amritha-University","id": "HTV-AU", "display_name": "Heat and Thermodynamics Virtual Lab"},
+        "overview": "Heat and Thermodynamics Virtual Lab",
+        "experiments": [{"name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"name": "The Study of Phase Change",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                          {"name": "Heat Transfer by Radiation",
+                          "subsections": [{"name": "Simulator"}
+                                         ]},
+                           {"name": "Heat Transfer by Conduction",
+                           "subsections": [{"name": "Simulator"}
+                                         ]},
+                           {"name": "Heat_Transfer by Natural Convection",
+                           "subsections": [{"name": "Simulator"}
+                                         ]},
+                           {"name": "Newton's Law of Cooling",
+                          "subsections": [{"name": "Simulator"}
+                                         ]},
+                           {"name": "Black Body Radiation",
+                          "subsections": [{"name": "Simulator"}
+                                         ]},
+                            {"name": "Characteristics of Thermistor",
+                          "subsections": [{"name": "Simulator"}
+                                         ]},
+                            {"name": "Heat Transfer by Natural Convection",
+                          "subsections": [{"name": "Simulator"}
+                                         ]},
+                            {"name": "Thermo Couple Seebeck Effect",
+                          "subsections": [{"name": "Simulator"}
+                                         ]}
+                        ]
+}                        

@@ -1,0 +1,41 @@
+{
+        "course": {"org": "Amritha-University","id": "CBI-AU", "display_name": "Cell Biology Virtual Lab I"},
+        "overview": "Cell Biology Virtual Lab I",
+        "experiments": [{"name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"name": "Isolation of Chloroplast",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                          {"name": "Light Microscope",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"name": "Cell Organization and Sub Cellular Structure Studies",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"name": "Isolation of Mitochondria",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"name": "Transfection",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"name": "Basics of Plant Tissue Culture",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                            {"name": "Glucose Uptake Assay",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                            {"name": "Isolation of Endoplasmic Reticulum",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]}
+                        ]
+
+}

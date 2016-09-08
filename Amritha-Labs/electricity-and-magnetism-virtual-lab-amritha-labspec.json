@@ -1,0 +1,41 @@
+{
+        "course": {"org": "Amritha-University","id": "EMV-AU", "display_name": "Electricity and Magnetism Virtual Lab"},
+        "overview": "Electricity and Magnetism Virtual Lab",
+        "experiments": [{"name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"name": "Magnetic Field Along The Axis of A Circular Coil Carrying Current",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                          {"name": "Tangent Galvanometer",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"name": "Temperature Coefficient of Resistance",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"name": "Barkhausen Effect",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"name": "Van De Graaff Generator",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"name": "Quinckes Method",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                            {"name": "Anderson's Bridge",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                            {"name": "Deflection Magnetometer",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]}
+                        ]
+
+}
