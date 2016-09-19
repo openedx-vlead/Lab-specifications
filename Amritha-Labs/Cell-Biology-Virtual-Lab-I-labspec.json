@@ -17,24 +17,19 @@
                                          {"name": "Animation"}
                                          ]},
                            {"name": "Isolation of Mitochondria",
-                          "subsections": [{"name": "Simulator"},
-                                         {"name": "Animation"}
+                          "subsections": [{"name": "Animation"}
                                          ]},
                            {"name": "Transfection",
-                         "subsections": [{"name": "Simulator"},
-                                         {"name": "Animation"}
+                         "subsections": [{"name": "Animation"}
                                          ]},
                            {"name": "Basics of Plant Tissue Culture",
-                         "subsections": [{"name": "Simulator"},
-                                         {"name": "Animation"}
+                         "subsections": [{"name": "Animation"}
                                          ]},
                             {"name": "Glucose Uptake Assay",
-                         "subsections": [{"name": "Simulator"},
-                                         {"name": "Animation"}
+                         "subsections": [{"name": "Animation"}
                                          ]},
                             {"name": "Isolation of Endoplasmic Reticulum",
-                         "subsections": [{"name": "Simulator"},
-                                         {"name": "Animation"}
+                         "subsections": [{"name": "Animation"}
                                          ]}
                         ]
 
