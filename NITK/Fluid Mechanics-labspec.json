@@ -1,0 +1,21 @@
+{
+        "course": {"org": "nitk","id": "fm", "display_name": "Fluid Mechanics"},
+        "overview": "Fluid Mechanics",
+        "experiments": [{"name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"name": "Impact Of Jet:",
+                         "subsections": [{"name": "Theory"},
+                                         {"name": "Procedure"},
+                                         {"name": "Self Evaluation"},
+                                         {"name": "Simulator"},
+                                         {"name": "Assignment"},
+                                         {"name": "Reference"},
+                                         {"name": "Video"},
+                                         {"name": "Quiz"},
+                                         ]}
+                         
+                        ]
+
+}
+

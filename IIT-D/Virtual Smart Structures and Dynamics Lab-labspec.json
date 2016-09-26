@@ -1,0 +1,48 @@
+{
+        "course": {"org": "iitd","id": "vssd", "display_name": "Virtual Smart Structures and Dynamics Lab"},
+        "overview": "Virtual Smart Structures and Dynamics Lab",
+        "experiments": [{"name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"name": "Experiment-1",
+                         "subsections": [{"name": "Manual for the experiment"},
+                                         ]},
+                          {"name": "Experiment-2",
+                         "subsections": [{"name": "Live Simulation"},
+                                         {"name": "Example-1"},
+                                         {"name": "Example-2"},
+                                         {"name": "Example-3"},
+                                         {"name": "Example-4"},
+                                         {"name": "Example-5"},
+                                         ]},
+                           {"name": "Experiment-3",
+                         "subsections": [{"name": "Manual for the experiment"},
+                                         {"name": "Example-1"},
+                                         {"name": "Example-2"},
+                                         {"name": "Example-3"},
+                                         ]},
+                           {"name": "Experiment-4",
+                         "subsections": [{"name": "Manual for the experiment"},
+                                         ]},
+                           {"name": "Experiment-5",
+                         "subsections": [{"name": "EXERCISE FOR USERS :"},
+                                         ]},
+                           {"name": "Experiment-6",
+                         "subsections": [{"name": "EXERCISE FOR USERS :"},
+                                         {"name": "Pre-Test"},
+                                         {"name": "Theory"},
+                                         ]},
+                            {"name": "Experiment-7",
+                         "subsections": [{"name": "Manual for the experiment"},
+                                         ]},
+                            {"name": "Experiment-8",
+                         "subsections": [{"name": "DISCLAIMER:"},
+                                         {"name": "DESCRIPTION OF BRIDGE:"},
+                                         {"name": "VIEW MODE SHAPES:"},
+                                         {"name": " EXPERIMENTAL QUIZ"},
+                                         ]}
+                         
+                        ]
+
+}
+
