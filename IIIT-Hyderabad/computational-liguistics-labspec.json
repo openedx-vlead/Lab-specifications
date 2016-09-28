@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Forming Sentences-1",
+                         {"id": "1", "name": "Forming Sentences-1",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -13,7 +13,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                          {"name": "Forming Sentences-2",
+                          {"id": "2", "name": "Forming Sentences-2",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -22,7 +22,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                           {"name": "Tokens and Types",
+                           {"id": "3", "name": "Tokens and Types",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -31,7 +31,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                           {"name": "Heap's Law",
+                           {"id": "4", "name": "Heap's Law",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -40,7 +40,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                           {"name": "Dictionary Generation",
+                           {"id": "5", "name": "Dictionary Generation",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -49,7 +49,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                           {"name": "Coarse-grained POS Tagging",
+                           {"id": "6", "name": "Coarse-grained POS Tagging",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -58,7 +58,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                            {"name": "Fine-grained POS Tagging",
+                            {"id": "7", "name": "Fine-grained POS Tagging",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -67,7 +67,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                            {"name": "Chunking",
+                            {"id": "8", "name": "Chunking",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -76,7 +76,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                            {"name": "Context Free Grammar",
+                            {"id": "9", "name": "Context Free Grammar",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
