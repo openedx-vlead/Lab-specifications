@@ -4,29 +4,29 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "The Study of Phase Change",
+                         {"id": "1", "name": "The Study of Phase Change",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                          {"name": "Heat Transfer by Radiation",
+                          {"id": "2", "name": "Heat Transfer by Radiation",
                           "subsections": [{"name": "Simulator"}
                                          ]},
-                           {"name": "Heat Transfer by Conduction",
+                           {"id": "3", "name": "Heat Transfer by Conduction",
                            "subsections": [{"name": "Simulator"}
                                          ]},
-                           {"name": "Heat_Transfer by Natural Convection",
+                           {"id": "4", "name": "Heat_Transfer by Natural Convection",
                            "subsections": [{"name": "Simulator"}
                                          ]},
-                           {"name": "Newton's Law of Cooling",
+                           {"id": "5", "name": "Newton's Law of Cooling",
                           "subsections": [{"name": "Simulator"}
                                          ]},
-                           {"name": "Black Body Radiation",
+                           {"id": "6", "name": "Black Body Radiation",
                           "subsections": [{"name": "Simulator"}
                                          ]},
-                            {"name": "Characteristics of Thermistor",
+                            {"id": "7", "name": "Characteristics of Thermistor",
                           "subsections": [{"name": "Simulator"}
                                          ]},
-                            {"name": "Heat Transfer by Natural Convection",
+                            {"id": "8", "name": "Heat Transfer by Natural Convection",
                           "subsections": [{"name": "Simulator"}
                                          ]},
                             {"name": "Thermo Couple Seebeck Effect",
