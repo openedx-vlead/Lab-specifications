@@ -72,7 +72,7 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"
+                                         {"name": "Quiz"}
                                          ]},
                             {"id": "8", "name": "Development of 11KV/433 volts substation automation scheme using PLC for normal load operation",
                          "subsections": [{"name": "Theory"},
@@ -118,4 +118,3 @@
                         ]
 
 }
-
