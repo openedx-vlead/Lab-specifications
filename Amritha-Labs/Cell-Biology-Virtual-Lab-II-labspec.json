@@ -4,27 +4,27 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Mitosis in Onion Root Tips",
+                         {"id": "1", "name": "Mitosis in Onion Root Tips",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                          {"name": "Hemocytometer (Counting of Cells)",
+                          {"id": "2", "name": "Hemocytometer (Counting of Cells)",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                           {"name": "Actin Assembly",
+                           {"id": "3", "name": "Actin Assembly",
                           "subsections": [{"name": "Animation"}
                                          ]},
-                           {"name": "Cell Attachment",
+                           {"id": "4", "name": "Cell Attachment",
                           "subsections": [{"name": "Animation"}
                                          ]},
-                           {"name": "Cell Migration",
+                           {"id": "5", "name": "Cell Migration",
                          "subsections": [{"name": "Animation"}
                                          ]},
-                           {"name": "Cell Proliferation",
+                           {"id": "6", "name": "Cell Proliferation",
                           "subsections": [{"name": "Animation"}
                                          ]},
-                            {"name": "Lignin Staining",
+                            {"id": "7", "name": "Lignin Staining",
                          "subsections": [{"name": "Animation"}
                                          ]},
                             {"name": "Maintanence of Mamalian Cell Lines",
