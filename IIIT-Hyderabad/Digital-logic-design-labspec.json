@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Adder Circuit",
+                         {"id": "1", "name": "Adder Circuit",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -15,7 +15,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"name": "Multiplexer",
+                          {"id": "2", "name": "Multiplexer",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -26,7 +26,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Decoder with 7-Segment Display",
+                           {"id": "3", "name": "Decoder with 7-Segment Display",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -37,7 +37,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "ALU with function",
+                           {"id": "4", "name": "ALU with function",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -48,7 +48,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Comparator",
+                           {"id": "5", "name": "Comparator",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -59,7 +59,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Latch and Flip Flops",
+                           {"id": "6", "name": "Latch and Flip Flops",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -70,7 +70,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "Registers",
+                            {"id": "7", "name": "Registers",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -81,7 +81,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "Counters",
+                            {"id": "8", "name": "Counters",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -92,7 +92,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "Multipliers",
+                            {"id": "9", "name": "Multipliers",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -103,7 +103,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "State Digrams",
+                            {"id": "10", "name": "State Digrams",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
