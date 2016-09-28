@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Impact Of Jet:",
+                         {"id": "1", "name": "Impact Of Jet:",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -12,7 +12,7 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]}
                          
                         ]
