@@ -8,7 +8,7 @@
                                          {"name": "Courses Aligned"},
                                          {"name": "Prerequisites"}
                                          ]},
-                         {"name": "Instrumentation and working principles of infra red spectroscopy using salt plates",
+                         {"id": "1", "name": "Instrumentation and working principles of infra red spectroscopy using salt plates",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -18,7 +18,7 @@
                                          {"name": "FurtherReadings"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"name": "Instrumentation and working principles of solutions infra red spectroscopy",
+                          {"id": "2", "name": "Instrumentation and working principles of solutions infra red spectroscopy",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -28,7 +28,7 @@
                                          {"name": "FurtherReadings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": " Instrumentation and working principles principles of mass spectroscopy ",
+                           {"id": "3", "name": " Instrumentation and working principles principles of mass spectroscopy ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -38,7 +38,7 @@
                                          {"name": "FurtherReadings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": " Determination of molar mass of simple compounds using mass spectroscopy ",
+                           {"id": "4", "name": " Determination of molar mass of simple compounds using mass spectroscopy ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -48,7 +48,7 @@
                                          {"name": "FurtherReadings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": " Nuclear magnetic resosnace spectrocopy and evaulation of simple 1H NMR spectra of select organic compounds ",
+                           {"id": "5", "name": " Nuclear magnetic resosnace spectrocopy and evaulation of simple 1H NMR spectra of select organic compounds ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -58,7 +58,7 @@
                                          {"name": "FurtherReadings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": " Identification of unknown components using spectroscopic techniques ",
+                           {"id": "6", "name": " Identification of unknown components using spectroscopic techniques ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
