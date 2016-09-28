@@ -4,35 +4,35 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Magnetic Field Along The Axis of A Circular Coil Carrying Current",
+                         {"id": "1", "name": "Magnetic Field Along The Axis of A Circular Coil Carrying Current",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                          {"name": "Tangent Galvanometer",
+                          {"id": "2", "name": "Tangent Galvanometer",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                           {"name": "Temperature Coefficient of Resistance",
+                           {"id": "3", "name": "Temperature Coefficient of Resistance",
                           "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                           {"name": "Barkhausen Effect",
+                           {"id": "4", "name": "Barkhausen Effect",
                           "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                           {"name": "Van De Graaff Generator",
+                           {"id": "5", "name": "Van De Graaff Generator",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                           {"name": "Quinckes Method",
+                           {"id": "6", "name": "Quinckes Method",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                            {"name": "Anderson's Bridge",
+                            {"id": "7", "name": "Anderson's Bridge",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                            {"name": "Deflection Magnetometer",
+                            {"id": "8", "name": "Deflection Magnetometer",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]}
