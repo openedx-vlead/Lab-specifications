@@ -9,7 +9,7 @@
                                          {"name": "Prerequisites"},
                                          {"name": "Feedback"}
                                      	]},
-                         {"name": "Tensile Test Experiment",
+                         {"id": "1", "name": "Tensile Test Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -17,7 +17,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                          {"name": "Compression Test Experiment",
+                          {"id": "2", "name": "Compression Test Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -26,7 +26,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"name": "Shear Test Experiment",
+                           {"id": "3", "name": "Shear Test Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -35,7 +35,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"name": "Torsion Test Experiment",
+                           {"id": "4", "name": "Torsion Test Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -44,7 +44,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"name": "Impact Test Experiment",
+                           {"id": "5", "name": "Impact Test Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -52,7 +52,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"name": "Creep Test Experiment",
+                           {"id": "6", "name": "Creep Test Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -60,7 +60,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                         {"name": " Fatigue Test",
+                         {"id": "7", "name": " Fatigue Test",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -68,7 +68,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                         {"name": "Compression Test on Spring Experiment",
+                         {"id": "8", "name": "Compression Test on Spring Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -76,7 +76,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                         {"name": "Principal Stresses Experiment",
+                         {"id": "9", "name": "Principal Stresses Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -84,7 +84,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                         {"name": "Rockwell Hardness Experiment",
+                         {"id": "10", "name": "Rockwell Hardness Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
