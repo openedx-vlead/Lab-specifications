@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Free vibration of cantilever beam",
+                         {"id": "1", "name": "Free vibration of cantilever beam",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -13,9 +13,9 @@
                                          {"name": "Reference"},
                                          {"name": "Video"},
                                          {"name": "Quiz"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
-                          {"name": "Free vibration of simply supported beam",
+                          {"id": "2", "name": "Free vibration of simply supported beam",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -24,9 +24,9 @@
                                          {"name": "Reference"},
                                          {"name": "Video"},
                                          {"name": "Quiz"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
-                           {"name": "Free vibration of fixed beam",
+                           {"id": "3", "name": "Free vibration of fixed beam",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -35,9 +35,9 @@
                                          {"name": "Reference"},
                                          {"name": "Video"},
                                          {"name": "Quiz"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
-                           {"name": "Forced vibration of SDOF system",
+                           {"id": "4", "name": "Forced vibration of SDOF system",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -46,9 +46,9 @@
                                          {"name": "Reference"},
                                          {"name": "Video"},
                                          {"name": "Quiz"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
-                           {"name": "Base Excitation",
+                           {"id": "5", "name": "Base Excitation",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -57,9 +57,9 @@
                                          {"name": "Reference"},
                                          {"name": "Video"},
                                          {"name": "Quiz"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
-                           {"name": "Rotating Unbalance",
+                           {"id": "6", "name": "Rotating Unbalance",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -68,9 +68,9 @@
                                          {"name": "Reference"},
                                          {"name": "Video"},
                                          {"name": "Quiz"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
-                            {"name": "2DOF Forced vibration",
+                            {"id": "7", "name": "2DOF Forced vibration",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -79,9 +79,9 @@
                                          {"name": "Reference"},
                                          {"name": "Video"},
                                          {"name": "Quiz"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
-                            {"name": "Dynamic Vibration Absorber",
+                            {"id": "8", "name": "Dynamic Vibration Absorber",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -90,7 +90,7 @@
                                          {"name": "Reference"},
                                          {"name": "Video"},
                                          {"name": "Quiz"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]}
                          
                         ]
