@@ -29,7 +29,7 @@
                             {"id": "8", "name": "Heat Transfer by Natural Convection",
                           "subsections": [{"name": "Simulator"}
                                          ]},
-                            {"name": "Thermo Couple Seebeck Effect",
+                            {"id": "9", "name": "Thermo Couple Seebeck Effect",
                           "subsections": [{"name": "Simulator"}
                                          ]}
                         ]
