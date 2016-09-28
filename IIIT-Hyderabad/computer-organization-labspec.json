@@ -9,7 +9,7 @@
                                          {"name": "Prerequisites"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"name": " Representation of Integers and their Arithmetic ",
+                         {"id": "1", "name": " Representation of Integers and their Arithmetic ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -20,7 +20,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"name": " Representation of Floating Point Numbers and their Arithmetic ",
+                          {"id": "2", "name": " Representation of Floating Point Numbers and their Arithmetic ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -31,7 +31,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": " Virtual Memory ",
+                           {"id": "3", "name": " Virtual Memory ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -42,7 +42,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": " MIPS Assembly Language Programming - 1 ",
+                           {"id": "4", "name": " MIPS Assembly Language Programming - 1 ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -53,7 +53,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": " MIPS Assembly Language Programming - 2 ",
+                           {"id": "5", "name": " MIPS Assembly Language Programming - 2 ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -64,7 +64,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": " ARM Assembly Language Programming - 1 ",
+                           {"id": "6", "name": " ARM Assembly Language Programming - 1 ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -74,7 +74,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"name": " ARM Assembly Language Programming - 2 ",
+                         {"id": "7", "name": " ARM Assembly Language Programming - 2 ",
                         "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -85,7 +85,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"name": " Single Cycle MIPS CPU ",
+                          {"id": "8", "name": " Single Cycle MIPS CPU ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
