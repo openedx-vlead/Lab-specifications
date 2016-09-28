@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Circuit Breaker Status Indication from field input:",
+                         {"id": "1", "name": "Circuit Breaker Status Indication from field input:",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -12,9 +12,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                          {"name": "Control of Group Operated Switches (GOS) from workstation",
+                          {"id": "2", "name": "Control of Group Operated Switches (GOS) from workstation",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -22,9 +22,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Monitoring Feeder parameter from workstation",
+                           {"id": "3", "name": "Monitoring Feeder parameter from workstation",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -32,9 +32,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Fault scenario simulation in a feeder",
+                           {"id": "4", "name": "Fault scenario simulation in a feeder",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -42,9 +42,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Fault scenario simulation in a Transformer /Bus",
+                           {"id": "5", "name": "Fault scenario simulation in a Transformer /Bus",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -52,9 +52,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Load Transfer from one Feeder to other during Transformer Maintenance",
+                           {"id": "6", "name": "Load Transfer from one Feeder to other during Transformer Maintenance",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -62,9 +62,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Control Of Bus Voltages Through Onload Tap Changes",
+                            {"id": "7", "name": "Control Of Bus Voltages Through Onload Tap Changes",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -72,9 +72,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"
                                          ]},
-                            {"name": "Development of 11KV/433 volts substation automation scheme using PLC for normal load operation",
+                            {"id": "8", "name": "Development of 11KV/433 volts substation automation scheme using PLC for normal load operation",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -82,9 +82,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Development of 11KV/433 volts substation automation scheme using PLC for timer ON/OFF load control",
+                            {"id": "9", "name": "Development of 11KV/433 volts substation automation scheme using PLC for timer ON/OFF load control",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -92,9 +92,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Development of 11KV/433 volts substation automation scheme using PLC for cyclic ON/OFF load control",
+                            {"id": "10", "name": "Development of 11KV/433 volts substation automation scheme using PLC for cyclic ON/OFF load control",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -102,9 +102,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Autoreclosure And Sectionalizer Operation",
+                            {"id": "11", "name": "Autoreclosure And Sectionalizer Operation",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -112,7 +112,7 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]}
                          
                         ]
