@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Points and Co-ordinate Systems",
+                         {"id": "1", "name": "Points and Co-ordinate Systems",
                         "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -15,7 +15,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"name": "Transformations: Translation",
+                          {"id": "2", "name": "Transformations: Translation",
                         "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -26,7 +26,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Transformations: Rotation",
+                           {"id": "3", "name": "Transformations: Rotation",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -37,7 +37,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Transformations: Scaling",
+                           {"id": "4", "name": "Transformations: Scaling",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -48,7 +48,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Hierarchical Transformations: 2D Demo",
+                           {"id": "5", "name": "Hierarchical Transformations: 2D Demo",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -59,7 +59,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Hierarchical Transformations: 3D Articulated Arm",
+                           {"id": "6", "name": "Hierarchical Transformations: 3D Articulated Arm",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -70,7 +70,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "Projections and Cameras",
+                            {"id": "7", "name": "Projections and Cameras",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -81,7 +81,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "Clipping: Line",
+                            {"id": "8", "name": "Clipping: Line",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -92,7 +92,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "Clipping: Polygon",
+                            {"id": "9", "name": "Clipping: Polygon",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -103,7 +103,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "Rasterization: Line",
+                            {"id": "10", "name": "Rasterization: Line",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -114,7 +114,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "Rasterization: Polygon",
+                            {"id": "11", "name": "Rasterization: Polygon",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
