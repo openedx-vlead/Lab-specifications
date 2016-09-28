@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Isolation of Chloroplast",
+                         {"id": "1", "name": "Isolation of Chloroplast",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
