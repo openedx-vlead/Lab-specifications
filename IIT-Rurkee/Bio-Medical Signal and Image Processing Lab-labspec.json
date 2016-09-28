@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Digital Signal Processing Toolkit",
+                         {"id": "1", "name": "Digital Signal Processing Toolkit",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Software Used"},
@@ -13,7 +13,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"name": "Bio-Medical Signal Processing Toolkit",
+                          {"id": "2", "name": "Bio-Medical Signal Processing Toolkit",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Software Used"},
@@ -22,7 +22,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Image Processing Toolkit",
+                           {"id": "3", "name": "Image Processing Toolkit",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Software Used"},
