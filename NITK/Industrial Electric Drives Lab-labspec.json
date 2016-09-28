@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Experiment 1: PLC On-Delay Timer Instruction",
+                         {"id": "1", "name": "Experiment 1: PLC On-Delay Timer Instruction",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -12,9 +12,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                          {"name": "Experiment 2:PLC Off-Delay Timer Instruction",
+                          {"id": "2", "name": "Experiment 2:PLC Off-Delay Timer Instruction",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -22,9 +22,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Experiment 3: PLC Retentive Timer On Instruction",
+                           {"id": "3", "name": "Experiment 3: PLC Retentive Timer On Instruction",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -32,9 +32,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Experiment 4 :PLC COUNT-UP INSTRUCTION",
+                           {"id": "4", "name": "Experiment 4 :PLC COUNT-UP INSTRUCTION",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -42,9 +42,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Experiment 5 :PLC COUNT-DOWN INSTRUCTION",
+                           {"id": "5", "name": "Experiment 5 :PLC COUNT-DOWN INSTRUCTION",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -52,9 +52,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Experiment 6 :Garage Shutter Opening and Closing Using PLC:",
+                           {"id": "6", "name": "Experiment 6 :Garage Shutter Opening and Closing Using PLC:",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -62,9 +62,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Experiment 7 :Container Filling Process Using PLC",
+                            {"id": "7", "name": "Experiment 7 :Container Filling Process Using PLC",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -72,9 +72,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Experiment 8 : Simultaneous output interlock using PLC",
+                            {"id": "8", "name": "Experiment 8 : Simultaneous output interlock using PLC",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -82,9 +82,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Experiment 9 :Maximum Simultaneous Operations Limiter using PLC",
+                            {"id": "9", "name": "Experiment 9 :Maximum Simultaneous Operations Limiter using PLC",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -92,9 +92,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Experiment 10 : Motor forward and reverse direction control using PLC",
+                            {"id": "10", "name": "Experiment 10 : Motor forward and reverse direction control using PLC",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -102,7 +102,7 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]}
                          
                         ]
