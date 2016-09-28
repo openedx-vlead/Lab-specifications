@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Study hardware and software used in PLC",
+                         {"id": "1", "name": "Study hardware and software used in PLC",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -16,7 +16,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"name": "Implementation Logic Gates",
+                          {"id": "2", "name": "Implementation Logic Gates",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -28,7 +28,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Implementation Of DOL Starter",
+                           {"id": "3", "name": "Implementation Of DOL Starter",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -40,7 +40,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Implementation Of On-Delay Timer",
+                           {"id": "4", "name": "Implementation Of On-Delay Timer",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -52,7 +52,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Implementation Of Off-Delay Timer",
+                           {"id": "5", "name": "Implementation Of Off-Delay Timer",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -64,7 +64,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Implementation Of Up-Down Counter",
+                           {"id": "6", "name": "Implementation Of Up-Down Counter",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -76,7 +76,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "Implementation Of PLC Arithmatic Instructions",
+                            {"id": "7", "name": "Implementation Of PLC Arithmatic Instructions",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -88,7 +88,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "Implementation Of PID Controller",
+                            {"id": "8", "name": "Implementation Of PID Controller",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
