@@ -9,7 +9,7 @@
                                          {"name": "Prerequisites"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"name": " Single Span Beams Experiment",
+                         {"id": "1", "name": " Single Span Beams Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -19,7 +19,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                         {"name": "Continuous Beams Experiment",
+                         {"id": "2", "name": "Continuous Beams Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -30,7 +30,7 @@
                                          {"name": "FurtherReadings"}
                                          ]},
 
-                          {"name": "Column Analysis Experiment",
+                          {"id": "3", "name": "Column Analysis Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -40,7 +40,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"name": " Portal Frames Experiment",
+                           {"id": "4", "name": " Portal Frames Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -50,7 +50,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"name": "Plates Experiment",
+                           {"id": "5", "name": "Plates Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -60,7 +60,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"name": "Rijid Joints Experiment",
+                           {"id": "6", "name": "Rijid Joints Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -70,7 +70,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"name": " Arches Experiment",
+                           {"id": "7", "name": " Arches Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -80,7 +80,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                            {"name": "Trusses Experiment",
+                            {"id": "8", "name": "Trusses Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -90,7 +90,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                            {"name": "Retaining Walls Experiment",
+                            {"id": "9", "name": "Retaining Walls Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -100,7 +100,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                            {"name": "Plastic Hinge Experiment",
+                            {"id": "10", "name": "Plastic Hinge Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
