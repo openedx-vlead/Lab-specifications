@@ -13,7 +13,7 @@
                                          {"name": "Post-Test"},
                                          {"name": "Review Questions"},
                                          {"name": "Reference"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
                           {"id": "2", "name": "Gas Liquid Absorption",
                          "subsections": [{"name": "Aim"},
@@ -23,7 +23,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FAQ"},
                                          {"name": "Reference"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
                            {"id": "3", "name": "Two Phase Flow in Horizontal Tubes",
                          "subsections": [{"name": "Aim"},
@@ -33,7 +33,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FAQ"},
                                          {"name": "Reference"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
                            {"id": "4", "name": "Hydrodynamics of packed column",
                          "subsections": [{"name": "Aim"},
@@ -43,7 +43,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FAQ"},
                                          {"name": "Reference"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
                            {"id": "5", "name": "Nature of flow",
                          "subsections": [{"name": "Aim"},
@@ -53,7 +53,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FAQ"},
                                          {"name": "Reference"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
                            {"id": "6", "name": "Adiabatic calorimetry",
                          "subsections": [{"name": "Aim"},
@@ -62,7 +62,7 @@
                                          {"name": "Simulator"},
                                          {"name": "Procedure"},
                                          {"name": "Reference"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
                             {"id": "7", "name": "Flow through fittings",
                          "subsections": [{"name": "Aim"},
@@ -70,7 +70,7 @@
                                          {"name": "Pre-Test"},
                                          {"name": "Simulator"},
                                          {"name": "Procedure"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
                             {"id": "8", "name": "Heat transfer in a double pipe heat exchanger",
                          "subsections": [{"name": "Aim"},
@@ -79,7 +79,7 @@
                                          {"name": "Simulator"},
                                          {"name": "Procedure"},
                                          {"name": "Reference"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
                             {"id": "9", "name": "Vapour Liquid Equilibrium",
                          "subsections": [{"name": "Aim"},
@@ -88,7 +88,7 @@
                                          {"name": "Simulator"},
                                          {"name": "Procedure"},
                                          {"name": "Reference"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]},
                             {"id": "10", "name": "Ebulliometric Determination of Vapour Pressure",
                          "subsections": [{"name": "Aim"},
@@ -97,7 +97,7 @@
                                          {"name": "Simulator"},
                                          {"name": "Procedure"},
                                          {"name": "Reference"},
-                                         {"name": "Feedback"},
+                                         {"name": "Feedback"}
                                          ]}
                             
                         ]
