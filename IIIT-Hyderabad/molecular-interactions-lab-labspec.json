@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Internuclear forces in a diatomic molecule: Optical and magnetic tweezer experiments ",
+                         {"id": "1", "name": "Internuclear forces in a diatomic molecule: Optical and magnetic tweezer experiments ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -13,7 +13,7 @@
                                          {"name": "Quizzes"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                          {"name": "Molecular forces in a triatomic molecule: A magnetic tweezer experiment ",
+                          {"id": "2", "name": "Molecular forces in a triatomic molecule: A magnetic tweezer experiment ",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -22,7 +22,7 @@
                                          {"name": "Quizzes"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                           {"name": "Dihedral forces in a quad-atomic molecule: A magnetic tweezer experiment",
+                           {"id": "3", "name": "Dihedral forces in a quad-atomic molecule: A magnetic tweezer experiment",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -31,7 +31,7 @@
                                          {"name": "Quizzes"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                           {"name": "Interatomic van der Waals forces",
+                           {"id": "4", "name": "Interatomic van der Waals forces",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -40,7 +40,7 @@
                                          {"name": "Quizzes"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                           {"name": "van der Waals forces between molecules",
+                           {"id": "5", "name": "van der Waals forces between molecules",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -49,7 +49,7 @@
                                          {"name": "Quizzes"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                           {"name": "Interatomic electrostatic forces",
+                           {"id": "6", "name": "Interatomic electrostatic forces",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -58,7 +58,7 @@
                                          {"name": "Quizzes"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                            {"name": "Electrostatic forces between molecules",
+                            {"id": "7", "name": "Electrostatic forces between molecules",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -67,7 +67,7 @@
                                          {"name": "Quizzes"},  
                                          {"name": "Further Readings"}
                                          ]},
-                            {"name": "Many-body forces in a polyatomic molecule",
+                            {"id": "8", "name": "Many-body forces in a polyatomic molecule",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -76,7 +76,7 @@
                                          {"name": "Quizzes"},  
                                          {"name": "Further Readings"}
                                          ]},
-                            {"name": "Solvent viscous forces on a polyatomic molecule",
+                            {"id": "9", "name": "Solvent viscous forces on a polyatomic molecule",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -85,14 +85,14 @@
                                          {"name": "Quizzes"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                            {"name": "Molecular seperation using interatomic forces: Column chromatography",
+                            {"id": "10", "name": "Molecular seperation using interatomic forces: Column chromatography",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Experiment"},
                                          {"name": "Manual"}       
                                          ]},
-                            {"name": "Radiation forces on a dielectric particle",
+                            {"id": "11", "name": "Radiation forces on a dielectric particle",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
