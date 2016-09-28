@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Schematic Design Of Transistor Level Inverter",
+                         {"id": "1", "name": "Schematic Design Of Transistor Level Inverter",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -15,7 +15,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                          {"name": "Schematic Design Of Transistor Level NAND & NOR Gate",
+                          {"id": "2", "name": "Schematic Design Of Transistor Level NAND & NOR Gate",
                         "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -26,7 +26,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                           {"name": "Schematic Design Of Transistor Level XOR & XNOR Gate",
+                           {"id": "3", "name": "Schematic Design Of Transistor Level XOR & XNOR Gate",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -37,7 +37,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                           {"name": "Schematic Design Of Pass Transistor Logic & Multiplexer",
+                           {"id": "4", "name": "Schematic Design Of Pass Transistor Logic & Multiplexer",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -48,7 +48,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                           {"name": "Delay Estimation In Chain Of Inverters",
+                           {"id": "5", "name": "Delay Estimation In Chain Of Inverters",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -59,7 +59,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                           {"name": "Schematic Design Of D-Latch and D-Flip Flop",
+                           {"id": "6", "name": "Schematic Design Of D-Latch and D-Flip Flop",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -70,7 +70,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                            {"name": "Spice Code Platform",
+                            {"id": "7", "name": "Spice Code Platform",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -81,7 +81,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                            {"name": "Design Of D-Flip Flop Using Verilog",
+                            {"id": "8", "name": "Design Of D-Flip Flop Using Verilog",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -92,7 +92,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                            {"name": "Design Of Digital Circuits Using Verilog",
+                            {"id": "9", "name": "Design Of Digital Circuits Using Verilog",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -103,7 +103,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                            {"name": "Layout Design",
+                            {"id": "10", "name": "Layout Design",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
