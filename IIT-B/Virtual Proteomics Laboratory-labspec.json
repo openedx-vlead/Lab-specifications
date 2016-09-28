@@ -7,12 +7,12 @@
                          {"id": "1", "name": "An Overview of Virtual Proteomics Laboratory",
                          "subsections": [{"name": "Overview"},
                                          {"name": "Team"},
-                                         {"name": "Contact Us"},
+                                         {"name": "Contact Us"}
                                          ]},
                           {"id": "2", "name": "An Overview of Gel Based Proteomics",
                          "subsections": [{"name": "An Overview Of Gel Based Proteomics"},
                                          {"name": "Pre-Test"},
-                                         {"name": "Theory"},
+                                         {"name": "Theory"}
                                          ]},
                            {"id": "3", "name": "Experiment-1: Gel-based proteomics to analyze human serum proteome",
                          "subsections": [{"name": "Aim"},
@@ -20,7 +20,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Videos"},
                                          {"name": "Simulator"},
-                                         {"name": "Reference"},
+                                         {"name": "Reference"}
                                          ]},
                            {"id": "4", "name": "Experiment-2: Gel-based proteomics to analyze bacterial proteome",
                          "subsections": [{"name": "Aim"},
@@ -28,7 +28,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Videos"},
                                          {"name": "Simulator"},
-                                         {"name": "Reference"},
+                                         {"name": "Reference"}
                                          ]},
                            {"id": "5", "name": "Experiment-3: Gel-based proteomics to analyze plant proteome",
                          "subsections": [{"name": "Aim"},
@@ -36,12 +36,12 @@
                                          {"name": "Procedure"},
                                          {"name": "Videos"},
                                          {"name": "Simulator"},
-                                         {"name": "Reference"},
+                                         {"name": "Reference"}
                                          ]},
                            {"id": "6", "name": "Module II: An Overview of MALDI-TOF MS",
                          "subsections": [{"name": " An overview of Module II: MALDI-TOF MS Analysis"},
                                          {"name": "Pre-Test"},
-                                         {"name": "Theory"},
+                                         {"name": "Theory"}
                                          ]},
                             {"id": "7", "name": "Experiment-4: In-gel digestion of proteins for MS analysis",
                          "subsections": [{"name": "Aim"},
@@ -50,7 +50,7 @@
                                          {"name": "Videos"},
                                          {"name": "Simulator"},
                                          {"name": "Reference"},
-                                         {"name": "Assignments"},
+                                         {"name": "Assignments"}
                                          ]},
                             {"id": "8", "name": "Experiment-5: Sample preparation for the MALDI-TOF MS analysis",
                          "subsections": [{"name": "Aim"},
@@ -59,7 +59,7 @@
                                          {"name": "Videos"},
                                          {"name": "Simulator"},
                                          {"name": "Reference"},
-                                         {"name": "Assignments"},
+                                         {"name": "Assignments"}
                                          ]},
                             {"id": "9", "name": "Experiment-6: MALDI-TOF instrumentation and analysis of serum proteins",
                          "subsections": [{"name": "Aim"},
@@ -68,7 +68,7 @@
                                          {"name": "Videos"},
                                          {"name": "Simulator"},
                                          {"name": "Reference"},
-                                         {"name": "Assignments"},
+                                         {"name": "Assignments"}
                                          ]},
                             {"id": "10", "name": "Experiment-7: MS data analysis - Peptide Mass Fingerprinting (PMF)",
                          "subsections": [{"name": "Aim"},
@@ -76,7 +76,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Simulator"},
                                          {"name": "Reference"},
-                                         {"name": "Assignments"},
+                                         {"name": "Assignments"}
                                          ]},
                             {"id": "11", "name": "Experiment-8 : Molecular Weight Determination of Intact Protein Using MALDI TOF",
                          "subsections": [{"name": "Aim"},
@@ -84,12 +84,12 @@
                                          {"name": "Procedure"},
                                          {"name": "Simulator"},
                                          {"name": "Reference"},
-                                         {"name": "Assignments"},
+                                         {"name": "Assignments"}
                                          ]},
                             {"id": "12", "name": "Module III: An Overview of Bioinformatics",
                          "subsections": [{"name": " An Overview of Module III: Bioinformatics"},
                                          {"name": "Pre-Test"},
-                                         {"name": "Theory"},
+                                         {"name": "Theory"}
                                          ]},
                             {"id": "13", "name": "Experiment-9 : Sequence Alignment",
                          "subsections": [{"name": "Aim"},
@@ -97,7 +97,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Simulator"},
                                          {"name": "Reference"},
-                                         {"name": "Assignments"},
+                                         {"name": "Assignments"}
                                          ]},
                             {"id": "14", "name": "Experiment-10 : Homology Modelling",
                          "subsections": [{"name": "Aim"},
@@ -105,7 +105,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Simulator"},
                                          {"name": "Reference"},
-                                         {"name": "Assignments"},
+                                         {"name": "Assignments"}
                                          ]},
                             {"id": "15", "name": "Experiment-11 : Protein Function Annotation",
                          "subsections": [{"name": "Aim"},
@@ -114,7 +114,7 @@
                                          {"name": "Videos"},
                                          {"name": "Simulator"},
                                          {"name": "Reference"},
-                                         {"name": "Assignments"},
+                                         {"name": "Assignments"}
                                          ]},
                             {"id": "16", "name": "Experiment-12 : Molecular Docking",
                          "subsections": [{"name": "Aim"},
@@ -122,7 +122,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Simulator"},
                                          {"name": "Reference"},
-                                         {"name": "Assignments"},
+                                         {"name": "Assignments"}
                                          ]}
                             
                         ]
