@@ -9,7 +9,7 @@
                                          {"name": "Prerequisites"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"name": " Bernoullis Experiment",
+                         {"id": "1", "name": " Bernoullis Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -19,7 +19,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                          {"name": "Venturi Meter Experiment",
+                          {"id": "2", "name": "Venturi Meter Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -29,7 +29,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"name": "Orifices Experiment",
+                           {"id": "3", "name": "Orifices Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -39,7 +39,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"name": "Mouthpieces Experiment",
+                           {"id": "4", "name": "Mouthpieces Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -49,7 +49,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"name": "Weirs Experiment",
+                           {"id": "5", "name": "Weirs Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -59,7 +59,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"name": "Channels Experiment",
+                           {"id": "6", "name": "Channels Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -69,7 +69,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                         {"name": "Reynolds Experiment",
+                         {"id": "7", "name": "Reynolds Experiment",
                         "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -79,7 +79,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                          {"name": "Vorticess Experiment",
+                          {"id": "8", "name": "Vorticess Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -89,7 +89,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                         {"name": "Jets Experiment",
+                         {"id": "9", "name": "Jets Experiment",
                         "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -100,7 +100,7 @@
                                          {"name": "FurtherReadings"}
                                          ]},
                             
-                          {"name": "Turbines Experiment",
+                          {"id": "10", "name": "Turbines Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
