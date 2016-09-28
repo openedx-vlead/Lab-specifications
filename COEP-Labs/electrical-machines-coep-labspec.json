@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Load Test On Separately Excited DC Motor",
+                         {"id": "1", "name": "Load Test On Separately Excited DC Motor",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -15,7 +15,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"name": "Speed Control of Separately Excited DC Motor",
+                          {"id": "2", "name": "Speed Control of Separately Excited DC Motor",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -26,7 +26,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "No Load Test on Three Phase Induction Motor",
+                           {"id": "3", "name": "No Load Test on Three Phase Induction Motor",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -37,7 +37,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Blocked Rotor Test on Three Phase Induction Motor",
+                           {"id": "4", "name": "Blocked Rotor Test on Three Phase Induction Motor",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -48,7 +48,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Open Circuit Test on Three Phase Alternator",
+                           {"id": "5", "name": "Open Circuit Test on Three Phase Alternator",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -59,7 +59,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Short Circuit Test on Three Phase Alternator",
+                           {"id": "6", "name": "Short Circuit Test on Three Phase Alternator",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -70,7 +70,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "Load Test on Three Phase Alternator",
+                            {"id": "7", "name": "Load Test on Three Phase Alternator",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -81,7 +81,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "V and Inverted V curves of Synchronous Motor",
+                            {"id": "8", "name": "V and Inverted V curves of Synchronous Motor",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},

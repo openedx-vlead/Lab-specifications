@@ -15,7 +15,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"name": "3D Machining",
+                          {"id": "1", "name": "3D Machining",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -25,7 +25,7 @@
                                          {"name": "Post Test"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "PCB design & fabrication",
+                           {"id": "2", "name": "PCB design & fabrication",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -35,7 +35,7 @@
                                          {"name": "Post Test"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Interface & Application Programming",
+                           {"id": "3", "name": "Interface & Application Programming",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -45,7 +45,7 @@
                                          {"name": "Post Test"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "Digital Fabrication of Flexible Circuit board",
+                           {"id": "4", "name": "Digital Fabrication of Flexible Circuit board",
                             "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Simulator"}, 
@@ -54,7 +54,7 @@
                                          {"name": "Post Test"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "3D scanning",
+                           {"id": "5", "name": "3D scanning",
                            "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -64,7 +64,7 @@
                                          {"name": "Post Test"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "Molding and Casting of Polyurethane parts",
+                            {"id": "6", "name": "Molding and Casting of Polyurethane parts",
                             "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -72,7 +72,7 @@
                                          {"name": "Audio/Video"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"name": "Digital Fabrication and Project Development",
+                            {"id": "7", "name": "Digital Fabrication and Project Development",
                            "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},       

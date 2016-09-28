@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "To study the Synchronization of alternator with infinite bus bar.",
+                         {"id": "1", "name": "To study the Synchronization of alternator with infinite bus bar.",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"},
                                          {"name": "Theory"},
@@ -15,7 +15,7 @@
                                          {"name": "Videos of Exp1"},
                                          {"name": "Quiz"}
                                          ]},
-                          {"name": "To determine the direct axis reactance (Xd) and quadrature axis reactance (Xq) of synchronous machine.",
+                          {"id": "2", "name": "To determine the direct axis reactance (Xd) and quadrature axis reactance (Xq) of synchronous machine.",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Connection Diagram"},
@@ -25,7 +25,7 @@
                                          {"name": "Videos of Exp2"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"name": "To determine positive sequence, negative sequence and zero sequence reactances of an alternator.",
+                           {"id": "3", "name": "To determine positive sequence, negative sequence and zero sequence reactances of an alternator.",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Connection Diagram"},
@@ -35,7 +35,7 @@
                                          {"name": "Videos of Exp3"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"name": "To measure the dielectric Strength of transformer oil.",
+                           {"id": "4", "name": "To measure the dielectric Strength of transformer oil.",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Connection Diagram"},
@@ -45,7 +45,7 @@
                                          {"name": "Videos of Exp4"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"name": "To Study the effect of different shape of electrodes on dielectric (air) breakdown.",
+                           {"id": "5", "name": "To Study the effect of different shape of electrodes on dielectric (air) breakdown.",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Block Diagram"},
@@ -55,7 +55,7 @@
                                          {"name": "Videos of Exp5"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"name": "To Study the gas actuated Buchholz relay for oil filled transformer.",
+                           {"id": "6", "name": "To Study the gas actuated Buchholz relay for oil filled transformer.",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Block Diagram"},
@@ -64,7 +64,7 @@
                                          {"name": "Videos of Exp6"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"name": "To Study the over-current relay and the effect of PSM and TSM.",
+                            {"id": "7", "name": "To Study the over-current relay and the effect of PSM and TSM.",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Block Diagram"},
@@ -74,7 +74,7 @@
                                          {"name": "Videos of Exp7"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"name": "To determine the sub-transient (xd″), transient (xd′) and steady state reactance (xd) of a synchronous machine.",
+                            {"id": "8", "name": "To determine the sub-transient (xd″), transient (xd′) and steady state reactance (xd) of a synchronous machine.",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Block Diagram"},
@@ -84,7 +84,7 @@
                                          {"name": "Videos of Exp8"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"name": "To Study the Ferranti Effect of a transmission line/cable.",
+                            {"id": "9", "name": "To Study the Ferranti Effect of a transmission line/cable.",
                         "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Block Diagram"},

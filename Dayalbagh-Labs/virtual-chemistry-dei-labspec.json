@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Caffeine content in tea and coffee",
+                         {"id": "1", "name": "Caffeine content in tea and coffee",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Reagents"},
                                          {"name": "Procedure"},
@@ -14,7 +14,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                          {"name": "Estimation of amino acids in coconut water",
+                          {"id": "2", "name": "Estimation of amino acids in coconut water",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Reagents"},
                                          {"name": "Procedure"},
@@ -24,7 +24,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                           {"name": "Estimation of Cholesterol in edible oils",
+                           {"id": "3", "name": "Estimation of Cholesterol in edible oils",
                         "subsections": [{"name": "Theory"},
                                          {"name": "Reagents"},
                                          {"name": "Procedure"},
@@ -34,7 +34,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                           {"name": "Analysis of Lactose & Cane sugar",
+                           {"id": "4", "name": "Analysis of Lactose & Cane sugar",
                           "subsections": [{"name": "Theory"},
                                          {"name": "Reagents"},
                                          {"name": "Procedure"},
@@ -44,7 +44,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                           {"name": "Analysis of Urea",
+                           {"id": "5", "name": "Analysis of Urea",
                          "subsections": [{"name": "Reagents"},
                                          {"name": "Procedure"},
                                          {"name": "Observation"},
@@ -53,7 +53,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                           {"name": "Analysis of Machine Oil",
+                           {"id": "6", "name": "Analysis of Machine Oil",
                          "subsections": [{"name": "Reagents"},
                                          {"name": "Procedure"},
                                          {"name": "Observation"},
@@ -62,7 +62,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                            {"name": "Estimation of Oxytocin in Various Edibles",
+                            {"id": "7", "name": "Estimation of Oxytocin in Various Edibles",
                            "subsections": [{"name": "Theory"},
                                          {"name": "Reagents"},
                                          {"name": "Procedure"},
@@ -72,7 +72,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                            {"name": "Estimation of Capsaicin in Capsicum",
+                            {"id": "8", "name": "Estimation of Capsaicin in Capsicum",
                           "subsections": [{"name": "Theory"},
                                          {"name": "Reagents"},
                                          {"name": "Procedure"},
@@ -82,7 +82,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                            {"name": "Estimation of Embelin content in Embelia ribes (kali mirch) and Tamarind",
+                            {"id": "9", "name": "Estimation of Embelin content in Embelia ribes (kali mirch) and Tamarind",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Reagents"},
                                          {"name": "Procedure"},

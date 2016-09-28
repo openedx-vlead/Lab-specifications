@@ -4,28 +4,28 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Isolation of Chloroplast",
+                         {"id": "1", "name": "Isolation of Chloroplast",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                          {"name": "Light Microscope",
+                          {"id": "2", "name": "Light Microscope",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                           {"name": "Cell Organization and Sub Cellular Structure Studies",
+                           {"id": "3", "name": "Cell Organization and Sub Cellular Structure Studies",
                           "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                           {"name": "Isolation of Mitochondria",
+                           {"id": "4", "name": "Isolation of Mitochondria",
                           "subsections": [{"name": "Animation"}
                                          ]},
-                           {"name": "Transfection",
+                           {"id": "5", "name": "Transfection",
                          "subsections": [{"name": "Animation"}
                                          ]},
-                           {"name": "Basics of Plant Tissue Culture",
+                           {"id": "6", "name": "Basics of Plant Tissue Culture",
                          "subsections": [{"name": "Animation"}
                                          ]},
-                            {"name": "Glucose Uptake Assay",
+                            {"id": "7", "name": "Glucose Uptake Assay",
                          "subsections": [{"name": "Animation"}
                                          ]},
                             {"name": "Isolation of Endoplasmic Reticulum",

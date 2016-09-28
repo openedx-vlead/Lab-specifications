@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Breaking the Shift Cipher",
+                         {"id": "1", "name": "Breaking the Shift Cipher",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -14,7 +14,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                          {"name": "Breaking the Mono-alphabetic Substitution Cipher",
+                          {"id": "2", "name": "Breaking the Mono-alphabetic Substitution Cipher",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -24,7 +24,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                           {"name": "One-Time Pad and Perfect Secrecy",
+                           {"id": "3", "name": "One-Time Pad and Perfect Secrecy",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -34,7 +34,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                           {"name": "Message Authentication Codes",
+                           {"id": "4", "name": "Message Authentication Codes",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -44,7 +44,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                           {"name": "Cryptographic Hash Functions and Applications",
+                           {"id": "5", "name": "Cryptographic Hash Functions and Applications",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -54,7 +54,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                           {"name": "Symmetric Key Encryption Standards (DES)",
+                           {"id": "6", "name": "Symmetric Key Encryption Standards (DES)",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -64,7 +64,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                            {"name": "Symmetric Key Encryption Standards (AES)",
+                            {"id": "7", "name": "Symmetric Key Encryption Standards (AES)",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -74,7 +74,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                            {"name": "M Diffie-Hellman Key Establishment",
+                            {"id": "8", "name": "M Diffie-Hellman Key Establishment",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -84,7 +84,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                            {"name": "Public-Key Cryptosystems (PKCSv1.5)",
+                            {"id": "9", "name": "Public-Key Cryptosystems (PKCSv1.5)",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -94,7 +94,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                            {"name": "Digital Signatures",
+                            {"id": "10", "name": "Digital Signatures",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},

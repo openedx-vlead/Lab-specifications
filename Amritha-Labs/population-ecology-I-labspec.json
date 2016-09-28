@@ -4,28 +4,28 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Conserving an Endangered Species",
+                         {"id": "1", "name": "Conserving an Endangered Species",
                          "subsections": [{"name": "Simulator"}
                                          ]},
-                          {"name": "Interspecific Competition and Coexistence",
+                          {"id": "2", "name": "Interspecific Competition and Coexistence",
                           "subsections": [{"name": "Simulator"}
                                          ]},
-                           {"name": "Effect of Interspecific Competition on Species Border (Interspecific Competition and Geographic Distributions)",
+                           {"id": "3", "name": "Effect of Interspecific Competition on Species Border (Interspecific Competition and Geographic Distributions)",
                            "subsections": [{"name": "Simulator"}
                                          ]},
-                           {"name": "Logistic Population Growth: Continuous and Discrete",
+                           {"id": "4", "name": "Logistic Population Growth: Continuous and Discrete",
                            "subsections": [{"name": "Simulator"}
                                          ]},
-                           {"name": "Metapopulation Dynamics -Levins Model",
+                           {"id": "5", "name": "Metapopulation Dynamics -Levins Model",
                           "subsections": [{"name": "Simulator"}
                                          ]},
-                           {"name": "Parasitoid-Host Dynamics",
+                           {"id": "6", "name": "Parasitoid-Host Dynamics",
                           "subsections": [{"name": "Simulator"}
                                          ]},
-                            {"name": "Population with Continuous and Discrete Growth",
+                            {"id": "7", "name": "Population with Continuous and Discrete Growth",
                           "subsections": [{"name": "Simulator"}
                                          ]},
-                            {"name": "Spread of a Pest Population - Population Invasion",
+                            {"id": "8", "name": "Spread of a Pest Population - Population Invasion",
                           "subsections": [{"name": "Simulator"}
                                          ]}
                         ]

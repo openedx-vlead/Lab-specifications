@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Parallel and distributed processing - I: Interactive activation and competition models",
+                         {"id": "1", "name": "Parallel and distributed processing - I: Interactive activation and competition models",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Tutorial"},
                                          {"name": "Illustration"},
@@ -14,7 +14,7 @@
                                          {"name": "Assignment"},  
                                          {"name": "References"} 
                                          ]},
-                          {"name": "Parallel and distributed processing - II: Constraint satisfaction neural network models",
+                          {"id": "2", "name": "Parallel and distributed processing - II: Constraint satisfaction neural network models",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Tutorial"},
                                          {"name": "Illustration"},
@@ -24,7 +24,7 @@
                                          {"name": "Assignment"},  
                                          {"name": "References"} 
                                          ]},
-                           {"name": "Perceptron learning",
+                           {"id": "3", "name": "Perceptron learning",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Tutorial"},
                                          {"name": "Illustration"},
@@ -34,7 +34,7 @@
                                          {"name": "Assignment"},  
                                          {"name": "References"} 
                                          ]},
-                           {"name": "Hopfield model for pattern storage task",
+                           {"id": "4", "name": "Hopfield model for pattern storage task",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Tutorial"},
                                          {"name": "Illustration"},
@@ -44,7 +44,7 @@
                                          {"name": "Assignment"},  
                                          {"name": "References"} 
                                          ]},
-                           {"name": "Hopfield model with stochastic update",
+                           {"id": "5", "name": "Hopfield model with stochastic update",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Tutorial"},
                                          {"name": "Illustration"},
@@ -54,7 +54,7 @@
                                          {"name": "Assignment"},  
                                          {"name": "References"} 
                                          ]},
-                           {"name": "Competitive learning neural networks for pattern clustering",
+                           {"id": "6", "name": "Competitive learning neural networks for pattern clustering",
                            "subsections": [{"name": "Objective"},
                                          {"name": "Tutorial"},
                                          {"name": "Illustration"},
@@ -64,7 +64,7 @@
                                          {"name": "Assignment"},  
                                          {"name": "References"} 
                                          ]},
-                            {"name": "Solution to travelling salesman problem using self organizing maps",
+                            {"id": "7", "name": "Solution to travelling salesman problem using self organizing maps",
                            "subsections": [{"name": "Objective"},
                                          {"name": "Tutorial"},
                                          {"name": "Illustration"},
@@ -74,7 +74,7 @@
                                          {"name": "Assignment"},  
                                          {"name": "References"} 
                                          ]},
-                            {"name": "Solution to optimization problems using Hopfield models",
+                            {"id": "8", "name": "Solution to optimization problems using Hopfield models",
                            "subsections": [{"name": "Objective"},
                                          {"name": "Tutorial"},
                                          {"name": "Illustration"},
@@ -84,7 +84,7 @@
                                          {"name": "Assignment"},  
                                          {"name": "References"} 
                                          ]},
-                            {"name": "Weighted matching problem: Deterministic, stochastic and mean-field annealing of an Hopfield model",
+                            {"id": "9", "name": "Weighted matching problem: Deterministic, stochastic and mean-field annealing of an Hopfield model",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Tutorial"},
                                          {"name": "Illustration"},

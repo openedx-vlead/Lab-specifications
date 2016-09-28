@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Distance and Connectivity",
+                         {"id": "1", "name": "Distance and Connectivity",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -13,7 +13,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                          {"name": "Image Arithmetic",
+                          {"id": "2", "name": "Image Arithmetic",
                         "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -22,7 +22,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                           {"name": "Affine Transformation",
+                           {"id": "3", "name": "Affine Transformation",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -31,7 +31,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                           {"name": "Point Operations",
+                           {"id": "4", "name": "Point Operations",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -40,7 +40,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                           {"name": "Neighbourhood Operations",
+                           {"id": "5", "name": "Neighbourhood Operations",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -49,7 +49,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                           {"name": "Image Histogram",
+                           {"id": "6", "name": "Image Histogram",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -58,7 +58,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                            {"name": "Fourier Transform",
+                            {"id": "7", "name": "Fourier Transform",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -67,7 +67,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                            {"name": "Color Image Processing",
+                            {"id": "8", "name": "Color Image Processing",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -76,7 +76,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                            {"name": "Morphological Operations",
+                            {"id": "9", "name": "Morphological Operations",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -85,7 +85,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                            {"name": "Image Segmentation",
+                            {"id": "10", "name": "Image Segmentation",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -94,7 +94,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                            {"name": "Image Processing Test Bench",
+                            {"id": "11", "name": "Image Processing Test Bench",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Procedure"},
                                          {"name": "Experiment"}        
