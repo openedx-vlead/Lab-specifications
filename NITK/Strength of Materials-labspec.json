@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Izod Impact Test",
+                         {"id": "1", "name": "Izod Impact Test",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -12,9 +12,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                          {"name": "Charpy Impact Test",
+                          {"id": "2", "name": "Charpy Impact Test",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -22,9 +22,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Direct Shear Test On Mild Steel Rod",
+                           {"id": "3", "name": "Direct Shear Test On Mild Steel Rod",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -32,9 +32,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Direct Shear Test On Wood",
+                           {"id": "4", "name": "Direct Shear Test On Wood",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -42,9 +42,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Direct Shear Test On Mild Steel Plate",
+                           {"id": "5", "name": "Direct Shear Test On Mild Steel Plate",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -52,9 +52,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Brinell Hardness Test",
+                           {"id": "6", "name": "Brinell Hardness Test",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -62,9 +62,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Mohr's circle",
+                            {"id": "7", "name": "Mohr's circle",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -72,9 +72,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Bending Stresses",
+                            {"id": "8", "name": "Bending Stresses",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -82,9 +82,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Deflection in Cantilever",
+                            {"id": "9", "name": "Deflection in Cantilever",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -92,9 +92,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Deflection in Beam",
+                            {"id": "10", "name": "Deflection in Beam",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -102,7 +102,7 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]}
                          
                         ]
