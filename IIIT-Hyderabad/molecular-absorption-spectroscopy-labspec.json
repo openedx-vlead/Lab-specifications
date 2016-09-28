@@ -10,7 +10,7 @@
                                          {"name": "Acknowledgement"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"name": "  Familiarization with the UV-Visible Absorption Spectroscopy:  ",
+                         {"id": "1", "name": "  Familiarization with the UV-Visible Absorption Spectroscopy:  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -20,7 +20,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"name": " Solvent Effects on the UV-visible Absorption Spectra  ",
+                          {"id": "2", "name": " Solvent Effects on the UV-visible Absorption Spectra  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -30,7 +30,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "  Effects of sample path length  ",
+                           {"id": "3", "name": "  Effects of sample path length  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -41,7 +41,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "  Effects of sample concentration  ",
+                           {"id": "4", "name": "  Effects of sample concentration  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -52,7 +52,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": "  Determination of molar absorptivity  ",
+                           {"id": "5", "name": "  Determination of molar absorptivity  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -63,7 +63,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"name": " Verification of Beer-Lambert Law ",
+                           {"id": "6", "name": " Verification of Beer-Lambert Law ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -73,7 +73,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"name": "  Determination of unknown concentration of a light absorbing analyte  ",
+                         {"id": "7", "name": "  Determination of unknown concentration of a light absorbing analyte  ",
                         "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -84,7 +84,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"name": "  Simultaneous estimation method for multicomponent samples: Principle of additivity of absorbance  ",
+                          {"id": "8", "name": "  Simultaneous estimation method for multicomponent samples: Principle of additivity of absorbance  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -95,7 +95,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"name": " pH effects on absorption spectra: pKa determination by spectrophotometric method ",
+                         {"id": "9", "name": " pH effects on absorption spectra: pKa determination by spectrophotometric method ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -106,7 +106,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"name": "  Study of kinetics of a reaction by using spectrophotometric method ",
+                         {"id": "10", "name": "  Study of kinetics of a reaction by using spectrophotometric method ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
