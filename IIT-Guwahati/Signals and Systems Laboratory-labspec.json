@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Exp-1 Signals and their properties",
+                         {"id": "1", "name": "Exp-1 Signals and their properties",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -12,9 +12,9 @@
                                          {"name": "Quiz"},        
                                          {"name": "Reference"},
                                          {"name": "Download"},
-                                         {"name": "Video"},
+                                         {"name": "Video"}
                                          ]},
-                          {"name": "Exp-2 System and their property",
+                          {"id": "2", "name": "Exp-2 System and their property",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -22,9 +22,9 @@
                                          {"name": "Quiz"},        
                                          {"name": "Reference"},
                                          {"name": "Download"},
-                                         {"name": "Video"},
+                                         {"name": "Video"}
                                          ]},
-                           {"name": "Exp-3 Fourier analysis of signals",
+                           {"id": "3", "name": "Exp-3 Fourier analysis of signals",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -32,9 +32,9 @@
                                          {"name": "Quiz"},        
                                          {"name": "Reference"},
                                          {"name": "Download"},
-                                         {"name": "Video"},
+                                         {"name": "Video"}
                                          ]},
-                           {"name": "Exp-4 Sampling and signal reconstruction",
+                           {"id": "4", "name": "Exp-4 Sampling and signal reconstruction",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -42,9 +42,9 @@
                                          {"name": "Quiz"},        
                                          {"name": "Reference"},
                                          {"name": "Download"},
-                                         {"name": "Video"},
+                                         {"name": "Video"}
                                          ]},
-                           {"name": "Exp-5 Analysis of LTI system response",
+                           {"id": "5", "name": "Exp-5 Analysis of LTI system response",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -52,7 +52,7 @@
                                          {"name": "Quiz"},        
                                          {"name": "Reference"},
                                          {"name": "Download"},
-                                         {"name": "Video"},
+                                         {"name": "Video"}
                                          ]}
                             
                         ]
