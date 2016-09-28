@@ -9,7 +9,7 @@
                                          {"name": "Acknowledgement"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"name": " Introduction to the fluorescence spectroscopy principle  ",
+                         {"id": "1", "name": " Introduction to the fluorescence spectroscopy principle  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective "},
                                          {"name": "Theory "},
@@ -19,7 +19,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback "}
                                          ]},
-                          {"name": " Familiarization with the fluorescence instrumentation ",
+                          {"id": "2", "name": " Familiarization with the fluorescence instrumentation ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective "},
                                          {"name": "Theory "},
@@ -29,7 +29,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback "}
                                          ]},
-                           {"name": " Familiarization with excitation and emission spectra Mirror Image relation and Stokes Shift ",
+                           {"id": "3", "name": " Familiarization with excitation and emission spectra Mirror Image relation and Stokes Shift ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective "},
                                          {"name": "Theory "},
@@ -39,7 +39,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback "}
                                          ]},
-                           {"name": " Demonstration of solvent effects on fluorescence spectra ",
+                           {"id": "4", "name": " Demonstration of solvent effects on fluorescence spectra ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective "},
                                          {"name": "Theory "},
@@ -49,7 +49,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback "}
                                          ]},
-                           {"name": " Demonstration of pH effects on fluorescence spectra  ",
+                           {"id": "5", "name": " Demonstration of pH effects on fluorescence spectra  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective "},
                                          {"name": "Theory "},
@@ -59,7 +59,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback "}
                                          ]},
-                           {"name": " Effects of concentration optical density of a fluorophore on emission spectra ",
+                           {"id": "6", "name": " Effects of concentration optical density of a fluorophore on emission spectra ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective "},
                                          {"name": "Theory "},
@@ -69,7 +69,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback "}
                                          ]},
-                         {"name": " Relationship between the concentration of a fluorophore and its fluorescence intensity- Determination of unknown concentration of an analyte in solution  ",
+                         {"id": "7", "name": " Relationship between the concentration of a fluorophore and its fluorescence intensity- Determination of unknown concentration of an analyte in solution  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective "},
                                          {"name": "Theory "},
@@ -79,7 +79,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback "}
                                          ]},
-                         {"name": " Determination of fluorescence quantum yield of a fluorophore ",
+                         {"id": "8", "name": " Determination of fluorescence quantum yield of a fluorophore ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective "},
                                          {"name": "Theory "},
@@ -89,7 +89,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback "}
                                          ]},
-                         {"name": " Fluorescence Quenching and Stern-Volmer plot- Estimation of the quenching constant from Stern-Volmer plot ",
+                         {"id": "9", "name": " Fluorescence Quenching and Stern-Volmer plot- Estimation of the quenching constant from Stern-Volmer plot ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective "},
                                          {"name": "Theory "},
@@ -99,7 +99,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback "}
                                          ]},
-                         {"name": " Effects of excimer and exciplex formations on fluorescence emission spectra ",
+                         {"id": "10", "name": " Effects of excimer and exciplex formations on fluorescence emission spectra ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective "},
                                          {"name": "Theory "},
