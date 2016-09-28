@@ -1,0 +1,75 @@
+{
+        "course": {"org": "IIITH","id": "ccnsb06", "display_name": "Physical Chemistry Lab "},
+        "overview": "Physical chemistry virtual laboratory is designed to introduce some spectroscopic and analytical techniques to students at various levels.",
+        "experiments": [{"name": "Introduction",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "List of experiments"},
+                                         {"name": "Target Audience"},
+                                         {"name": "Courses Aligned"},
+                                         {"name": "Prerequisites"}
+                                         ]},
+                         {"name": "Instrumentation and working principles of infra red spectroscopy using salt plates",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"},
+                                         {"name": "Feedback"}
+                                         ]},
+                          {"name": "Instrumentation and working principles of solutions infra red spectroscopy",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"},
+                                         {"name": "Feedback"}
+                                         ]},
+                           {"name": " Instrumentation and working principles principles of mass spectroscopy ",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"},
+                                         {"name": "Feedback"}
+                                         ]},
+                           {"name": " Determination of molar mass of simple compounds using mass spectroscopy ",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"},
+                                         {"name": "Feedback"}
+                                         ]},
+                           {"name": " Nuclear magnetic resosnace spectrocopy and evaulation of simple 1H NMR spectra of select organic compounds ",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"},
+                                         {"name": "Feedback"}
+                                         ]},
+                           {"name": " Identification of unknown components using spectroscopic techniques ",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"},
+                                         {"name": "Feedback"}
+                                         ]}
+                            
+                            
+                        ]
+
+}
