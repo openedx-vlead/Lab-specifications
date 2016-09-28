@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Flow Through Pipes:",
+                         {"id": "1", "name": "Flow Through Pipes:",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -12,9 +12,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                          {"name": "Flow Through Fittings:",
+                          {"id": "2", "name": "Flow Through Fittings:",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -22,9 +22,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Flow through orifice meter:",
+                           {"id": "3", "name": "Flow through orifice meter:",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -32,9 +32,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Flow through Venturi meter:",
+                           {"id": "4", "name": "Flow through Venturi meter:",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -42,9 +42,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Flow through Packed Bed:",
+                           {"id": "5", "name": "Flow through Packed Bed:",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -52,9 +52,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                           {"name": "Flow through Fluidized Bed:",
+                           {"id": "6", "name": "Flow through Fluidized Bed:",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -62,9 +62,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Reaction kinetic studies in a batch reactor:",
+                            {"id": "7", "name": "Reaction kinetic studies in a batch reactor:",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -72,9 +72,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Reaction kinetic studies in a mixed flow reactor:",
+                            {"id": "8", "name": "Reaction kinetic studies in a mixed flow reactor:",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -82,9 +82,9 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]},
-                            {"name": "Reaction kinetic studies in a plug flow reactor:",
+                            {"id": "9", "name": "Reaction kinetic studies in a plug flow reactor:",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -92,7 +92,7 @@
                                          {"name": "Assignment"},
                                          {"name": "Reference"},
                                          {"name": "Video"},
-                                         {"name": "Quiz"},
+                                         {"name": "Quiz"}
                                          ]}
                          
                         ]
