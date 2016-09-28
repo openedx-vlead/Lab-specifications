@@ -45,9 +45,9 @@
                                          {"name": "EQP. USED"},
                                          {"name": "EXPERIMENT"},
                                          {"name": "PROCEDURE"},        
-                                         {"name": "QUIZZES"},
+                                         {"name": "QUIZZES"}
                                          ]},
-                           {"id": "1", "name": "Detail Plotting by Radiation method",
+                           {"id": "6", "name": "Detail Plotting by Radiation method",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -57,7 +57,7 @@
                                          {"name": "QUIZZES"},
                                          {"name": "DOS AND DONT'S"}
                                          ]},
-                            {"id": "6", "name": "Detail Plotting By Intersection Method",
+                            {"id": "7", "name": "Detail Plotting By Intersection Method",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -67,7 +67,7 @@
                                          {"name": "QUIZZES"},
                                          {"name": "DOS AND DONT'S"}
                                          ]},
-                            {"id": "7", "name": "Deatil Plotting by Resection Method",
+                            {"id": "8", "name": "Deatil Plotting by Resection Method",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -76,7 +76,7 @@
                                          {"name": "QUIZZES"},
                                          {"name": "DOS AND DONT'S"}
                                          ]},
-                            {"id": "8", "name": "Carry out Contouring in the field",
+                            {"id": "9", "name": "Carry out Contouring in the field",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -85,7 +85,7 @@
                                          {"name": "QUIZZES"},
                                          {"name": "DOS AND DONT'S"}
                                          ]},
-                            {"id": "9", "name": "Study of GPS and Its Accessories",
+                            {"id": "10", "name": "Study of GPS and Its Accessories",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -94,7 +94,7 @@
                                          {"name": "QUIZZES"},
                                          {"name": "DOS AND DONT'S"}
                                          ]},
-                            {"id": "10", "name": "Measurements Using GPS",
+                            {"id": "11", "name": "Measurements Using GPS",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -107,4 +107,3 @@
                         ]
 
 }
-
