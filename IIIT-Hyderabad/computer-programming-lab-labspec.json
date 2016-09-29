@@ -1,0 +1,92 @@
+{
+        "course": {"org": "iiith","id": "cse02", "display_name": "Computer Programming Lab"},
+        "overview": "Computer Programming Lab",
+        "experiments": [{"name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"id": "1", "name": "Numerical Approximation",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Manual"},
+                                         {"name": "Procedure"},
+                                         {"name": "Further Reading"}
+                                         ]},
+                          {"id": "2", "name": "Functions",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Manual"},
+                                         {"name": "Procedure"},
+                                         {"name": "Further Reading"}
+                                         ]},
+                           {"id": "3", "name": "Advanced Control Flow",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Manual"},
+                                         {"name": "Procedure"},
+                                         {"name": "Further Reading"}
+                                         ]},
+                           {"id": "4", "name": "Arrays",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Manual"},
+                                         {"name": "Procedure"},
+                                         {"name": "Further Reading"}
+                                         ]},
+                           {"id": "5", "name": "Structures",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Manual"},
+                                         {"name": "Procedure"},
+                                         {"name": "Further Reading"}
+                                         ]},
+                           {"id": "6", "name": "Basic Control Flow",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Manual"},
+                                         {"name": "Procedure"},
+                                         {"name": "Further Reading"}
+                                         ]},
+                            {"id": "7", "name": "Strings",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Manual"},
+                                         {"name": "Procedure"},
+                                         {"name": "Further Reading"}
+                                         ]},
+                            {"id": "8", "name": "Pointers",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Manual"},
+                                         {"name": "Procedure"},
+                                         {"name": "Further Reading"}
+                                         ]},
+                            {"id": "9", "name": "Recursion",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Manual"},
+                                         {"name": "Procedure"},
+                                         {"name": "Further Reading"}
+                                         ]},
+                            {"id": "10", "name": "Expression Evaluation",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Manual"},
+                                         {"name": "Procedure"},
+                                         {"name": "Further Reading"}
+                                         ]}
+                            
+                        ]
+
+}
+
+
