@@ -1,101 +1,289 @@
 {
-        "course": {"org": "nitk","id": "uorepc", "display_name": "Process Control, Reaction Engineering and Unit Operations Lab"},
-        "overview": "Unit-Operation-Reaction-Engg.-Process-Control lab",
-        "experiments": [{"name": "Introduction",
-                         "subsections": [{"name": "Introduction"}
-                                         ]},
-                         {"id": "1", "name": "Flow Through Pipes:",
-                         "subsections": [{"name": "Theory"},
-                                         {"name": "Procedure"},
-                                         {"name": "Self Evaluation"},
-                                         {"name": "Simulator"},
-                                         {"name": "Assignment"},
-                                         {"name": "Reference"},
-                                         {"name": "Video"},
-                                         {"name": "Quiz"}
-                                         ]},
-                          {"id": "2", "name": "Flow Through Fittings:",
-                         "subsections": [{"name": "Theory"},
-                                         {"name": "Procedure"},
-                                         {"name": "Self Evaluation"},
-                                         {"name": "Simulator"},
-                                         {"name": "Assignment"},
-                                         {"name": "Reference"},
-                                         {"name": "Video"},
-                                         {"name": "Quiz"}
-                                         ]},
-                           {"id": "3", "name": "Flow through orifice meter:",
-                         "subsections": [{"name": "Theory"},
-                                         {"name": "Procedure"},
-                                         {"name": "Self Evaluation"},
-                                         {"name": "Simulator"},
-                                         {"name": "Assignment"},
-                                         {"name": "Reference"},
-                                         {"name": "Video"},
-                                         {"name": "Quiz"}
-                                         ]},
-                           {"id": "4", "name": "Flow through Venturi meter:",
-                         "subsections": [{"name": "Theory"},
-                                         {"name": "Procedure"},
-                                         {"name": "Self Evaluation"},
-                                         {"name": "Simulator"},
-                                         {"name": "Assignment"},
-                                         {"name": "Reference"},
-                                         {"name": "Video"},
-                                         {"name": "Quiz"}
-                                         ]},
-                           {"id": "5", "name": "Flow through Packed Bed:",
-                         "subsections": [{"name": "Theory"},
-                                         {"name": "Procedure"},
-                                         {"name": "Self Evaluation"},
-                                         {"name": "Simulator"},
-                                         {"name": "Assignment"},
-                                         {"name": "Reference"},
-                                         {"name": "Video"},
-                                         {"name": "Quiz"}
-                                         ]},
-                           {"id": "6", "name": "Flow through Fluidized Bed:",
-                         "subsections": [{"name": "Theory"},
-                                         {"name": "Procedure"},
-                                         {"name": "Self Evaluation"},
-                                         {"name": "Simulator"},
-                                         {"name": "Assignment"},
-                                         {"name": "Reference"},
-                                         {"name": "Video"},
-                                         {"name": "Quiz"}
-                                         ]},
-                            {"id": "7", "name": "Reaction kinetic studies in a batch reactor:",
-                         "subsections": [{"name": "Theory"},
-                                         {"name": "Procedure"},
-                                         {"name": "Self Evaluation"},
-                                         {"name": "Simulator"},
-                                         {"name": "Assignment"},
-                                         {"name": "Reference"},
-                                         {"name": "Video"},
-                                         {"name": "Quiz"}
-                                         ]},
-                            {"id": "8", "name": "Reaction kinetic studies in a mixed flow reactor:",
-                         "subsections": [{"name": "Theory"},
-                                         {"name": "Procedure"},
-                                         {"name": "Self Evaluation"},
-                                         {"name": "Simulator"},
-                                         {"name": "Assignment"},
-                                         {"name": "Reference"},
-                                         {"name": "Video"},
-                                         {"name": "Quiz"}
-                                         ]},
-                            {"id": "9", "name": "Reaction kinetic studies in a plug flow reactor:",
-                         "subsections": [{"name": "Theory"},
-                                         {"name": "Procedure"},
-                                         {"name": "Self Evaluation"},
-                                         {"name": "Simulator"},
-                                         {"name": "Assignment"},
-                                         {"name": "Reference"},
-                                         {"name": "Video"},
-                                         {"name": "Quiz"}
-                                         ]}
-                         
-                        ]
-
+ "course": {
+  "org": "nitk", 
+  "display_name": "Process Control, Reaction Engineering and Unit Operations Lab", 
+  "id": "uorepc"
+ }, 
+ "experiments": [
+  {
+   "subsections": [
+    {
+     "name": "Introduction"
+    }
+   ], 
+   "id": "uorepc_00", 
+   "name": "Introduction"
+  }, 
+  {
+   "subsections": [
+    {
+     "name": "Theory"
+    }, 
+    {
+     "name": "Procedure"
+    }, 
+    {
+     "name": "Self Evaluation"
+    }, 
+    {
+     "name": "Simulator"
+    }, 
+    {
+     "name": "Assignment"
+    }, 
+    {
+     "name": "Reference"
+    }, 
+    {
+     "name": "Video"
+    }, 
+    {
+     "name": "Quiz"
+    }
+   ], 
+   "name": "Flow Through Pipes:", 
+   "id": "uorepc_01"
+  }, 
+  {
+   "subsections": [
+    {
+     "name": "Theory"
+    }, 
+    {
+     "name": "Procedure"
+    }, 
+    {
+     "name": "Self Evaluation"
+    }, 
+    {
+     "name": "Simulator"
+    }, 
+    {
+     "name": "Assignment"
+    }, 
+    {
+     "name": "Reference"
+    }, 
+    {
+     "name": "Video"
+    }, 
+    {
+     "name": "Quiz"
+    }
+   ], 
+   "name": "Flow Through Fittings:", 
+   "id": "uorepc_02"
+  }, 
+  {
+   "subsections": [
+    {
+     "name": "Theory"
+    }, 
+    {
+     "name": "Procedure"
+    }, 
+    {
+     "name": "Self Evaluation"
+    }, 
+    {
+     "name": "Simulator"
+    }, 
+    {
+     "name": "Assignment"
+    }, 
+    {
+     "name": "Reference"
+    }, 
+    {
+     "name": "Video"
+    }, 
+    {
+     "name": "Quiz"
+    }
+   ], 
+   "name": "Flow through orifice meter:", 
+   "id": "uorepc_03"
+  }, 
+  {
+   "subsections": [
+    {
+     "name": "Theory"
+    }, 
+    {
+     "name": "Procedure"
+    }, 
+    {
+     "name": "Self Evaluation"
+    }, 
+    {
+     "name": "Simulator"
+    }, 
+    {
+     "name": "Assignment"
+    }, 
+    {
+     "name": "Reference"
+    }, 
+    {
+     "name": "Video"
+    }, 
+    {
+     "name": "Quiz"
+    }
+   ], 
+   "name": "Flow through Venturi meter:", 
+   "id": "uorepc_04"
+  }, 
+  {
+   "subsections": [
+    {
+     "name": "Theory"
+    }, 
+    {
+     "name": "Procedure"
+    }, 
+    {
+     "name": "Self Evaluation"
+    }, 
+    {
+     "name": "Simulator"
+    }, 
+    {
+     "name": "Assignment"
+    }, 
+    {
+     "name": "Reference"
+    }, 
+    {
+     "name": "Video"
+    }, 
+    {
+     "name": "Quiz"
+    }
+   ], 
+   "name": "Flow through Packed Bed:", 
+   "id": "uorepc_05"
+  }, 
+  {
+   "subsections": [
+    {
+     "name": "Theory"
+    }, 
+    {
+     "name": "Procedure"
+    }, 
+    {
+     "name": "Self Evaluation"
+    }, 
+    {
+     "name": "Simulator"
+    }, 
+    {
+     "name": "Assignment"
+    }, 
+    {
+     "name": "Reference"
+    }, 
+    {
+     "name": "Video"
+    }, 
+    {
+     "name": "Quiz"
+    }
+   ], 
+   "name": "Flow through Fluidized Bed:", 
+   "id": "uorepc_06"
+  }, 
+  {
+   "subsections": [
+    {
+     "name": "Theory"
+    }, 
+    {
+     "name": "Procedure"
+    }, 
+    {
+     "name": "Self Evaluation"
+    }, 
+    {
+     "name": "Simulator"
+    }, 
+    {
+     "name": "Assignment"
+    }, 
+    {
+     "name": "Reference"
+    }, 
+    {
+     "name": "Video"
+    }, 
+    {
+     "name": "Quiz"
+    }
+   ], 
+   "name": "Reaction kinetic studies in a batch reactor:", 
+   "id": "uorepc_07"
+  }, 
+  {
+   "subsections": [
+    {
+     "name": "Theory"
+    }, 
+    {
+     "name": "Procedure"
+    }, 
+    {
+     "name": "Self Evaluation"
+    }, 
+    {
+     "name": "Simulator"
+    }, 
+    {
+     "name": "Assignment"
+    }, 
+    {
+     "name": "Reference"
+    }, 
+    {
+     "name": "Video"
+    }, 
+    {
+     "name": "Quiz"
+    }
+   ], 
+   "name": "Reaction kinetic studies in a mixed flow reactor:", 
+   "id": "uorepc_08"
+  }, 
+  {
+   "subsections": [
+    {
+     "name": "Theory"
+    }, 
+    {
+     "name": "Procedure"
+    }, 
+    {
+     "name": "Self Evaluation"
+    }, 
+    {
+     "name": "Simulator"
+    }, 
+    {
+     "name": "Assignment"
+    }, 
+    {
+     "name": "Reference"
+    }, 
+    {
+     "name": "Video"
+    }, 
+    {
+     "name": "Quiz"
+    }
+   ], 
+   "name": "Reaction kinetic studies in a plug flow reactor:", 
+   "id": "uorepc_09"
+  }
+ ], 
+ "overview": "Unit-Operation-Reaction-Engg.-Process-Control lab"
 }
-
