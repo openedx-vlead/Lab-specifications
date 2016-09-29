@@ -1,4 +1,4 @@
-{
+var lab_spec = {
  "course": {
   "org": "nitk", 
   "display_name": "Process Control, Reaction Engineering and Unit Operations Lab", 
@@ -6,13 +6,13 @@
  }, 
  "experiments": [
   {
+   "id": "uorepc_00", 
+   "name": "Introduction", 
    "subsections": [
     {
      "name": "Introduction"
     }
-   ], 
-   "id": "uorepc_00", 
-   "name": "Introduction"
+   ]
   }, 
   {
    "subsections": [
@@ -41,8 +41,8 @@
      "name": "Quiz"
     }
    ], 
-   "name": "Flow Through Pipes:", 
-   "id": "uorepc_01"
+   "id": "uorepc_01", 
+   "name": "Flow Through Pipes:"
   }, 
   {
    "subsections": [
@@ -71,8 +71,8 @@
      "name": "Quiz"
     }
    ], 
-   "name": "Flow Through Fittings:", 
-   "id": "uorepc_02"
+   "id": "uorepc_02", 
+   "name": "Flow Through Fittings:"
   }, 
   {
    "subsections": [
@@ -101,8 +101,8 @@
      "name": "Quiz"
     }
    ], 
-   "name": "Flow through orifice meter:", 
-   "id": "uorepc_03"
+   "id": "uorepc_03", 
+   "name": "Flow through orifice meter:"
   }, 
   {
    "subsections": [
@@ -131,8 +131,8 @@
      "name": "Quiz"
     }
    ], 
-   "name": "Flow through Venturi meter:", 
-   "id": "uorepc_04"
+   "id": "uorepc_04", 
+   "name": "Flow through Venturi meter:"
   }, 
   {
    "subsections": [
@@ -161,8 +161,8 @@
      "name": "Quiz"
     }
    ], 
-   "name": "Flow through Packed Bed:", 
-   "id": "uorepc_05"
+   "id": "uorepc_05", 
+   "name": "Flow through Packed Bed:"
   }, 
   {
    "subsections": [
@@ -191,8 +191,8 @@
      "name": "Quiz"
     }
    ], 
-   "name": "Flow through Fluidized Bed:", 
-   "id": "uorepc_06"
+   "id": "uorepc_06", 
+   "name": "Flow through Fluidized Bed:"
   }, 
   {
    "subsections": [
@@ -221,8 +221,8 @@
      "name": "Quiz"
     }
    ], 
-   "name": "Reaction kinetic studies in a batch reactor:", 
-   "id": "uorepc_07"
+   "id": "uorepc_07", 
+   "name": "Reaction kinetic studies in a batch reactor:"
   }, 
   {
    "subsections": [
@@ -251,8 +251,8 @@
      "name": "Quiz"
     }
    ], 
-   "name": "Reaction kinetic studies in a mixed flow reactor:", 
-   "id": "uorepc_08"
+   "id": "uorepc_08", 
+   "name": "Reaction kinetic studies in a mixed flow reactor:"
   }, 
   {
    "subsections": [
@@ -281,8 +281,8 @@
      "name": "Quiz"
     }
    ], 
-   "name": "Reaction kinetic studies in a plug flow reactor:", 
-   "id": "uorepc_09"
+   "id": "uorepc_09", 
+   "name": "Reaction kinetic studies in a plug flow reactor:"
   }
  ], 
  "overview": "Unit-Operation-Reaction-Engg.-Process-Control lab"
