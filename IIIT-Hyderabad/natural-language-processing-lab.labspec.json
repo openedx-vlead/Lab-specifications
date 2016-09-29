@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iiith","id": "nlp", "display_name": "Natural Language Processing Lab"},
+        "course": {"org": "iiith","id": "cse24", "display_name": "Natural Language Processing Lab"},
         "overview": "Natural Language Processing Lab",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
