@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitb","id": "ml", "display_name": "Magnetic Levitation Lab"},
+        "course": {"org": "iitb","id": "ml-iitb", "display_name": "Magnetic Levitation Lab"},
         "overview": "Magnetic Levitation Lab",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
