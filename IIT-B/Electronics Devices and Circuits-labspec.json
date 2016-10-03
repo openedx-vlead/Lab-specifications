@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitb","id": "ee", "display_name": "Magnetic Levitation Lab"},
+        "course": {"org": "iitb","id": "ece40", "display_name": "Electronic Devices and Circuits"},
         "overview": "Magnetic Levitation Lab",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
