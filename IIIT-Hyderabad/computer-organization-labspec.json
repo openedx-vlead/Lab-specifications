@@ -1,5 +1,5 @@
 {
-        "course": {"org": "IIITH","id": "cse11", "display_name": "Computer Systems Organization Lab"},
+        "course": {"org": "IIITH","id": "CSE11", "display_name": "Computer Systems Organization Lab"},
         "overview": "Computer science is all about providing abstractions and their efficient implementation. An abstraction provides a logical view of a certain service or a resource by giving a well-defined black-box model, its associated properties and hides the internal details of the black-box. ",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"},
