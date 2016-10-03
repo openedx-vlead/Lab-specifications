@@ -28,7 +28,7 @@
                             {"id": "7", "name": "Glucose Uptake Assay",
                          "subsections": [{"name": "Animation"}
                                          ]},
-                            {"name": "Isolation of Endoplasmic Reticulum",
+                            {"id": "8", "name": "Isolation of Endoplasmic Reticulum",
                          "subsections": [{"name": "Animation"}
                                          ]}
                         ]
