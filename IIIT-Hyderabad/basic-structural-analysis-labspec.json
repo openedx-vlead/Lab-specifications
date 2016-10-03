@@ -1,5 +1,5 @@
 {
-        "course": {"org": "IIITH","id": "bsa", "display_name": "Basic Structural Analysis Lab"},
+        "course": {"org": "IIITH","id": "EERC04", "display_name": "Basic Structural Analysis Lab"},
         "overview": "It gives the basic understanding of structural member under the action of loads",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"},
