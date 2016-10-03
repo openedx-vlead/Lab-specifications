@@ -27,7 +27,7 @@
                             {"id": "7", "name": "Lignin Staining",
                          "subsections": [{"name": "Animation"}
                                          ]},
-                            {"name": "Maintanence of Mamalian Cell Lines",
+                            {"id": "8", "name": "Maintanence of Mamalian Cell Lines",
                           "subsections": [{"name": "Animation"}
                                          ]}
                         ]
