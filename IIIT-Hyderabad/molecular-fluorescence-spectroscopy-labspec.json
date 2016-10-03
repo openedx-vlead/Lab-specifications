@@ -1,5 +1,5 @@
 {
-        "course": {"org": "IIITH","id": "mfs", "display_name": "Molecular Fluorescence Spectroscopy Virtual Lab"},
+        "course": {"org": "IIITH","id": "CCNSB01", "display_name": "Molecular Fluorescence Spectroscopy Virtual Lab"},
         "overview": "Fluorescence spectroscopy is a technique of considerable practical importance. Measurements of fluorescence can provide important information regarding the molecule, its quantity and local environment, etc.",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"},
