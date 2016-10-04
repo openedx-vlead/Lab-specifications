@@ -63,7 +63,7 @@
                                          {"name": "Self Check Quiz "}
                                         
                                          ]},
-                            {"id": "7", "name": "ROLLING PROCESS",
+                            {"id": "7", "name": "Rolling Process",
                            "subsections": [{"name": "ROLLING PROCESS"},
                                          {"name": "Simulation Bench"},
                                          {"name": "Flat Plate Rolling"},
@@ -79,21 +79,19 @@
                                          {"name": "Simulations > CURVED RING Edit"},
                                          {"name": "SELF CHECK QUIZ - RING ROLLING "}
                                          ]},
-                            {"id": "9", "name": "Thread Rolling",
+                          {"id": "9", "name": "Thread Rolling",
                           "subsections": [{"name": " Thread Rolling "},
                                          {"name": "Thread Rolling using flat dies "},
                                          {"name": "Thread Rolling using set of two rolls "},
                                          {"name": "Thread Rolling using set of three rolls "},
                                          {"name": "SELF CHECK QUIZ - THREAD ROLLING "}
                                          ]},
-  					{"id": "10", "name": "Wedge Rolling",
+  			 {"id": "10", "name": "Wedge Rolling",
                            "subsections": [{"name": " Wedge Rolling "},
                                          {"name": " Simulations "},
                                          {"name": "SELF CHECK QUIZ - TRANSVERSE WEDGE ROLLING"}
-                                     
-                                         
                                          ]}, 
-					 {"id": "11", "name": "SHEET METAL WORKING",
+			{"id": "11", "name": "Sheet Metal Working",
                            "subsections": [{"name": "SHEET METAL WORKING"},
                                          {"name": "Bending Operations to reduce springback Edit"},
                                          {"name": "Bending operation to remove springback "},
@@ -101,25 +99,24 @@
                                          {"name": "Wipe Die Bending Edit"},        
                                          {"name": "Air Bending"},
                                          {"name": "Applications"},
-{"name": "Bead forming of rod"},
-{"name": "Deep drawing-Downward "},
-{"name": " Roll forming"},
-{"name": "Roll Bending "},
-{"name": "Piercing "},
-{"name": " Bush "},
-{"name": " Punching "},
-{"name": " Coining "},
-{"name": " Door Handle "},
-{"name": "Cover Plate "},
-{"name": "SELF CHECK QUIZ "}
-                                         
+					 {"name": "Bead forming of rod"},
+					 {"name": "Deep drawing-Downward "},
+				 	 {"name": " Roll forming"},
+					 {"name": "Roll Bending "},
+					 {"name": "Piercing "},
+					 {"name": " Bush "},
+					 {"name": " Punching "},
+					 {"name": " Coining "},
+					 {"name": " Door Handle "},
+					 {"name": "Cover Plate "},
+					 {"name": "SELF CHECK QUIZ "}
                                          ]}, 
- 					{"id": "12", "name": "Orbital Forming ",
+ 			{"id": "12", "name": "Orbital Forming ",
                            "subsections": [{"name": "Orbital Forming "},
                                          {"name": "Simulations "},
                                          {"name": "SELF CHECK QUIZ Edit"}
                                          ]},
- 				 {"id": "13", "name": "HYDROFORMING",
+ 			{"id": "13", "name": "Hydroforming",
                            "subsections": [{"name": "HYDROFORMING "},
                                          {"name": " Tube Hydroforming "},
                                          {"name": "Tube Hydroforming - Single T"},
@@ -127,56 +124,45 @@
                                          {"name": "Sheet Hydroforming "},        
                                          {"name": " Seamless pipe using Rolling "},
                                          {"name": "SELF CHECK QUIZ - HYDROFORMING "}
-                                         
                                          ]},
-  				{"id": "14", "name": " Stretch Forming ",
+  			 {"id": "14", "name": "Stretch Forming",
                            "subsections": [{"name": " Stretch Forming "},
                                          {"name": " Simulation "},
                                          {"name": " SELF CHECK QUIZ - STRETCH FORMING "}
-                                      
-                                         
                                          ]},
- 				{"id": "15", "name": "COGGING PROCESS",
+ 			{"id": "15", "name": "Cogging Process",
                            "subsections": [{"name": "COGGING PROCESS"},
                                          {"name": "Cogging "},
                                          {"name": " Becking"},
                                          {"name": " Multi Diameter Shaft "},
                                          {"name": " Self Check Quiz"}        
-                                        
                                          ]},
- {"id": "16", "name": "Swaging",
+ 			{"id": "16", "name": "Swaging",
                            "subsections": [{"name": " Swaging "},
                                          {"name": "  Swaging "},
                                          {"name": "Simulations "},
                                          {"name": "SELF CHECK QUIZ - SWAGGING "}
-                                        
-                                         
                                          ]},
- {"id": "17", "name": "Stamping ",
+ 			{"id": "17", "name": "Stamping",
                            "subsections": [{"name": "Stamping  "},
                                          {"name": " Stamping  "}
-                                         
                                          ]},
- {"id": "18", "name": "Riveting ",
+ 			{"id": "18", "name": "Riveting",
                            "subsections": [{"name": "RIVETING"},
                                          {"name": " Simulations "},
                                          {"name": " SELF CHECK QUIZ - RIVETING "}
-                                                                               
                                          ]},
- {"id": "19", "name": "QUENCHING ",
+ 			{"id": "19", "name": "Quenching",
                            "subsections": [{"name": " QUENCHING "},
                                          {"name": " Simulations "},
                                          {"name": " SELF CHECK QUIZ - QUENCHING Edit"}
-                                        
-                                         
-                                         ]},
- {"id": "20", "name": "Ring Compression Test",
+                                        ]},
+ 			{"id": "20", "name": "Ring Compression Test",
                            "subsections": [{"name": "Ring Compression Test"},
                                          {"name": "Simulation Bench"},
                                          {"name": "SELF CHECK QUIZ - RING COMPRESSION TEST "}
-                                                                                
                                          ]},
- {"id": "21", "name": " FORGING DEFECTS ",
+ 			{"id": "21", "name": "Forging Defects",
                            "subsections": [{"name": " FORGING DEFECTS "},
                                          {"name": "  PREFORMED DEFECTS  "},
                                          {"name": "LAPS AND FOLDS "},
@@ -184,9 +170,8 @@
                                          {"name": "UNDER FILLS  "},        
                                          {"name": " MULTIPLE DEFECTS  "},
                                          {"name": "SELF CHECK QUIZ - FORGING DEFECTS  "}
-                                         
                                          ]},
- {"id": "22", "name": "HYDROFORMING",
+ 			{"id": "22", "name": "Hydroforming",
                            "subsections": [{"name": "HYDROFORMING "},
                                          {"name": " Tube Hydroforming "},
                                          {"name": "Tube Hydroforming - Single T"},
@@ -194,51 +179,43 @@
                                          {"name": "Sheet Hydroforming "},        
                                          {"name": " Seamless pipe using Rolling "},
                                          {"name": "SELF CHECK QUIZ - HYDROFORMING "}
-                                         
                                          ]},
- {"id": "23", "name": " CRANKSHAFT ",
+			 {"id": "23", "name": "Crankshaft",
                            "subsections": [{"name": " CRANKSHAFT "},
                                          {"name": "Single cylinder crankshaft "},
                                          {"name": " Multi cylinder crankshaft step-1 "},
                                          {"name": " Multi cylinder crankshaft step-2 "},
                                          {"name": " SELF CHECK QUIZ - CRANKSHAFT FORMING "}        
-                                         
                                          ]},
- {"id": "24", "name": "CONNECTING ROD ",
+			 {"id": "24", "name": "Connecting Rod",
                            "subsections": [{"name": "CONNECTING ROD"},
                                          {"name": "Forming of connecting rod step-1"},
                                          {"name": " Forming of connecting rod step-2"},
                                          {"name": "SELF CHECK QUIZ - CONNECTING ROD "}
                                          ]},
- {"id": "25", "name": "SCREW HEAD ",
+ 			{"id": "25", "name": "Screw Head",
                            "subsections": [{"name": "SCREW HEAD FORMING  "},
                                          {"name": "Bolt "},
                                          {"name": " Hexagonal Bolt Edit"},
                                          {"name": " Screw Head "},
                                          {"name": "SELF CHECK QUIZ - SCREW HEAD FORMING "}
-                                      
-                                         
                                          ]},
- {"id": "26", "name": "Gear Manufacturing ",
+			 {"id": "26", "name": "Gear Manufacturing",
                            "subsections": [{"name": "Gear Manufacturing "},
                                          {"name": "  Gear  "},
                                          {"name": "Bevel gear "},
                                          {"name": "SELF CHECK QUIZ - GEAR MANUFACTURING "}
-                                        
-                                         
                                          ]},
- {"id": "27", "name": "BAR SHEARING",
+ 			{"id": "27", "name": "Bar Shearing",
                            "subsections": [{"name": "BAR SHEARING"},
                                          {"name": "Simulations "},
                                          {"name": " SELF CHECK QUIZ - BAR SHEARING "}
-                                         
                                          ]},
-{"id": "28", "name": "MEDICAL IMPLANTS",
+			{"id": "28", "name": "Medical Implants",
                            "subsections": [{"name": "MEDICAL IMPLANTS"},
                                          {"name": "Simulations  "}
-                                         
                                          ]},
-{"id": "29", "name": "RIPPLE PROCESS ",
+			{"id": "29", "name": "Ripple Process",
                            "subsections": [{"name": "RIPPLE PROCESS "},
                                          {"name": " Simulations "}
                                          
