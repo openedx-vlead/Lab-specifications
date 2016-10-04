@@ -171,58 +171,45 @@
                                          {"name": " MULTIPLE DEFECTS  "},
                                          {"name": "SELF CHECK QUIZ - FORGING DEFECTS  "}
                                          ]},
- 			{"id": "22", "name": "Hydroforming",
-                           "subsections": [{"name": "HYDROFORMING "},
-                                         {"name": " Tube Hydroforming "},
-                                         {"name": "Tube Hydroforming - Single T"},
-                                         {"name": "Tube Hydroforming - Double T "},
-                                         {"name": "Sheet Hydroforming "},        
-                                         {"name": " Seamless pipe using Rolling "},
-                                         {"name": "SELF CHECK QUIZ - HYDROFORMING "}
-                                         ]},
-			 {"id": "23", "name": "Crankshaft",
+			 {"id": "22", "name": "Crankshaft",
                            "subsections": [{"name": " CRANKSHAFT "},
                                          {"name": "Single cylinder crankshaft "},
                                          {"name": " Multi cylinder crankshaft step-1 "},
                                          {"name": " Multi cylinder crankshaft step-2 "},
                                          {"name": " SELF CHECK QUIZ - CRANKSHAFT FORMING "}        
                                          ]},
-			 {"id": "24", "name": "Connecting Rod",
+			 {"id": "23", "name": "Connecting Rod",
                            "subsections": [{"name": "CONNECTING ROD"},
                                          {"name": "Forming of connecting rod step-1"},
                                          {"name": " Forming of connecting rod step-2"},
                                          {"name": "SELF CHECK QUIZ - CONNECTING ROD "}
                                          ]},
- 			{"id": "25", "name": "Screw Head",
+ 			{"id": "24", "name": "Screw Head",
                            "subsections": [{"name": "SCREW HEAD FORMING  "},
                                          {"name": "Bolt "},
                                          {"name": " Hexagonal Bolt Edit"},
                                          {"name": " Screw Head "},
                                          {"name": "SELF CHECK QUIZ - SCREW HEAD FORMING "}
                                          ]},
-			 {"id": "26", "name": "Gear Manufacturing",
+			 {"id": "25", "name": "Gear Manufacturing",
                            "subsections": [{"name": "Gear Manufacturing "},
                                          {"name": "  Gear  "},
                                          {"name": "Bevel gear "},
                                          {"name": "SELF CHECK QUIZ - GEAR MANUFACTURING "}
                                          ]},
- 			{"id": "27", "name": "Bar Shearing",
+ 			{"id": "26", "name": "Bar Shearing",
                            "subsections": [{"name": "BAR SHEARING"},
                                          {"name": "Simulations "},
                                          {"name": " SELF CHECK QUIZ - BAR SHEARING "}
                                          ]},
-			{"id": "28", "name": "Medical Implants",
+			{"id": "27", "name": "Medical Implants",
                            "subsections": [{"name": "MEDICAL IMPLANTS"},
                                          {"name": "Simulations  "}
                                          ]},
-			{"id": "29", "name": "Ripple Process",
+			{"id": "28", "name": "Ripple Process",
                            "subsections": [{"name": "RIPPLE PROCESS "},
                                          {"name": " Simulations "}
-                                         
-                                         
                                          ]}
-
-
                         ]
 
 }
