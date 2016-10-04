@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitd","id": "vssd", "display_name": "Virtual Smart Structures and Dynamics Lab"},
+        "course": {"org": "iitd","id": "CIVIL16", "display_name": "Virtual Smart Structures and Dynamics Lab"},
         "overview": "Virtual Smart Structures and Dynamics Lab",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
