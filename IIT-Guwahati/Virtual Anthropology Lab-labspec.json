@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitg","id": "anthropology", "display_name": "Virtual Anthropology Lab"},
+        "course": {"org": "iitg","id": "hss03", "display_name": "Virtual Anthropology Lab"},
         "overview": "Virtual Anthropology Lab",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
