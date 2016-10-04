@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitg","id": "eee10", "display_name": "Electrical Machines Laboratory"},
+        "course": {"org": "iitg","id": "eee02", "display_name": "Electrical Machines Laboratory"},
         "overview": "Electrical Machines Laboratory",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
