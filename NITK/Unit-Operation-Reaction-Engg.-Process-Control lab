@@ -2,7 +2,7 @@ var lab_spec = {
  "course": {
   "org": "nitk", 
   "display_name": "Process Control, Reaction Engineering and Unit Operations Lab", 
-  "id": "uorepc"
+  "id": "chem05"
  }, 
  "experiments": [
   {
