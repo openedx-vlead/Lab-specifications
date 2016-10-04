@@ -1,5 +1,5 @@
 {
-        "course": {"org": "nitk","id": "sm", "display_name": "Strength of Materials"},
+        "course": {"org": "nitk","id": "civil07", "display_name": "Strength of Materials"},
         "overview": "Strength of Materials",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
