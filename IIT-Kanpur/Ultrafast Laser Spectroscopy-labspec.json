@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitk","id": "ufls", "display_name": "Ultrafast Laser Spectroscopy"},
+        "course": {"org": "iitk","id": "chs13", "display_name": "Ultrafast Laser Spectroscopy"},
         "overview": "Ultrafast Laser Spectroscopy",
         "experiments": [{"id": "1", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
