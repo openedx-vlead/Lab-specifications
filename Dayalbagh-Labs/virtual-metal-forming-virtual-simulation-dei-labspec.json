@@ -8,7 +8,7 @@
                                          {"name": "STEPS USED IN DESIGNING OF FORMING PROCESSES"},
                                          {"name": "METAL FORMING PROCESS VARIABLES"},
                                          {"name": "SIMULATION OF UPSETTING PROCESS"},        
-                                         {"name": "Glossary"},
+                                         {"name": "Glossary"}
                                           ]},
                          {"id": "1", "name": "Equipments:Upsetting Presses",
                          "subsections": [{"name": "Gravity drop hammer-Description"},
