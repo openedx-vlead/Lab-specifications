@@ -1,0 +1,71 @@
+{
+        "course": {"org": "IIIT-H","id": "CSE01", "display_name": "Data Structures"},
+        "overview": "To understand how various data structures work. To understand some important applictions of various data structures. To familiarize how certain applications can benefit from the choice of data structures. To understand how the choice of data structures can lead to efficient implementations of algorithms.",
+        "experiments": [{"name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"id": "1", "name": "Number Systems",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Simulation"},       
+                                         {"name": "Quizzes"}
+                                         ]},
+                          {"id": "2", "name": "Expression Evaluation using Stacks",
+                          "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Simulation"},       
+                                         {"name": "Quizzes"}
+                                         ]},
+                           {"id": "3", "name": "Sorting using Arrays",
+                           "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Simulation"},       
+                                         {"name": "Quizzes"}
+                                         ]},
+                           {"id": "4", "name": "Polynomials via Linked Lists",
+                          "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Simulation"},       
+                                         {"name": "Quizzes"}
+                                         ]},
+                           {"id": "5", "name": "Search Trees",
+                          "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Simulation"},       
+                                         {"name": "Quizzes"}
+                                         ]},
+                           {"id": "6", "name": "Expression Trees",
+                           "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Simulation"},       
+                                         {"name": "Quizzes"}
+                                         ]},
+                            {"id": "7", "name": "Graph Traversals",
+                           "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Simulation"},       
+                                         {"name": "Quizzes"}
+                                         ]},
+                            {"id": "8", "name": "Shortest Paths in Graphs",
+                           "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Simulation"},       
+                                         {"name": "Quizzes"}
+                                         ]},
+                            {"id": "9", "name": "Minimum Spanning Trees",
+                          "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Simulation"},       
+                                         {"name": "Quizzes"}
+                                         ]}
+                        ]
+}
