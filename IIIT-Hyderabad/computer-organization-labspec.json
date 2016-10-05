@@ -1,7 +1,7 @@
 {
-        "course": {"org": "IIITH","id": "CSE11", "display_name": "Computer Systems Organization Lab"},
+        "course": {"org": "IIITH","id": "cse11", "display_name": "Computer Systems Organization Lab"},
         "overview": "Computer science is all about providing abstractions and their efficient implementation. An abstraction provides a logical view of a certain service or a resource by giving a well-defined black-box model, its associated properties and hides the internal details of the black-box. ",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "List of experiments"},
                                          {"name": "Target Audience"},
@@ -9,7 +9,7 @@
                                          {"name": "Prerequisites"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"id": "1", "name": " Representation of Integers and their Arithmetic ",
+                         {"id": "E99808", "name": " Representation of Integers and their Arithmetic ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -20,7 +20,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": " Representation of Floating Point Numbers and their Arithmetic ",
+                          {"id": "E99807", "name": " Representation of Floating Point Numbers and their Arithmetic ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -31,7 +31,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": " Virtual Memory ",
+                           {"id": "E99806", "name": " Virtual Memory ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -42,7 +42,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": " MIPS Assembly Language Programming - 1 ",
+                           {"id": "E99805", "name": " MIPS Assembly Language Programming - 1 ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -53,7 +53,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": " MIPS Assembly Language Programming - 2 ",
+                           {"id": "E99804", "name": " MIPS Assembly Language Programming - 2 ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -64,7 +64,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": " ARM Assembly Language Programming - 1 ",
+                           {"id": "E99803", "name": " ARM Assembly Language Programming - 1 ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -74,7 +74,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"id": "7", "name": " ARM Assembly Language Programming - 2 ",
+                         {"id": "E99802", "name": " ARM Assembly Language Programming - 2 ",
                         "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -85,7 +85,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "8", "name": " Single Cycle MIPS CPU ",
+                          {"id": "E99801", "name": " Single Cycle MIPS CPU ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
