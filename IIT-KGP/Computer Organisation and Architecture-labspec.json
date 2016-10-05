@@ -1,10 +1,10 @@
 {
-        "course": {"org": "iitkgp","id": "SCE10", "display_name": "Computer Architecture & organization"},
+        "course": {"org": "iitkgp","id": "cse10", "display_name": "Computer Architecture & organization"},
         "overview": "Computer Architecture & organization",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Ripple Carry Adder",
+                         {"id": "E99488", "name": "Ripple Carry Adder",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Procedure"},
@@ -12,7 +12,7 @@
                                          {"name": "Quizes"},        
                                          {"name": "Further Reading"}
                                          ]},
-                          {"id": "2", "name": "Carry-look-ahead adder",
+                          {"id": "E99487", "name": "Carry-look-ahead adder",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Procedure"},
@@ -20,7 +20,7 @@
                                          {"name": "Quizes"},        
                                          {"name": "Further Reading"}
                                          ]},
-                           {"id": "3", "name": "Registers and Counters",
+                           {"id": "E99486", "name": "Registers and Counters",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Procedure"},
@@ -28,7 +28,7 @@
                                          {"name": "Quizes"},        
                                          {"name": "Further Reading"}
                                          ]},
-                           {"id": "4", "name": "Wallace Tree Adder",
+                           {"id": "E99485", "name": "Wallace Tree Adder",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Procedure"},
@@ -36,7 +36,7 @@
                                          {"name": "Quizes"},        
                                          {"name": "Further Reading"}
                                          ]},
-                           {"id": "5", "name": "Combinational Multipliers",
+                           {"id": "E99484", "name": "Combinational Multipliers",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Procedure"},
@@ -44,7 +44,7 @@
                                          {"name": "Quizes"},        
                                          {"name": "Further Reading"}
                                          ]},
-                           {"id": "6", "name": "Booth's Multiplier",
+                           {"id": "E99483", "name": "Booth's Multiplier",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Procedure"},
@@ -52,7 +52,7 @@
                                          {"name": "Quizes"},        
                                          {"name": "Further Reading"}
                                          ]},
-                            {"id": "7", "name": "Arithmetic Logic Unit",
+                            {"id": "E99482", "name": "Arithmetic Logic Unit",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Procedure"},
@@ -60,7 +60,7 @@
                                          {"name": "Quizes"},        
                                          {"name": "Further Reading"}
                                          ]},
-                            {"id": "8", "name": "Memory Design",
+                            {"id": "E99481", "name": "Memory Design",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Procedure"},
@@ -68,7 +68,7 @@
                                          {"name": "Quizes"},        
                                          {"name": "Further Reading"}
                                          ]},
-                            {"id": "9", "name": "Associative cache Design",
+                            {"id": "E99480", "name": "Associative cache Design",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Procedure"},
@@ -76,7 +76,7 @@
                                          {"name": "Quizes"},        
                                          {"name": "Further Reading"}
                                          ]},
-                            {"id": "10", "name": "Direct Mapped cache Design",
+                            {"id": "E99479", "name": "Direct Mapped cache Design",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Procedure"},
@@ -84,7 +84,7 @@
                                          {"name": "Quizes"},        
                                          {"name": "Further Reading"}
 					 ]},
-                            {"id": "11", "name": "CPU Design",
+                            {"id": "E99478", "name": "CPU Design",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Procedure"},
