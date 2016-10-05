@@ -1,7 +1,7 @@
 {
-        "course": {"org": "IIITH","id": "EERC03", "display_name": "Hydraulics and Fluid Mechanics lab"},
+        "course": {"org": "IIITH","id": "eerc03", "display_name": "Hydraulics and Fluid Mechanics lab"},
         "overview": "Fluid mechanics is the branch of physics which deals with the properties of fluids, namely liquids and gases, and their interaction with forces. ",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "List of experiments"},
                                          {"name": "Target Audience"},
@@ -9,7 +9,7 @@
                                          {"name": "Prerequisites"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"id": "1", "name": " Bernoullis Experiment",
+                         {"id": "E99761", "name": " Bernoullis Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -19,7 +19,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                          {"id": "2", "name": "Venturi Meter Experiment",
+                          {"id": "E99760", "name": "Venturi Meter Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -29,7 +29,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "3", "name": "Orifices Experiment",
+                           {"id": "E99759", "name": "Orifices Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -39,7 +39,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "4", "name": "Mouthpieces Experiment",
+                           {"id": "E99758", "name": "Mouthpieces Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -49,7 +49,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "5", "name": "Weirs Experiment",
+                           {"id": "E99757", "name": "Weirs Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -59,7 +59,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "6", "name": "Channels Experiment",
+                           {"id": "E99756", "name": "Channels Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -69,7 +69,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                         {"id": "7", "name": "Reynolds Experiment",
+                         {"id": "E99755", "name": "Reynolds Experiment",
                         "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -79,7 +79,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                          {"id": "8", "name": "Vorticess Experiment",
+                          {"id": "E99754", "name": "Vorticess Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -89,7 +89,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                         {"id": "9", "name": "Jets Experiment",
+                         {"id": "E99753", "name": "Jets Experiment",
                         "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -100,7 +100,7 @@
                                          {"name": "FurtherReadings"}
                                          ]},
                             
-                          {"id": "10", "name": "Turbines Experiment",
+                          {"id": "E99752", "name": "Turbines Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
