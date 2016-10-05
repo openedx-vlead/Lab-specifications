@@ -1,7 +1,7 @@
 {
         "course": {"org": "COEP","id": "bio16", "display_name": "Virtual Bio-Medical & Signal Processing Laboratory"},
         "overview": "Virtual Bio-Medical & Signal Processing Laboratory",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
                          {"id": "E99926", "name": "To simulate Electrocardiogram Waveform",
