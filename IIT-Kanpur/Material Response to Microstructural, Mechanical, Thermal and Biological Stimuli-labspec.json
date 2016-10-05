@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitk","id": "mech08", "display_name": "Material Response to Microstructural, Mechanical, Thermal and Biological Stimuli"},
+        "course": {"org": "iitk","id": "MECH08", "display_name": "Material Response to Microstructural, Mechanical, Thermal and Biological Stimuli"},
         "overview": "Material Response to Microstructural, Mechanical, Thermal and Biological Stimuli",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
