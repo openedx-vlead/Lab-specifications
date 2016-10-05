@@ -1,7 +1,7 @@
 {
         "course": {"org": "Amritha-University","id": "emv-au", "display_name": "Electricity and Magnetism Virtual Lab"},
         "overview": "Electricity and Magnetism Virtual Lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
                          {"id": "E99974", "name": "Magnetic Field Along The Axis of A Circular Coil Carrying Current",
