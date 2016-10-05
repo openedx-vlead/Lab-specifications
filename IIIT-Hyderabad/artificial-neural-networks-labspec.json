@@ -1,5 +1,5 @@
 {
-        "course": {"org": "IIIT-H","id": "cse22", "display_name": "Artificial Neural Networks Lab"},
+        "course": {"org": "IIIT-H","id": "CSE22", "display_name": "Artificial Neural Networks Lab"},
         "overview": "The objective of this lab is to provide hands-on experience in understanding the basics of ANN models, and the pattern recognition tasks they perform.",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
