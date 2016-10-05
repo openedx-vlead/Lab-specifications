@@ -1,10 +1,10 @@
 {
-        "course": {"org": "nitk","id": "MECH05", "display_name": "Mechanics of machine Lab"},
+        "course": {"org": "nitk","id": "mech05", "display_name": "Mechanics of machine Lab"},
         "overview": "Mechanics of machine Lab",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Position analysis of Grashof four bar mechanism",
+                         {"id": "E99378", "name": "Position analysis of Grashof four bar mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -15,7 +15,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": "Velocity analysis of Grashof four bar mechanism",
+                          {"id": "E99377", "name": "Velocity analysis of Grashof four bar mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -26,7 +26,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "Acceleration analysis of Grashof four bar mechanism",
+                           {"id": "E99376", "name": "Acceleration analysis of Grashof four bar mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -37,7 +37,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": "Position analysis of NonGrashof four bar mechanism",
+                           {"id": "E99375", "name": "Position analysis of NonGrashof four bar mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -48,7 +48,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": "Velocity analysis of NonGrashof four bar mechanism",
+                           {"id": "E99374", "name": "Velocity analysis of NonGrashof four bar mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -59,7 +59,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": "Acceleration analysis of NonGrashof four bar mechanism",
+                           {"id": "E99373", "name": "Acceleration analysis of NonGrashof four bar mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -70,7 +70,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "7", "name": "Position analysis of Slider crank mechanism",
+                            {"id": "E99372", "name": "Position analysis of Slider crank mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -81,7 +81,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "8", "name": "Velocity analysis of Slider crank mechanism",
+                            {"id": "E99371", "name": "Velocity analysis of Slider crank mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -92,7 +92,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "9", "name": "Acceleration analysis of Slider crank mechanism",
+                            {"id": "E99370", "name": "Acceleration analysis of Slider crank mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -103,7 +103,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "10", "name": "Position analysis of Slider crank mechanism with Offset",
+                            {"id": "E99369", "name": "Position analysis of Slider crank mechanism with Offset",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -114,7 +114,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "11", "name": "Position analysis of Scotch Yoke Mechanism",
+                            {"id": "E99368", "name": "Position analysis of Scotch Yoke Mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -125,7 +125,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "12", "name": "Velocity analysis of Scotch Yoke Mechanism",
+                            {"id": "E99367", "name": "Velocity analysis of Scotch Yoke Mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -136,7 +136,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "13", "name": "Acceleration analysis of Scotch Yoke Mechanism",
+                            {"id": "E99366", "name": "Acceleration analysis of Scotch Yoke Mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -147,7 +147,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "14", "name": "Position analysis of Elliptical Trammel",
+                            {"id": "E99365", "name": "Position analysis of Elliptical Trammel",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -158,7 +158,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "15", "name": "Hart Straight Line Mechanism",
+                            {"id": "E99364", "name": "Hart Straight Line Mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -169,7 +169,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "16", "name": "Tchebichev Straight Line Mechanism",
+                            {"id": "E99363", "name": "Tchebichev Straight Line Mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -180,7 +180,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "17", "name": "Peaucellier Straight Line Mechanism",
+                            {"id": "E99362", "name": "Peaucellier Straight Line Mechanism",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
