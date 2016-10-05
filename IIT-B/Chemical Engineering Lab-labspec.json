@@ -1,10 +1,10 @@
 {
-        "course": {"org": "iitb","id": "CHEM01", "display_name": "Chemical Engineering Lab"},
+        "course": {"org": "iitb","id": "chem01", "display_name": "Chemical Engineering Lab"},
         "overview": "Chemical Engineering Lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Flow measurement by orificemeter and venturimeter",
+                         {"id": "E99656", "name": "Flow measurement by orificemeter and venturimeter",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -15,7 +15,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": "Gas Liquid Absorption",
+                          {"id": "E99655", "name": "Gas Liquid Absorption",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -25,7 +25,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "Two Phase Flow in Horizontal Tubes",
+                           {"id": "E99654", "name": "Two Phase Flow in Horizontal Tubes",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -35,7 +35,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": "Hydrodynamics of packed column",
+                           {"id": "E99653", "name": "Hydrodynamics of packed column",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -45,7 +45,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": "Nature of flow",
+                           {"id": "E99652", "name": "Nature of flow",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -55,7 +55,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": "Adiabatic calorimetry",
+                           {"id": "E99651", "name": "Adiabatic calorimetry",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -64,7 +64,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "7", "name": "Flow through fittings",
+                            {"id": "E99650", "name": "Flow through fittings",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -72,16 +72,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "8", "name": "Heat transfer in a double pipe heat exchanger",
-                         "subsections": [{"name": "Aim"},
-                                         {"name": "Theory"},
-                                         {"name": "Pre-Test"},
-                                         {"name": "Simulator"},
-                                         {"name": "Procedure"},
-                                         {"name": "Reference"},
-                                         {"name": "Feedback"}
-                                         ]},
-                            {"id": "9", "name": "Vapour Liquid Equilibrium",
+                            {"id": "E99649", "name": "Heat transfer in a double pipe heat exchanger",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -90,7 +81,16 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "10", "name": "Ebulliometric Determination of Vapour Pressure",
+                            {"id": "E99648", "name": "Vapour Liquid Equilibrium",
+                         "subsections": [{"name": "Aim"},
+                                         {"name": "Theory"},
+                                         {"name": "Pre-Test"},
+                                         {"name": "Simulator"},
+                                         {"name": "Procedure"},
+                                         {"name": "Reference"},
+                                         {"name": "Feedback"}
+                                         ]},
+                            {"id": "E99647", "name": "Ebulliometric Determination of Vapour Pressure",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
