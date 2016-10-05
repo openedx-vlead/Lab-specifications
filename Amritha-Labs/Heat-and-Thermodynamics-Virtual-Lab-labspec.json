@@ -1,7 +1,7 @@
 {
 "course": {"org": "Amritha-University","id": "htv-au", "display_name": "Heat and Thermodynamics Virtual Lab"},
         "overview": "Heat and Thermodynamics Virtual Lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
                          {"id": "E99983", "name": "The Study of Phase Change",
