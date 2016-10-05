@@ -1,10 +1,10 @@
 {
         "course": {"org": "iitg","id": "EIL", "display_name": "Electronic instrumentation"},
         "overview": "Electronic instrumentation",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Determination of Dynamic Performance Characteristics of First Order System",
+                         {"id": "E99575", "name": "Determination of Dynamic Performance Characteristics of First Order System",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Simulator"},
@@ -12,7 +12,7 @@
                                          {"name": "Reference"},        
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": "Determination of Dynamic Performance Characteristics of Second Order System",
+                          {"id": "E99574", "name": "Determination of Dynamic Performance Characteristics of Second Order System",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Simulator"},
@@ -20,7 +20,7 @@
                                          {"name": "Reference"},        
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "Determination of Dynamic Performance Characteristics of Higher Order Systems",
+                           {"id": "E99573", "name": "Determination of Dynamic Performance Characteristics of Higher Order Systems",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Simulator"},
@@ -28,7 +28,7 @@
                                          {"name": "Reference"},        
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": "Signal Conditioning Circuit for RTD (Resistance Temperature Detector)",
+                           {"id": "E99572", "name": "Signal Conditioning Circuit for RTD (Resistance Temperature Detector)",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Simulator"},
@@ -36,7 +36,7 @@
                                          {"name": "Reference"},        
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": "Understanding The Basic Functions Of An Oscilloscope",
+                           {"id": "E99571", "name": "Understanding The Basic Functions Of An Oscilloscope",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Simulator"},
@@ -45,7 +45,7 @@
                                          {"name": "Reference"},        
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": "Analog to Digital and Digital to Analog Conversion",
+                           {"id": "E99570", "name": "Analog to Digital and Digital to Analog Conversion",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Simulator"},
@@ -53,7 +53,7 @@
                                          {"name": "Reference"},        
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "7", "name": "Electric Field Coupling",
+                            {"id": "E99569", "name": "Electric Field Coupling",
                           "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Simulator"},
@@ -61,7 +61,7 @@
                                          {"name": "Reference"},        
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "8", "name": "Magnetic Field Coupling",
+                            {"id": "E99568", "name": "Magnetic Field Coupling",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Simulator"},
@@ -69,7 +69,7 @@
                                          {"name": "Reference"},        
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "9", "name": "Grounding Practices",
+                            {"id": "E99567", "name": "Grounding Practices",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Reference"}
                                          ]}
