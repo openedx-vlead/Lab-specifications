@@ -1,10 +1,10 @@
 {
-        "course": {"org": "iitk","id": "MECH48", "display_name": "Virtual Combustion and Atomization Laboratory"},
+        "course": {"org": "iitk","id": "mech48", "display_name": "Virtual Combustion and Atomization Laboratory"},
         "overview": "Virtual Combustion and Atomization Laboratory",
-        "experiments": [{"id": "1", "name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Experiment 1: Measurement of laminar burning velocity",
+                         {"id": "E99435", "name": "Measurement of laminar burning velocity",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Intro"},
                                          {"name": "Theory"},
@@ -15,7 +15,7 @@
                                          {"name": "FAQs"},
                                          {"name": "References"}
                                          ]},
-                          {"id": "2", "name": "Experiment 2: Characterization of laminar premixed flame using chemiluminescence sensor",
+                          {"id": "E99434", "name": "Characterization of laminar premixed flame using chemiluminescence sensor",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Intro"},
                                          {"name": "About Exp"},
@@ -26,7 +26,7 @@
                                          {"name": "FAQs"},
                                          {"name": "References"}
                                          ]},
-                           {"id": "3", "name": "Experiment 3: Numerical characterization of laminar premixed methane-air flames",
+                           {"id": "E99433", "name": "Numerical characterization of laminar premixed methane-air flames",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Intro"},
                                          {"name": "Theory"},
@@ -37,7 +37,7 @@
                                          {"name": "FAQs"},
                                          {"name": "References"}
                                          ]},
-                           {"id": "4", "name": "Experiment 4: Observations on flame height of a laminar jet diffusion flame",
+                           {"id": "E99432", "name": "Observations on flame height of a laminar jet diffusion flame",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Intro"},
                                          {"name": "Theory"},
@@ -48,7 +48,7 @@
                                          {"name": "FAQs"},
                                          {"name": "References"}
                                          ]},
-                           {"id": "5", "name": "Experiment 5: Measurement of turbulent inverse diffusion flame height",
+                           {"id": "E99431", "name": "Measurement of turbulent inverse diffusion flame height",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Intro"},
                                          {"name": "Procedure"},
@@ -59,7 +59,7 @@
                                          {"name": "FAQs"},
                                          {"name": "References"}
                                          ]},
-                           {"id": "6", "name": "Experiment 6: Visualization of swirling flow and flame in a burner",
+                           {"id": "E99430", "name": "Visualization of swirling flow and flame in a burner",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Intro"},
                                          {"name": "Theory"},
@@ -70,7 +70,7 @@
                                          {"name": "FAQs"},
                                          {"name": "References"}
                                          ]},
-                            {"id": "7", "name": "Experiment 7: Flame spread over a solid fuel surface",
+                            {"id": "E99429", "name": "Flame spread over a solid fuel surface",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Intro"},
                                          {"name": "Theory"},
@@ -80,7 +80,7 @@
                                          {"name": "FAQs"},
                                          {"name": "References"}
                                          ]},
-                            {"id": "8", "name": "Experiment 8: Characterization of droplet combustion",
+                            {"id": "E99428", "name": "Characterization of droplet combustion",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Intro"},
                                          {"name": "Theory"},
@@ -91,7 +91,7 @@
                                          {"name": "FAQs"},
                                          {"name": "References"}
                                          ]},
-                            {"id": "9", "name": "Experiment 9: Measurement of droplet size for an air-blast atomizer",
+                            {"id": "E99427", "name": "Measurement of droplet size for an air-blast atomizer",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Intro"},
                                          {"name": "Theory"},
