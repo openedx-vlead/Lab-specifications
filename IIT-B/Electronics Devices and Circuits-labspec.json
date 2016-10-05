@@ -1,10 +1,10 @@
 {
-        "course": {"org": "iitb","id": "ECE40", "display_name": "Electronic Devices and Circuits"},
+        "course": {"org": "iitb","id": "ece40", "display_name": "Electronic Devices and Circuits"},
         "overview": "Magnetic Levitation Lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "I-V Characteristics and Fabrication of p-n junction Diode",
+                         {"id": "E99646", "name": "I-V Characteristics and Fabrication of p-n junction Diode",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -13,7 +13,7 @@
                                          {"name": "Post-Test"},
                                          {"name": "Addional Resources"}
                                          ]},
-                          {"id": "2", "name": "I-V Characteristics of LED Diode",
+                          {"id": "E99645", "name": "I-V Characteristics of LED Diode",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -22,7 +22,7 @@
                                          {"name": "Post-Test"},
                                          {"name": "Addional Resources"}
                                          ]},
-                           {"id": "3", "name": "Rectifier Circuits",
+                           {"id": "E99644", "name": "Rectifier Circuits",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -31,7 +31,7 @@
                                          {"name": "Post-Test"},
                                          {"name": "Addional Resources"}
                                          ]},
-                           {"id": "4", "name": "Wave Shaping Circuits using Diodes",
+                           {"id": "E99643", "name": "Wave Shaping Circuits using Diodes",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -40,7 +40,7 @@
                                          {"name": "Post-Test"},
                                          {"name": "Addional Resources"}
                                          ]},
-                           {"id": "5", "name": "BJT characteristics",
+                           {"id": "E99642", "name": "BJT characteristics",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -49,7 +49,7 @@
                                          {"name": "Post-Test"},
                                          {"name": "Addional Resources"}
                                          ]},
-                           {"id": "6", "name": "BJT biasing and amplifier response",
+                           {"id": "E99641", "name": "BJT biasing and amplifier response",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -58,7 +58,7 @@
                                          {"name": "Post-Test"},
                                          {"name": "Addional Resources"}
                                          ]},
-                            {"id": "7", "name": "RC circuits",
+                            {"id": "E99640", "name": "RC circuits",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -67,7 +67,7 @@
                                          {"name": "Post-Test"},
                                          {"name": "Addional Resources"}
                                          ]},
-                            {"id": "8", "name": "Wien Bridge Oscillator",
+                            {"id": "E99639", "name": "Wien Bridge Oscillator",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -76,7 +76,7 @@
                                          {"name": "Post-Test"},
                                          {"name": "Addional Resources"}
                                          ]},
-                            {"id": "9", "name": "Non linear circuits using Opamps",
+                            {"id": "E99638", "name": "Non linear circuits using Opamps",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -85,7 +85,7 @@
                                          {"name": "Post-Test"},
                                          {"name": "Addional Resources"}
                                          ]},
-                            {"id": "10", "name": "Active filters",
+                            {"id": "E99637", "name": "Active filters",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -94,7 +94,7 @@
                                          {"name": "Post-Test"},
                                          {"name": "Addional Resources"}
                                          ]},
-                            {"id": "11", "name": "Monostable and Astable multivibrators using IC 555",
+                            {"id": "E99636", "name": "Monostable and Astable multivibrators using IC 555",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
