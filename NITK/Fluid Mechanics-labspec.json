@@ -1,5 +1,5 @@
 {
-        "course": {"org": "nitk","id": "civil20", "display_name": "Fluid Mechanics"},
+        "course": {"org": "nitk","id": "CIVIL20", "display_name": "Fluid Mechanics"},
         "overview": "Fluid Mechanics",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
