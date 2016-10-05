@@ -1,10 +1,10 @@
 {
-        "course": {"org": "iitd","id": "ECE08", "display_name": "Engineering Electro-magnetics Laboratory"},
+        "course": {"org": "iitd","id": "ece08", "display_name": "Engineering Electro-magnetics Laboratory"},
         "overview": "Engineering Electro-magnetics Laboratory",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Measurement of VSWR on a line",
+                         {"id": "E99604", "name": "Measurement of VSWR on a line",
                          "subsections": [{"name": "To perform the experiments please download the following software:"},
                                          {"name": "Manual"},
                                          {"name": "Pre Experiment Quiz"},
@@ -13,7 +13,7 @@
                                          {"name": "Post Experiment Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": "Determination of unknown impedance",
+                          {"id": "E99603", "name": "Determination of unknown impedance",
                          "subsections": [{"name": "To perform the experiments please download the following software:"},
                                          {"name": "Manual"},
                                          {"name": "Pre Experiment Quiz"},
@@ -22,7 +22,7 @@
                                          {"name": "Post Experiment Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "Relationship between guide λg and λ0",
+                           {"id": "E99602", "name": "Relationship between guide λg and λ0",
                          "subsections": [{"name": "To perform the experiments please download the following software:"},
                                          {"name": "Manual"},
                                          {"name": "Pre Experiment Quiz"},
@@ -31,7 +31,7 @@
                                          {"name": "Post Experiment Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": "Experiment of Microwave Cavity",
+                           {"id": "E99601", "name": "Experiment of Microwave Cavity",
                          "subsections": [{"name": "To perform the experiments please download the following software:"},
                                          {"name": "Manual"},
                                          {"name": "Pre Experiment Quiz"},
@@ -40,7 +40,7 @@
                                          {"name": "Post Experiment Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": "Microwave Coupler",
+                           {"id": "E99600", "name": "Microwave Coupler",
                          "subsections": [{"name": "To perform the experiments please download the following software:"},
                                          {"name": "Manual"},
                                          {"name": "Pre Experiment Quiz"},
@@ -49,7 +49,7 @@
                                          {"name": "Post Experiment Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": " Experiments of Transmission Line",
+                           {"id": "E99599", "name": " Experiments of Transmission Line",
                          "subsections": [{"name": "Matched Terminated Transmission Line"},
                                          {"name": "Short Circuited Transmission Line Quiz"},
                                          {"name": "Open Circuited Transmission Line"},
@@ -58,7 +58,7 @@
                                          {"name": "Attenuated Travelling Wave"},
                                          {"name": "Dispersed Travelling Wave"}
                                          ]},
-                            {"id": "7", "name": "Radiation Pattern of Horn Antenna",
+                            {"id": "E99598", "name": "Radiation Pattern of Horn Antenna",
                          "subsections": [{"name": "To perform the experiments please download the following software:"},
                                          {"name": "Manual"},
                                          {"name": "Pre Experiment Quiz"},
@@ -67,7 +67,7 @@
                                          {"name": "Post Experiment Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "8", "name": "Antenna Gain measurement",
+                            {"id": "E99597", "name": "Antenna Gain measurement",
                          "subsections": [{"name": "To perform the experiments please download the following software:"},
                                          {"name": "Manual"},
                                          {"name": "Pre Experiment Quiz"},
@@ -76,7 +76,7 @@
                                          {"name": "Post Experiment Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "9", "name": "Experiments on Optical Fiber",
+                            {"id": "E99596", "name": "Experiments on Optical Fiber",
                          "subsections": [{"name": "Propagation Loss"},
                                          {"name": "Bending Loss"}
                                          ]}
