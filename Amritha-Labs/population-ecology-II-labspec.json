@@ -1,5 +1,5 @@
 {
- "course": {"org": "Amritha-University","id": "biotech17", "display_name": "Population ecology Virtual Lab II"},
+ "course": {"org": "Amritha-University","id": "BIOTECH17", "display_name": "Population ecology Virtual Lab II"},
         "overview": "Population ecology Virtual Lab II",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
