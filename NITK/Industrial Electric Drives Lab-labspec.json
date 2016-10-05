@@ -1,10 +1,10 @@
 {
-        "course": {"org": "nitk","id": "EEE08", "display_name": "Industrial Electric Drives Lab"},
+        "course": {"org": "nitk","id": "eee08", "display_name": "Industrial Electric Drives Lab"},
         "overview": "Industrial Electric Drives Lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Experiment 1: PLC On-Delay Timer Instruction",
+                         {"id": "E99396", "name": "PLC On-Delay Timer Instruction",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -14,7 +14,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                          {"id": "2", "name": "Experiment 2:PLC Off-Delay Timer Instruction",
+                          {"id": "E99395", "name": "PLC Off-Delay Timer Instruction",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -24,7 +24,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"id": "3", "name": "Experiment 3: PLC Retentive Timer On Instruction",
+                           {"id": "E99394", "name": "PLC Retentive Timer On Instruction",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -34,7 +34,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"id": "4", "name": "Experiment 4 :PLC COUNT-UP INSTRUCTION",
+                           {"id": "E99393", "name": "PLC COUNT-UP INSTRUCTION",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -44,7 +44,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"id": "5", "name": "Experiment 5 :PLC COUNT-DOWN INSTRUCTION",
+                           {"id": "E99392", "name": "PLC COUNT-DOWN INSTRUCTION",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -54,7 +54,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"id": "6", "name": "Experiment 6 :Garage Shutter Opening and Closing Using PLC:",
+                           {"id": "E99391", "name": "Garage Shutter Opening and Closing Using PLC:",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -64,7 +64,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"id": "7", "name": "Experiment 7 :Container Filling Process Using PLC",
+                            {"id": "E99390", "name": "Container Filling Process Using PLC",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -74,7 +74,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"id": "8", "name": "Experiment 8 : Simultaneous output interlock using PLC",
+                            {"id": "E99389", "name": "Simultaneous output interlock using PLC",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -84,7 +84,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"id": "9", "name": "Experiment 9 :Maximum Simultaneous Operations Limiter using PLC",
+                            {"id": "E99388", "name": "Maximum Simultaneous Operations Limiter using PLC",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -94,7 +94,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"id": "10", "name": "Experiment 10 : Motor forward and reverse direction control using PLC",
+                            {"id": "E99387", "name": "Motor forward and reverse direction control using PLC",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
