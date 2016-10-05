@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitg","id": "mfts", "display_name": "Virtual laboratory Experience in Fluid and Thermal Sciences"},
+        "course": {"org": "iitg","id": "MFTS", "display_name": "Virtual laboratory Experience in Fluid and Thermal Sciences"},
         "overview": "Virtual laboratory Experience in Fluid and Thermal Sciences",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
