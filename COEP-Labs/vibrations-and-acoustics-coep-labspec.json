@@ -1,10 +1,10 @@
 {
-        "course": {"org": "COEP","id": "MECH04", "display_name": "Virtual Vibrations & Acoustics Lab"},
+        "course": {"org": "COEP","id": "mech04", "display_name": "Virtual Vibrations & Acoustics Lab"},
         "overview": "In this lab vibration related techniques are demonstrated like MI of connecting rod, force response and free response of SDOF, Trifiliar suspension, tuned vibration absorber and many more.",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "MI of Connecting Rod",
+                         {"id": "E99901", "name": "MI of Connecting Rod",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Simulator"},
@@ -13,7 +13,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": "Impact test on cantilever Modal analysis",
+                          {"id": "E99900", "name": "Impact test on cantilever Modal analysis",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Simulator"},
@@ -22,7 +22,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "Sine Sweep of base excitation of cantilever",
+                           {"id": "E99899", "name": "Sine Sweep of base excitation of cantilever",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Simulator"},
@@ -31,7 +31,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": "Forced response of SDOF",
+                           {"id": "E99898", "name": "Forced response of SDOF",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Simulator"},
@@ -40,7 +40,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": "Free response of SDOF",
+                           {"id": "E99897", "name": "Free response of SDOF",
                            "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Simulator"},
@@ -49,7 +49,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": "Trifiliar Suspension",
+                           {"id": "E99896", "name": "Trifiliar Suspension",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Simulator"},
@@ -58,7 +58,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "7", "name": "SDOF System - Arbitrary Excitation",
+                            {"id": "E99895", "name": "SDOF System - Arbitrary Excitation",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Simulator"},
                                          {"name": "Procedure"},        
@@ -66,7 +66,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "8", "name": "Tuned Vibration Absorber",
+                            {"id": "E99894", "name": "Tuned Vibration Absorber",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Simulator"},
