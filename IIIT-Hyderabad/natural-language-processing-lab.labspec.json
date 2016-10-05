@@ -1,10 +1,10 @@
 {
-        "course": {"org": "iiith","id": "CSE24", "display_name": "Natural Language Processing Lab"},
+        "course": {"org": "iiith","id": "cse24", "display_name": "Natural Language Processing Lab"},
         "overview": "Natural Language Processing Lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Word Analysis",
+                         {"id": "E99709", "name": "Word Analysis",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -14,7 +14,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": "Word Generation",
+                          {"id": "E99708", "name": "Word Generation",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -24,7 +24,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "Morphology",
+                           {"id": "E99707", "name": "Morphology",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -34,7 +34,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": "N-Grams",
+                           {"id": "E99706", "name": "N-Grams",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -44,7 +44,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": "N-Grams Smoothing",
+                           {"id": "E99705", "name": "N-Grams Smoothing",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -54,7 +54,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": "POS Tagging: Hidden Markov Model",
+                           {"id": "E99704", "name": "POS Tagging: Hidden Markov Model",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -64,7 +64,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "7", "name": "POS Tagging: Viterbi Decoding",
+                            {"id": "E99703", "name": "POS Tagging: Viterbi Decoding",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -74,7 +74,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "8", "name": "Building POS Tagger",
+                            {"id": "E99702", "name": "Building POS Tagger",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Pre-Test"},
@@ -83,7 +83,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "9", "name": "Chunking",
+                            {"id": "E99701", "name": "Chunking",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -93,7 +93,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "10", "name": "Building Chunker",
+                            {"id": "E99700", "name": "Building Chunker",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
