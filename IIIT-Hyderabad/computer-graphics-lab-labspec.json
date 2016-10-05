@@ -1,10 +1,10 @@
 {
-        "course": {"org": "IIIT-H","id": "CSE18", "display_name": "Computer Graphics Lab"},
+        "course": {"org": "IIIT-H","id": "cse18", "display_name": "Computer Graphics Lab"},
         "overview": "Welcome to the Computer Graphics lab ! Here , we will try some virtual experiments to understand the different concepts of graphics.",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Points and Co-ordinate Systems",
+                         {"id": "E99819", "name": "Points and Co-ordinate Systems",
                         "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -15,7 +15,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": "Transformations: Translation",
+                          {"id": "E99818", "name": "Transformations: Translation",
                         "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -26,7 +26,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "Transformations: Rotation",
+                           {"id": "E99817", "name": "Transformations: Rotation",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -37,7 +37,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": "Transformations: Scaling",
+                           {"id": "E99816", "name": "Transformations: Scaling",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -48,7 +48,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": "Hierarchical Transformations: 2D Demo",
+                           {"id": "E99815", "name": "Hierarchical Transformations: 2D Demo",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -59,7 +59,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": "Hierarchical Transformations: 3D Articulated Arm",
+                           {"id": "E99814", "name": "Hierarchical Transformations: 3D Articulated Arm",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -70,7 +70,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "7", "name": "Projections and Cameras",
+                            {"id": "E99813", "name": "Projections and Cameras",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -81,7 +81,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "8", "name": "Clipping: Line",
+                            {"id": "E99812", "name": "Clipping: Line",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -92,7 +92,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "9", "name": "Clipping: Polygon",
+                            {"id": "E99811", "name": "Clipping: Polygon",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -103,7 +103,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "10", "name": "Rasterization: Line",
+                            {"id": "E99810", "name": "Rasterization: Line",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -114,7 +114,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "11", "name": "Rasterization: Polygon",
+                            {"id": "E99809", "name": "Rasterization: Polygon",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
