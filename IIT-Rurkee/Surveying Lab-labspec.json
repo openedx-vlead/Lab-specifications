@@ -1,15 +1,15 @@
 {
-        "course": {"org": "iitr","id": "CIVIL15", "display_name": "Surveying Lab"},
+        "course": {"org": "iitr","id": "civil15", "display_name": "Surveying Lab"},
         "overview": "Surveying Lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Study of various parts of Auto Level",
+                         {"id": "E99408", "name": "Study of various parts of Auto Level",
                          "subsections": [{"name": "GALLERY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "VARIOUS PARTS OF AUTO LEVEL"}
                                          ]},
-                          {"id": "2", "name": "Carry out Fly Leveling using Auto Level",
+                          {"id": "E99407", "name": "Carry out Fly Leveling using Auto Level",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -19,7 +19,7 @@
                                          {"name": "QUIZZES"},
                                          {"name": "DOS AND DONT'S"}
                                          ]},
-                           {"id": "3", "name": "Carry out Profile Leveling using Auto Level",
+                           {"id": "E99406", "name": "Carry out Profile Leveling using Auto Level",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -29,7 +29,7 @@
                                          {"name": "QUIZZES"},
                                          {"name": "DOS AND DONT'S"}
                                          ]},
-                           {"id": "4", "name": "Observations of Vertical and Horizontal angles using Total Station",
+                           {"id": "E99405", "name": "Observations of Vertical and Horizontal angles using Total Station",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -39,7 +39,7 @@
                                          {"name": "QUIZZES"},
                                          {"name": "DOS AND DONT'S"}
                                          ]},
-                           {"id": "5", "name": "Study of Plane Table and Its Accesories",
+                           {"id": "E99404", "name": "Study of Plane Table and Its Accesories",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -47,7 +47,7 @@
                                          {"name": "PROCEDURE"},        
                                          {"name": "QUIZZES"}
                                          ]},
-                           {"id": "6", "name": "Detail Plotting by Radiation method",
+                           {"id": "E99403", "name": "Detail Plotting by Radiation method",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -57,7 +57,7 @@
                                          {"name": "QUIZZES"},
                                          {"name": "DOS AND DONT'S"}
                                          ]},
-                            {"id": "7", "name": "Detail Plotting By Intersection Method",
+                            {"id": "E99402", "name": "Detail Plotting By Intersection Method",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -67,7 +67,7 @@
                                          {"name": "QUIZZES"},
                                          {"name": "DOS AND DONT'S"}
                                          ]},
-                            {"id": "8", "name": "Deatil Plotting by Resection Method",
+                            {"id": "E99401", "name": "Deatil Plotting by Resection Method",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -76,7 +76,7 @@
                                          {"name": "QUIZZES"},
                                          {"name": "DOS AND DONT'S"}
                                          ]},
-                            {"id": "9", "name": "Carry out Contouring in the field",
+                            {"id": "E99400", "name": "Carry out Contouring in the field",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -85,7 +85,7 @@
                                          {"name": "QUIZZES"},
                                          {"name": "DOS AND DONT'S"}
                                          ]},
-                            {"id": "10", "name": "Study of GPS and Its Accessories",
+                            {"id": "E99399", "name": "Study of GPS and Its Accessories",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
@@ -94,7 +94,7 @@
                                          {"name": "QUIZZES"},
                                          {"name": "DOS AND DONT'S"}
                                          ]},
-                            {"id": "11", "name": "Measurements Using GPS",
+                            {"id": "E99398", "name": "Measurements Using GPS",
                          "subsections": [{"name": "THEORY"},
                                          {"name": "OBJECTIVE"},
                                          {"name": "EQP. USED"},
