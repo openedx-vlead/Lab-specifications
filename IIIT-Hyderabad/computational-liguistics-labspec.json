@@ -1,5 +1,5 @@
 {
-        "course": {"org": "IIIT-H","id": "cse23", "display_name": "Computational Linguistics Lab"},
+        "course": {"org": "IIIT-H","id": "CSE23", "display_name": "Computational Linguistics Lab"},
         "overview": "The interactive experiments in this lab will give the students an opportunity for learning and better understanding of using computer programming as a tool to solve basic to advanced problems.",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
