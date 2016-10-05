@@ -1,10 +1,10 @@
 {
-        "course": {"org": "COEP","id": "MECH18", "display_name": "Virtual FAB Laboratory"},
+        "course": {"org": "COEP","id": "mech18", "display_name": "Virtual FAB Laboratory"},
         "overview": "Let us understand and implement anything and everything using 3D machining, 3D scanning, Computer Control, cutting of wooden object, PCB fabrication and many more with advance tools and techniques.",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Computer Controlled Cutting of wooden object",
+                         {"id": "E99942", "name": "Computer Controlled Cutting of wooden object",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -15,7 +15,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": "3D Machining",
+                          {"id": "E99941", "name": "3D Machining",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -25,7 +25,7 @@
                                          {"name": "Post Test"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "PCB design & fabrication",
+                           {"id": "E99940", "name": "PCB design & fabrication",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -35,7 +35,7 @@
                                          {"name": "Post Test"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": "Interface & Application Programming",
+                           {"id": "E99939", "name": "Interface & Application Programming",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -45,7 +45,7 @@
                                          {"name": "Post Test"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": "Digital Fabrication of Flexible Circuit board",
+                           {"id": "E99938", "name": "Digital Fabrication of Flexible Circuit board",
                             "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Simulator"}, 
@@ -54,7 +54,7 @@
                                          {"name": "Post Test"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": "3D scanning",
+                           {"id": "E99937", "name": "3D scanning",
                            "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -64,7 +64,7 @@
                                          {"name": "Post Test"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "7", "name": "Molding and Casting of Polyurethane parts",
+                            {"id": "E99936", "name": "Molding and Casting of Polyurethane parts",
                             "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -72,7 +72,7 @@
                                          {"name": "Audio/Video"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "8", "name": "Digital Fabrication and Project Development",
+                            {"id": "E99935", "name": "Digital Fabrication and Project Development",
                            "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},       
