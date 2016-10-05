@@ -1,10 +1,10 @@
 {
-        "course": {"org": "iitg","id": "DSGN-ENGG04", "display_name": "Ergonomics Lab for Assessing Physical Aspects of Design"},
+        "course": {"org": "iitg","id": "dsgn-engg04", "display_name": "Ergonomics Lab for Assessing Physical Aspects of Design"},
         "overview": "Ergonomics Lab for Assessing Physical Aspects of Design",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Static anthropometry, standing heights",
+                         {"id": "E99566", "name": "Static anthropometry, standing heights",
                          "subsections": [{"name": "Home"},
                                          {"name": "Reference Datasheet"},
                                          {"name": "Practical Experience"},
@@ -12,7 +12,7 @@
                                          {"name": "Quiz"},        
                                          {"name": "Experiments"}
                                          ]},
-                          {"id": "2", "name": "Arm forward reaches, standing erect and forward bend",
+                          {"id": "E99565", "name": "Arm forward reaches, standing erect and forward bend",
                          "subsections": [{"name": "Home"},
                                          {"name": "Reference Datasheet"},
                                          {"name": "Practical Experience"},
@@ -20,7 +20,7 @@
                                          {"name": "Quiz"},        
                                          {"name": "Experiments"}
                                          ]},
-                           {"id": "3", "name": "Sitting Antropometry, static heights",
+                           {"id": "E99564", "name": "Sitting Antropometry, static heights",
                          "subsections": [{"name": "Home"},
                                          {"name": "Reference Datasheet"},
                                          {"name": "Practical Experience"},
@@ -28,7 +28,7 @@
                                          {"name": "Quiz"},        
                                          {"name": "Experiments"}
                                          ]},
-                           {"id": "4", "name": "Horizontal work surface at around elbow height",
+                           {"id": "E99563", "name": "Horizontal work surface at around elbow height",
                          "subsections": [{"name": "Home"},
                                          {"name": "Reference Datasheet"},
                                          {"name": "Practical Experience"},
@@ -36,7 +36,7 @@
                                          {"name": "Quiz"},        
                                          {"name": "Experiments"}
                                          ]},
-                           {"id": "5", "name": "Effective work platform height, standing",
+                           {"id": "E99562", "name": "Effective work platform height, standing",
                          "subsections": [{"name": "Home"},
                                          {"name": "Reference Datasheet"},
                                          {"name": "Practical Experience"},
@@ -44,7 +44,7 @@
                                          {"name": "Quiz"},        
                                          {"name": "Experiments"}
                                          ]},
-                           {"id": "6", "name": "Effective vertical work surface",
+                           {"id": "E99561", "name": "Effective vertical work surface",
                          "subsections": [{"name": "Home"},
                                          {"name": "Reference Datasheet"},
                                          {"name": "Practical Experience"},
@@ -52,7 +52,7 @@
                                          {"name": "Quiz"},        
                                          {"name": "Experiments"}
                                          ]},
-                            {"id": "7", "name": "Hand dimension",
+                            {"id": "E99560", "name": "Hand dimension",
                          "subsections": [{"name": "Home"},
                                          {"name": "Reference Datasheet"},
                                          {"name": "Practical Experience"},
@@ -60,7 +60,7 @@
                                          {"name": "Quiz"},        
                                          {"name": "Experiments"}
                                          ]},
-                            {"id": "8", "name": "Human dimensional consideration for general seating",
+                            {"id": "E99559", "name": "Human dimensional consideration for general seating",
                          "subsections": [{"name": "Home"},
                                          {"name": "Reference Datasheet"},
                                          {"name": "Practical Experience"},
@@ -68,7 +68,7 @@
                                          {"name": "Quiz"},        
                                          {"name": "Experiments"}
                                          ]},
-                            {"id": "9", "name": "Squatting posture",
+                            {"id": "E99558", "name": "Squatting posture",
                          "subsections": [{"name": "Home"},
                                          {"name": "Reference Datasheet"},
                                          {"name": "Practical Experience"},
@@ -76,7 +76,7 @@
                                          {"name": "Quiz"},        
                                          {"name": "Experiments"}
                                          ]},
-                            {"id": "10", "name": "Body movement ranges",
+                            {"id": "E99557", "name": "Body movement ranges",
                          "subsections": [{"name": "Home"},
                                          {"name": "Reference Datasheet"},
                                          {"name": "Practical Experience"},
