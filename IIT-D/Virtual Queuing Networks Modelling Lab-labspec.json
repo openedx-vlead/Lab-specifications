@@ -1,7 +1,7 @@
 {
-        "course": {"org": "iitd","id": "ECE21", "display_name": "Virtual Queuing Networks Modelling Lab"},
+        "course": {"org": "iitd","id": "ece21", "display_name": "Virtual Queuing Networks Modelling Lab"},
         "overview": "Virtual Queuing Networks Modelling Lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
                          {"id": "1", "name": "Experiment-1",
