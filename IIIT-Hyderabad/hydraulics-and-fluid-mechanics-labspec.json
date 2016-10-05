@@ -1,5 +1,5 @@
 {
-        "course": {"org": "IIITH","id": "eerc03", "display_name": "Hydraulics and Fluid Mechanics lab"},
+        "course": {"org": "IIITH","id": "EERC03", "display_name": "Hydraulics and Fluid Mechanics lab"},
         "overview": "Fluid mechanics is the branch of physics which deals with the properties of fluids, namely liquids and gases, and their interaction with forces. ",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"},
