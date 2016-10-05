@@ -1,61 +1,61 @@
 {
-        "course": {"org": "iitg","id": "HSS02", "display_name": "Virtual English and Communication Lab"},
+        "course": {"org": "iitg","id": "hss02", "display_name": "Virtual English and Communication Lab"},
         "overview": "Virtual English and Communication Lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Business Communication",
+                         {"id": "E99498", "name": "Business Communication",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
                                          {"name": "Reference"}
                                          ]},
-                          {"id": "2", "name": "Common Errors in English",
+                          {"id": "E99497", "name": "Common Errors in English",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
                                          {"name": "Reference"}
                                          ]},
-                           {"id": "3", "name": "Communication Skills",
+                           {"id": "E99496", "name": "Communication Skills",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
                                          {"name": "Reference"}
                                          ]},
-                           {"id": "4", "name": "Grammar",
+                           {"id": "E99495", "name": "Grammar",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
                                          {"name": "Reference"}
                                          ]},
-                           {"id": "5", "name": "Technical Communication",
+                           {"id": "E99494", "name": "Technical Communication",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
                                          {"name": "Reference"}
                                          ]},
-                           {"id": "6", "name": "Vocabulary",
+                           {"id": "E99493", "name": "Vocabulary",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
                                          {"name": "Reference"}
                                          ]},
-                            {"id": "7", "name": "Reading and Comprehension",
+                            {"id": "E99492", "name": "Reading and Comprehension",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
                                          {"name": "Reference"}
                                          ]},
-                            {"id": "8", "name": "Listening Skills",
+                            {"id": "E99491", "name": "Listening Skills",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
                                          {"name": "Reference"}
                                          ]},
-                            {"id": "9", "name": "Video Tutorials",
+                            {"id": "E99490", "name": "Video Tutorials",
                          "subsections": [{"name": "Collection"}
                                          ]},
-                            {"id": "10", "name": "Lab Staff and Contributors (Not an experiment)",
+                            {"id": "E99489", "name": "Lab Staff and Contributors (Not an experiment)",
                          "subsections": [{"name": "Collection"}
                                          ]}
                             
