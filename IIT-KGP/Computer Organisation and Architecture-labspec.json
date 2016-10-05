@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitkgp","id": "cse10", "display_name": "Computer Architecture & organization"},
+        "course": {"org": "iitkgp","id": "SCE10", "display_name": "Computer Architecture & organization"},
         "overview": "Computer Architecture & organization",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
