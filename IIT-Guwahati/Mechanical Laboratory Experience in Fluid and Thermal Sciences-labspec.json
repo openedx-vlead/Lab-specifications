@@ -1,30 +1,30 @@
 {
-        "course": {"org": "iitg","id": "MFTS", "display_name": "Virtual laboratory Experience in Fluid and Thermal Sciences"},
+        "course": {"org": "iitg","id": "mfts-iitg", "display_name": "Virtual laboratory Experience in Fluid and Thermal Sciences"},
         "overview": "Virtual laboratory Experience in Fluid and Thermal Sciences",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Energy Loses in Pipe Flow",
+                         {"id": "E99544", "name": "Energy Loses in Pipe Flow",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Apparatus"},
                                          {"name": "Procedure"},
                                          {"name": "Software"},
                                          {"name": "Simulator"}        
                                          ]},
-                          {"id": "2", "name": "Flow through Venturi Meter",
+                          {"id": "E99543", "name": "Flow through Venturi Meter",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Apparatus"},
                                          {"name": "Procedure"},
                                          {"name": "Software"},
                                          {"name": "Simulator"}        
                                          ]},
-                           {"id": "3", "name": "Incompressible Flow through Nozzle and a Diffuser",
+                           {"id": "E99542", "name": "Incompressible Flow through Nozzle and a Diffuser",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Apparatus"},
                                          {"name": "Procedure"},
                                          {"name": "Simulator"}       
                                          ]},
-                           {"id": "4", "name": "Conduction Analysis of a Single Material Slab",
+                           {"id": "E99541", "name": "Conduction Analysis of a Single Material Slab",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Software Package"},
@@ -33,7 +33,7 @@
                                          {"name": "Demonstration"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"id": "5", "name": "Conduction Analysis of a single Material Sphere",
+                           {"id": "E99540", "name": "Conduction Analysis of a single Material Sphere",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Software Package"},
@@ -42,7 +42,7 @@
                                          {"name": "Demonstration"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"id": "6", "name": "Conduction Analysis of a single Material Cylinder",
+                           {"id": "E99539", "name": "Conduction Analysis of a single Material Cylinder",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Software Package"},
@@ -51,7 +51,7 @@
                                          {"name": "Demonstration"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"id": "7", "name": "Conduction Analysis of a Double Material Slab",
+                            {"id": "E99538", "name": "Conduction Analysis of a Double Material Slab",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Software Package"},
@@ -60,7 +60,7 @@
                                          {"name": "Demonstration"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"id": "8", "name": "Conduction Analysis of a Double Material Sphere",
+                            {"id": "E99537", "name": "Conduction Analysis of a Double Material Sphere",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Software Package"},
@@ -69,7 +69,7 @@
                                          {"name": "Demonstration"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"id": "9", "name": "Conduction Analysis of Double Material Cylinder",
+                            {"id": "E99536", "name": "Conduction Analysis of Double Material Cylinder",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Software Package"},
@@ -78,7 +78,7 @@
                                          {"name": "Demonstration"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"id": "10", "name": "To determine the overall heat transfer coefficient (U) in the parallel flow heat exchanger",
+                            {"id": "E99535", "name": "To determine the overall heat transfer coefficient (U) in the parallel flow heat exchanger",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Software Package"},
@@ -86,7 +86,7 @@
                                          {"name": "Simulator"},        
                                          {"name": "Demonstration"}
 					 ]},
-                            {"id": "11", "name": "To determine the overall heat transfer coefficient (U) in the counter flow heat exchanger",
+                            {"id": "E99534", "name": "To determine the overall heat transfer coefficient (U) in the counter flow heat exchanger",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Software Package"},
@@ -94,14 +94,14 @@
                                          {"name": "Simulator"},        
                                          {"name": "Demonstration"}
 					 ]},
-                            {"id": "12", "name": "To investigate the Lambert’s distance law",
+                            {"id": "E99533", "name": "To investigate the Lambert’s distance law",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Software Package"},
                                          {"name": "Setup"},
                                          {"name": "Simulator"}       
 					 ]},
-                            {"id": "13", "name": "To investigate the Lambert’s direction law (cosine law)",
+                            {"id": "E99532", "name": "To investigate the Lambert’s direction law (cosine law)",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Software Package"},
