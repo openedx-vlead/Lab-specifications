@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitg","id": "ece10", "display_name": "Signals and Systems Laboratory"},
+        "course": {"org": "iitg","id": "ECE10", "display_name": "Signals and Systems Laboratory"},
         "overview": "Signals and Systems Laboratory",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
