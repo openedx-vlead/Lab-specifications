@@ -1,7 +1,7 @@
 {
         "course": {"org": "IIITH","id": "EERC04", "display_name": "Basic Structural Analysis Lab"},
         "overview": "It gives the basic understanding of structural member under the action of loads",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "List of experiments"},
                                          {"name": "Target Audience"},
@@ -9,7 +9,7 @@
                                          {"name": "Prerequisites"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"id": "1", "name": " Single Span Beams Experiment",
+                         {"id": "E99838", "name": " Single Span Beams Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -19,7 +19,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                         {"id": "2", "name": "Continuous Beams Experiment",
+                         {"id": "E99837", "name": "Continuous Beams Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -30,7 +30,7 @@
                                          {"name": "FurtherReadings"}
                                          ]},
 
-                          {"id": "3", "name": "Column Analysis Experiment",
+                          {"id": "E99836", "name": "Column Analysis Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -40,7 +40,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "4", "name": " Portal Frames Experiment",
+                           {"id": "E99835", "name": " Portal Frames Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -50,7 +50,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "5", "name": "Plates Experiment",
+                           {"id": "E99834", "name": "Plates Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -60,7 +60,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "6", "name": "Rijid Joints Experiment",
+                           {"id": "E99833", "name": "Rijid Joints Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -70,7 +70,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "7", "name": " Arches Experiment",
+                           {"id": "E99832", "name": " Arches Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -80,7 +80,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                            {"id": "8", "name": "Trusses Experiment",
+                            {"id": "E99831", "name": "Trusses Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -90,7 +90,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                            {"id": "9", "name": "Retaining Walls Experiment",
+                            {"id": "E99830", "name": "Retaining Walls Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -100,7 +100,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                            {"id": "10", "name": "Plastic Hinge Experiment",
+                            {"id": "E99829", "name": "Plastic Hinge Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
