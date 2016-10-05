@@ -1,10 +1,10 @@
 {
-        "course": {"org": "nitk","id": "CHEM05", "display_name": "Process Control, Reaction Engineering and Unit Operations Lab"},
+        "course": {"org": "nitk","id": "chem05", "display_name": "Process Control, Reaction Engineering and Unit Operations Lab"},
         "overview": "Process Control, Reaction Engineering and Unit Operations Lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id":"1", "name": "Flow Through Pipes:",
+                         {"id":"E99340", "name": "Flow Through Pipes",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -14,7 +14,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                          {"id":"2", "name": "Flow Through Fittings:",
+                          {"id":"E99339", "name": "Flow Through Fittings",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -24,7 +24,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"id":"3", "name": "Flow through orifice meter:",
+                           {"id":"E99338", "name": "Flow through orifice meter",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -34,7 +34,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"id":"4", "name": "Flow through Venturi meter:",
+                           {"id":"E99337", "name": "Flow through Venturi meter",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -44,7 +44,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"id":"5", "name": "Flow through Packed Bed:",
+                           {"id":"E99336", "name": "Flow through Packed Bed",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -54,7 +54,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"id":"6", "name": "Flow through Fluidized Bed:",
+                           {"id":"E99335", "name": "Flow through Fluidized Bed",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -64,7 +64,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"id":"7", "name": "Reaction kinetic studies in a batch reactor:",
+                            {"id":"E99334", "name": "Reaction kinetic studies in a batch reactor",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -74,7 +74,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"id":"8", "name": "Reaction kinetic studies in a mixed flow reactor:",
+                            {"id":"E99333", "name": "Reaction kinetic studies in a mixed flow reactor",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -84,7 +84,7 @@
                                          {"name": "Video"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"id":"9", "name": "Reaction kinetic studies in a plug flow reactor:",
+                            {"id":"E99332", "name": "Reaction kinetic studies in a plug flow reactor",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
