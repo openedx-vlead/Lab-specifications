@@ -1,7 +1,7 @@
 {
-        "course": {"org": "IIITH","id": "CCNSB03", "display_name": "Molecular Absorption Spectroscopy Lab"},
+        "course": {"org": "IIITH","id": "ccnsb03", "display_name": "Molecular Absorption Spectroscopy Lab"},
         "overview": "Spectroscopy uses the absorption, emission, or scattering of electromagnetic radiation by atoms, molecules or their ions, is employed to study these species and many physical processes.",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Target Audience"},
                                          {"name": "Objective"},
@@ -10,7 +10,7 @@
                                          {"name": "Acknowledgement"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"id": "1", "name": "  Familiarization with the UV-Visible Absorption Spectroscopy:  ",
+                         {"id": "E99740", "name": "  Familiarization with the UV-Visible Absorption Spectroscopy:  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -20,7 +20,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": " Solvent Effects on the UV-visible Absorption Spectra  ",
+                          {"id": "E99739", "name": " Solvent Effects on the UV-visible Absorption Spectra  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -30,7 +30,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "  Effects of sample path length  ",
+                           {"id": "E99738", "name": "  Effects of sample path length  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -41,7 +41,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": "  Effects of sample concentration  ",
+                           {"id": "E99737", "name": "  Effects of sample concentration  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -52,7 +52,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": "  Determination of molar absorptivity  ",
+                           {"id": "E99736", "name": "  Determination of molar absorptivity  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -63,7 +63,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": " Verification of Beer-Lambert Law ",
+                           {"id": "E99735", "name": " Verification of Beer-Lambert Law ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -73,7 +73,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"id": "7", "name": "  Determination of unknown concentration of a light absorbing analyte  ",
+                         {"id": "E99734", "name": "  Determination of unknown concentration of a light absorbing analyte  ",
                         "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -84,7 +84,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "8", "name": "  Simultaneous estimation method for multicomponent samples: Principle of additivity of absorbance  ",
+                          {"id": "E99733", "name": "  Simultaneous estimation method for multicomponent samples: Principle of additivity of absorbance  ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -95,7 +95,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"id": "9", "name": " pH effects on absorption spectra: pKa determination by spectrophotometric method ",
+                         {"id": "E99732", "name": " pH effects on absorption spectra: pKa determination by spectrophotometric method ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -106,7 +106,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"id": "10", "name": "  Study of kinetics of a reaction by using spectrophotometric method ",
+                         {"id": "E99731", "name": "  Study of kinetics of a reaction by using spectrophotometric method ",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
