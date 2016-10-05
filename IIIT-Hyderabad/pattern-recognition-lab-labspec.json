@@ -1,10 +1,10 @@
 {
-        "course": {"org": "iiith","id": "CSE20", "display_name": "Pattern Recognition Lab"},
+        "course": {"org": "iiith","id": "cse20", "display_name": "Pattern Recognition Lab"},
         "overview": "Pattern Recognition Lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Feature Representation",
+                         {"id": "E99699", "name": "Feature Representation",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -14,7 +14,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": "Mean and Covariance",
+                          {"id": "E99698", "name": "Mean and Covariance",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -24,7 +24,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "Linear Perceptron Learning",
+                           {"id": "E99697", "name": "Linear Perceptron Learning",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -34,7 +34,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": "Generation of Random Variables",
+                           {"id": "E99696", "name": "Generation of Random Variables",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -44,7 +44,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": "Bayesian Classification",
+                           {"id": "E99695", "name": "Bayesian Classification",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -54,7 +54,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": "MLE: Learning the classifier from data",
+                           {"id": "E99694", "name": "MLE: Learning the classifier from data",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -64,7 +64,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "7", "name": "Data Clustering: K-Means, MST-based",
+                            {"id": "E99693", "name": "Data Clustering: K-Means, MST-based",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
