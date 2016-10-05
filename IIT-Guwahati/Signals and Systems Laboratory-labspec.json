@@ -1,10 +1,10 @@
 {
-        "course": {"org": "iitg","id": "ECE10", "display_name": "Signals and Systems Laboratory"},
+        "course": {"org": "iitg","id": "ece10", "display_name": "Signals and Systems Laboratory"},
         "overview": "Signals and Systems Laboratory",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Exp-1 Signals and their properties",
+                         {"id": "E99521", "name": "Signals and their properties",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -14,7 +14,7 @@
                                          {"name": "Download"},
                                          {"name": "Video"}
                                          ]},
-                          {"id": "2", "name": "Exp-2 System and their property",
+                          {"id": "E99520", "name": "System and their property",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -24,7 +24,7 @@
                                          {"name": "Download"},
                                          {"name": "Video"}
                                          ]},
-                           {"id": "3", "name": "Exp-3 Fourier analysis of signals",
+                           {"id": "E99519", "name": "Fourier analysis of signals",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -34,7 +34,7 @@
                                          {"name": "Download"},
                                          {"name": "Video"}
                                          ]},
-                           {"id": "4", "name": "Exp-4 Sampling and signal reconstruction",
+                           {"id": "E99518", "name": "Sampling and signal reconstruction",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -44,7 +44,7 @@
                                          {"name": "Download"},
                                          {"name": "Video"}
                                          ]},
-                           {"id": "5", "name": "Exp-5 Analysis of LTI system response",
+                           {"id": "E99517", "name": "Analysis of LTI system response",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
