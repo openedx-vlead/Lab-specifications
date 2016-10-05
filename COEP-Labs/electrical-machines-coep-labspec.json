@@ -1,5 +1,5 @@
 {
-        "course": {"org": "COEP","id": "eee10", "display_name": "Virtual Electrical Machines Lab"},
+        "course": {"org": "COEP","id": "EEE10", "display_name": "Virtual Electrical Machines Lab"},
         "overview": "In this lab we will perform load test and speed control on separately excited DC motor, no load test, blocked rotor test on three phase induction motor, open circuit, short circuit and load test on three phase alternator,etc",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
