@@ -1,10 +1,10 @@
 {
-        "course": {"org": "iitr","id": "EEE23", "display_name": "Bio-Medical Signal & Image Processing"},
+        "course": {"org": "iitr","id": "eee23", "display_name": "Bio-Medical Signal & Image Processing"},
         "overview": "Bio-Medical Signal & Image Processing",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Digital Signal Processing Toolkit",
+                         {"id": "E99418", "name": "Digital Signal Processing Toolkit",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Software Used"},
@@ -13,7 +13,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": "Bio-Medical Signal Processing Toolkit",
+                          {"id": "E99417", "name": "Bio-Medical Signal Processing Toolkit",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Software Used"},
@@ -22,7 +22,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "Image Processing Toolkit",
+                           {"id": "E99416", "name": "Image Processing Toolkit",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Software Used"},
