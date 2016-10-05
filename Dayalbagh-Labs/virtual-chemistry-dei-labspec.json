@@ -1,7 +1,7 @@
 {
         "course": {"org": "DEI","id": "chs12", "display_name": "Virtual Chemistry Lab"},
         "overview": "Teaching/Learning Modules for advanced separation Techniques: High Performance Thin Layer Chromatography for Under Graduate and Post Graduate students.",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
                          {"id": "E99893", "name": "Caffeine content in tea and coffee",
