@@ -1,10 +1,10 @@
 {
-        "course": {"org": "nitk","id": "MECH21", "display_name": "Machine Dynamics & Vibration Lab"},
+        "course": {"org": "nitk","id": "mech21", "display_name": "Machine Dynamics & Vibration Lab"},
         "overview": "Machine Dynamics & Vibration Lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Free vibration of cantilever beam",
+                         {"id": "E99386", "name": "Free vibration of cantilever beam",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -15,7 +15,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": "Free vibration of simply supported beam",
+                          {"id": "E99385", "name": "Free vibration of simply supported beam",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -26,7 +26,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "Free vibration of fixed beam",
+                           {"id": "E99384", "name": "Free vibration of fixed beam",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -37,7 +37,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": "Forced vibration of SDOF system",
+                           {"id": "E99383", "name": "Forced vibration of SDOF system",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -48,7 +48,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": "Base Excitation",
+                           {"id": "E99382", "name": "Base Excitation",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -59,7 +59,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": "Rotating Unbalance",
+                           {"id": "E99381", "name": "Rotating Unbalance",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -70,7 +70,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "7", "name": "2DOF Forced vibration",
+                            {"id": "E99380", "name": "2DOF Forced vibration",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
@@ -81,7 +81,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "8", "name": "Dynamic Vibration Absorber",
+                            {"id": "E99379", "name": "Dynamic Vibration Absorber",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
