@@ -1,10 +1,10 @@
 {
-        "course": {"org": "COEP","id": "BIO16", "display_name": "Virtual Bio-Medical & Signal Processing Laboratory"},
+        "course": {"org": "COEP","id": "bio16", "display_name": "Virtual Bio-Medical & Signal Processing Laboratory"},
         "overview": "Virtual Bio-Medical & Signal Processing Laboratory",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "To simulate Electrocardiogram Waveform",
+                         {"id": "E99926", "name": "To simulate Electrocardiogram Waveform",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -13,7 +13,7 @@
                                          {"name": "Post-test"},
                                          {"name": "Conclusion"}
                                          ]},
-                          {"id": "2", "name": "To simulate Electroencephalogram Signal",
+                          {"id": "E99925", "name": "To simulate Electroencephalogram Signal",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -22,7 +22,7 @@
                                          {"name": "Post-test"},
                                          {"name": "Conclusion"}
                                          ]},
-                           {"id": "3", "name": "To simulate Electromyogram Signal",
+                           {"id": "E99924", "name": "To simulate Electromyogram Signal",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -31,7 +31,7 @@
                                          {"name": "Post-test"},
                                          {"name": "Conclusion"}
                                          ]},
-                           {"id": "4", "name": "To Simulate Defibrillator",
+                           {"id": "E99923", "name": "To Simulate Defibrillator",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -40,7 +40,7 @@
                                          {"name": "Post-test"},
                                          {"name": "Conclusion"}
                                          ]},
-                           {"id": "5", "name": "To simulate Pacemaker",
+                           {"id": "E99922", "name": "To simulate Pacemaker",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -49,7 +49,7 @@
                                          {"name": "Post-test"},
                                          {"name": "Conclusion"}
                                          ]},
-                           {"id": "6", "name": "To simulate Haemodialysis Machine",
+                           {"id": "E99921", "name": "To simulate Haemodialysis Machine",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -58,7 +58,7 @@
                                          {"name": "Post-test"},
                                          {"name": "Conclusion"}
                                          ]},
-                            {"id": "7", "name": "To simulate Biopotential Amplifier",
+                            {"id": "E99920", "name": "To simulate Biopotential Amplifier",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -67,14 +67,14 @@
                                          {"name": "Post-test"},
                                          {"name": "Conclusion"}
                                          ]},
-                            {"id": "8", "name": "To simulate ECG Pulse missing detector",
+                            {"id": "E99919", "name": "To simulate ECG Pulse missing detector",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Simulator"},
                                          {"name": "Procedure"},        
                                          {"name": "Conclusion"}
                                          ]},
-                            {"id": "9", "name": "To simulate 12 Lead Ecg Signals",
+                            {"id": "E99918", "name": "To simulate 12 Lead Ecg Signals",
                         "subsections": [{"name": "Aim"},
                                          {"name": "Simulator"},
                                          {"name": "Procedure"},        
