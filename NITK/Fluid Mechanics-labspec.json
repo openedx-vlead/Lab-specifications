@@ -1,10 +1,10 @@
 {
-        "course": {"org": "nitk","id": "CIVIL20", "display_name": "Fluid Mechanics"},
+        "course": {"org": "nitk","id": "civil20", "display_name": "Fluid Mechanics"},
         "overview": "Fluid Mechanics",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Impact Of Jet:",
+                         {"id": "1", "name": "Impact Of Jet",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Self Evaluation"},
