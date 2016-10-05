@@ -1,5 +1,5 @@
 {
-        "course": {"org": "DEI","id": "MECH26", "display_name": "Metal Forming Virtual Simulation Lab"},
+        "course": {"org": "DEI","id": "mech26", "display_name": "Metal Forming Virtual Simulation Lab"},
         "overview": "Metal forming is one of the most important production technologies in modern industry.It has a special place because it helps to produce parts of superior mechanical properties with minimum waste of material. Parts manufactured by this process find application in the automotive, aircraft, railroad and mining industries.There is a need to enhance forging activity in India.",
         "experiments": [{"name": "Home",
                          "subsections": [{"name": "Motivation"},
