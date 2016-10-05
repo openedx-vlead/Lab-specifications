@@ -1,5 +1,5 @@
 {
-        "course": {"org": "IIIT-H","id": "cse15", "display_name": "Digital Logic Design Lab"},
+        "course": {"org": "IIIT-H","id": "CSE15", "display_name": "Digital Logic Design Lab"},
         "overview": "Welcome to the Digital Logic Design Lab. Here you can make basic combinational and sequential digital circuits of your choice and simulate them.",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
