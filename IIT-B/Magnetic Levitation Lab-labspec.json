@@ -1,10 +1,10 @@
 {
-        "course": {"org": "iitb","id": "ML-IITB", "display_name": "Magnetic Levitation Lab"},
+        "course": {"org": "iitb","id": "ml-iitb", "display_name": "Magnetic Levitation Lab"},
         "overview": "Magnetic Levitation Lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Plant Modeling",
+                         {"id": "E99635", "name": "Plant Modeling",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -12,7 +12,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Things to think about"}
                                          ]},
-                          {"id": "2", "name": " Transient Response",
+                          {"id": "E99634", "name": " Transient Response",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -20,7 +20,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Things to think about"}
                                          ]},
-                           {"id": "3", "name": "On-Off control",
+                           {"id": "E99633", "name": "On-Off control",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -28,7 +28,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Things to think about"}
                                          ]},
-                           {"id": "4", "name": "P Control",
+                           {"id": "E99632", "name": "P Control",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -36,7 +36,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Things to think about"}
                                          ]},
-                           {"id": "5", "name": "Frequency response",
+                           {"id": "E99631", "name": "Frequency response",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -44,7 +44,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Things to think about"}
                                          ]},
-                           {"id": "6", "name": "PD Control for desired pole placement",
+                           {"id": "E99630", "name": "PD Control for desired pole placement",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -52,7 +52,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Things to think about"}
                                          ]},
-                            {"id": "7", "name": "PD Control for desired transient response",
+                            {"id": "E99629", "name": "PD Control for desired transient response",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -60,7 +60,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Things to think about"}
                                          ]},
-                            {"id": "8", "name": "PID control for desired transient response",
+                            {"id": "E99628", "name": "PID control for desired transient response",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -68,7 +68,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Things to think about"}
                                          ]},
-                            {"id": "9", "name": "PD Control for desired transient response - Unstable Plant",
+                            {"id": "E99627", "name": "PD Control for desired transient response - Unstable Plant",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -76,7 +76,7 @@
                                          {"name": "Quiz"},
                                          {"name": "Things to think about"}
                                          ]},
-                            {"id": "10", "name": "PID Control for desired transient response - Unstable Plant",
+                            {"id": "E99626", "name": "PID Control for desired transient response - Unstable Plant",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
