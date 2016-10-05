@@ -1,20 +1,20 @@
 {
-        "course": {"org": "iitb","id": "BIOTECH25", "display_name": "Virtual Proteomics Laboratory"},
+        "course": {"org": "iitb","id": "biotech25", "display_name": "Virtual Proteomics Laboratory"},
         "overview": "Virtual Proteomics Laboratory",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "An Overview of Virtual Proteomics Laboratory",
+                         {"id": "Overview", "name": "An Overview of Virtual Proteomics Laboratory",
                          "subsections": [{"name": "Overview"},
                                          {"name": "Team"},
                                          {"name": "Contact Us"}
                                          ]},
-                          {"id": "2", "name": "An Overview of Gel Based Proteomics",
+                          {"id": "Overview", "name": "An Overview of Gel Based Proteomics",
                          "subsections": [{"name": "An Overview Of Gel Based Proteomics"},
                                          {"name": "Pre-Test"},
                                          {"name": "Theory"}
                                          ]},
-                           {"id": "3", "name": "Experiment-1: Gel-based proteomics to analyze human serum proteome",
+                           {"id": "E99616", "name": "Gel-based proteomics to analyze human serum proteome",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -22,7 +22,7 @@
                                          {"name": "Simulator"},
                                          {"name": "Reference"}
                                          ]},
-                           {"id": "4", "name": "Experiment-2: Gel-based proteomics to analyze bacterial proteome",
+                           {"id": "E99615", "name": "Gel-based proteomics to analyze bacterial proteome",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -30,7 +30,7 @@
                                          {"name": "Simulator"},
                                          {"name": "Reference"}
                                          ]},
-                           {"id": "5", "name": "Experiment-3: Gel-based proteomics to analyze plant proteome",
+                           {"id": "E99614", "name": "Gel-based proteomics to analyze plant proteome",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -38,12 +38,12 @@
                                          {"name": "Simulator"},
                                          {"name": "Reference"}
                                          ]},
-                           {"id": "6", "name": "Module II: An Overview of MALDI-TOF MS",
+                           {"id": "Overview", "name": "Module II: An Overview of MALDI-TOF MS",
                          "subsections": [{"name": " An overview of Module II: MALDI-TOF MS Analysis"},
                                          {"name": "Pre-Test"},
                                          {"name": "Theory"}
                                          ]},
-                            {"id": "7", "name": "Experiment-4: In-gel digestion of proteins for MS analysis",
+                            {"id": "E99613", "name": "In-gel digestion of proteins for MS analysis",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -52,7 +52,7 @@
                                          {"name": "Reference"},
                                          {"name": "Assignments"}
                                          ]},
-                            {"id": "8", "name": "Experiment-5: Sample preparation for the MALDI-TOF MS analysis",
+                            {"id": "E99612", "name": "Sample preparation for the MALDI-TOF MS analysis",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -61,7 +61,7 @@
                                          {"name": "Reference"},
                                          {"name": "Assignments"}
                                          ]},
-                            {"id": "9", "name": "Experiment-6: MALDI-TOF instrumentation and analysis of serum proteins",
+                            {"id": "E99611", "name": "MALDI-TOF instrumentation and analysis of serum proteins",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -70,7 +70,7 @@
                                          {"name": "Reference"},
                                          {"name": "Assignments"}
                                          ]},
-                            {"id": "10", "name": "Experiment-7: MS data analysis - Peptide Mass Fingerprinting (PMF)",
+                            {"id": "E99610", "name": "MS data analysis - Peptide Mass Fingerprinting (PMF)",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -78,7 +78,7 @@
                                          {"name": "Reference"},
                                          {"name": "Assignments"}
                                          ]},
-                            {"id": "11", "name": "Experiment-8 : Molecular Weight Determination of Intact Protein Using MALDI TOF",
+                            {"id": "E99609", "name": "Molecular Weight Determination of Intact Protein Using MALDI TOF",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -86,12 +86,12 @@
                                          {"name": "Reference"},
                                          {"name": "Assignments"}
                                          ]},
-                            {"id": "12", "name": "Module III: An Overview of Bioinformatics",
+                            {"id": "Overview", "name": "Module III: An Overview of Bioinformatics",
                          "subsections": [{"name": " An Overview of Module III: Bioinformatics"},
                                          {"name": "Pre-Test"},
                                          {"name": "Theory"}
                                          ]},
-                            {"id": "13", "name": "Experiment-9 : Sequence Alignment",
+                            {"id": "E99608", "name": "Sequence Alignment",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -99,7 +99,7 @@
                                          {"name": "Reference"},
                                          {"name": "Assignments"}
                                          ]},
-                            {"id": "14", "name": "Experiment-10 : Homology Modelling",
+                            {"id": "E99607", "name": "Homology Modelling",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -107,7 +107,7 @@
                                          {"name": "Reference"},
                                          {"name": "Assignments"}
                                          ]},
-                            {"id": "15", "name": "Experiment-11 : Protein Function Annotation",
+                            {"id": "E99606", "name": "Protein Function Annotation",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
@@ -116,7 +116,7 @@
                                          {"name": "Reference"},
                                          {"name": "Assignments"}
                                          ]},
-                            {"id": "16", "name": "Experiment-12 : Molecular Docking",
+                            {"id": "E99605", "name": "Molecular Docking",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Theory"},
                                          {"name": "Procedure"},
