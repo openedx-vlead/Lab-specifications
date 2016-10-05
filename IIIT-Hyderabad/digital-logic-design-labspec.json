@@ -1,10 +1,10 @@
 {
-        "course": {"org": "IIIT-H","id": "CSE15", "display_name": "Digital Logic Design Lab"},
+        "course": {"org": "IIIT-H","id": "cse15", "display_name": "Digital Logic Design Lab"},
         "overview": "Welcome to the Digital Logic Design Lab. Here you can make basic combinational and sequential digital circuits of your choice and simulate them.",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Adder Circuit",
+                         {"id": "E99771", "name": "Adder Circuit",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -15,7 +15,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": "Multiplexer",
+                          {"id": "E99770", "name": "Multiplexer",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -26,7 +26,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "Decoder with 7-Segment Display",
+                           {"id": "E99769", "name": "Decoder with 7-Segment Display",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -37,7 +37,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": "ALU with function",
+                           {"id": "E99768", "name": "ALU with function",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -48,7 +48,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": "Comparator",
+                           {"id": "E99767", "name": "Comparator",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -59,7 +59,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": "Latch and Flip Flops",
+                           {"id": "E99766", "name": "Latch and Flip Flops",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -70,7 +70,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "7", "name": "Registers",
+                            {"id": "E99765", "name": "Registers",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -81,7 +81,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "8", "name": "Counters",
+                            {"id": "E99764", "name": "Counters",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -92,7 +92,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "9", "name": "Multipliers",
+                            {"id": "E99763", "name": "Multipliers",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -103,7 +103,7 @@
                                          {"name": "Read"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "10", "name": "State Digrams",
+                            {"id": "E99762", "name": "State Digrams",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
