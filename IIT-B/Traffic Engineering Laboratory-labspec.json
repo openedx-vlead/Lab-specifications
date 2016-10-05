@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitb","id": "tel-iitb", "display_name": "Traffic Engineering Laboratory"},
+        "course": {"org": "iitb","id": "TEL-IITB", "display_name": "Traffic Engineering Laboratory"},
         "overview": "Traffic Engineering Laboratory",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
