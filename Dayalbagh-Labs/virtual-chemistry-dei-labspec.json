@@ -1,10 +1,10 @@
 {
-        "course": {"org": "DEI","id": "CHS12", "display_name": "Virtual Chemistry Lab"},
+        "course": {"org": "DEI","id": "chs12", "display_name": "Virtual Chemistry Lab"},
         "overview": "Teaching/Learning Modules for advanced separation Techniques: High Performance Thin Layer Chromatography for Under Graduate and Post Graduate students.",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Caffeine content in tea and coffee",
+                         {"id": "E99893", "name": "Caffeine content in tea and coffee",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Reagents"},
                                          {"name": "Procedure"},
@@ -14,7 +14,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                          {"id": "2", "name": "Estimation of amino acids in coconut water",
+                          {"id": "E99892", "name": "Estimation of amino acids in coconut water",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Reagents"},
                                          {"name": "Procedure"},
@@ -24,7 +24,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                           {"id": "3", "name": "Estimation of Cholesterol in edible oils",
+                           {"id": "E99891", "name": "Estimation of Cholesterol in edible oils",
                         "subsections": [{"name": "Theory"},
                                          {"name": "Reagents"},
                                          {"name": "Procedure"},
@@ -34,7 +34,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                           {"id": "4", "name": "Analysis of Lactose & Cane sugar",
+                           {"id": "E99890", "name": "Analysis of Lactose & Cane sugar",
                           "subsections": [{"name": "Theory"},
                                          {"name": "Reagents"},
                                          {"name": "Procedure"},
@@ -44,7 +44,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                           {"id": "5", "name": "Analysis of Urea",
+                           {"id": "E99889", "name": "Analysis of Urea",
                          "subsections": [{"name": "Reagents"},
                                          {"name": "Procedure"},
                                          {"name": "Observation"},
@@ -53,7 +53,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                           {"id": "6", "name": "Analysis of Machine Oil",
+                           {"id": "E99888", "name": "Analysis of Machine Oil",
                          "subsections": [{"name": "Reagents"},
                                          {"name": "Procedure"},
                                          {"name": "Observation"},
@@ -62,7 +62,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                            {"id": "7", "name": "Estimation of Oxytocin in Various Edibles",
+                            {"id": "E99887", "name": "Estimation of Oxytocin in Various Edibles",
                            "subsections": [{"name": "Theory"},
                                          {"name": "Reagents"},
                                          {"name": "Procedure"},
@@ -72,7 +72,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                            {"id": "8", "name": "Estimation of Capsaicin in Capsicum",
+                            {"id": "E99886", "name": "Estimation of Capsaicin in Capsicum",
                           "subsections": [{"name": "Theory"},
                                          {"name": "Reagents"},
                                          {"name": "Procedure"},
@@ -82,7 +82,7 @@
                                          {"name": "Evaluation"},
                                          {"name": "References"}
                                          ]},
-                            {"id": "9", "name": "Estimation of Embelin content in Embelia ribes (kali mirch) and Tamarind",
+                            {"id": "E99885", "name": "Estimation of Embelin content in Embelia ribes (kali mirch) and Tamarind",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Reagents"},
                                          {"name": "Procedure"},
