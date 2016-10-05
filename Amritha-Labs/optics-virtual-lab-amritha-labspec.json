@@ -4,35 +4,35 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Angle of Prism",
+                         {"id": "E99966", "name": "Angle of Prism",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                          {"id": "2", "name": "Spectrometer Determination of Cauchy's constants",
+                          {"id": "E99965", "name": "Spectrometer Determination of Cauchy's constants",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                           {"id": "3", "name": "Diffraction Grating",
+                           {"id": "E99964", "name": "Diffraction Grating",
                           "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                           {"id": "4", "name": "Resolving power of a prism",
+                           {"id": "E99963", "name": "Resolving power of a prism",
                           "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                           {"id": "5", "name": "Spectrometer Dispersive Power of a Prism",
+                           {"id": "E99962", "name": "Spectrometer Dispersive Power of a Prism",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                           {"id": "6", "name": "Spectrometer i-d Curve",
+                           {"id": "E99961", "name": "Spectrometer i-d Curve",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                            {"id": "7", "name": "Spectrometer i-i Curve",
+                            {"id": "E99960", "name": "Spectrometer i-i Curve",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
-                            {"id": "8", "name": "Spectrometer Refractive Index of the Material of a Prism",
+                            {"id": "E99959", "name": "Spectrometer Refractive Index of the Material of a Prism",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]}
