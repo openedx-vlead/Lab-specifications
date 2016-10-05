@@ -1,10 +1,10 @@
 {
-        "course": {"org": "IIIT-H","id": "CSE29", "display_name": "Cryptography Lab"},
+        "course": {"org": "IIIT-H","id": "cse29", "display_name": "Cryptography Lab"},
         "overview": "Welcome to the Cryptography lab.In this lab, we will do virtual experiments to understand the basic mathematical foundations of cryptography,to gain insightful experience by working with fundamental cryptographic applications and to train in the art of design and analysis of information security protocols. ",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Breaking the Shift Cipher",
+                         {"id": "E99790", "name": "Breaking the Shift Cipher",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -14,7 +14,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                          {"id": "2", "name": "Breaking the Mono-alphabetic Substitution Cipher",
+                          {"id": "E99789", "name": "Breaking the Mono-alphabetic Substitution Cipher",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -24,7 +24,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                           {"id": "3", "name": "One-Time Pad and Perfect Secrecy",
+                           {"id": "E99788", "name": "One-Time Pad and Perfect Secrecy",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -34,7 +34,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                           {"id": "4", "name": "Message Authentication Codes",
+                           {"id": "E99787", "name": "Message Authentication Codes",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -44,7 +44,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                           {"id": "5", "name": "Cryptographic Hash Functions and Applications",
+                           {"id": "E99786", "name": "Cryptographic Hash Functions and Applications",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -54,7 +54,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                           {"id": "6", "name": "Symmetric Key Encryption Standards (DES)",
+                           {"id": "E99785", "name": "Symmetric Key Encryption Standards (DES)",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -64,7 +64,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                            {"id": "7", "name": "Symmetric Key Encryption Standards (AES)",
+                            {"id": "E99784", "name": "Symmetric Key Encryption Standards (AES)",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -74,7 +74,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                            {"id": "8", "name": "M Diffie-Hellman Key Establishment",
+                            {"id": "E99783", "name": "M Diffie-Hellman Key Establishment",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -84,7 +84,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                            {"id": "9", "name": "Public-Key Cryptosystems (PKCSv1.5)",
+                            {"id": "E99782", "name": "Public-Key Cryptosystems (PKCSv1.5)",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -94,7 +94,7 @@
                                          {"name": "Procedure"},  
                                          {"name": "Further Readings"} 
                                          ]},
-                            {"id": "10", "name": "Digital Signatures",
+                            {"id": "E99781", "name": "Digital Signatures",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
