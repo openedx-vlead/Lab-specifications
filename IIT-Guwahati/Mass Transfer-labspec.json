@@ -1,10 +1,10 @@
 {
-        "course": {"org": "iitg","id": "VMT", "display_name": "Virtual mass transfer lab"},
+        "course": {"org": "iitg","id": "vmt-iitg", "display_name": "Virtual mass transfer lab"},
         "overview": "Virtual mass transfer lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Separating and Throttling Calorimeter",
+                         {"id": "E99556", "name": "Separating and Throttling Calorimeter",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Expt Calc"},
@@ -16,7 +16,7 @@
                                          {"name": "Reference"},
                                          {"name": "Videos"}
                                          ]},
-                          {"id": "2", "name": "ASTM distillation",
+                          {"id": "E99555", "name": "ASTM distillation",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Expt Calc1"},
@@ -28,7 +28,7 @@
                                          {"name": "Post Expt Quiz"},
                                          {"name": "Videos"}
                                          ]},
-                           {"id": "3", "name": "Flow through porous media - II",
+                           {"id": "E99554", "name": "Flow through porous media - II",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Expt Calc"},
@@ -39,7 +39,7 @@
                                          {"name": "Post Expt Quiz"},
                                          {"name": "Videos"}
                                          ]},
-                           {"id": "4", "name": "Column tray effeciency",
+                           {"id": "E99553", "name": "Column tray effeciency",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Expt Calc"},
@@ -50,7 +50,7 @@
                                          {"name": "Post Expt Quiz"},
                                          {"name": "Videos"}
                                          ]},
-                           {"id": "5", "name": "Flow through porous media -I",
+                           {"id": "E99552", "name": "Flow through porous media -I",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Expt Calc"},
@@ -61,7 +61,7 @@
                                          {"name": "Post Expt Quiz"},
                                          {"name": "Videos"}
                                          ]},
-                           {"id": "6", "name": "Rotary Dryer",
+                           {"id": "E99551", "name": "Rotary Dryer",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Expt Calc"},
@@ -72,7 +72,7 @@
                                          {"name": "Post Expt Quiz"},
                                          {"name": "Videos"}
                                          ]},
-                            {"id": "7", "name": "Forced draft tray dryer",
+                            {"id": "E99550", "name": "Forced draft tray dryer",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Expt Calc"},
@@ -83,7 +83,7 @@
                                          {"name": "Post Expt Quiz"},
                                          {"name": "Videos"}
                                          ]},
-                            {"id": "8", "name": "Vapor in air diffusion",
+                            {"id": "E99549", "name": "Vapor in air diffusion",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Expt Calc"},
@@ -94,7 +94,7 @@
                                          {"name": "Post Expt Quiz"},
                                          {"name": "Videos"}
                                          ]},
-                            {"id": "9", "name": "Mass transfer with or without chemical reaction",
+                            {"id": "E99548", "name": "Mass transfer with or without chemical reaction",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Expt Calc"},
@@ -105,7 +105,7 @@
                                          {"name": "Post Expt Quiz"},
                                          {"name": "Videos"}
                                          ]},
-                            {"id": "10", "name": "Binary vapor liquid equilibrium",
+                            {"id": "E99547", "name": "Binary vapor liquid equilibrium",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Labview Calc"},
@@ -115,7 +115,7 @@
                                          {"name": "Post Expt Quiz"},
                                          {"name": "Videos"}
 					 ]},
-                            {"id": "11", "name": "Design of binary distillation column",
+                            {"id": "E99546", "name": "Design of binary distillation column",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Procedure"},
                                          {"name": "Expt Calc"},
@@ -126,7 +126,7 @@
                                          {"name": "Simulator"},
                                          {"name": "Post Expt Quiz"}
 					 ]},
-                            {"id": "12", "name": "Water cooling tower",
+                            {"id": "E99545", "name": "Water cooling tower",
                          "subsections": [{"name": "Theory"},
                                          {"name": "Objective"},
                                          {"name": "Procedure"},
