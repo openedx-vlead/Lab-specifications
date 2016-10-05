@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitr","id": "eee02", "display_name": "Electrical Machines Lab"},
+        "course": {"org": "iitr","id": "EEE02", "display_name": "Electrical Machines Lab"},
         "overview": "Electrical Machines Lab",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
