@@ -1,5 +1,5 @@
 {
-        "course": {"org": "COEP","id": "mech18", "display_name": "Virtual FAB Laboratory"},
+        "course": {"org": "COEP","id": "MECH18", "display_name": "Virtual FAB Laboratory"},
         "overview": "Let us understand and implement anything and everything using 3D machining, 3D scanning, Computer Control, cutting of wooden object, PCB fabrication and many more with advance tools and techniques.",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
