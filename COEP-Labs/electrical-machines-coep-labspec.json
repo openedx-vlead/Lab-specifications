@@ -1,10 +1,10 @@
 {
-        "course": {"org": "COEP","id": "EEE10", "display_name": "Virtual Electrical Machines Lab"},
+        "course": {"org": "COEP","id": "eee10", "display_name": "Virtual Electrical Machines Lab"},
         "overview": "In this lab we will perform load test and speed control on separately excited DC motor, no load test, blocked rotor test on three phase induction motor, open circuit, short circuit and load test on three phase alternator,etc",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Load Test On Separately Excited DC Motor",
+                         {"id": "E99917", "name": "Load Test On Separately Excited DC Motor",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -15,7 +15,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": "Speed Control of Separately Excited DC Motor",
+                          {"id": "E99916", "name": "Speed Control of Separately Excited DC Motor",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -26,7 +26,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "No Load Test on Three Phase Induction Motor",
+                           {"id": "E99915", "name": "No Load Test on Three Phase Induction Motor",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -37,7 +37,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": "Blocked Rotor Test on Three Phase Induction Motor",
+                           {"id": "E99914", "name": "Blocked Rotor Test on Three Phase Induction Motor",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -48,7 +48,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": "Open Circuit Test on Three Phase Alternator",
+                           {"id": "E99913", "name": "Open Circuit Test on Three Phase Alternator",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -59,7 +59,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": "Short Circuit Test on Three Phase Alternator",
+                           {"id": "E99912", "name": "Short Circuit Test on Three Phase Alternator",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -70,7 +70,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "7", "name": "Load Test on Three Phase Alternator",
+                            {"id": "E99911", "name": "Load Test on Three Phase Alternator",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
@@ -81,7 +81,7 @@
                                          {"name": "Reference"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "8", "name": "V and Inverted V curves of Synchronous Motor",
+                            {"id": "E99910", "name": "V and Inverted V curves of Synchronous Motor",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre-test"},
                                          {"name": "Theory"},
