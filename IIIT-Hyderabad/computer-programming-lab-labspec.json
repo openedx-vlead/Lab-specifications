@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iiith","id": "cse02", "display_name": "Computer Programming Lab"},
+        "course": {"org": "iiith","id": "CSE02", "display_name": "Computer Programming Lab"},
         "overview": "Computer Programming Lab",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
