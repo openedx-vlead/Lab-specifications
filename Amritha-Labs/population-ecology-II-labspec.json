@@ -1,31 +1,31 @@
 {
- "course": {"org": "Amritha-University","id": "BIOTECH17", "display_name": "Population ecology Virtual Lab II"},
+ "course": {"org": "Amritha-University","id": "biotech17", "display_name": "Population ecology Virtual Lab II"},
         "overview": "Population ecology Virtual Lab II",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Effects of Carrying Capacity and Satiation in Predator-Prey Dynamics",
+                         {"id": "E99950", "name": "Effects of Carrying Capacity and Satiation in Predator-Prey Dynamics",
                          "subsections": [{"name": "Simulator"}
                                          ]},
-                          {"id": "2", "name": "Effect of Predator Efficiency on Equilibrium Densities & Pop. Stability",
+                          {"id": "E99949", "name": "Effect of Predator Efficiency on Equilibrium Densities & Pop. Stability",
                           "subsections": [{"name": "Simulator"}
                                          ]},
-                           {"id": "3", "name": "Harvesting a Prey Population",
+                           {"id": "E99948", "name": "Harvesting a Prey Population",
                            "subsections": [{"name": "Simulator"}
                                          ]},
-                           {"id": "4", "name": "Predator - Prey Dynamics - Rats and Snakes (Lotka Volterra Simulation)",
+                           {"id": "E99947", "name": "Predator - Prey Dynamics - Rats and Snakes (Lotka Volterra Simulation)",
                            "subsections": [{"name": "Simulator"}
                                          ]},
-                           {"id": "5", "name": "Optimal Pollinators",
+                           {"id": "E99946", "name": "Optimal Pollinators",
                           "subsections": [{"name": "Simulator"}
                                          ]},
-                           {"id": "6", "name": "Optimal Foraging : Searching Predators that Maximize Energy",
+                           {"id": "E99945", "name": "Optimal Foraging : Searching Predators that Maximize Energy",
                           "subsections": [{"name": "Simulator"}
                                          ]},
-                            {"id": "7", "name": "Optimal Foraging: Sit-and-wait Predators that Maximize Energy",
+                            {"id": "E99944", "name": "Optimal Foraging: Sit-and-wait Predators that Maximize Energy",
                           "subsections": [{"name": "Simulator"}
                                          ]},
-                            {"id": "8", "name": "Optimal Foraging with Minimal Time: A Case of Searching Predators",
+                            {"id": "E99943", "name": "Optimal Foraging with Minimal Time: A Case of Searching Predators",
                           "subsections": [{"name": "Simulator"}
                                          ]}
                         ]
