@@ -1,5 +1,5 @@
 {
-        "course": {"org": "DEI","id": "eee06", "display_name": "Virtual Power Lab"},
+        "course": {"org": "DEI","id": "EEE06", "display_name": "Virtual Power Lab"},
         "overview": "To develop virtual machines and power laboratory to facilitate the students to work with their own convenience and easily understand the practical concepts.",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
