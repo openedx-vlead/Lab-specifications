@@ -1,10 +1,10 @@
 {
-        "course": {"org": "IIIT-H","id": "CSE19", "display_name": "Image Processing Lab"},
+        "course": {"org": "IIIT-H","id": "cse19", "display_name": "Image Processing Lab"},
         "overview": "The primary objective of this virtual lab is to supplement an undergraduate level course on image processing and enable students to understand the subject better",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Distance and Connectivity",
+                         {"id": "E99751", "name": "Distance and Connectivity",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -13,7 +13,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                          {"id": "2", "name": "Image Arithmetic",
+                          {"id": "E99750", "name": "Image Arithmetic",
                         "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -22,7 +22,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                           {"id": "3", "name": "Affine Transformation",
+                           {"id": "E99749", "name": "Affine Transformation",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -31,7 +31,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                           {"id": "4", "name": "Point Operations",
+                           {"id": "E99748", "name": "Point Operations",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -40,7 +40,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                           {"id": "5", "name": "Neighbourhood Operations",
+                           {"id": "E99747", "name": "Neighbourhood Operations",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -49,7 +49,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                           {"id": "6", "name": "Image Histogram",
+                           {"id": "E99746", "name": "Image Histogram",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -58,7 +58,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                            {"id": "7", "name": "Fourier Transform",
+                            {"id": "E99745", "name": "Fourier Transform",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -67,7 +67,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                            {"id": "8", "name": "Color Image Processing",
+                            {"id": "E99744", "name": "Color Image Processing",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -76,7 +76,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                            {"id": "9", "name": "Morphological Operations",
+                            {"id": "E99743", "name": "Morphological Operations",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -85,7 +85,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                            {"id": "10", "name": "Image Segmentation",
+                            {"id": "E99742", "name": "Image Segmentation",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Theory"},
@@ -94,7 +94,7 @@
                                          {"name": "Assessment"}, 
                                          {"name": "References"}
                                          ]},
-                            {"id": "11", "name": "Image Processing Test Bench",
+                            {"id": "E99741", "name": "Image Processing Test Bench",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Procedure"},
                                          {"name": "Experiment"}        
