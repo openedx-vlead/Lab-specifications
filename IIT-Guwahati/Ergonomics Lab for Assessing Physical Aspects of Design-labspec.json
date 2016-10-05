@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitg","id": "dsgn-engg04", "display_name": "Ergonomics Lab for Assessing Physical Aspects of Design"},
+        "course": {"org": "iitg","id": "DSGN-ENGG04", "display_name": "Ergonomics Lab for Assessing Physical Aspects of Design"},
         "overview": "Ergonomics Lab for Assessing Physical Aspects of Design",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
