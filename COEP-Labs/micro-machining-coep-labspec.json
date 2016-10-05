@@ -1,7 +1,7 @@
 {
         "course": {"org": "COEP","id": "mech17", "display_name": "Virtual Micro Machining Laboratory"},
         "overview": "In this lab various tools and techniques are demonstrated for machining. we will study pulse heating of material, thermal model for EDM, erosion mechanism, electrochemical machining process and many more.",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
                          {"id": "E99909", "name": "To study pulsed-heating of materials",
