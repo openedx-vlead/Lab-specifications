@@ -1,7 +1,7 @@
 {
         "course": {"org": "Amritha-University","id": "cbI-au", "display_name": "Cell Biology Virtual Lab I"},
         "overview": "Cell Biology Virtual Lab I",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
                          {"id": "E99999", "name": "Isolation of Chloroplast",
