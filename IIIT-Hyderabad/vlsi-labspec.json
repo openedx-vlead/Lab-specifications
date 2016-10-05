@@ -1,10 +1,10 @@
 {
-        "course": {"org": "IIIT-H","id": "CSE14", "display_name": "Very Large Scale Integration Lab"},
+        "course": {"org": "IIIT-H","id": "cse14", "display_name": "Very Large Scale Integration Lab"},
         "overview": "A single chip sized of few millimeters may have Millions of transistors in it for example a microprocessor is a VLSI device",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Schematic Design Of Transistor Level Inverter",
+                         {"id": "E99666", "name": "Schematic Design Of Transistor Level Inverter",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -15,7 +15,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                          {"id": "2", "name": "Schematic Design Of Transistor Level NAND & NOR Gate",
+                          {"id": "E99665", "name": "Schematic Design Of Transistor Level NAND & NOR Gate",
                         "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -26,7 +26,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                           {"id": "3", "name": "Schematic Design Of Transistor Level XOR & XNOR Gate",
+                           {"id": "E99664", "name": "Schematic Design Of Transistor Level XOR & XNOR Gate",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -37,7 +37,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                           {"id": "4", "name": "Schematic Design Of Pass Transistor Logic & Multiplexer",
+                           {"id": "E99663", "name": "Schematic Design Of Pass Transistor Logic & Multiplexer",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -48,7 +48,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                           {"id": "5", "name": "Delay Estimation In Chain Of Inverters",
+                           {"id": "E99662", "name": "Delay Estimation In Chain Of Inverters",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -59,7 +59,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                           {"id": "6", "name": "Schematic Design Of D-Latch and D-Flip Flop",
+                           {"id": "E99661", "name": "Schematic Design Of D-Latch and D-Flip Flop",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -70,7 +70,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                            {"id": "7", "name": "Spice Code Platform",
+                            {"id": "E99660", "name": "Spice Code Platform",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -81,7 +81,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                            {"id": "8", "name": "Design Of D-Flip Flop Using Verilog",
+                            {"id": "E99659", "name": "Design Of D-Flip Flop Using Verilog",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -92,7 +92,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                            {"id": "9", "name": "Design Of Digital Circuits Using Verilog",
+                            {"id": "E99658", "name": "Design Of Digital Circuits Using Verilog",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
@@ -103,7 +103,7 @@
                                          {"name": "References"},
                                          {"name": "Feedback"}  
                                          ]},
-                            {"id": "10", "name": "Layout Design",
+                            {"id": "E99657", "name": "Layout Design",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Objective"},
                                          {"name": "Theory"},
