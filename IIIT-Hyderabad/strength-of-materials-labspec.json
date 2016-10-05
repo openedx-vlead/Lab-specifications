@@ -1,7 +1,7 @@
 {
-        "course": {"org": "IIITH","id": "EERC01", "display_name": "Strength of Materials Lab "},
+        "course": {"org": "IIITH","id": "eerc01", "display_name": "Strength of Materials Lab "},
         "overview": "This lab describes about the physical science that looks at the reaction of a body to movement and deformation due to mechanical, thermal and other loads.",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "List of experiments"},
                                          {"name": "Target Audience"},
@@ -9,7 +9,7 @@
                                          {"name": "Prerequisites"},
                                          {"name": "Feedback"}
                                      	]},
-                         {"id": "1", "name": "Tensile Test Experiment",
+                         {"id": "E99676", "name": "Tensile Test Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -17,7 +17,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                          {"id": "2", "name": "Compression Test Experiment",
+                          {"id": "E99675", "name": "Compression Test Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -26,7 +26,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "3", "name": "Shear Test Experiment",
+                           {"id": "E99674", "name": "Shear Test Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -35,7 +35,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "4", "name": "Torsion Test Experiment",
+                           {"id": "E99673", "name": "Torsion Test Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -44,7 +44,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "5", "name": "Impact Test Experiment",
+                           {"id": "E99672", "name": "Impact Test Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -52,7 +52,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "6", "name": "Creep Test Experiment",
+                           {"id": "E99671", "name": "Creep Test Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -60,7 +60,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                         {"id": "7", "name": " Fatigue Test",
+                         {"id": "E99670", "name": " Fatigue Test",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -68,7 +68,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                         {"id": "8", "name": "Compression Test on Spring Experiment",
+                         {"id": "E99669", "name": "Compression Test on Spring Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -76,7 +76,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                         {"id": "9", "name": "Principal Stresses Experiment",
+                         {"id": "E99668", "name": "Principal Stresses Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -84,7 +84,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                         {"id": "10", "name": "Rockwell Hardness Experiment",
+                         {"id": "E99667", "name": "Rockwell Hardness Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
