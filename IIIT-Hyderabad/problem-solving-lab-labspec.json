@@ -1,10 +1,10 @@
 {
-        "course": {"org": "IIIT-H","id": "CSE04", "display_name": "Problem Solving Lab"},
+        "course": {"org": "IIIT-H","id": "cse04", "display_name": "Problem Solving Lab"},
         "overview": "The interactive experiments in this lab will give the students an opportunity for learning and better understanding of using computer programming as a tool to solve basic to advanced problems.",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Numerical Representation",
+                         {"id": "E99686", "name": "Numerical Representation",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -15,7 +15,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                          {"id": "2", "name": "Beauty of Numbers",
+                          {"id": "E99685", "name": "Beauty of Numbers",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -26,7 +26,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "3", "name": "More on Numbers",
+                           {"id": "E99684", "name": "More on Numbers",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -37,7 +37,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "4", "name": "Factorials",
+                           {"id": "E99683", "name": "Factorials",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -48,7 +48,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "5", "name": "String Operations",
+                           {"id": "E99682", "name": "String Operations",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -59,7 +59,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "6", "name": "Recursion",
+                           {"id": "E99681", "name": "Recursion",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -70,7 +70,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "7", "name": "Advanced Arithmatic",
+                            {"id": "E99680", "name": "Advanced Arithmatic",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -81,7 +81,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "8", "name": "Searching and Sorting",
+                            {"id": "E99679", "name": "Searching and Sorting",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -92,7 +92,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "9", "name": "Permutation",
+                            {"id": "E99678", "name": "Permutation",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -103,7 +103,7 @@
                                          {"name": "Further Readings"},
                                          {"name": "Feedback"}
                                          ]},
-                            {"id": "10", "name": "Sequences",
+                            {"id": "E99677", "name": "Sequences",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
