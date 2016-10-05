@@ -1,5 +1,5 @@
 {
-        "course": {"org": "nitk","id": "mech05", "display_name": "Mechanics of machine Lab"},
+        "course": {"org": "nitk","id": "MECH05", "display_name": "Mechanics of machine Lab"},
         "overview": "Mechanics of machine Lab",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
