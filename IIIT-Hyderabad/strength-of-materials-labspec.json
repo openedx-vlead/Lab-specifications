@@ -1,5 +1,5 @@
 {
-        "course": {"org": "IIITH","id": "eerc01", "display_name": "Strength of Materials Lab "},
+        "course": {"org": "IIITH","id": "EERC01", "display_name": "Strength of Materials Lab "},
         "overview": "This lab describes about the physical science that looks at the reaction of a body to movement and deformation due to mechanical, thermal and other loads.",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"},
