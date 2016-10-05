@@ -1,10 +1,10 @@
 {
-        "course": {"org": "iitk","id": "AERO03", "display_name": "Aerospace Virtual laboratory"},
+        "course": {"org": "iitk","id": "aero03", "display_name": "Aerospace Virtual laboratory"},
         "overview": "Aerospace Virtual laboratory",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Determination of Young's Modulus and Poisson's Ratio",
+                         {"id": "E99477", "name": "Determination of Young's Modulus and Poisson's Ratio",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Apparatus & Procedure"},
@@ -12,7 +12,7 @@
                                          {"name": "Appendix"},        
                                          {"name": "Gallery"}
                                          ]},
-                          {"id": "2", "name": "Determination of heat of combustion of aviation fuel",
+                          {"id": "E99476", "name": "Determination of heat of combustion of aviation fuel",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Apparatus & Procedure"},
@@ -20,7 +20,7 @@
                                          {"name": "Appendix"},        
                                          {"name": "Gallery"}
                                          ]},
-                           {"id": "3", "name": "Flow past a airfoil / wing using flow visualization",
+                           {"id": "E99475", "name": "Flow past a airfoil / wing using flow visualization",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Apparatus & Procedure"},
@@ -28,7 +28,7 @@
                                          {"name": "Appendix"},        
                                          {"name": "Gallery"}
                                          ]},
-                           {"id": "4", "name": "Aerodynamics forces and moments on a standard a/c model",
+                           {"id": "E99474", "name": "Aerodynamics forces and moments on a standard a/c model",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Apparatus & Procedure"},
@@ -36,7 +36,7 @@
                                          {"name": "Appendix"},        
                                          {"name": "Gallery"}
                                          ]},
-                           {"id": "5", "name": "Vibration testing of beams",
+                           {"id": "E99473", "name": "Vibration testing of beams",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Apparatus & Procedure"},
@@ -44,7 +44,7 @@
                                          {"name": "Appendix"},        
                                          {"name": "Gallery"}
                                          ]},
-                           {"id": "6", "name": "Study of Full Gas turbine",
+                           {"id": "E99472", "name": "Study of Full Gas turbine",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Apparatus & Procedure"},
@@ -52,7 +52,7 @@
                                          {"name": "Appendix"},        
                                          {"name": "Gallery"}
                                          ]},
-                            {"id": "7", "name": "Measurement of Airfoil sectional properties",
+                            {"id": "E99471", "name": "Measurement of Airfoil sectional properties",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Apparatus & Procedure"},
@@ -60,7 +60,7 @@
                                          {"name": "Appendix"},        
                                          {"name": "Gallery"}
                                          ]},
-                            {"id": "8", "name": "Estimation of cruise and climb performance of aircraft",
+                            {"id": "E99470", "name": "Estimation of cruise and climb performance of aircraft",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Apparatus & Procedure"},
@@ -68,7 +68,7 @@
                                          {"name": "Appendix"},        
                                          {"name": "Gallery"}
                                          ]},
-                            {"id": "9", "name": "Buckling of columns",
+                            {"id": "E99469", "name": "Buckling of columns",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Apparatus & Procedure"},
@@ -76,7 +76,7 @@
                                          {"name": "Appendix"},        
                                          {"name": "Gallery"}
                                          ]},
-                            {"id": "10", "name": "Performance and analysis of two stage axial fan",
+                            {"id": "E99468", "name": "Performance and analysis of two stage axial fan",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Apparatus & Procedure"},
@@ -84,7 +84,7 @@
                                          {"name": "Appendix"},        
                                          {"name": "Gallery"}
 					 ]},
-                            {"id": "11", "name": "Aerodynamic forces and moments on a generic aircraft model",
+                            {"id": "E99467", "name": "Aerodynamic forces and moments on a generic aircraft model",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Apparatus & Procedure"},
@@ -92,7 +92,7 @@
                                          {"name": "Appendix"},        
                                          {"name": "Gallery"}
 					 ]},
-                            {"id": "12", "name": "Estimation of drag polar of a glider",
+                            {"id": "E99466", "name": "Estimation of drag polar of a glider",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Introduction"},
                                          {"name": "Apparatus & Procedure"},
