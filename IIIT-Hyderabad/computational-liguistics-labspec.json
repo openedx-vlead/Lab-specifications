@@ -1,10 +1,10 @@
 {
-        "course": {"org": "IIIT-H","id": "CSE23", "display_name": "Computational Linguistics Lab"},
+        "course": {"org": "IIIT-H","id": "cse23", "display_name": "Computational Linguistics Lab"},
         "overview": "The interactive experiments in this lab will give the students an opportunity for learning and better understanding of using computer programming as a tool to solve basic to advanced problems.",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Forming Sentences-1",
+                         {"id": "E99828", "name": "Forming Sentences-1",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -13,7 +13,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                          {"id": "2", "name": "Forming Sentences-2",
+                          {"id": "E99827", "name": "Forming Sentences-2",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -22,7 +22,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                           {"id": "3", "name": "Tokens and Types",
+                           {"id": "E99826", "name": "Tokens and Types",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -31,7 +31,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                           {"id": "4", "name": "Heap's Law",
+                           {"id": "E99825", "name": "Heap's Law",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -40,7 +40,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                           {"id": "5", "name": "Dictionary Generation",
+                           {"id": "E99824", "name": "Dictionary Generation",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -49,7 +49,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                           {"id": "6", "name": "Coarse-grained POS Tagging",
+                           {"id": "E99823", "name": "Coarse-grained POS Tagging",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -58,7 +58,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                            {"id": "7", "name": "Fine-grained POS Tagging",
+                            {"id": "E99822", "name": "Fine-grained POS Tagging",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -67,7 +67,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                            {"id": "8", "name": "Chunking",
+                            {"id": "E99821", "name": "Chunking",
                            "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -76,7 +76,7 @@
                                          {"name": "Quizzes"},
                                          {"name": "Procedure"}
                                          ]},
-                            {"id": "9", "name": "Context Free Grammar",
+                            {"id": "E99820", "name": "Context Free Grammar",
                           "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
