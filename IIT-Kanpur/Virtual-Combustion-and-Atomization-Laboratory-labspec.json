@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitk","id": "mech48", "display_name": "Virtual Combustion and Atomization Laboratory"},
+        "course": {"org": "iitk","id": "MECH48", "display_name": "Virtual Combustion and Atomization Laboratory"},
         "overview": "Virtual Combustion and Atomization Laboratory",
         "experiments": [{"id": "1", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
