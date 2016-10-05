@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitr","id": "biotech26", "display_name": "BioMedical Instrumentation Lab"},
+        "course": {"org": "iitr","id": "BIOTECH26", "display_name": "BioMedical Instrumentation Lab"},
         "overview": "BioMedical Instrumentation Lab",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
