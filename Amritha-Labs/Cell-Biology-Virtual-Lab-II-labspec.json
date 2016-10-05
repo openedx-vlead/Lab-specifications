@@ -1,5 +1,5 @@
 {
-        "course": {"org": "Amritha-University","id": "CBII-AU", "display_name": "Cell Biology Virtual Lab II"},
+        "course": {"org": "Amritha-University","id": "cbII-au", "display_name": "Cell Biology Virtual Lab II"},
         "overview": "Cell Biology Virtual Lab II",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
