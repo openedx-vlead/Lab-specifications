@@ -1,10 +1,10 @@
 {
-        "course": {"org": "DEI","id": "EEE06", "display_name": "Virtual Power Lab"},
+        "course": {"org": "DEI","id": "eee06", "display_name": "Virtual Power Lab"},
         "overview": "To develop virtual machines and power laboratory to facilitate the students to work with their own convenience and easily understand the practical concepts.",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "To study the Synchronization of alternator with infinite bus bar.",
+                         {"id": "E99856", "name": "To study the Synchronization of alternator with infinite bus bar.",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"},
                                          {"name": "Theory"},
@@ -15,7 +15,7 @@
                                          {"name": "Videos of Exp1"},
                                          {"name": "Quiz"}
                                          ]},
-                          {"id": "2", "name": "To determine the direct axis reactance (Xd) and quadrature axis reactance (Xq) of synchronous machine.",
+                          {"id": "E99855", "name": "To determine the direct axis reactance (Xd) and quadrature axis reactance (Xq) of synchronous machine.",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Connection Diagram"},
@@ -25,7 +25,7 @@
                                          {"name": "Videos of Exp2"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"id": "3", "name": "To determine positive sequence, negative sequence and zero sequence reactances of an alternator.",
+                           {"id": "E99854", "name": "To determine positive sequence, negative sequence and zero sequence reactances of an alternator.",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Connection Diagram"},
@@ -35,7 +35,7 @@
                                          {"name": "Videos of Exp3"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"id": "4", "name": "To measure the dielectric Strength of transformer oil.",
+                           {"id": "E99853", "name": "To measure the dielectric Strength of transformer oil.",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Connection Diagram"},
@@ -45,7 +45,7 @@
                                          {"name": "Videos of Exp4"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"id": "5", "name": "To Study the effect of different shape of electrodes on dielectric (air) breakdown.",
+                           {"id": "E99852", "name": "To Study the effect of different shape of electrodes on dielectric (air) breakdown.",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Block Diagram"},
@@ -55,7 +55,7 @@
                                          {"name": "Videos of Exp5"},
                                          {"name": "Quiz"}
                                          ]},
-                           {"id": "6", "name": "To Study the gas actuated Buchholz relay for oil filled transformer.",
+                           {"id": "E99851", "name": "To Study the gas actuated Buchholz relay for oil filled transformer.",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Block Diagram"},
@@ -64,7 +64,7 @@
                                          {"name": "Videos of Exp6"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"id": "7", "name": "To Study the over-current relay and the effect of PSM and TSM.",
+                            {"id": "E99850", "name": "To Study the over-current relay and the effect of PSM and TSM.",
                           "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Block Diagram"},
@@ -74,7 +74,7 @@
                                          {"name": "Videos of Exp7"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"id": "8", "name": "To determine the sub-transient (xd″), transient (xd′) and steady state reactance (xd) of a synchronous machine.",
+                            {"id": "E99849", "name": "To determine the sub-transient (xd″), transient (xd′) and steady state reactance (xd) of a synchronous machine.",
                          "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Block Diagram"},
@@ -84,7 +84,7 @@
                                          {"name": "Videos of Exp8"},
                                          {"name": "Quiz"}
                                          ]},
-                            {"id": "9", "name": "To Study the Ferranti Effect of a transmission line/cable.",
+                            {"id": "E99848", "name": "To Study the Ferranti Effect of a transmission line/cable.",
                         "subsections": [{"name": "Objective"},
                                          {"name": "Equipments"}, 
                                          {"name": "Block Diagram"},
