@@ -1,10 +1,10 @@
 {
         "course": {"org": "iiith","id": "cse02", "display_name": "Computer Programming Lab"},
         "overview": "Computer Programming Lab",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"id": "1", "name": "Numerical Approximation",
+                         {"id": "E99800", "name": "Numerical Approximation",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -12,7 +12,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Further Reading"}
                                          ]},
-                          {"id": "2", "name": "Functions",
+                          {"id": "E99799", "name": "Functions",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -20,7 +20,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Further Reading"}
                                          ]},
-                           {"id": "3", "name": "Advanced Control Flow",
+                           {"id": "E99798", "name": "Advanced Control Flow",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -28,7 +28,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Further Reading"}
                                          ]},
-                           {"id": "4", "name": "Arrays",
+                           {"id": "E99797", "name": "Arrays",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -36,7 +36,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Further Reading"}
                                          ]},
-                           {"id": "5", "name": "Structures",
+                           {"id": "E99796", "name": "Structures",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -44,7 +44,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Further Reading"}
                                          ]},
-                           {"id": "6", "name": "Basic Control Flow",
+                           {"id": "E99795", "name": "Basic Control Flow",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -52,7 +52,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Further Reading"}
                                          ]},
-                            {"id": "7", "name": "Strings",
+                            {"id": "E99794", "name": "Strings",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -60,7 +60,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Further Reading"}
                                          ]},
-                            {"id": "8", "name": "Pointers",
+                            {"id": "E99793", "name": "Pointers",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -68,7 +68,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Further Reading"}
                                          ]},
-                            {"id": "9", "name": "Recursion",
+                            {"id": "E99792", "name": "Recursion",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -76,7 +76,7 @@
                                          {"name": "Procedure"},
                                          {"name": "Further Reading"}
                                          ]},
-                            {"id": "10", "name": "Expression Evaluation",
+                            {"id": "E99791", "name": "Expression Evaluation",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
