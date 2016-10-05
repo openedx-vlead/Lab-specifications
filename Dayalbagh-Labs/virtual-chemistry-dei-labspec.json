@@ -1,5 +1,5 @@
 {
-        "course": {"org": "DEI","id": "chs12", "display_name": "Virtual Chemistry Lab"},
+        "course": {"org": "DEI","id": "CHS12", "display_name": "Virtual Chemistry Lab"},
         "overview": "Teaching/Learning Modules for advanced separation Techniques: High Performance Thin Layer Chromatography for Under Graduate and Post Graduate students.",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
