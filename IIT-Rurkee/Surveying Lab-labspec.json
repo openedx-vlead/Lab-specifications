@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitr","id": "civil15", "display_name": "Surveying Lab"},
+        "course": {"org": "iitr","id": "CIVIL15", "display_name": "Surveying Lab"},
         "overview": "Surveying Lab",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
