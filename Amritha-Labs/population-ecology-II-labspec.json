@@ -1,7 +1,7 @@
 {
  "course": {"org": "Amritha-University","id": "biotech17", "display_name": "Population ecology Virtual Lab II"},
         "overview": "Population ecology Virtual Lab II",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
                          {"id": "E99950", "name": "Effects of Carrying Capacity and Satiation in Predator-Prey Dynamics",
