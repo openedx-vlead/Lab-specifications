@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitg","id": "mv", "display_name": "Virtual Labs for Mechanical Vibrations(M)"},
+        "course": {"org": "iitg","id": "MV", "display_name": "Virtual Labs for Mechanical Vibrations(M)"},
         "overview": "Virtual Labs for Mechanical Vibrations(M)",
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
