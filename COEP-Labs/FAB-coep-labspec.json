@@ -25,7 +25,7 @@
                                          {"name": "Post Test"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "E99940", "name": "PCB design & fabrication",
+                           {"id": "E99940", "name": "PCB design and fabrication",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -35,7 +35,7 @@
                                          {"name": "Post Test"},
                                          {"name": "Feedback"}
                                          ]},
-                           {"id": "E99939", "name": "Interface & Application Programming",
+                           {"id": "E99939", "name": "Interface and Application Programming",
                           "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
