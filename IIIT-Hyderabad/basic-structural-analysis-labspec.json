@@ -9,7 +9,7 @@
                                          {"name": "Prerequisites"},
                                          {"name": "Feedback"}
                                          ]},
-                         {"id": "E99838", "name": " Single Span Beams Experiment",
+                         {"id": "E99838", "name": "Single Span Beams Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -40,7 +40,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "E99835", "name": " Portal Frames Experiment",
+                           {"id": "E99835", "name": "Portal Frames Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -60,7 +60,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "E99833", "name": "Rijid Joints Experiment",
+                           {"id": "E99833", "name": "Rigid Joints Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
@@ -70,7 +70,7 @@
                                          {"name": "Procedure"},
                                          {"name": "FurtherReadings"}
                                          ]},
-                           {"id": "E99832", "name": " Arches Experiment",
+                           {"id": "E99832", "name": "Arches Experiment",
                          "subsections": [{"name": "Introduction"},
                                          {"name": "Theory"},
                                          {"name": "Objective"},
