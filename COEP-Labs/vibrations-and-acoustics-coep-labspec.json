@@ -1,5 +1,5 @@
 {
-        "course": {"org": "COEP","id": "MECH04", "display_name": "Virtual Vibrations & Acoustics Lab"},
+        "course": {"org": "COEP","id": "MECH04", "display_name": "Virtual Vibrations and Acoustics Lab"},
         "overview": "In this lab vibration related techniques are demonstrated like MI of connecting rod, force response and free response of SDOF, Trifiliar suspension, tuned vibration absorber and many more.",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
