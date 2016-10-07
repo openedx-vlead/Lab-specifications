@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitr","id": "eee23", "display_name": "Bio-Medical Signal & Image Processing"},
+        "course": {"org": "iitr","id": "eee23", "display_name": "Bio-Medical Signal and Image Processing"},
         "overview": "Bio-Medical Signal & Image Processing",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
