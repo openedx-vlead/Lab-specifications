@@ -65,7 +65,7 @@
                                          {"name": "Downloads"},
                                          {"name": "Conclusion"}
                                          ]},
-                         {"id": "E99325", "name": "Design and Simulation of monostable and astable oscillator using IC 555",
+                         {"id": "E99325", "name": "Implementation of monostable and astable oscillator using IC 555",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
