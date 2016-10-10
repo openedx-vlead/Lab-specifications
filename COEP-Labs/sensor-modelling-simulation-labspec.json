@@ -1,10 +1,10 @@
 {
         "course": {"org": "COEP","id": "SL", "display_name": "Sensors Modeling and Simulation"},
         "overview": "Sensors Modeling and Simulation",
-        "experiments": [{"name": "Introduction",
+        "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Characterize the temperature sensor - RTD",
+                         {"id": "E99324", "name": "Characterize the temperature sensor - RTD",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -15,7 +15,7 @@
                                          {"name": "Reference"},
                                          {"name": "Photo Gallery"}        
                                          ]},
-                         {"name": "Simulate the performance of a bio-sensor",
+                         {"id": "E99323", "name": "Simulate the performance of a bio-sensor",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -25,7 +25,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Reference"}
                                          ]},
-                          {"name": "Measurement of level in a tank using capacitive type level probe",
+                          {"id": "E99322", "name": "Measurement of level in a tank using capacitive type level probe",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -35,7 +35,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Reference"}
                                          ]},
-                          {"name": "Characterize the LVDT",
+                          {"id": "E99321", "name": "Characterize the LVDT",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -45,7 +45,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Reference"}
                                          ]},
-                          {"name": "Design an orifice plate for a typical application",
+                          {"id": "E99320", "name": "Design an orifice plate for a typical application",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -57,7 +57,7 @@
                                          {"name": "Photo Gallery"},
                                          {"name": "Sample Readings"}
                                          ]},
-                         {"name": "Simulate the performance of a chemical sensor",
+                         {"id": "E99319", "name": "Simulate the performance of a chemical sensor",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -67,7 +67,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Reference"}
                                          ]},
-                          {"name": "Characterize the strain gauge sensor ",
+                          {"id": "E99318", "name": "Characterize the strain gauge sensor ",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -77,7 +77,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Reference"}
                                          ]},
-                          {"name": "Characterize the temperature sensor - Thermocouple ",
+                          {"id": "E99317", "name": "Characterize the temperature sensor - Thermocouple ",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
