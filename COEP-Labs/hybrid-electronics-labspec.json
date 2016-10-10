@@ -1,0 +1,81 @@
+{
+        "course": {"org": "COEP","id": "HE-COEP", "display_name": "Hybird Electronics Lab"},
+        "overview": "Hybird Electronics Lab",
+        "experiments": [{"name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"name": "Design and Implementation of Various Arithmetic Circuits",
+                         "subsections": [{"name": "Aim"},
+                                         {"name": "Pre Test"},
+                                         {"name": "Theory"},
+                                         {"name": "Simulator"},
+                                         {"name": "Procedure"},        
+                                         {"name": "Post Test"},
+                                         {"name": "Downloads"},
+                                         {"name": "Conclusion"}
+                                         ]},
+                         {"name": "Design and Simulate Various Code Converters",
+                         "subsections": [{"name": "Aim"},
+                                         {"name": "Pre Test"},
+                                         {"name": "Theory"},
+                                         {"name": "Simulator"},
+                                         {"name": "Procedure"},        
+                                         {"name": "Post Test"},
+                                         {"name": "Downloads"},
+                                         {"name": "Conclusion"}
+                                         ]},
+                         {"name": "Design and Simulation of Various Counters and Shift Registers",
+                         "subsections": [{"name": "Aim"},
+                                         {"name": "Pre Test"},
+                                         {"name": "Theory"},
+                                         {"name": "Simulator"},
+                                         {"name": "Procedure"},        
+                                         {"name": "Post Test"},
+                                         {"name": "Downloads"},
+                                         {"name": "Conclusion"}
+                                         ]},
+                  
+                          {"name": "Design and Simulation of Arithmetic Logic Unit",
+                         "subsections": [{"name": "Aim"},
+                                         {"name": "Pre Test"},
+                                         {"name": "Theory"},
+                                         {"name": "Simulator"},
+                                         {"name": "Procedure"},        
+                                         {"name": "Post Test"},
+                                         {"name": "Downloads"},
+                                         {"name": "Conclusion"}
+                                         ]},
+                         {"name": "Design and Simulation of Decoders, Encoders, Multiplexer and Demultiplexer",
+                         "subsections": [{"name": "Aim"},
+                                         {"name": "Pre Test"},
+                                         {"name": "Theory"},
+                                         {"name": "Simulator"},
+                                         {"name": "Procedure"},        
+                                         {"name": "Post Test"},
+                                         {"name": "Downloads"},
+                                         {"name": "Conclusion"}
+                                         ]},
+                         {"name": "Design and Simulate Analog to Digital Converter and Digital to Analog Converter ",
+                         "subsections": [{"name": "Aim"},
+                                         {"name": "Pre Test"},
+                                         {"name": "Theory"},
+                                         {"name": "Simulator"},
+                                         {"name": "Procedure"},        
+                                         {"name": "Post Test"},
+                                         {"name": "Downloads"},
+                                         {"name": "Conclusion"}
+                                         ]},
+                         {"name": "Design and Simulation of monostable and astable oscillator using IC 555",
+                         "subsections": [{"name": "Aim"},
+                                         {"name": "Pre Test"},
+                                         {"name": "Theory"},
+                                         {"name": "Simulator"},
+                                         {"name": "Procedure"},        
+                                         {"name": "Post Test"},
+                                         {"name": "Downloads"},
+                                         {"name": "Conclusion"}
+                                         ]}
+                            
+                        ]
+
+}
