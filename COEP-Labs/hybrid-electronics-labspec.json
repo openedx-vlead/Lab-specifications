@@ -1,5 +1,5 @@
 {
-        "course": {"org": "COEP","id": "HE-COEP", "display_name": "Hybird Electronics Lab"},
+        "course": {"org": "COEP","id": "ECE19", "display_name": "Hybird Electronics Lab"},
         "overview": "Hybird Electronics Lab",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
