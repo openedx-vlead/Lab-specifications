@@ -1,5 +1,5 @@
 {
-        "course": {"org": "COEP-Pune","id": "IAL-COEP", "display_name": "Industrial Automation Laboratory"},
+        "course": {"org": "COEP-Pune","id": "EEE09", "display_name": "Industrial Automation Laboratory"},
         "overview": "Industrial Automation Laboratory",
         "experiments": [{"id": "Intro", "name": "Study hardware and software platforms for DCS",
                          "subsections": [{"name": "Aim"},
