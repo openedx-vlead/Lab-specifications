@@ -1,7 +1,7 @@
 {
         "course": {"org": "COEP-Pune","id": "EEE09", "display_name": "Industrial Automation Laboratory"},
         "overview": "Industrial Automation Laboratory",
-        "experiments": [{"id": "Intro", "name": "Study hardware and software platforms for DCS",
+        "experiments": [{"id": "E99303", "name": "Study hardware and software platforms for DCS",
                          "subsections": [{"name": "Aim"},
 					 {"name": "Pre Test"},
                                          {"name": "Theory"},
