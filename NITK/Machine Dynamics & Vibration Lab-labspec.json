@@ -1,5 +1,5 @@
 {
-        "course": {"org": "nitk","id": "mech21", "display_name": "Machine Dynamics & Vibration Lab"},
+        "course": {"org": "nitk","id": "MECH21", "display_name": "Machine Dynamics & Vibration Lab"},
         "overview": "Machine Dynamics & Vibration Lab",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
