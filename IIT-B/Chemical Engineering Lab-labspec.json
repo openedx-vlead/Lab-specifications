@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitb","id": "chem01", "display_name": "Chemical Engineering Lab"},
+        "course": {"org": "iitb","id": "CHEM01", "display_name": "Chemical Engineering Lab"},
         "overview": "Chemical Engineering Lab",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
