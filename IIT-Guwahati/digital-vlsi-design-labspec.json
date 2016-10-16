@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitg","id": "vlsi-iitg", "display_name": "Digital VLSI Design Lab"},
+        "course": {"org": "iitg","id": "VLSI-IITG", "display_name": "Digital VLSI Design Lab"},
         "overview": "Welcome to Digital VLSI Design Lab which belongs to Electronics and Communications domain.",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
