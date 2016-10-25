@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitg","id": "hss02", "display_name": "Virtual English and Communication Lab"},
+        "course": {"org": "iitg","id": "HSS02", "display_name": "Virtual English and Communication Lab"},
         "overview": "Virtual English and Communication Lab",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
