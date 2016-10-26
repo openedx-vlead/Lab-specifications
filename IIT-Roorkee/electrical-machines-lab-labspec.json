@@ -1,0 +1,74 @@
+{
+        "course": {"org": "iitr","id": "EEE02", "display_name": "Electrical Machines Lab"},
+        "overview": "Electrical Machines Lab",
+        "experiments": [{"id": "Intro", "name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"id": "E99415", "name": "Speed Control of DC motor by varying armature and field resistance",
+                         "subsections": [{"name": "THEORY"},
+                                         {"name": "OBJECTIVE"},
+                                         {"name": "EQUIPMENT USED"},
+                                         {"name": "EXPERIMENT"},
+                                         {"name": "QUIZZES"},        
+                                         {"name": "PROCEDURE"},
+                                         {"name": "FURTHER READINGS"}
+                                         ]},
+                          {"id": "E99414", "name": "Speed control of DC motor by using Ward-Leonard Method of speed control",
+                         "subsections": [{"name": "THEORY"},
+                                         {"name": "OBJECTIVE"},
+                                         {"name": "EQUIPMENT USED"},
+                                         {"name": "EXPERIMENT"},
+                                         {"name": "QUIZZES"},        
+                                         {"name": "PROCEDURE"},
+                                         {"name": "FURTHER READINGS"}
+                                         ]},
+                           {"id": "E99413", "name": "Load Characteristics of DC shunt generator",
+                         "subsections": [{"name": "THEORY"},
+                                         {"name": "OBJECTIVE"},
+                                         {"name": "EQUIPMENT USED"},
+                                         {"name": "EXPERIMENT"},
+                                         {"name": "QUIZZES"},        
+                                         {"name": "PROCEDURE"},
+                                         {"name": "FURTHER READINGS"}
+                                         ]},
+                           {"id": "E99412", "name": "Magnetisation Characteristics of DC shunt generator",
+                         "subsections": [{"name": "THEORY"},
+                                         {"name": "OBJECTIVE"},
+                                         {"name": "EQUIPMENT USED"},
+                                         {"name": "EXPERIMENT"},
+                                         {"name": "QUIZZES"},        
+                                         {"name": "PROCEDURE"},
+                                         {"name": "FURTHER READINGS"}
+                                         ]},
+                           {"id": "E99411", "name": "Determination of the efficiency of a dc motor by loss summation method(Swinburne's test)",
+                         "subsections": [{"name": "THEORY"},
+                                         {"name": "OBJECTIVE"},
+                                         {"name": "EQUIPMENT USED"},
+                                         {"name": "EXPERIMENT"},
+                                         {"name": "QUIZZES"},        
+                                         {"name": "PROCEDURE"},
+                                         {"name": "FURTHER READINGS"}
+                                         ]},
+                           {"id": "E99410", "name": "Speed control of slipring Induction Motor",
+                         "subsections": [{"name": "THEORY"},
+                                         {"name": "OBJECTIVE"},
+                                         {"name": "EQUIPMENT USED"},
+                                         {"name": "EXPERIMENT"},
+                                         {"name": "QUIZZES"},        
+                                         {"name": "PROCEDURE"},
+                                         {"name": "FURTHER READINGS"}
+                                         ]},
+                            {"id": "E99409", "name": "Determination of Transformer equivalent circuit from Open Circuit and Short Circuit Test",
+                         "subsections": [{"name": "THEORY"},
+                                         {"name": "OBJECTIVE"},
+                                         {"name": "EQUIPMENT USED"},
+                                         {"name": "EXPERIMENT"},
+                                         {"name": "QUIZZES"},        
+                                         {"name": "PROCEDURE"},
+                                         {"name": "FURTHER READINGS"}
+                                         ]}
+                            
+                        ]
+
+}
+
