@@ -1,5 +1,5 @@
 {
-        "course": {"org": "nitk","id": "chem05", "display_name": "Process Control, Reaction Engineering and Unit Operations Lab"},
+        "course": {"org": "nitk","id": "CHEM05", "display_name": "Process Control, Reaction Engineering and Unit Operations Lab"},
         "overview": "Process Control, Reaction Engineering and Unit Operations Lab",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
