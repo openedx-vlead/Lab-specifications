@@ -1,5 +1,5 @@
 {
-        "course": {"org": "COEP","id": "BIO16", "display_name": "Virtual Bio-Medical and Signal Processing Laboratory"},
+        "course": {"org": "COEP","id": "BIO16", "display_name": "Biomedical and Signal Processing Laboratory"},
         "overview": "Virtual Bio-Medical and Signal Processing Laboratory",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
