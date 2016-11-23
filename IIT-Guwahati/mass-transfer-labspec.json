@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitg","id": "VMT-IITG", "display_name": "Virtual mass transfer lab"},
+        "course": {"org": "iitg","id": "VMT-IITG", "display_name": "Mass Transfer"},
         "overview": "Virtual mass transfer lab",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
