@@ -1,5 +1,5 @@
 {
-        "course": {"org": "IIIT-H","id": "ccnsb07", "display_name": "Molecular Interactions Lab"},
+        "course": {"org": "IIIT-H","id": "ccnsb07", "display_name": "Molecular Interactions"},
         "overview": "Molecular forces determine the physico-chemical properties of various forms of matter such as gases, liquids and solids.",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
