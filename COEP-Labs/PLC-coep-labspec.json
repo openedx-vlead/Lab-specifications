@@ -1,5 +1,5 @@
 {
-        "course": {"org": "COEP","id": "EEE12", "display_name": "Virtual Programmable Logic Controller Lab"},
+        "course": {"org": "COEP","id": "EEE12", "display_name": "PLC"},
         "overview": "In this lab we will demonstrate ladder programming. We will implement Logic Gates, DOL starter, on-delay timer, off-delay timer, up and down counter and many more.",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
