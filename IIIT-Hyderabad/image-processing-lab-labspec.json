@@ -1,5 +1,5 @@
 {
-        "course": {"org": "IIIT-H","id": "cse19", "display_name": "Image Processing Lab"},
+        "course": {"org": "IIIT-H","id": "cse19", "display_name": "Image Processing"},
         "overview": "The primary objective of this virtual lab is to supplement an undergraduate level course on image processing and enable students to understand the subject better",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
