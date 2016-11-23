@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitd","id": "ECE08", "display_name": "Engineering Electro-magnetics Laboratory"},
+        "course": {"org": "iitd","id": "ECE08", "display_name": "Engineering Electromagnetic Lab"},
         "overview": "Engineering Electro-magnetics Laboratory",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
