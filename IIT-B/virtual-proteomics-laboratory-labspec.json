@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitb","id": "biotech25", "display_name": "Virtual Proteomics Laboratory"},
+        "course": {"org": "iitb","id": "biotech25", "display_name": "Virtual Proteomics Lab"},
         "overview": "Virtual Proteomics Laboratory",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
