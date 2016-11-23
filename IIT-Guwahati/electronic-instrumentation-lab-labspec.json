@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitg","id": "EIL-IITG", "display_name": "Electronic instrumentation"},
+        "course": {"org": "iitg","id": "EIL-IITG", "display_name": "Electronic instrumentation Lab"},
         "overview": "Electronic instrumentation",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
