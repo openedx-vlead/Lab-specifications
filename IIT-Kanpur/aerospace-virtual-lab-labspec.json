@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitk","id": "aero03", "display_name": "Aerospace Virtual laboratory"},
+        "course": {"org": "iitk","id": "aero03", "display_name": "Aerospace Virtual Lab"},
         "overview": "Aerospace Virtual laboratory",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
