@@ -1,5 +1,5 @@
 {
-        "course": {"org": "nitk","id": "EEE08", "display_name": "Industrial Electric Drives Lab"},
+        "course": {"org": "nitk","id": "EEE08", "display_name": "Industrial Electric Drives"},
         "overview": "Industrial Electric Drives Lab",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
