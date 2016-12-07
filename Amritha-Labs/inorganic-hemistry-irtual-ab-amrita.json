@@ -1,0 +1,42 @@
+{
+        "course": {"org": "Amrita-University","id": "ICV-AU", "display_name": "Inorganic Chemistry Virtual Lab"},
+        "overview": "Inorganic Chemistry Virtual Lab",
+        "experiments": [{"id": "Intro", "name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"id": "E99300", "name": "Acid Base Titration",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                          {"id": "E99299", "name": "Alloy Analysis (Brass)",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99298", "name": "Gravimetric Estimation of Barium",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99297", "name": "Gravimetric Estimation of Nickel",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99296", "name": "Soil Analysis-Determination of pH of Soil",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99295", "name": "Soil Analysis-Determination of Specific Conductivity of Soil",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                            {"id": "E99294", "name": "Water Analysis-Determination of Chemical Parameters",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                            {"id": "E99293", "name": "Water Analysis-Determination of Physical Parameters",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]}
+                        ]
+
+}
+

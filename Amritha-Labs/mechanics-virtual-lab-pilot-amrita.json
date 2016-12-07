@@ -1,0 +1,38 @@
+{
+        "course": {"org": "Amrita-University","id": "PHY-SC22-AU", "display_name": "Mechanics Virtual Lab and Pilot"},
+        "overview": "Mechanics Virtual Lab and Pilot",
+        "experiments": [{"id": "Intro", "name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"id": "E99277", "name": "Ballistic Pendulum",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                          {"id": "E99276", "name": "Collision Balls",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99275", "name": "Elastic and Inelastic Collision",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99274", "name": "Moment of Inertia of Flywheel",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99273", "name": "Newton's Second Law of Motion",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99272", "name": "Projectile Motion",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                            {"id": "E99271", "name": "Torque and Angular Acceleration of a Fly Wheel",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]}
+                        ]
+
+}
+

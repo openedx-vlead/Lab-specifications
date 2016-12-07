@@ -1,0 +1,22 @@
+{
+        "course": {"org": "Amrita-University","id": "OCV-AU", "display_name": "Organic Chemistry Virtual Lab"},
+        "overview": "Organic Chemistry Virtual Lab",
+        "experiments": [{"id": "Intro", "name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"id": "E99255", "name": "Calculation of λmax of Organic Compounds Using Woodward Fieser Rules",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                          {"id": "E99254", "name": "Estimation of Glucose",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99253", "name": "Laser Flash Photometer",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]}
+                        ]
+
+}
+
