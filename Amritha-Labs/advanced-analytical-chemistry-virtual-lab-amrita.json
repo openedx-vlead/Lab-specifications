@@ -8,6 +8,9 @@
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
+                         {"id": "E99238", "name": "Estimation of Phosphate Content in Soft Drinks",
+                         "subsections": [{"name": "Simulator"}
+                                         ]},
                           {"id": "E99261", "name": "Flame Photometry",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
