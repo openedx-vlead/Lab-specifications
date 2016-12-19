@@ -741,7 +741,7 @@
     {"id":"E99335", "name":"Flow through Fluidized Bed"},
     {"id":"E99334", "name":"Reaction kinetic studies in a batch reactor"},
     {"id":"E99333", "name":"Reaction kinetic studies in a mixed flow reactor"},
-    {"id":"E99332", "name":"Reaction kinetic studies in a plug flow reactor"}
+    {"id":"E99332", "name":"Reaction kinetic studies in a plug flow reactor"},
     {"id": "Intro", "name": "Introduction"},
     {"id": "E99300", "name": "Acid Base Titration"},
     {"id": "E99299", "name": "Alloy Analysis (Brass)"},
@@ -759,7 +759,7 @@
     {"id": "E99288", "name": "Estimation of Saponification Value of Fats or Oils"},
     {"id": "E99287", "name": "Qualitative Analysis of Amino Acid"},
     {"id": "E99286", "name": "Qualitative Analysis of Carbohydrates"},
-    {"id": "E99285", "name": "Quantitative Estimation of Amino Acids by Ninhydrin"}
+    {"id": "E99285", "name": "Quantitative Estimation of Amino Acids by Ninhydrin"},
     {"id": "Intro", "name": "Introduction"},
     {"id": "E99284", "name": "Electroblotting"},
     {"id": "E99283", "name": "Ligation Using T4 DNA Ligase"},
@@ -767,7 +767,7 @@
     {"id": "E99281", "name": "Plating of the Bacteriophage"},
     {"id": "E99280", "name": "Polyacrylamide Gel Electrophoresis"},
     {"id": "E99279", "name": "Polymerase Chain Reaction (PCR)"},
-    {"id": "E99278", "name": "Preparation of Stocks of Bacteriophage Lambda by Plate Lysis and Elution"}
+    {"id": "E99278", "name": "Preparation of Stocks of Bacteriophage Lambda by Plate Lysis and Elution"},
     {"id": "Intro", "name": "Introduction"},
     {"id": "E99277", "name": "Ballistic Pendulum"},
     {"id": "E99276", "name": "Collision Balls"},
@@ -775,7 +775,7 @@
     {"id": "E99274", "name": "Moment of Inertia of Flywheel"},
     {"id": "E99273", "name": "Newton's Second Law of Motion"},
     {"id": "E99272", "name": "Projectile Motion"},
-    {"id": "E99271", "name": "Torque and Angular Acceleration of a Fly Wheel"}
+    {"id": "E99271", "name": "Torque and Angular Acceleration of a Fly Wheel"},
     {"id": "Intro", "name": "Introduction"},
     {"id": "E99270", "name": "Calorimetry-Water Equivalent Calorimetry"},
     {"id": "E99269", "name": "Calorimetry-Heat of Neutralization"},
@@ -784,7 +784,7 @@
     {"id": "E99266", "name": "Determination of Viscosity of Organic Solvents"},
     {"id": "E99265", "name": "Ebullioscopy"},
     {"id": "E99264", "name": "EMF Measurement"},
-    {"id": "E99263", "name": "Spectrophotometry"}
+    {"id": "E99263", "name": "Spectrophotometry"},
     {"id": "Intro", "name": "Introduction"},
     {"id": "E99262", "name": "Electrogravimetric Estimation of Metals"},
     {"id": "E99261", "name": "Flame Photometry"},
@@ -792,13 +792,13 @@
     {"id": "E99259", "name": "Polarography 2 - Determination of Unknown Concentration of Vitamin C"},
     {"id": "E99258", "name": "Soil Analysis - Determination of Available Organic Carbon Content in the Soil"},
     {"id": "E99257", "name": "Soil Analysis - Determination of Available Phosphorus Content in the Soil by Bray's Method"},
-    {"id": "E99256", "name": "Soil Analysis - Determination of Available Nitrogen content in the Soil by Kjeldahl Method"}
+    {"id": "E99256", "name": "Soil Analysis - Determination of Available Nitrogen content in the Soil by Kjeldahl Method"},
     {"id": "Intro", "name": "Introduction"},
     {"id": "E99255", "name": "Calculation of λmax of Organic Compounds Using Woodward Fieser Rules"},
     {"id": "E99254", "name": "Estimation of Glucose"},
-    {"id": "E99253", "name": "Laser Flash Photometer"}
-    {"id": "E99240", "name": "Extraction of Bacteriophage DNA from Large Scale Cultures Using Proteinase K and SDS"}
-    {"id": "E99239", "name": "Young's Modulus - Non Uniform Bending"}   
+    {"id": "E99253", "name": "Laser Flash Photometer"},
+    {"id": "E99240", "name": "Extraction of Bacteriophage DNA from Large Scale Cultures Using Proteinase K and SDS"},
+    {"id": "E99239", "name": "Young's Modulus - Non Uniform Bending"},   
     {"id": "E99238", "name": "Estimation of Phosphate Content in Soft Drinks"}   
         
 ]}
