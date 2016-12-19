@@ -13,8 +13,27 @@
                                          {"name": "Reference"},
                                          {"name": "Video"},
                                          {"name": "Quiz"}
-                                         ]}
-                         
+                                        ]},
+			{"id": "E99252", "name": "Calibration of V-Notch",
+                         "subsections": [{"name": "Theory"},
+                                         {"name": "Procedure"},
+                                         {"name": "Self Evaluation"},
+                                         {"name": "Simulator"},
+                                         {"name": "Assignment"},
+                                         {"name": "Reference"},
+                                         {"name": "Video"},
+                                         {"name": "Quiz"}
+			 ]},
+			{"id": "E99251", "name": "Calibration of Rectangular Notch ",
+                         "subsections": [{"name": "Theory"},
+                                         {"name": "Procedure"},
+                                         {"name": "Self Evaluation"},
+                                         {"name": "Simulator"},
+                                         {"name": "Assignment"},
+                                         {"name": "Reference"},
+                                         {"name": "Video"},
+                                         {"name": "Quiz"}
+					]}
                         ]
 
 }
