@@ -8,6 +8,9 @@
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
                                          ]},
+                         {"id": "E99240", "name": "Extraction of Bacteriophage DNA from Large Scale Cultures Using Proteinase K and SDS",
+                         "subsections": [{"name": "Animation"}
+                                         ]},
                           {"id": "E99283", "name": "Ligation Using T4 DNA Ligase",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
