@@ -762,6 +762,7 @@
     {"id": "E99285", "name": "Quantitative Estimation of Amino Acids by Ninhydrin"},
     {"id": "Intro", "name": "Introduction"},
     {"id": "E99284", "name": "Electroblotting"},
+    {"id": "E99240", "name": "Extraction of Bacteriophage DNA from Large Scale Cultures Using Proteinase K and SDS"},
     {"id": "E99283", "name": "Ligation Using T4 DNA Ligase"},
     {"id": "E99282", "name": "Plasmid Curing"},
     {"id": "E99281", "name": "Plating of the Bacteriophage"},
@@ -776,6 +777,7 @@
     {"id": "E99273", "name": "Newton's Second Law of Motion"},
     {"id": "E99272", "name": "Projectile Motion"},
     {"id": "E99271", "name": "Torque and Angular Acceleration of a Fly Wheel"},
+    {"id": "E99239", "name": "Young's Modulus - Non Uniform Bending"},
     {"id": "Intro", "name": "Introduction"},
     {"id": "E99270", "name": "Calorimetry-Water Equivalent Calorimetry"},
     {"id": "E99269", "name": "Calorimetry-Heat of Neutralization"},
@@ -787,6 +789,7 @@
     {"id": "E99263", "name": "Spectrophotometry"},
     {"id": "Intro", "name": "Introduction"},
     {"id": "E99262", "name": "Electrogravimetric Estimation of Metals"},
+    {"id": "E99238", "name": "Estimation of Phosphate Content in Soft Drinks"}, 
     {"id": "E99261", "name": "Flame Photometry"},
     {"id": "E99260", "name": "Polarography 1 - Determination of Unknown Concentration of Cadmium"},
     {"id": "E99259", "name": "Polarography 2 - Determination of Unknown Concentration of Vitamin C"},
@@ -796,12 +799,5 @@
     {"id": "Intro", "name": "Introduction"},
     {"id": "E99255", "name": "Calculation of λmax of Organic Compounds Using Woodward Fieser Rules"},
     {"id": "E99254", "name": "Estimation of Glucose"},
-    {"id": "E99253", "name": "Laser Flash Photometer"},
-    {"id": "Intro", "name": "Introduction"},
-    {"id": "E99240", "name": "Extraction of Bacteriophage DNA from Large Scale Cultures Using Proteinase K and SDS"},
-    {"id": "Intro", "name": "Introduction"},    
-    {"id": "E99239", "name": "Young's Modulus - Non Uniform Bending"},
-    {"id": "Intro", "name": "Introduction"},    
-    {"id": "E99238", "name": "Estimation of Phosphate Content in Soft Drinks"}   
-        
+    {"id": "E99253", "name": "Laser Flash Photometer"}      
 ]}
