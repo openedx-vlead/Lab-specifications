@@ -31,6 +31,9 @@
                             {"id": "E99271", "name": "Torque and Angular Acceleration of a Fly Wheel",
                          "subsections": [{"name": "Simulator"},
                                          {"name": "Animation"}
+                                         ]},
+                            {"id": "E99239", "name": "Young's Modulus - Non Uniform Bending",
+                         "subsections": [{"name": "Simulator"}
                                          ]}
                         ]
 
