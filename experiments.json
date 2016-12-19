@@ -799,5 +799,11 @@
     {"id": "Intro", "name": "Introduction"},
     {"id": "E99255", "name": "Calculation of λmax of Organic Compounds Using Woodward Fieser Rules"},
     {"id": "E99254", "name": "Estimation of Glucose"},
-    {"id": "E99253", "name": "Laser Flash Photometer"}      
+    {"id": "E99253", "name": "Laser Flash Photometer"},  
+    {"id": "E99237", "name": "Detection of Elements Lassaignes Test"},  
+    {"id": "E99236", "name": "Organic Preparations Allylation of Isatin"},  
+    {"id": "E99235", "name": "Purification by Fractional Distillation or Crystallisation"},  
+    {"id": "E99234", "name": "Purification by Steam Distillation or Crystallisation"},  
+    {"id": "E99233", "name": "Separation of Compounds using Column Chromatography"} 
+    
 ]}
