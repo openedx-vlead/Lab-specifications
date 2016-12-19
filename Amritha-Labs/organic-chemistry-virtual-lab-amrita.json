@@ -13,9 +13,24 @@
                                          {"name": "Animation"}
                                          ]},
                            {"id": "E99253", "name": "Laser Flash Photometer",
-                          "subsections": [{"name": "Simulator"},
-                                         {"name": "Animation"}
+                          "subsections": [{"name": "Simulator"}
+                                         ]},
+                           {"id": "E99237", "name": "Detection of Elements Lassaignes Test",
+                          "subsections": [{"name": "Animation"}
+                                         ]},
+                           {"id": "E99236", "name": "Organic Preparations Allylation of Isatin",
+                          "subsections": [{"name": "Animation"}
+                                         ]},
+                           {"id": "E99235", "name": "Purification by Fractional Distillation or Crystallisation",
+                          "subsections": [{"name": "Animation"}
+                                         ]},
+                           {"id": "E99234", "name": "Purification by Steam Distillation or Crystallisation",
+                          "subsections": [{"name": "Animation"}
+                                         ]},
+                           {"id": "E99233", "name": "Separation of Compounds using Column Chromatography",
+                          "subsections": [{"name": "Animation"}
                                          ]}
+
                         ]
 
 }
