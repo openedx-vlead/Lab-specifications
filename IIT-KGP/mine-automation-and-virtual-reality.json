@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iitkgp","id": "MECH27", "display_name": "Mine Automation and Virtual Reality"},
+        "course": {"org": "iitkgp","id": "MECH27", "display_name": "Virtual Labs on Mine Ventilation"},
         "overview": "Mine Automation and Virtual Reality",
         "experiments": [{"id": "Intro", "name": "New Link of Mine Ventilation Lab",
                          "subsections": [{"name": "Links"}
