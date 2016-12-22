@@ -1,5 +1,5 @@
 {
-        "course": {"org": "Amrita-University","id": "PHY-SC22-AU", "display_name": "Mechanics Virtual Lab and Pilot"},
+        "course": {"org": "Amrita-University","id": "PHY-SC22-AU", "display_name": "Mechanics Virtual Lab (Pilot)"},
         "overview": "Mechanics Virtual Lab and Pilot",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
