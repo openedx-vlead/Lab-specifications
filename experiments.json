@@ -804,6 +804,8 @@
     {"id": "E99236", "name": "Organic Preparations Allylation of Isatin"},  
     {"id": "E99235", "name": "Purification by Fractional Distillation or Crystallisation"},  
     {"id": "E99234", "name": "Purification by Steam Distillation or Crystallisation"},  
-    {"id": "E99233", "name": "Separation of Compounds using Column Chromatography"} 
+    {"id": "E99233", "name": "Separation of Compounds using Column Chromatography"},
+    {"id": "E99232", "name": "Multilayer feedforward neural networks"} 
+
     
 ]}
