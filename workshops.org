@@ -44,12 +44,6 @@
 
 
 * Virtual Labs College Cloud Edition version of workshops
-** Introduction
-** Pre Requisites (checklist just like lalit doc)
-** Past Workshops (link to college cloud page)
-** Download the doc (college cloud doc make in pdf to be downloadable
-   make the pre requisites as square boxes to that person can check the boxes
-   and scan it to send to us))
 
 ** Introduction
    VLEAD (Virtual Labs Engineering and Architecture Division, IIIT-Hyderabad)
