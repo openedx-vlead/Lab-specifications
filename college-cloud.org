@@ -1,0 +1,77 @@
+#+TITLE: Virtual Labs College Cloud Edition
+
+* Virtual Labs College Cloud Edition : Introduction and Features
+  Virtual Labs College Cloud Edition is the Portable-Edition for Virtual
+  Labs. It offers the offline version of Virtual Labs laboratories, experiments
+  and theoretical content. This Edition addresses the issue of lack of internet
+  access or poor internet bandwidths across different Institutes/Colleges
+  resulting in a very cost-effective Learning Management System.
+  
+  Virtual Labs College Cloud Edition currently has about [[l][80 labs]] (800+
+  experiments) across multiple disciplines. It aims at providing remote access
+  to labs in various disciplines of Science and Engineering students.
+  Simulation based experimentation is now made possible without the internet
+  facility. The initiative has made the labs developed by top technical
+  institutes in the country reach every college even with frail internet
+  facilities.
+
+* Virtual Labs College Cloud Edition : Signing up
+  To obtain the Virtual Labs College Cloud Edition, Institutes/Colleges should
+  contact [[engg@vlabs.ac.in][Virtual-Labs]] over an e-mail. The [[form link][Expression of Interest]] form should
+  be duly filled, signed, scanned and attached to the email. The Virtual Labs
+  College Cloud Edition is free of cost.
+
+* Virtual Labs College Cloud Edition : Requirements
+  + System Configuration (minimum) 
+    + Processor : Intel(R) Core(TM) i7-3770 , CPU with 3.40GHz ( Model : intel-db75en) 
+    + RAM : 16 GB 
+    + SMPS : 600 W 
+    + CPUs: 8
+    + MotherBoard wattage: 77 W 
+    + 500 GB SATA
+  + WiFi Router : WiFi router which could serve 30-80 users.
+  + Computer Lab with at least 30-80 Systems/Desktops.
+  + TODO : Network Input (Switch, from where all the labs would obtain DHCP IP)
+    to Computer Lab machines/Desktops. This would make College Cloud accessible
+    over the LAN network providing better results.
+  + System Administrator with basic knowledge of CentOS operating systems and
+    networking.
+
+* Virtual Labs College Cloud Edition : Deployment
+  Virtual Labs College Cloud Edition could be deployed by following the steps
+  described in the user manual is captured
+  [[[[https://github.com/openedx-vlead/college-cloud-workshops/blob/master/src/user-manual-for-college-cloud.org]]][user
+  manual]].
+  TODO : user manual to go in vlabs-dev and that link should be given here,
+  only one copy to exist
+
+* Virtual Labs College Cloud Edition : Contract
+  + A Server Grade machine (IBM Xenon processor) poses no limitations over the
+    usage of Virtual Labs College Cloud Edition. One could easily work with 10-20
+    labs at a time catering 100-200 users.
+  + For the above given System Configuration, one could work with 3-5 labs at a
+    time catering 20-30 users.
+  + Virtual Labs College Cloud server would not be connected to the internet
+    while labs are being accessed over the College Cloud.
+  + College Cloud server should be connected to the internet on a regular basis
+    to facilitate log collection.
+  + No videos of the labs would be accessible from the College Cloud Edition.
+
+* Virtual Labs College Cloud Edition : Support 
+  Get help with Virtual Labs College Cloud Edition by sending a mail to
+  support@vlabs.ac.in or posting on the [[https://webchat.freenode.net/][IRC channel]] using #VLEAD.
+
+* Virtual Labs College Cloud Edition : Past workshops
+  Please follow the [[link]] to know more about Virtual Labs College Cloud Edition
+  workshops conducted in various institutes in India.
+ 
+* Terms and conditions
+  + There is no financial liability on any party for using Virtual Labs College
+    Cloud Edition. It is free to use.
+  + The Institute/College cannot charge students for the use of Virtual Labs
+    College Cloud Edition.
+  + The Institute/College must nominate a single point of contact for all
+    logistical and technical coordination between the institute and Virtual
+
+
+

@@ -1,0 +1,11 @@
+#+TITLE: List of labs on Virtual Labs College Cloud Edition
+
+* Amrita University 
+|-------+----------|
+| S.no. | Lab Name |
+|-------+----------|
+|    01 |          |
+|-------+----------|
+|    02 |          |
+|-------+----------|
+|       |          |
