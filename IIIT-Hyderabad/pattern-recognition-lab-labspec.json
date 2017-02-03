@@ -1,5 +1,5 @@
 {
-        "course": {"org": "iiith","id": "cse20", "display_name": "Pattern Recognition Lab"},
+        "course": {"org": "iiith","id": "cse20", "display_name": "Pattern Recognition"},
         "overview": "Pattern Recognition Lab",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}

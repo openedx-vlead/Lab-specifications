@@ -1,0 +1,61 @@
+{
+        "course": {"org": "iitg","id": "ECE10", "display_name": "Signals and Systems Laboratory"},
+        "overview": "Signals and Systems Laboratory",
+        "experiments": [{"id": "Intro", "name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"id": "E99521", "name": "Signals and their properties",
+                         "subsections": [{"name": "Objective"},
+                                         {"name": "Theory"},
+                                         {"name": "Procedure"},
+                                         {"name": "Simulator"},
+                                         {"name": "Quiz"},        
+                                         {"name": "Reference"},
+                                         {"name": "Download"},
+                                         {"name": "Video"}
+                                         ]},
+                          {"id": "E99520", "name": "System and their property",
+                         "subsections": [{"name": "Objective"},
+                                         {"name": "Theory"},
+                                         {"name": "Procedure"},
+                                         {"name": "Simulator"},
+                                         {"name": "Quiz"},        
+                                         {"name": "Reference"},
+                                         {"name": "Download"},
+                                         {"name": "Video"}
+                                         ]},
+                           {"id": "E99519", "name": "Fourier analysis of signals",
+                         "subsections": [{"name": "Objective"},
+                                         {"name": "Theory"},
+                                         {"name": "Procedure"},
+                                         {"name": "Simulator"},
+                                         {"name": "Quiz"},        
+                                         {"name": "Reference"},
+                                         {"name": "Download"},
+                                         {"name": "Video"}
+                                         ]},
+                           {"id": "E99518", "name": "Sampling and signal reconstruction",
+                         "subsections": [{"name": "Objective"},
+                                         {"name": "Theory"},
+                                         {"name": "Procedure"},
+                                         {"name": "Simulator"},
+                                         {"name": "Quiz"},        
+                                         {"name": "Reference"},
+                                         {"name": "Download"},
+                                         {"name": "Video"}
+                                         ]},
+                           {"id": "E99517", "name": "Analysis of LTI system response",
+                         "subsections": [{"name": "Objective"},
+                                         {"name": "Theory"},
+                                         {"name": "Procedure"},
+                                         {"name": "Simulator"},
+                                         {"name": "Quiz"},        
+                                         {"name": "Reference"},
+                                         {"name": "Download"},
+                                         {"name": "Video"}
+                                         ]}
+                            
+                        ]
+
+}
+

@@ -1,5 +1,5 @@
 {
-        "course": {"org": "IIITH","id": "ccnsb06", "display_name": "Physical Chemistry Lab "},
+        "course": {"org": "IIITH","id": "ccnsb06", "display_name": "Physical Chemistry"},
         "overview": "Physical chemistry virtual laboratory is designed to introduce some spectroscopic and analytical techniques to students at various levels.",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"},

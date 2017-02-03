@@ -1,0 +1,42 @@
+{
+        "course": {"org": "Amrita-University","id": "PCV-AU", "display_name": "Physical Chemistry Virtual Lab"},
+        "overview": "Physical Chemistry Virtual Lab",
+        "experiments": [{"id": "Intro", "name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"id": "E99270", "name": "Calorimetry-Water Equivalent Calorimetry",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                          {"id": "E99269", "name": "Calorimetry-Heat of Neutralization",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99268", "name": "Cryoscopy",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99267", "name": "Determination of Viscosity Average Molecular Weight of Polymer",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99266", "name": "Determination of Viscosity of Organic Solvents",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99265", "name": "Ebullioscopy",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                            {"id": "E99264", "name": "EMF Measurement",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                            {"id": "E99263", "name": "Spectrophotometry",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]}
+                        ]
+
+}
+

@@ -1,5 +1,5 @@
 {
-        "course": {"org": "IIITH","id": "ccnsb03", "display_name": "Molecular Absorption Spectroscopy Lab"},
+        "course": {"org": "IIITH","id": "ccnsb03", "display_name": "Molecular Absorption Spectroscopy"},
         "overview": "Spectroscopy uses the absorption, emission, or scattering of electromagnetic radiation by atoms, molecules or their ions, is employed to study these species and many physical processes.",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"},

@@ -1,0 +1,95 @@
+{
+        "course": {"org": "iitg","id": "mv-iitg", "display_name": "Mechanical Vibration"},
+        "overview": "Virtual Labs for Mechanical Vibrations(M)",
+        "experiments": [{"id": "Intro", "name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"id": "E99531", "name": "Free Vibration of Spring-Mass system",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Setup"},
+                                         {"name": "Procedure"},
+                                         {"name": "Experiment"},        
+                                         {"name": "Discussion"},
+                                         {"name": "Quiz"}
+                                         ]},
+                          {"id": "E99530", "name": "Free Vibration of a Cantilever Beam with a Lumped Mass at free end",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Setup"},
+                                         {"name": "Procedure"},
+                                         {"name": "Calculation"},
+                                         {"name": "Experiment"},        
+                                         {"name": "Discussion"},
+                                         {"name": "Quiz"}
+                                         ]},
+                           {"id": "E99529", "name": "Forced Vibration of a Cantilever Beam with a Lumped Mass at Free End",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Setup"},
+                                         {"name": "Procedure"},
+                                         {"name": "Experiment"},        
+                                         {"name": "Discussion"},
+                                         {"name": "Quiz"}
+                                         ]},
+                           {"id": "E99528", "name": "Free Vibration of a Cantilever Beam (Continuous System)",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Setup"},
+                                         {"name": "Procedure"},
+                                         {"name": "Experiment"},        
+                                         {"name": "Discussion"},
+                                         {"name": "Quiz"}
+                                         ]},
+                           {"id": "E99527", "name": "Forced Vibration of a Cantilever Beam (Continuous System)",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Setup"},
+                                         {"name": "Procedure"},
+                                         {"name": "Experiment"},        
+                                         {"name": "Discussion"},
+                                         {"name": "Quiz"}
+                                         ]},
+                           {"id": "E99526", "name": "Free Vibration of a Two-DOF System",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Setup"},
+                                         {"name": "Procedure"},
+                                         {"name": "Calculation"},
+                                         {"name": "Experiment"},        
+                                         {"name": "Discussion"},
+                                         {"name": "Quiz"}
+                                         ]},
+                            {"id": "E99525", "name": "Free Vibration of a Viscously Damped Single DOF System",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Procedure"},
+                                         {"name": "Simulator"},
+                                         {"name": "Quiz"}        
+                                         ]},
+                            {"id": "E99524", "name": "Harmonically Excited Forced Vibration of a Single DOF System",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Procedure"},
+                                         {"name": "Simulator"},
+                                         {"name": "Quiz"}        
+                                         ]},
+                            {"id": "E99523", "name": "Harmonically Excited Rotating Unbalance of a Single DOF system",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Procedure"},
+                                         {"name": "Simulator"},
+                                         {"name": "Quiz"}        
+                                         ]},
+                            {"id": "E99522", "name": "Harmonically Excited Support Motion of a Single DOF System",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Procedure"},
+                                         {"name": "Simulator"},
+                                         {"name": "Quiz"}       
+                                         ]}
+                            
+                        ]
+
+}
+

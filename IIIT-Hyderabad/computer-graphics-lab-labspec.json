@@ -1,5 +1,5 @@
 {
-        "course": {"org": "IIIT-H","id": "CSE18", "display_name": "Computer Graphics Lab"},
+        "course": {"org": "IIIT-H","id": "CSE18", "display_name": "Computer Graphics"},
         "overview": "Welcome to the Computer Graphics lab ! Here , we will try some virtual experiments to understand the different concepts of graphics.",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}

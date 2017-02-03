@@ -1,0 +1,41 @@
+{
+        "course": {"org": "Amrita-University","id": "MBVII-AU", "display_name": "Molecular Biology Virtual Lab II"},
+        "overview": "Molecular Biology Virtual Lab II",
+        "experiments": [{"id": "Intro", "name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"id": "E99284", "name": "Electroblotting",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                         {"id": "E99240", "name": "Extraction of Bacteriophage DNA from Large Scale Cultures Using Proteinase K and SDS",
+                         "subsections": [{"name": "Animation"}
+                                         ]},
+                          {"id": "E99283", "name": "Ligation Using T4 DNA Ligase",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99282", "name": "Plasmid Curing",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99281", "name": "Plating of the Bacteriophage",
+                          "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99280", "name": "Polyacrylamide Gel Electrophoresis",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                           {"id": "E99279", "name": "Polymerase Chain Reaction (PCR)",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]},
+                            {"id": "E99278", "name": "Preparation of Stocks of Bacteriophage Lambda by Plate Lysis and Elution",
+                         "subsections": [{"name": "Simulator"},
+                                         {"name": "Animation"}
+                                         ]}
+                        ]
+
+}
+

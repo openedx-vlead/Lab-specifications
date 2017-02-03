@@ -1,0 +1,38 @@
+{
+        "course": {"org": "iitr","id": "eee23", "display_name": "Medical Signal and Image Processing"},
+        "overview": "Bio-Medical Signal & Image Processing",
+        "experiments": [{"id": "Intro", "name": "Introduction",
+                         "subsections": [{"name": "Introduction"}
+                                         ]},
+                         {"id": "E99418", "name": "Digital Signal Processing Toolkit",
+                         "subsections": [{"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Software Used"},
+                                         {"name": "Experiment"},
+                                         {"name": "Quizzes"},        
+                                         {"name": "Procedure"},
+                                         {"name": "Feedback"}
+                                         ]},
+                          {"id": "E99417", "name": "Bio-Medical Signal Processing Toolkit",
+                         "subsections": [{"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Software Used"},
+                                         {"name": "Experiment"},
+                                         {"name": "Quizzes"},        
+                                         {"name": "Procedure"},
+                                         {"name": "Feedback"}
+                                         ]},
+                           {"id": "E99416", "name": "Image Processing Toolkit",
+                         "subsections": [{"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Software Used"},
+                                         {"name": "Experiment"},
+                                         {"name": "Quizzes"},        
+                                         {"name": "Procedure"},
+                                         {"name": "Feedback"}
+                                         ]}
+                            
+                        ]
+
+}
+

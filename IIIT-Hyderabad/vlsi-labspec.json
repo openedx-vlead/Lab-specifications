@@ -1,5 +1,5 @@
 {
-        "course": {"org": "IIIT-H","id": "cse14", "display_name": "Very Large Scale Integration Lab"},
+        "course": {"org": "IIIT-H","id": "cse14", "display_name": "VLSI"},
         "overview": "A single chip sized of few millimeters may have Millions of transistors in it for example a microprocessor is a VLSI device",
         "experiments": [{"id": "Intro", "name": "Introduction",
                          "subsections": [{"name": "Introduction"}
