@@ -1,0 +1,13 @@
+{"experiment": {"id":  "cse15",
+				"name": "State Digrams",
+				"overview": "This experiments deals with State Digrams",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quiz", 
+ 					 "Procedure", 
+ 					 "Read", 
+ 					 "Feedback"]				}
+}

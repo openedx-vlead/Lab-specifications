@@ -1,0 +1,11 @@
+{"experiment": {"id":  "biotech26",
+				"name": "EEG approximate entropty calculation",
+				"overview": "This experiments deals with EEG approximate entropty calculation",
+				"sections" : ["THEORY", 
+ 					 "OBJECTIVE", 
+ 					 "EQUIPMENT USED", 
+ 					 "EXPERIMENT", 
+ 					 "QUIZZES", 
+ 					 "PROCEDURE", 
+ 					 "FURTHER READINGS"]				}
+}

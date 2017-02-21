@@ -1,0 +1,12 @@
+{"experiment": {"id":  "cse24",
+				"name": "N-Grams Smoothing",
+				"overview": "This experiments deals with N-Grams Smoothing",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Quizzes", 
+ 					 "Procedure", 
+ 					 "Further Readings", 
+ 					 "Feedback"]				}
+}

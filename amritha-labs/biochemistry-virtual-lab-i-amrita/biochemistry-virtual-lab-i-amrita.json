@@ -1,0 +1,7 @@
+{"lab": {"id":  "biotech01",
+				"name": "Biochemistry Virtual Lab I",
+				"overview": "This lab deals with Biochemistry Virtual Lab I",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99292, E99291, E99290, E99289, E99288, E99287, E99286, E99285]}]
+				}
+}

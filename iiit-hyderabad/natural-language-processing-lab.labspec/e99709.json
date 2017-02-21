@@ -1,0 +1,12 @@
+{"experiment": {"id":  "cse24",
+				"name": "Word Analysis",
+				"overview": "This experiments deals with Word Analysis",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Quizzes", 
+ 					 "Procedure", 
+ 					 "Further Readings", 
+ 					 "Feedback"]				}
+}

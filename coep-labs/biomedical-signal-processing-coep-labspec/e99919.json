@@ -1,0 +1,9 @@
+{"experiment": {"id":  "bio16",
+				"name": "To simulate ECG Pulse missing detector",
+				"overview": "This experiments deals with To simulate ECG Pulse missing detector",
+				"sections" : ["Aim", 
+ 					 "Theory", 
+ 					 "Simulator", 
+ 					 "Procedure", 
+ 					 "Conclusion"]				}
+}

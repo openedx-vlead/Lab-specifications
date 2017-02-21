@@ -1,0 +1,7 @@
+{"lab": {"id":  "eee23",
+				"name": "Medical Signal and Image Processing",
+				"overview": "This lab deals with Medical Signal and Image Processing",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99418, E99417, E99416]}]
+				}
+}

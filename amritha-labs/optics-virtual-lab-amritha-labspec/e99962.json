@@ -1,0 +1,6 @@
+{"experiment": {"id":  "ov-au",
+				"name": "Spectrometer Dispersive Power of a Prism",
+				"overview": "This experiments deals with Spectrometer Dispersive Power of a Prism",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

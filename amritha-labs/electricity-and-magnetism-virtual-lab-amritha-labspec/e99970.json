@@ -1,0 +1,6 @@
+{"experiment": {"id":  "emv-au",
+				"name": "Van De Graaff Generator",
+				"overview": "This experiments deals with Van De Graaff Generator",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

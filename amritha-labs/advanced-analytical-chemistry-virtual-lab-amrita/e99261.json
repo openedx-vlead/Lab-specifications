@@ -1,0 +1,6 @@
+{"experiment": {"id":  "aacv-au",
+				"name": "Flame Photometry",
+				"overview": "This experiments deals with Flame Photometry",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

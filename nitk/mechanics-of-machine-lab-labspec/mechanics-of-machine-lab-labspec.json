@@ -1,0 +1,7 @@
+{"lab": {"id":  "mech05",
+				"name": "Mechanics of Machine",
+				"overview": "This lab deals with Mechanics of Machine",
+				"sections" : [{"name": "E99378duction"},
+							{"experiments": [E99377, E99376, E99375, E99374, E99373, E99372, E99371, E99370, E99369, E99368, E99367, E99366, E99365, E99364, E99363, E99362]}]
+				}
+}

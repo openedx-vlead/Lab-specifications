@@ -1,0 +1,7 @@
+{"lab": {"id":  "eerc04",
+				"name": "Basic Structural Analysis",
+				"overview": "This lab deals with Basic Structural Analysis",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99838, E99837, E99836, E99835, E99834, E99833, E99832, E99831, E99830, E99829]}]
+				}
+}

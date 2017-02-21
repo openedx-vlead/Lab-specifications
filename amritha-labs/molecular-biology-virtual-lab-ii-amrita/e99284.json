@@ -1,0 +1,6 @@
+{"experiment": {"id":  "mbvii-au",
+				"name": "Electroblotting",
+				"overview": "This experiments deals with Electroblotting",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

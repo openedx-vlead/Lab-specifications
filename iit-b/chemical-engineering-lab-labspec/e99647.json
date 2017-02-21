@@ -1,0 +1,11 @@
+{"experiment": {"id":  "chem01",
+				"name": "Ebulliometric Determination of Vapour Pressure",
+				"overview": "This experiments deals with Ebulliometric Determination of Vapour Pressure",
+				"sections" : ["Aim", 
+ 					 "Theory", 
+ 					 "Pre-Test", 
+ 					 "Simulator", 
+ 					 "Procedure", 
+ 					 "Reference", 
+ 					 "Feedback"]				}
+}

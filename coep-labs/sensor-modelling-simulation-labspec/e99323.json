@@ -1,0 +1,12 @@
+{"experiment": {"id":  "eee05",
+				"name": "Simulate the performance of a bio-sensor",
+				"overview": "This experiments deals with Simulate the performance of a bio-sensor",
+				"sections" : ["Aim", 
+ 					 "Pre Test", 
+ 					 "Theory", 
+ 					 "Simulator", 
+ 					 "Procedure", 
+ 					 "Post Test", 
+ 					 "Review Questions", 
+ 					 "Reference"]				}
+}

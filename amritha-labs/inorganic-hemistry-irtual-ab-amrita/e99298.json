@@ -1,0 +1,6 @@
+{"experiment": {"id":  "icv-au",
+				"name": "Gravimetric Estimation of Barium",
+				"overview": "This experiments deals with Gravimetric Estimation of Barium",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

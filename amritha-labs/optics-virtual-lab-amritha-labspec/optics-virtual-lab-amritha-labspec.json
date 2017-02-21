@@ -1,0 +1,7 @@
+{"lab": {"id":  "ov-au",
+				"name": "Optics Virtual Lab",
+				"overview": "This lab deals with Optics Virtual Lab",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99966, E99965, E99964, E99963, E99962, E99961, E99960, E99959]}]
+				}
+}

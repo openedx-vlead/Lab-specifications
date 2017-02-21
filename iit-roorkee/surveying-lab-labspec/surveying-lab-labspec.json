@@ -1,0 +1,7 @@
+{"lab": {"id":  "civil15",
+				"name": "Surveying Lab",
+				"overview": "This lab deals with Surveying Lab",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99408, E99407, E99406, E99405, E99404, E99403, E99402, E99401, E99400, E99399, E99398]}]
+				}
+}

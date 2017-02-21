@@ -1,0 +1,7 @@
+{"lab": {"id":  "eee01",
+				"name": "Virtual Electrical Machine",
+				"overview": "This lab deals with Virtual Electrical Machine",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99507, E99506, E99505, E99504, E99503, E99502, E99501, E99500, E99499]}]
+				}
+}

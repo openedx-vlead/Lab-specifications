@@ -1,0 +1,6 @@
+{"experiment": {"id":  "icv-au",
+				"name": "Gravimetric Estimation of Nickel",
+				"overview": "This experiments deals with Gravimetric Estimation of Nickel",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

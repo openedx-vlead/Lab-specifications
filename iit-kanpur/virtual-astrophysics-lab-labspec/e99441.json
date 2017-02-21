@@ -1,0 +1,8 @@
+{"experiment": {"id":  "phy01",
+				"name": "Circumpolar Star",
+				"overview": "This experiments deals with Circumpolar Star",
+				"sections" : ["Objective", 
+ 					 "Introduction", 
+ 					 "Demonstration", 
+ 					 "Project"]				}
+}

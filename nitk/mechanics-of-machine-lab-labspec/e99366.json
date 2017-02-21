@@ -1,0 +1,13 @@
+{"experiment": {"id":  "mech05",
+				"name": "Acceleration analysis of Scotch Yoke Mechanism",
+				"overview": "This experiments deals with Acceleration analysis of Scotch Yoke Mechanism",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Self Evaluation", 
+ 					 "Simulator", 
+ 					 "Assignment", 
+ 					 "Reference", 
+ 					 "Video", 
+ 					 "Quiz", 
+ 					 "Feedback"]				}
+}

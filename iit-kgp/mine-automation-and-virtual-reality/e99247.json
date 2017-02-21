@@ -1,0 +1,12 @@
+{"experiment": {"id":  "mech27",
+				"name": "Determination of Shock Pressure Loss in Presence of Tub and Estimation of Drag coefficient",
+				"overview": "This experiments deals with Determination of Shock Pressure Loss in Presence of Tub and Estimation of Drag coefficient",
+				"sections" : ["Theory", 
+ 					 "Instruments", 
+ 					 "Procedure", 
+ 					 "Simulator Procedure", 
+ 					 "Simulator", 
+ 					 "Reference", 
+ 					 "Evaluation", 
+ 					 "Feedback"]				}
+}

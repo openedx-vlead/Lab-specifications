@@ -1,0 +1,10 @@
+{"experiment": {"id":  "cse10",
+				"name": "Associative cache Design",
+				"overview": "This experiments deals with Associative cache Design",
+				"sections" : ["Theory", 
+ 					 "Objective", 
+ 					 "Procedure", 
+ 					 "Experiment", 
+ 					 "Quizes", 
+ 					 "Further Reading"]				}
+}

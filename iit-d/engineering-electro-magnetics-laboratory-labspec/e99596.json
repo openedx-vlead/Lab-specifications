@@ -1,0 +1,6 @@
+{"experiment": {"id":  "ece08",
+				"name": "Experiments on Optical Fiber",
+				"overview": "This experiments deals with Experiments on Optical Fiber",
+				"sections" : ["Propagation Loss", 
+ 					 "Bending Loss"]				}
+}

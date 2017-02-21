@@ -1,0 +1,11 @@
+{"experiment": {"id":  "cse19",
+				"name": "Image Segmentation",
+				"overview": "This experiments deals with Image Segmentation",
+				"sections" : ["Objective", 
+ 					 "Introduction", 
+ 					 "Theory", 
+ 					 "Procedure", 
+ 					 "Experiment", 
+ 					 "Assessment", 
+ 					 "References"]				}
+}

@@ -1,0 +1,10 @@
+{"experiment": {"id":  "cse10",
+				"name": "Carry-look-ahead adder",
+				"overview": "This experiments deals with Carry-look-ahead adder",
+				"sections" : ["Theory", 
+ 					 "Objective", 
+ 					 "Procedure", 
+ 					 "Experiment", 
+ 					 "Quizes", 
+ 					 "Further Reading"]				}
+}

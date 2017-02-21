@@ -1,0 +1,12 @@
+{"experiment": {"id":  "eee08",
+				"name": "PLC On-Delay Timer Instruction",
+				"overview": "This experiments deals with PLC On-Delay Timer Instruction",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Self Evaluation", 
+ 					 "Simulator", 
+ 					 "Assignment", 
+ 					 "Reference", 
+ 					 "Video", 
+ 					 "Quiz"]				}
+}

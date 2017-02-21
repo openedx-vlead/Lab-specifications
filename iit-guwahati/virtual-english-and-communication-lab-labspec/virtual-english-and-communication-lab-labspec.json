@@ -1,0 +1,7 @@
+{"lab": {"id":  "hss02",
+				"name": "Virtual English and Communication Lab",
+				"overview": "This lab deals with Virtual English and Communication Lab",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99498, E99497, E99496, E99495, E99494, E99493, E99492, E99491, E99490, E99489]}]
+				}
+}

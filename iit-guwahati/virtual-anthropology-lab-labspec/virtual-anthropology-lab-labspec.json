@@ -1,0 +1,7 @@
+{"lab": {"id":  "hss03",
+				"name": "Virtual Anthropology Lab",
+				"overview": "This lab deals with Virtual Anthropology Lab",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99516, E99515, E99514, E99513, E99512, E99511, E99510, E99509, E99508]}]
+				}
+}

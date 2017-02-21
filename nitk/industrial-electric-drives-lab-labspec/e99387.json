@@ -1,0 +1,12 @@
+{"experiment": {"id":  "eee08",
+				"name": "Motor forward and reverse direction control using PLC",
+				"overview": "This experiments deals with Motor forward and reverse direction control using PLC",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Self Evaluation", 
+ 					 "Simulator", 
+ 					 "Assignment", 
+ 					 "Reference", 
+ 					 "Video", 
+ 					 "Quiz"]				}
+}

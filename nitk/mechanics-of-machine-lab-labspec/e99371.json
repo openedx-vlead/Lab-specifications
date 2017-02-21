@@ -1,0 +1,13 @@
+{"experiment": {"id":  "mech05",
+				"name": "Velocity analysis of Slider crank mechanism",
+				"overview": "This experiments deals with Velocity analysis of Slider crank mechanism",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Self Evaluation", 
+ 					 "Simulator", 
+ 					 "Assignment", 
+ 					 "Reference", 
+ 					 "Video", 
+ 					 "Quiz", 
+ 					 "Feedback"]				}
+}

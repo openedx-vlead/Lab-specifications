@@ -1,0 +1,6 @@
+{"experiment": {"id":  "emv-au",
+				"name": "Barkhausen Effect",
+				"overview": "This experiments deals with Barkhausen Effect",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

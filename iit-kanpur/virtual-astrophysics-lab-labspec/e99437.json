@@ -1,0 +1,9 @@
+{"experiment": {"id":  "phy01",
+				"name": "Distance to the Moon",
+				"overview": "This experiments deals with Distance to the Moon",
+				"sections" : ["Objective", 
+ 					 "Introduction", 
+ 					 "Theory", 
+ 					 "Procedure", 
+ 					 "CAUTION"]				}
+}

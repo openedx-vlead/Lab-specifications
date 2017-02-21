@@ -1,0 +1,10 @@
+{"experiment": {"id":  "cse10",
+				"name": "Direct Mapped cache Design",
+				"overview": "This experiments deals with Direct Mapped cache Design",
+				"sections" : ["Theory", 
+ 					 "Objective", 
+ 					 "Procedure", 
+ 					 "Experiment", 
+ 					 "Quizes", 
+ 					 "Further Reading"]				}
+}

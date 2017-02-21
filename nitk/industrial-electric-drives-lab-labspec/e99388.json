@@ -1,0 +1,12 @@
+{"experiment": {"id":  "eee08",
+				"name": "Maximum Simultaneous Operations Limiter using PLC",
+				"overview": "This experiments deals with Maximum Simultaneous Operations Limiter using PLC",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Self Evaluation", 
+ 					 "Simulator", 
+ 					 "Assignment", 
+ 					 "Reference", 
+ 					 "Video", 
+ 					 "Quiz"]				}
+}

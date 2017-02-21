@@ -1,0 +1,7 @@
+{"lab": {"id":  "mech04",
+				"name": "Vibration and Acoustics Lab",
+				"overview": "This lab deals with Vibration and Acoustics Lab",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99901, E99900, E99899, E99898, E99897, E99896, E99895, E99894]}]
+				}
+}

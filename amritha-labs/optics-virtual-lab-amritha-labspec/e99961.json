@@ -1,0 +1,6 @@
+{"experiment": {"id":  "ov-au",
+				"name": "Spectrometer i-d Curve",
+				"overview": "This experiments deals with Spectrometer i-d Curve",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

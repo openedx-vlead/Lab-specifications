@@ -1,0 +1,13 @@
+{"experiment": {"id":  "mech05",
+				"name": "Tchebichev Straight Line Mechanism",
+				"overview": "This experiments deals with Tchebichev Straight Line Mechanism",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Self Evaluation", 
+ 					 "Simulator", 
+ 					 "Assignment", 
+ 					 "Reference", 
+ 					 "Video", 
+ 					 "Quiz", 
+ 					 "Feedback"]				}
+}

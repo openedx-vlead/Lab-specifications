@@ -1,0 +1,9 @@
+{"experiment": {"id":  "phy01",
+				"name": "Spectral classification of stars",
+				"overview": "This experiments deals with Spectral classification of stars",
+				"sections" : ["Objective", 
+ 					 "Introduction", 
+ 					 "Theory", 
+ 					 "Procedure", 
+ 					 "Project"]				}
+}

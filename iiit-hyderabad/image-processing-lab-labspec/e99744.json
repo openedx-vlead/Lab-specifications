@@ -1,0 +1,11 @@
+{"experiment": {"id":  "cse19",
+				"name": "Color Image Processing",
+				"overview": "This experiments deals with Color Image Processing",
+				"sections" : ["Objective", 
+ 					 "Introduction", 
+ 					 "Theory", 
+ 					 "Procedure", 
+ 					 "Experiment", 
+ 					 "Assessment", 
+ 					 "References"]				}
+}

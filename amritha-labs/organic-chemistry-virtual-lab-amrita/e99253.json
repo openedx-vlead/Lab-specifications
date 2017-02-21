@@ -1,0 +1,5 @@
+{"experiment": {"id":  "ocv-au",
+				"name": "Laser Flash Photometer",
+				"overview": "This experiments deals with Laser Flash Photometer",
+				"sections" : ["Simulator"]				}
+}

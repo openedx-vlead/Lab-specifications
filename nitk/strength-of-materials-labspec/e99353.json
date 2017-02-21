@@ -1,0 +1,12 @@
+{"experiment": {"id":  "civil07",
+				"name": "Deflection in Cantilever",
+				"overview": "This experiments deals with Deflection in Cantilever",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Self Evaluation", 
+ 					 "Simulator", 
+ 					 "Assignment", 
+ 					 "Reference", 
+ 					 "Video", 
+ 					 "Quiz"]				}
+}

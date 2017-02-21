@@ -1,0 +1,7 @@
+{"lab": {"id":  "mbvii-au",
+				"name": "Molecular Biology Virtual Lab II",
+				"overview": "This lab deals with Molecular Biology Virtual Lab II",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99284, E99240, E99283, E99282, E99281, E99280, E99279, E99278]}]
+				}
+}

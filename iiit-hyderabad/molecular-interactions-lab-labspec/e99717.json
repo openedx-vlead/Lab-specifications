@@ -1,0 +1,11 @@
+{"experiment": {"id":  "ccnsb07",
+				"name": "Interatomic van der Waals forces",
+				"overview": "This experiments deals with Interatomic van der Waals forces",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quizzes", 
+ 					 "Further Readings"]				}
+}

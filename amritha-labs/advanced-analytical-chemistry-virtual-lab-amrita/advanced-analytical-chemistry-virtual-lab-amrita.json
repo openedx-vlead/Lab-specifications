@@ -1,0 +1,7 @@
+{"lab": {"id":  "aacv-au",
+	 "name": "Advanced Analytical Chemistry Virtual Lab",
+	 "overview": "This lab deals with Advanced Analytical Chemistry Virtual Lab",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [E99262, E99238, E99261, E99260, E99259, E99258, E99257, E99256]}]
+	}
+}

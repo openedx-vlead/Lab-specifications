@@ -1,0 +1,5 @@
+{"experiment": {"id":  "biotech18",
+				"name": "Logistic Population Growth: Continuous and Discrete",
+				"overview": "This experiments deals with Logistic Population Growth: Continuous and Discrete",
+				"sections" : ["Simulator"]				}
+}

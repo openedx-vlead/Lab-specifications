@@ -1,0 +1,10 @@
+{"experiment": {"id":  "eil-iitg",
+				"name": "Analog to Digital and Digital to Analog Conversion",
+				"overview": "This experiments deals with Analog to Digital and Digital to Analog Conversion",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Simulator", 
+ 					 "Self Evaluation", 
+ 					 "Reference", 
+ 					 "Feedback"]				}
+}

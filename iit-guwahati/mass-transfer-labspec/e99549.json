@@ -1,0 +1,13 @@
+{"experiment": {"id":  "vmt-iitg",
+				"name": "Vapor in air diffusion",
+				"overview": "This experiments deals with Vapor in air diffusion",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Expt Calc", 
+ 					 "Labview Calc", 
+ 					 "Pre Quiz", 
+ 					 "Download", 
+ 					 "Simulator", 
+ 					 "Post Expt Quiz", 
+ 					 "Videos"]				}
+}

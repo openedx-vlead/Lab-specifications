@@ -1,0 +1,7 @@
+{"lab": {"id":  "biotech26",
+				"name": "Biomedical Instrumentation Lab",
+				"overview": "This lab deals with Biomedical Instrumentation Lab",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99426, E99425, E99424, E99423, E99422, E99421, E99420, E99419]}]
+				}
+}

@@ -1,0 +1,11 @@
+{"experiment": {"id":  "ccnsb07",
+				"name": "Many-body forces in a polyatomic molecule",
+				"overview": "This experiments deals with Many-body forces in a polyatomic molecule",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quizzes", 
+ 					 "Further Readings"]				}
+}

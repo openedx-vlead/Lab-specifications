@@ -1,0 +1,13 @@
+{"experiment": {"id":  "chem01",
+				"name": "Flow measurement by orificemeter and venturimeter",
+				"overview": "This experiments deals with Flow measurement by orificemeter and venturimeter",
+				"sections" : ["Aim", 
+ 					 "Theory", 
+ 					 "Pre-Test", 
+ 					 "Simulator", 
+ 					 "Procedure", 
+ 					 "Post-Test", 
+ 					 "Review Questions", 
+ 					 "Reference", 
+ 					 "Feedback"]				}
+}

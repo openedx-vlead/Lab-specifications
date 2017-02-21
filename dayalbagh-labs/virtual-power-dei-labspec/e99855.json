@@ -1,0 +1,12 @@
+{"experiment": {"id":  "eee06",
+				"name": "To determine the direct axis reactance (Xd) and quadrature axis reactance (Xq) of synchronous machine.",
+				"overview": "This experiments deals with To determine the direct axis reactance (Xd) and quadrature axis reactance (Xq) of synchronous machine.",
+				"sections" : ["Objective", 
+ 					 "Equipments", 
+ 					 "Connection Diagram", 
+ 					 "Theory and Procedure", 
+ 					 "Observation", 
+ 					 "Simulation", 
+ 					 "Videos of Exp2", 
+ 					 "Quiz"]				}
+}

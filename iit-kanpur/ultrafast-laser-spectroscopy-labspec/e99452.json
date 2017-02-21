@@ -1,0 +1,9 @@
+{"experiment": {"id":  "chs13",
+				"name": "Live Cell Multiphoton Imaging: Principles & Experiments",
+				"overview": "This experiments deals with Live Cell Multiphoton Imaging: Principles & Experiments",
+				"sections" : ["Objective", 
+ 					 "Theory", 
+ 					 "Instrument Required", 
+ 					 "Software Required", 
+ 					 "Experiment Procedure"]				}
+}

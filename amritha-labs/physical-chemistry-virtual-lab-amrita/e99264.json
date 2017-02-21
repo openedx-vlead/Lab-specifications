@@ -1,0 +1,6 @@
+{"experiment": {"id":  "pcv-au",
+				"name": "EMF Measurement",
+				"overview": "This experiments deals with EMF Measurement",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

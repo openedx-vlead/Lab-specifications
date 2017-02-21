@@ -1,0 +1,12 @@
+{"experiment": {"id":  "cse29",
+				"name": "Message Authentication Codes",
+				"overview": "This experiments deals with Message Authentication Codes",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quizzes", 
+ 					 "Procedure", 
+ 					 "Further Readings"]				}
+}

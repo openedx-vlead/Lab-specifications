@@ -1,0 +1,10 @@
+{"experiment": {"id":  "ml-iitb",
+				"name": "PD Control for desired transient response",
+				"overview": "This experiments deals with PD Control for desired transient response",
+				"sections" : ["Aim", 
+ 					 "Introduction", 
+ 					 "Theory", 
+ 					 "Simulator", 
+ 					 "Quiz", 
+ 					 "Things to think about"]				}
+}

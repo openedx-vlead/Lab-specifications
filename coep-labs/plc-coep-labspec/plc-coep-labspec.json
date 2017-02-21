@@ -1,0 +1,7 @@
+{"lab": {"id":  "eee12",
+				"name": "PLC",
+				"overview": "This lab deals with PLC",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99934, E99933, E99932, E99931, E99930, E99929, E99928, E99927]}]
+				}
+}

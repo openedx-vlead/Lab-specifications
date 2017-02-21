@@ -1,0 +1,7 @@
+{"lab": {"id":  "cse19",
+				"name": "Image Processing",
+				"overview": "This lab deals with Image Processing",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99751, E99750, E99749, E99748, E99747, E99746, E99745, E99744, E99743, E99742, E99741]}]
+				}
+}

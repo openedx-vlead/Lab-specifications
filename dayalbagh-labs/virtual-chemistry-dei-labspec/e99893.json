@@ -1,0 +1,12 @@
+{"experiment": {"id":  "chs12",
+				"name": "Caffeine content in tea and coffee",
+				"overview": "This experiments deals with Caffeine content in tea and coffee",
+				"sections" : ["Theory", 
+ 					 "Reagents", 
+ 					 "Procedure", 
+ 					 "Observation", 
+ 					 "Animation", 
+ 					 "Simulation", 
+ 					 "Evaluation", 
+ 					 "References"]				}
+}

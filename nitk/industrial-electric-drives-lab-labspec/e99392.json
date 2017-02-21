@@ -1,0 +1,12 @@
+{"experiment": {"id":  "eee08",
+				"name": "PLC COUNT-DOWN INSTRUCTION",
+				"overview": "This experiments deals with PLC COUNT-DOWN INSTRUCTION",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Self Evaluation", 
+ 					 "Simulator", 
+ 					 "Assignment", 
+ 					 "Reference", 
+ 					 "Video", 
+ 					 "Quiz"]				}
+}

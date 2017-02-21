@@ -1,0 +1,7 @@
+{"lab": {"id":  "cbi-au",
+				"name": "Cell Biology Virtual Lab I",
+				"overview": "This lab deals with Cell Biology Virtual Lab I",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99999, E99998, E99997, E99996, E99995, E99994, E99993, E99992]}]
+				}
+}

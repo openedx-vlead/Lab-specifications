@@ -1,0 +1,8 @@
+{"experiment": {"id":  "mech26",
+				"name": "Ring Rolling",
+				"overview": "This experiments deals with Ring Rolling",
+				"sections" : ["Ring Rolling", 
+ 					 " Simulations > FLAT RING ", 
+ 					 "Simulations > CURVED RING Edit", 
+ 					 "SELF CHECK QUIZ - RING ROLLING "]				}
+}

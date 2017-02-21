@@ -1,0 +1,10 @@
+{"experiment": {"id":  "eil-iitg",
+				"name": "Determination of Dynamic Performance Characteristics of Second Order System",
+				"overview": "This experiments deals with Determination of Dynamic Performance Characteristics of Second Order System",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Simulator", 
+ 					 "Self Evaluation", 
+ 					 "Reference", 
+ 					 "Feedback"]				}
+}

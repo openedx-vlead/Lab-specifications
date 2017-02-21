@@ -1,0 +1,16 @@
+{"experiment": {"id":  "mech17",
+				"name": "Laser hardening using NdYAG laser system",
+				"overview": "This experiments deals with Laser hardening using NdYAG laser system",
+				"sections" : ["Aim & Objective", 
+ 					 "Pre Test", 
+ 					 "Prerequisites", 
+ 					 "Theory", 
+ 					 "Experimental setup", 
+ 					 "Procedure", 
+ 					 "Simulator", 
+ 					 "Audio/Video", 
+ 					 "Post Test", 
+ 					 "Conclusion", 
+ 					 "Reference", 
+ 					 "Feedback"]				}
+}

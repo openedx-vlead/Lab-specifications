@@ -1,0 +1,7 @@
+{"lab": {"id":  "cse22",
+				"name": "Artificial Neural Networks",
+				"overview": "This lab deals with Artificial Neural Networks",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99847, E99846, E99845, E99844, E99843, E99842, E99841, E99840, E99839]}]
+				}
+}

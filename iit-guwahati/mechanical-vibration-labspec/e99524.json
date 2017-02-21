@@ -1,0 +1,9 @@
+{"experiment": {"id":  "mv-iitg",
+				"name": "Harmonically Excited Forced Vibration of a Single DOF System",
+				"overview": "This experiments deals with Harmonically Excited Forced Vibration of a Single DOF System",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Procedure", 
+ 					 "Simulator", 
+ 					 "Quiz"]				}
+}

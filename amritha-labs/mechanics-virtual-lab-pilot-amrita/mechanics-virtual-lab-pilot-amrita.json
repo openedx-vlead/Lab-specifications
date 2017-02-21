@@ -1,0 +1,7 @@
+{"lab": {"id":  "phy-sc22-au",
+				"name": "Mechanics Virtual Lab (Pilot)",
+				"overview": "This lab deals with Mechanics Virtual Lab (Pilot)",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99277, E99276, E99275, E99274, E99273, E99272, E99271, E99239]}]
+				}
+}

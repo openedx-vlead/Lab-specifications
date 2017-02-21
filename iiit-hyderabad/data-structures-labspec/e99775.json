@@ -1,0 +1,9 @@
+{"experiment": {"id":  "cse01",
+				"name": "Expression Trees",
+				"overview": "This experiments deals with Expression Trees",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Simulation", 
+ 					 "Quizzes"]				}
+}

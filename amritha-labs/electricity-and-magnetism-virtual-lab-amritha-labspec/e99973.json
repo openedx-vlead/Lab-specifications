@@ -1,0 +1,6 @@
+{"experiment": {"id":  "emv-au",
+				"name": "Tangent Galvanometer",
+				"overview": "This experiments deals with Tangent Galvanometer",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

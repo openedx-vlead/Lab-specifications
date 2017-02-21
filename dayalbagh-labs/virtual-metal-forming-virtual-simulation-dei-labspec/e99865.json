@@ -1,0 +1,7 @@
+{"experiment": {"id":  "mech26",
+				"name": "Ring Compression Test",
+				"overview": "This experiments deals with Ring Compression Test",
+				"sections" : ["Ring Compression Test", 
+ 					 "Simulation Bench", 
+ 					 "SELF CHECK QUIZ - RING COMPRESSION TEST "]				}
+}

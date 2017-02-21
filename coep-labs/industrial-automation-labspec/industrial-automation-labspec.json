@@ -1,0 +1,7 @@
+{"lab": {"id":  "eee09",
+				"name": "Industrial Automation Laboratory",
+				"overview": "This lab deals with Industrial Automation Laboratory",
+				"sections" : [{"name": "E99303duction"},
+							{"experiments": [E99317, E99316, E99315, E99314, E99313, E99312, E99311]}]
+				}
+}

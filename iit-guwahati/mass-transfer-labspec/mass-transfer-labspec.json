@@ -1,0 +1,7 @@
+{"lab": {"id":  "vmt-iitg",
+				"name": "Mass Transfer",
+				"overview": "This lab deals with Mass Transfer",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99556, E99555, E99554, E99553, E99552, E99551, E99550, E99549, E99548, E99547, E99546, E99545]}]
+				}
+}

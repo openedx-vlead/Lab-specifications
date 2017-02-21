@@ -1,0 +1,13 @@
+{"experiment": {"id":  "cse15",
+				"name": "Comparator",
+				"overview": "This experiments deals with Comparator",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quiz", 
+ 					 "Procedure", 
+ 					 "Read", 
+ 					 "Feedback"]				}
+}

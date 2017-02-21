@@ -1,0 +1,7 @@
+{"lab": {"id":  "chs12",
+				"name": "Virtual Chemistry Lab",
+				"overview": "This lab deals with Virtual Chemistry Lab",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99893, E99892, E99891, E99890, E99889, E99888, E99887, E99886, E99885]}]
+				}
+}

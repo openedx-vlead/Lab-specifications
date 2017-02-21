@@ -1,0 +1,12 @@
+{"experiment": {"id":  "cse22",
+				"name": "Perceptron learning",
+				"overview": "This experiments deals with Perceptron learning",
+				"sections" : ["Objective", 
+ 					 "Tutorial", 
+ 					 "Illustration", 
+ 					 "Procedure", 
+ 					 "Experiment", 
+ 					 "Observations", 
+ 					 "Assignment", 
+ 					 "References"]				}
+}

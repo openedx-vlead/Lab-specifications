@@ -1,0 +1,8 @@
+{"experiment": {"id":  "tel-iitb",
+				"name": "Density Measurement",
+				"overview": "This experiments deals with Density Measurement",
+				"sections" : ["Simulator", 
+ 					 "Self Evaluation", 
+ 					 "Feedback", 
+ 					 "Contact Us"]				}
+}

@@ -1,0 +1,11 @@
+{"experiment": {"id":  "biotech26",
+				"name": "ECG signal acquisition under incorrect electrode placement",
+				"overview": "This experiments deals with ECG signal acquisition under incorrect electrode placement",
+				"sections" : ["THEORY", 
+ 					 "OBJECTIVE", 
+ 					 "EQUIPMENT USED", 
+ 					 "EXPERIMENT", 
+ 					 "QUIZZES", 
+ 					 "PROCEDURE", 
+ 					 "FURTHER READINGS"]				}
+}

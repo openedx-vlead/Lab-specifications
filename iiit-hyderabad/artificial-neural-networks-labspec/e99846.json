@@ -1,0 +1,12 @@
+{"experiment": {"id":  "cse22",
+				"name": "Parallel and distributed processing - II: Constraint satisfaction neural network models",
+				"overview": "This experiments deals with Parallel and distributed processing - II: Constraint satisfaction neural network models",
+				"sections" : ["Objective", 
+ 					 "Tutorial", 
+ 					 "Illustration", 
+ 					 "Procedure", 
+ 					 "Experiment", 
+ 					 "Observations", 
+ 					 "Assignment", 
+ 					 "References"]				}
+}

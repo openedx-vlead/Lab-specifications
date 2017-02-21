@@ -1,0 +1,12 @@
+{"experiment": {"id":  "chem01",
+				"name": "Hydrodynamics of packed column",
+				"overview": "This experiments deals with Hydrodynamics of packed column",
+				"sections" : ["Aim", 
+ 					 "Theory", 
+ 					 "Pre-Test", 
+ 					 "Simulator", 
+ 					 "Procedure", 
+ 					 "FAQ", 
+ 					 "Reference", 
+ 					 "Feedback"]				}
+}

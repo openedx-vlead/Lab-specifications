@@ -1,0 +1,12 @@
+{"experiment": {"id":  "cse22",
+				"name": "Hopfield model for pattern storage task",
+				"overview": "This experiments deals with Hopfield model for pattern storage task",
+				"sections" : ["Objective", 
+ 					 "Tutorial", 
+ 					 "Illustration", 
+ 					 "Procedure", 
+ 					 "Experiment", 
+ 					 "Observations", 
+ 					 "Assignment", 
+ 					 "References"]				}
+}

@@ -1,0 +1,6 @@
+{"experiment": {"id":  "cbll-au",
+				"name": "Hemocytometer (Counting of Cells)",
+				"overview": "This experiments deals with Hemocytometer (Counting of Cells)",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

@@ -1,0 +1,6 @@
+{"experiment": {"id":  "pcv-au",
+				"name": "Cryoscopy",
+				"overview": "This experiments deals with Cryoscopy",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

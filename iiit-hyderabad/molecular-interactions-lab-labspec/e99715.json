@@ -1,0 +1,11 @@
+{"experiment": {"id":  "ccnsb07",
+				"name": "Interatomic electrostatic forces",
+				"overview": "This experiments deals with Interatomic electrostatic forces",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quizzes", 
+ 					 "Further Readings"]				}
+}

@@ -1,0 +1,13 @@
+{"experiment": {"id":  "cse15",
+				"name": "ALU with function",
+				"overview": "This experiments deals with ALU with function",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quiz", 
+ 					 "Procedure", 
+ 					 "Read", 
+ 					 "Feedback"]				}
+}

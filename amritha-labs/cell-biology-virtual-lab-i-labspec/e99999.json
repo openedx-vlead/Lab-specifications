@@ -1,0 +1,6 @@
+{"experiment": {"id":  "cbi-au",
+				"name": "Isolation of Chloroplast",
+				"overview": "This experiments deals with Isolation of Chloroplast",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

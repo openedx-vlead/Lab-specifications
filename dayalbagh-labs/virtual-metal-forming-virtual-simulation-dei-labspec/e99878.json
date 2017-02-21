@@ -1,0 +1,11 @@
+{"experiment": {"id":  "mech26",
+				"name": "Rolling Process",
+				"overview": "This experiments deals with Rolling Process",
+				"sections" : ["ROLLING PROCESS", 
+ 					 "Simulation Bench", 
+ 					 "Flat Plate Rolling", 
+ 					 "Angle Rolling", 
+ 					 " I-Section ", 
+ 					 " Seamless pipe using Rolling ", 
+ 					 "SELF CHECK QUIZ - ROLLING PROCESS "]				}
+}

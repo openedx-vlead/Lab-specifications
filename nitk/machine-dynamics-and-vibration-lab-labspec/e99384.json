@@ -1,0 +1,13 @@
+{"experiment": {"id":  "mech21",
+				"name": "Free vibration of fixed beam",
+				"overview": "This experiments deals with Free vibration of fixed beam",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Self Evaluation", 
+ 					 "Simulator", 
+ 					 "Assignment", 
+ 					 "Reference", 
+ 					 "Video", 
+ 					 "Quiz", 
+ 					 "Feedback"]				}
+}

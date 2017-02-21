@@ -1,0 +1,11 @@
+{"experiment": {"id":  "ece08",
+				"name": "Determination of unknown impedance",
+				"overview": "This experiments deals with Determination of unknown impedance",
+				"sections" : ["To perform the experiments please download the following software:", 
+ 					 "Manual", 
+ 					 "Pre Experiment Quiz", 
+ 					 "Demo", 
+ 					 "Experiment", 
+ 					 "Post Experiment Quiz", 
+ 					 "Feedback"]				}
+}

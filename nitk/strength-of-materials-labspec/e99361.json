@@ -1,0 +1,12 @@
+{"experiment": {"id":  "civil07",
+				"name": "Izod Impact Test",
+				"overview": "This experiments deals with Izod Impact Test",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Self Evaluation", 
+ 					 "Simulator", 
+ 					 "Assignment", 
+ 					 "Reference", 
+ 					 "Video", 
+ 					 "Quiz"]				}
+}

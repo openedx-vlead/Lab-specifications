@@ -1,0 +1,13 @@
+{"experiment": {"id":  "cse04",
+				"name": "Numerical Representation",
+				"overview": "This experiments deals with Numerical Representation",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quizzes", 
+ 					 "Procedure", 
+ 					 "Further Readings", 
+ 					 "Feedback"]				}
+}

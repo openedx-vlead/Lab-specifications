@@ -1,0 +1,6 @@
+{"experiment": {"id":  "phy-sc22-au",
+				"name": "Collision Balls",
+				"overview": "This experiments deals with Collision Balls",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

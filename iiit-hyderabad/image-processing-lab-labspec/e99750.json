@@ -1,0 +1,11 @@
+{"experiment": {"id":  "cse19",
+				"name": "Image Arithmetic",
+				"overview": "This experiments deals with Image Arithmetic",
+				"sections" : ["Objective", 
+ 					 "Introduction", 
+ 					 "Theory", 
+ 					 "Procedure", 
+ 					 "Experiment", 
+ 					 "Assessment", 
+ 					 "References"]				}
+}

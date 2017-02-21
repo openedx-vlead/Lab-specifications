@@ -1,0 +1,10 @@
+{"experiment": {"id":  "ml-iitb",
+				"name": " Transient Response",
+				"overview": "This experiments deals with  Transient Response",
+				"sections" : ["Aim", 
+ 					 "Introduction", 
+ 					 "Theory", 
+ 					 "Simulator", 
+ 					 "Quiz", 
+ 					 "Things to think about"]				}
+}

@@ -1,0 +1,12 @@
+{"experiment": {"id":  "ece10",
+				"name": "Fourier analysis of signals",
+				"overview": "This experiments deals with Fourier analysis of signals",
+				"sections" : ["Objective", 
+ 					 "Theory", 
+ 					 "Procedure", 
+ 					 "Simulator", 
+ 					 "Quiz", 
+ 					 "Reference", 
+ 					 "Download", 
+ 					 "Video"]				}
+}

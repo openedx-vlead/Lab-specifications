@@ -1,0 +1,10 @@
+{"experiment": {"id":  "cse10",
+				"name": "Memory Design",
+				"overview": "This experiments deals with Memory Design",
+				"sections" : ["Theory", 
+ 					 "Objective", 
+ 					 "Procedure", 
+ 					 "Experiment", 
+ 					 "Quizes", 
+ 					 "Further Reading"]				}
+}

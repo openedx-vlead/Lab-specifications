@@ -1,0 +1,7 @@
+{"lab": {"id":  "mfts-iitg",
+				"name": "Mechanical Laboratory Experience in Fluid and Thermal Sciences",
+				"overview": "This lab deals with Mechanical Laboratory Experience in Fluid and Thermal Sciences",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99544, E99543, E99542, E99541, E99540, E99539, E99538, E99537, E99536, E99535, E99534, E99533, E99532]}]
+				}
+}

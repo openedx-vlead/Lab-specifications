@@ -1,0 +1,7 @@
+{"lab": {"id":  "cse11",
+				"name": "Computer Organization",
+				"overview": "This lab deals with Computer Organization",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99808, E99807, E99806, E99805, E99804, E99803, E99802, E99801]}]
+				}
+}

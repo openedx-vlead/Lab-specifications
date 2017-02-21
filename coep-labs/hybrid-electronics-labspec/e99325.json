@@ -1,0 +1,12 @@
+{"experiment": {"id":  "ece19",
+				"name": "Implementation of monostable and astable oscillator using IC 555",
+				"overview": "This experiments deals with Implementation of monostable and astable oscillator using IC 555",
+				"sections" : ["Aim", 
+ 					 "Pre Test", 
+ 					 "Theory", 
+ 					 "Simulator", 
+ 					 "Procedure", 
+ 					 "Post Test", 
+ 					 "Downloads", 
+ 					 "Conclusion"]				}
+}

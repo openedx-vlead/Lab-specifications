@@ -1,0 +1,7 @@
+{"lab": {"id":  "mech18",
+				"name": "FAB Laboratory",
+				"overview": "This lab deals with FAB Laboratory",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99942, E99941, E99940, E99939, E99938, E99937, E99936, E99935]}]
+				}
+}

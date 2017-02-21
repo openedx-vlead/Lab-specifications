@@ -1,0 +1,12 @@
+{"experiment": {"id":  "eerc04",
+				"name": "Rigid Joints Experiment",
+				"overview": "This experiments deals with Rigid Joints Experiment",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quizzes", 
+ 					 "Procedure", 
+ 					 "FurtherReadings"]				}
+}

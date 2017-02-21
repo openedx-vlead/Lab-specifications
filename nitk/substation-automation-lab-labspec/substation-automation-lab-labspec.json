@@ -1,0 +1,7 @@
+{"lab": {"id":  "ee30",
+				"name": "Substation Automation",
+				"overview": "This lab deals with Substation Automation",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99351, E99350, E99349, E99348, E99347, E99346, E99345, E99344, E99343, E99342, E99341]}]
+				}
+}

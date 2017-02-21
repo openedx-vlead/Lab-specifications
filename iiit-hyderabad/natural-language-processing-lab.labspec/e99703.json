@@ -1,0 +1,12 @@
+{"experiment": {"id":  "cse24",
+				"name": "POS Tagging: Viterbi Decoding",
+				"overview": "This experiments deals with POS Tagging: Viterbi Decoding",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Quizzes", 
+ 					 "Procedure", 
+ 					 "Further Readings", 
+ 					 "Feedback"]				}
+}

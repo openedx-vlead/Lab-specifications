@@ -1,0 +1,13 @@
+{"experiment": {"id":  "mech27",
+				"name": "Familiarization with Assmann Psychrometer and Estimation of Psychrometric Properties of Mine",
+				"overview": "This experiments deals with Familiarization with Assmann Psychrometer and Estimation of Psychrometric Properties of Mine",
+				"sections" : ["Theory", 
+ 					 "Video Demo", 
+ 					 "How it Works", 
+ 					 "Procedure", 
+ 					 "Simulator Procedure", 
+ 					 "Simulator", 
+ 					 "Reference", 
+ 					 "Evaluation", 
+ 					 "Feedback"]				}
+}

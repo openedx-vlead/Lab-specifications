@@ -1,0 +1,12 @@
+{"experiment": {"id":  "cse29",
+				"name": "M Diffie-Hellman Key Establishment",
+				"overview": "This experiments deals with M Diffie-Hellman Key Establishment",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quizzes", 
+ 					 "Procedure", 
+ 					 "Further Readings"]				}
+}

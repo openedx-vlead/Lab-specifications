@@ -1,0 +1,13 @@
+{"experiment": {"id":  "cse15",
+				"name": "Adder Circuit",
+				"overview": "This experiments deals with Adder Circuit",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quiz", 
+ 					 "Procedure", 
+ 					 "Read", 
+ 					 "Feedback"]				}
+}

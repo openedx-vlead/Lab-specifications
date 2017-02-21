@@ -1,0 +1,12 @@
+{"experiment": {"id":  "cse22",
+				"name": "Weighted matching problem: Deterministic, stochastic and mean-field annealing of an Hopfield model",
+				"overview": "This experiments deals with Weighted matching problem: Deterministic, stochastic and mean-field annealing of an Hopfield model",
+				"sections" : ["Objective", 
+ 					 "Tutorial", 
+ 					 "Illustration", 
+ 					 "Procedure", 
+ 					 "Experiment", 
+ 					 "Observations", 
+ 					 "Assignment", 
+ 					 "References"]				}
+}

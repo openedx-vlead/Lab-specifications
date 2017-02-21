@@ -1,0 +1,6 @@
+{"experiment": {"id":  "biotech01",
+				"name": "Estimation of Saponification Value of Fats or Oils",
+				"overview": "This experiments deals with Estimation of Saponification Value of Fats or Oils",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

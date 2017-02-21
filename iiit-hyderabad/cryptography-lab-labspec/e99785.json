@@ -1,0 +1,12 @@
+{"experiment": {"id":  "cse29",
+				"name": "Symmetric Key Encryption Standards (DES)",
+				"overview": "This experiments deals with Symmetric Key Encryption Standards (DES)",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quizzes", 
+ 					 "Procedure", 
+ 					 "Further Readings"]				}
+}

@@ -1,0 +1,7 @@
+{"lab": {"id":  "cse14",
+				"name": "VLSI",
+				"overview": "This lab deals with VLSI",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99666, E99665, E99664, E99663, E99662, E99661, E99660, E99659, E99658, E99657]}]
+				}
+}

@@ -1,0 +1,6 @@
+{"experiment": {"id":  "ocv-au",
+				"name": "Estimation of Glucose",
+				"overview": "This experiments deals with Estimation of Glucose",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

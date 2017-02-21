@@ -1,0 +1,13 @@
+{"experiment": {"id":  "eee10",
+				"name": "Speed Control of Separately Excited DC Motor",
+				"overview": "This experiments deals with Speed Control of Separately Excited DC Motor",
+				"sections" : ["Aim", 
+ 					 "Pre-test", 
+ 					 "Theory", 
+ 					 "Simulator", 
+ 					 "Procedure", 
+ 					 "Audio/Video", 
+ 					 "Post-test", 
+ 					 "Reference", 
+ 					 "Feedback"]				}
+}

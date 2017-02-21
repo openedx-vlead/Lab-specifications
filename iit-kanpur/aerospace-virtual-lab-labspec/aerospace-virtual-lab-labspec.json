@@ -1,0 +1,7 @@
+{"lab": {"id":  "aero03",
+				"name": "Aerospace Virtual Lab",
+				"overview": "This lab deals with Aerospace Virtual Lab",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99477, E99476, E99475, E99474, E99473, E99472, E99471, E99470, E99469, E99468, E99467, E99466]}]
+				}
+}

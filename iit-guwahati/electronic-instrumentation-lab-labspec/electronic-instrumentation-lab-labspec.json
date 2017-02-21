@@ -1,0 +1,7 @@
+{"lab": {"id":  "eil-iitg",
+				"name": "Electronic instrumentation Lab",
+				"overview": "This lab deals with Electronic instrumentation Lab",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99575, E99574, E99573, E99572, E99571, E99570, E99569, E99568, E99567]}]
+				}
+}

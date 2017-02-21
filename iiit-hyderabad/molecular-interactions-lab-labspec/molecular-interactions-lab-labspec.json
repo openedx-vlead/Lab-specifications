@@ -1,0 +1,7 @@
+{"lab": {"id":  "ccnsb07",
+				"name": "Molecular Interaction",
+				"overview": "This lab deals with Molecular Interaction",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99720, E99719, E99718, E99717, E99716, E99715, E99714, E99713, E99712, E99711, E99710]}]
+				}
+}

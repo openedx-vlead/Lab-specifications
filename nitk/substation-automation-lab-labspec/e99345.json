@@ -1,0 +1,12 @@
+{"experiment": {"id":  "ee30",
+				"name": "Control Of Bus Voltages Through Onload Tap Changes",
+				"overview": "This experiments deals with Control Of Bus Voltages Through Onload Tap Changes",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Self Evaluation", 
+ 					 "Simulator", 
+ 					 "Assignment", 
+ 					 "Reference", 
+ 					 "Video", 
+ 					 "Quiz"]				}
+}

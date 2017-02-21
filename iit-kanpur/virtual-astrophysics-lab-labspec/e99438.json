@@ -1,0 +1,11 @@
+{"experiment": {"id":  "phy01",
+				"name": "Planetary Distances",
+				"overview": "This experiments deals with Planetary Distances",
+				"sections" : ["Objective", 
+ 					 "Introduction", 
+ 					 "Theory", 
+ 					 "Inferior Planets", 
+ 					 "Procedure (for Mercury)", 
+ 					 "Further Work", 
+ 					 "Superior Planets"]				}
+}

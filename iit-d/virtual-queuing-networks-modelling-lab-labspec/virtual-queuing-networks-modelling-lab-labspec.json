@@ -1,0 +1,7 @@
+{"lab": {"id":  "ece21",
+				"name": "Virtual Queuing Networks Modelling",
+				"overview": "This lab deals with Virtual Queuing Networks Modelling",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99595, E99594, E99593, E99592, E99591, E99590, E99589, E99588, E99587, E99586, E99585, E99584]}]
+				}
+}

@@ -1,0 +1,9 @@
+{"experiment": {"id":  "hss03",
+				"name": "Blood Group Techniques",
+				"overview": "This experiments deals with Blood Group Techniques",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Simulator", 
+ 					 "Quiz", 
+ 					 "Assignments"]				}
+}

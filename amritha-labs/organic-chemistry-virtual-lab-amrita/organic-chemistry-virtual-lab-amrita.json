@@ -1,0 +1,7 @@
+{"lab": {"id":  "ocv-au",
+				"name": "Organic Chemistry Virtual Lab",
+				"overview": "This lab deals with Organic Chemistry Virtual Lab",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99255, E99254, E99253, E99237, E99236, E99235, E99234, E99233]}]
+				}
+}

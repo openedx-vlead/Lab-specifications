@@ -1,0 +1,14 @@
+{"experiment": {"id":  "mech27",
+				"name": "Establishment of the Relationship between Kata Cooling Power and Air Velocity",
+				"overview": "This experiments deals with Establishment of the Relationship between Kata Cooling Power and Air Velocity",
+				"sections" : ["Theory", 
+ 					 "Instruments", 
+ 					 "Video Demo", 
+ 					 "How it Works", 
+ 					 "Procedure", 
+ 					 "Simulator Procedure", 
+ 					 "Simulator", 
+ 					 "Reference", 
+ 					 "Evaluation", 
+ 					 "Feedback"]				}
+}

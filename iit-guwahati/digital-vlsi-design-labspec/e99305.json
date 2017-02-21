@@ -1,0 +1,12 @@
+{"experiment": {"id":  "vlsi-iitg",
+				"name": "Latches",
+				"overview": "This experiments deals with Latches",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Self Evaluation", 
+ 					 "Procedure", 
+ 					 "Simulator", 
+ 					 "Assignment", 
+ 					 "Reference", 
+ 					 "Video"]				}
+}

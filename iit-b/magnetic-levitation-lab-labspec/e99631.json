@@ -1,0 +1,10 @@
+{"experiment": {"id":  "ml-iitb",
+				"name": "Frequency response",
+				"overview": "This experiments deals with Frequency response",
+				"sections" : ["Aim", 
+ 					 "Introduction", 
+ 					 "Theory", 
+ 					 "Simulator", 
+ 					 "Quiz", 
+ 					 "Things to think about"]				}
+}

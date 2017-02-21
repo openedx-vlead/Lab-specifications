@@ -1,0 +1,11 @@
+{"experiment": {"id":  "biotech26",
+				"name": "EMG Toolbox",
+				"overview": "This experiments deals with EMG Toolbox",
+				"sections" : ["THEORY", 
+ 					 "OBJECTIVE", 
+ 					 "EQUIPMENT USED", 
+ 					 "EXPERIMENT", 
+ 					 "QUIZZES", 
+ 					 "PROCEDURE", 
+ 					 "FURTHER READINGS"]				}
+}

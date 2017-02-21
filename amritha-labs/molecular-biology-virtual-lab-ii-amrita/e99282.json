@@ -1,0 +1,6 @@
+{"experiment": {"id":  "mbvii-au",
+				"name": "Plasmid Curing",
+				"overview": "This experiments deals with Plasmid Curing",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

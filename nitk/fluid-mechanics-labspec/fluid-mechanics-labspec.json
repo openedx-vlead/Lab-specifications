@@ -1,0 +1,7 @@
+{"lab": {"id":  "civil20",
+				"name": "Fluid Mechanics",
+				"overview": "This lab deals with Fluid Mechanics",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99397, E99252, E99251]}]
+				}
+}

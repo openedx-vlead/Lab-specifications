@@ -1,0 +1,13 @@
+{"experiment": {"id":  "cse15",
+				"name": "Multipliers",
+				"overview": "This experiments deals with Multipliers",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quiz", 
+ 					 "Procedure", 
+ 					 "Read", 
+ 					 "Feedback"]				}
+}

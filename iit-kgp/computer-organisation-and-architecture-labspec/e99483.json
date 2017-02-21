@@ -1,0 +1,10 @@
+{"experiment": {"id":  "cse10",
+				"name": "Booth's Multiplier",
+				"overview": "This experiments deals with Booth's Multiplier",
+				"sections" : ["Theory", 
+ 					 "Objective", 
+ 					 "Procedure", 
+ 					 "Experiment", 
+ 					 "Quizes", 
+ 					 "Further Reading"]				}
+}

@@ -1,0 +1,7 @@
+{"lab": {"id":  "cse15",
+				"name": "Digital Logic Design",
+				"overview": "This lab deals with Digital Logic Design",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99771, E99770, E99769, E99768, E99767, E99766, E99765, E99764, E99763, E99762]}]
+				}
+}

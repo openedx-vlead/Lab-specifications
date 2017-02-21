@@ -1,0 +1,11 @@
+{"experiment": {"id":  "eee02",
+				"name": "Determination of Transformer equivalent circuit from Open Circuit and Short Circuit Test",
+				"overview": "This experiments deals with Determination of Transformer equivalent circuit from Open Circuit and Short Circuit Test",
+				"sections" : ["THEORY", 
+ 					 "OBJECTIVE", 
+ 					 "EQUIPMENT USED", 
+ 					 "EXPERIMENT", 
+ 					 "QUIZZES", 
+ 					 "PROCEDURE", 
+ 					 "FURTHER READINGS"]				}
+}

@@ -1,0 +1,11 @@
+{"experiment": {"id":  "chem01",
+				"name": "Adiabatic calorimetry",
+				"overview": "This experiments deals with Adiabatic calorimetry",
+				"sections" : ["Aim", 
+ 					 "Theory", 
+ 					 "Pre-Test", 
+ 					 "Simulator", 
+ 					 "Procedure", 
+ 					 "Reference", 
+ 					 "Feedback"]				}
+}

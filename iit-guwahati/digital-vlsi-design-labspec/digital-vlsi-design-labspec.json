@@ -1,0 +1,7 @@
+{"lab": {"id":  "vlsi-iitg",
+				"name": "Digital VLSI Design Virtual Lab",
+				"overview": "This lab deals with Digital VLSI Design Virtual Lab",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99310, E99309, E99308, E99307, E99306, E99305, E99304]}]
+				}
+}

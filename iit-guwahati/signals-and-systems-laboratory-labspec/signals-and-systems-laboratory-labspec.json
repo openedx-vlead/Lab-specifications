@@ -1,0 +1,7 @@
+{"lab": {"id":  "ece10",
+				"name": "Signals and Systems Laboratory",
+				"overview": "This lab deals with Signals and Systems Laboratory",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99521, E99520, E99519, E99518, E99517]}]
+				}
+}

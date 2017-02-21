@@ -1,0 +1,11 @@
+{"experiment": {"id":  "ece40",
+				"name": "Non linear circuits using Opamps",
+				"overview": "This experiments deals with Non linear circuits using Opamps",
+				"sections" : ["Aim", 
+ 					 "Theory", 
+ 					 "Pre-Test", 
+ 					 "Interactive Tutorial", 
+ 					 "Simulator", 
+ 					 "Post-Test", 
+ 					 "Addional Resources"]				}
+}

@@ -1,0 +1,12 @@
+{"experiment": {"id":  "cse20",
+				"name": "Bayesian Classification",
+				"overview": "This experiments deals with Bayesian Classification",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Quizzes", 
+ 					 "Procedure", 
+ 					 "Further Readings", 
+ 					 "Feedback"]				}
+}

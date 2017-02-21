@@ -1,0 +1,12 @@
+{"experiment": {"id":  "ece10",
+				"name": "Signals and their properties",
+				"overview": "This experiments deals with Signals and their properties",
+				"sections" : ["Objective", 
+ 					 "Theory", 
+ 					 "Procedure", 
+ 					 "Simulator", 
+ 					 "Quiz", 
+ 					 "Reference", 
+ 					 "Download", 
+ 					 "Video"]				}
+}

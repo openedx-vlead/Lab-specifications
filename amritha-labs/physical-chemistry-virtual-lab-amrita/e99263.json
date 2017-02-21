@@ -1,0 +1,6 @@
+{"experiment": {"id":  "pcv-au",
+				"name": "Spectrophotometry",
+				"overview": "This experiments deals with Spectrophotometry",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

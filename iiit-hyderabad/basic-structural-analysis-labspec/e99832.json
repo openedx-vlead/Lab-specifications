@@ -1,0 +1,12 @@
+{"experiment": {"id":  "eerc04",
+				"name": "Arches Experiment",
+				"overview": "This experiments deals with Arches Experiment",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quizzes", 
+ 					 "Procedure", 
+ 					 "FurtherReadings"]				}
+}

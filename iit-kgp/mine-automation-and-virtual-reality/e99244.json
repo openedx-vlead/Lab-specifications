@@ -1,0 +1,12 @@
+{"experiment": {"id":  "mech27",
+				"name": "Calibration of Orifice Plate",
+				"overview": "This experiments deals with Calibration of Orifice Plate",
+				"sections" : ["Theory", 
+ 					 "Video Demo", 
+ 					 "Procedure", 
+ 					 "Simulator Procedure", 
+ 					 "Simulator", 
+ 					 "Reference", 
+ 					 "Evaluation", 
+ 					 "Feedback"]				}
+}

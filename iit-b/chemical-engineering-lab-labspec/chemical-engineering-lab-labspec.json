@@ -1,0 +1,7 @@
+{"lab": {"id":  "chem01",
+				"name": "Chemical Engineering",
+				"overview": "This lab deals with Chemical Engineering",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99656, E99655, E99654, E99653, E99652, E99651, E99650, E99649, E99648, E99647]}]
+				}
+}

@@ -1,0 +1,12 @@
+{"experiment": {"id":  "cse24",
+				"name": "Chunking",
+				"overview": "This experiments deals with Chunking",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Quizzes", 
+ 					 "Procedure", 
+ 					 "Further Readings", 
+ 					 "Feedback"]				}
+}

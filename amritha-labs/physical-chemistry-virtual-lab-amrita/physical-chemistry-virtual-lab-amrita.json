@@ -1,0 +1,7 @@
+{"lab": {"id":  "pcv-au",
+				"name": "Physical Chemistry Virtual Lab",
+				"overview": "This lab deals with Physical Chemistry Virtual Lab",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99270, E99269, E99268, E99267, E99266, E99265, E99264, E99263]}]
+				}
+}

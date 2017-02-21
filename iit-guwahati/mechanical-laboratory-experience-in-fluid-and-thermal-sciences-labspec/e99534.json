@@ -1,0 +1,10 @@
+{"experiment": {"id":  "mfts-iitg",
+				"name": "To determine the overall heat transfer coefficient (U) in the counter flow heat exchanger",
+				"overview": "This experiments deals with To determine the overall heat transfer coefficient (U) in the counter flow heat exchanger",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Software Package", 
+ 					 "Setup", 
+ 					 "Simulator", 
+ 					 "Demonstration"]				}
+}

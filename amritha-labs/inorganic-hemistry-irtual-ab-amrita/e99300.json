@@ -1,0 +1,6 @@
+{"experiment": {"id":  "icv-au",
+				"name": "Acid Base Titration",
+				"overview": "This experiments deals with Acid Base Titration",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

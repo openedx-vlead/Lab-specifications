@@ -1,0 +1,6 @@
+{"experiment": {"id":  "emv-au",
+				"name": "Quinckes Method",
+				"overview": "This experiments deals with Quinckes Method",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

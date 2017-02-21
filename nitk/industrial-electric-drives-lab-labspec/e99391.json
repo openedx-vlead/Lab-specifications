@@ -1,0 +1,12 @@
+{"experiment": {"id":  "eee08",
+				"name": "Garage Shutter Opening and Closing Using PLC:",
+				"overview": "This experiments deals with Garage Shutter Opening and Closing Using PLC:",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Self Evaluation", 
+ 					 "Simulator", 
+ 					 "Assignment", 
+ 					 "Reference", 
+ 					 "Video", 
+ 					 "Quiz"]				}
+}

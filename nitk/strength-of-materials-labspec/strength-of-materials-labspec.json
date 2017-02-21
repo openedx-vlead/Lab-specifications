@@ -1,0 +1,7 @@
+{"lab": {"id":  "civil07",
+				"name": "Strength of Materials",
+				"overview": "This lab deals with Strength of Materials",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99361, E99360, E99359, E99358, E99357, E99356, E99355, E99354, E99353, E99352]}]
+				}
+}

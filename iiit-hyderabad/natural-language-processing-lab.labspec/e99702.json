@@ -1,0 +1,11 @@
+{"experiment": {"id":  "cse24",
+				"name": "Building POS Tagger",
+				"overview": "This experiments deals with Building POS Tagger",
+				"sections" : ["Aim", 
+ 					 "Theory", 
+ 					 "Pre-Test", 
+ 					 "Simulator", 
+ 					 "Procedure", 
+ 					 "Reference", 
+ 					 "Feedback"]				}
+}

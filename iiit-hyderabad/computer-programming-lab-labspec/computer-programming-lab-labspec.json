@@ -1,0 +1,7 @@
+{"lab": {"id":  "cse02",
+				"name": "Computer Programming",
+				"overview": "This lab deals with Computer Programming",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99800, E99799, E99798, E99797, E99796, E99795, E99794, E99793, E99792, E99791]}]
+				}
+}

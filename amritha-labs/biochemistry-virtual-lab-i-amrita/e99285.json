@@ -1,0 +1,6 @@
+{"experiment": {"id":  "biotech01",
+				"name": "Quantitative Estimation of Amino Acids by Ninhydrin",
+				"overview": "This experiments deals with Quantitative Estimation of Amino Acids by Ninhydrin",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

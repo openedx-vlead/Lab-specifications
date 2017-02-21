@@ -1,0 +1,12 @@
+{"experiment": {"id":  "ece10",
+				"name": "Sampling and signal reconstruction",
+				"overview": "This experiments deals with Sampling and signal reconstruction",
+				"sections" : ["Objective", 
+ 					 "Theory", 
+ 					 "Procedure", 
+ 					 "Simulator", 
+ 					 "Quiz", 
+ 					 "Reference", 
+ 					 "Download", 
+ 					 "Video"]				}
+}

@@ -1,0 +1,13 @@
+{"experiment": {"id":  "cse15",
+				"name": "Latch and Flip Flops",
+				"overview": "This experiments deals with Latch and Flip Flops",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quiz", 
+ 					 "Procedure", 
+ 					 "Read", 
+ 					 "Feedback"]				}
+}

@@ -1,0 +1,10 @@
+{"experiment": {"id":  "eil-iitg",
+				"name": "Signal Conditioning Circuit for RTD (Resistance Temperature Detector)",
+				"overview": "This experiments deals with Signal Conditioning Circuit for RTD (Resistance Temperature Detector)",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Simulator", 
+ 					 "Self Evaluation", 
+ 					 "Reference", 
+ 					 "Feedback"]				}
+}

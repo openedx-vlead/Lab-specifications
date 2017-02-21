@@ -1,0 +1,7 @@
+{"lab": {"id":  "cbll-au",
+				"name": "Cell Biology Virtual Lab II",
+				"overview": "This lab deals with Cell Biology Virtual Lab II",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99991, E99990, E99989, E99988, E99987, E99986, E99985, E99984]}]
+				}
+}

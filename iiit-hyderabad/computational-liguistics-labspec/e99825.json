@@ -1,0 +1,11 @@
+{"experiment": {"id":  "cse23",
+				"name": "Heap's Law",
+				"overview": "This experiments deals with Heap's Law",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quizzes", 
+ 					 "Procedure"]				}
+}

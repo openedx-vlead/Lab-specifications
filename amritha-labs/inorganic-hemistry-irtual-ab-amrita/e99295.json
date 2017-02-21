@@ -1,0 +1,6 @@
+{"experiment": {"id":  "icv-au",
+				"name": "Soil Analysis-Determination of Specific Conductivity of Soil",
+				"overview": "This experiments deals with Soil Analysis-Determination of Specific Conductivity of Soil",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

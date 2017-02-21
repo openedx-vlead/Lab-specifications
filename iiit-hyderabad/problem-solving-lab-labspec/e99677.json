@@ -1,0 +1,13 @@
+{"experiment": {"id":  "cse04",
+				"name": "Sequences",
+				"overview": "This experiments deals with Sequences",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quizzes", 
+ 					 "Procedure", 
+ 					 "Further Readings", 
+ 					 "Feedback"]				}
+}

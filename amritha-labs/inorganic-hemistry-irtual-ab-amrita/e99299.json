@@ -1,0 +1,6 @@
+{"experiment": {"id":  "icv-au",
+				"name": "Alloy Analysis (Brass)",
+				"overview": "This experiments deals with Alloy Analysis (Brass)",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

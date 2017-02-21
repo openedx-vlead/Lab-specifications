@@ -1,0 +1,10 @@
+{"experiment": {"id":  "ml-iitb",
+				"name": "PD Control for desired pole placement",
+				"overview": "This experiments deals with PD Control for desired pole placement",
+				"sections" : ["Aim", 
+ 					 "Introduction", 
+ 					 "Theory", 
+ 					 "Simulator", 
+ 					 "Quiz", 
+ 					 "Things to think about"]				}
+}

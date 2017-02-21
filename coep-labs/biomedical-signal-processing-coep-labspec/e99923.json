@@ -1,0 +1,11 @@
+{"experiment": {"id":  "bio16",
+				"name": "To Simulate Defibrillator",
+				"overview": "This experiments deals with To Simulate Defibrillator",
+				"sections" : ["Aim", 
+ 					 "Pre-test", 
+ 					 "Theory", 
+ 					 "Simulator", 
+ 					 "Procedure", 
+ 					 "Post-test", 
+ 					 "Conclusion"]				}
+}

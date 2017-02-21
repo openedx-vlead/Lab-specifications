@@ -1,0 +1,9 @@
+{"experiment": {"id":  "tel-iitb",
+				"name": "Delay Modeling",
+				"overview": "This experiments deals with Delay Modeling",
+				"sections" : ["Theory", 
+ 					 "Self Evaluation", 
+ 					 "Simulator", 
+ 					 "Feedback", 
+ 					 "Contact Us"]				}
+}

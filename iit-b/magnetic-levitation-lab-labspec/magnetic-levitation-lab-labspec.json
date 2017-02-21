@@ -1,0 +1,7 @@
+{"lab": {"id":  "ml-iitb",
+				"name": "Magnetic Levitation Lab",
+				"overview": "This lab deals with Magnetic Levitation Lab",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99635, E99634, E99633, E99632, E99631, E99630, E99629, E99628, E99627, E99626]}]
+				}
+}

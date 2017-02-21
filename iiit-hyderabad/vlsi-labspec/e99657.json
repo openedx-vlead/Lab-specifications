@@ -1,0 +1,13 @@
+{"experiment": {"id":  "cse14",
+				"name": "Layout Design",
+				"overview": "This experiments deals with Layout Design",
+				"sections" : ["Introduction", 
+ 					 "Objective", 
+ 					 "Theory", 
+ 					 "Procedure", 
+ 					 "Manual", 
+ 					 "Simulator", 
+ 					 "Quiz", 
+ 					 "References", 
+ 					 "Feedback"]				}
+}

@@ -1,0 +1,10 @@
+{"experiment": {"id":  "mech26",
+				"name": "Extrusion Process",
+				"overview": "This experiments deals with Extrusion Process",
+				"sections" : ["Extrusion Process", 
+ 					 "Simulation Bench", 
+ 					 "Comparative Simulation", 
+ 					 "Applications", 
+ 					 "Special Cases ", 
+ 					 "Self Check Quiz"]				}
+}

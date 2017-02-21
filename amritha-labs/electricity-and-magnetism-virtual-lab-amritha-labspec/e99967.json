@@ -1,0 +1,6 @@
+{"experiment": {"id":  "emv-au",
+				"name": "Deflection Magnetometer",
+				"overview": "This experiments deals with Deflection Magnetometer",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

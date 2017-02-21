@@ -1,0 +1,7 @@
+{"lab": {"id":  "eee05",
+				"name": "Sensors Modeling and Simulation",
+				"overview": "This lab deals with Sensors Modeling and Simulation",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99324, E99323, E99322, E99321, E99320, E99319, E99318, E99317]}]
+				}
+}

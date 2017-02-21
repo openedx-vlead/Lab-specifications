@@ -1,0 +1,10 @@
+{"experiment": {"id":  "ml-iitb",
+				"name": "PID Control for desired transient response - Unstable Plant",
+				"overview": "This experiments deals with PID Control for desired transient response - Unstable Plant",
+				"sections" : ["Aim", 
+ 					 "Introduction", 
+ 					 "Theory", 
+ 					 "Simulator", 
+ 					 "Quiz", 
+ 					 "Things to think about"]				}
+}

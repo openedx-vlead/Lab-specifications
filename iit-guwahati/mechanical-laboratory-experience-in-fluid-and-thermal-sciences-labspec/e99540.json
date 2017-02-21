@@ -1,0 +1,11 @@
+{"experiment": {"id":  "mfts-iitg",
+				"name": "Conduction Analysis of a single Material Sphere",
+				"overview": "This experiments deals with Conduction Analysis of a single Material Sphere",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Software Package", 
+ 					 "Setup", 
+ 					 "Simulator", 
+ 					 "Demonstration", 
+ 					 "Quiz"]				}
+}

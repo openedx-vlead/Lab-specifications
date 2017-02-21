@@ -1,0 +1,7 @@
+{"lab": {"id":  "emv-au",
+				"name": "Electricity and Magnetism Virtual Lab",
+				"overview": "This lab deals with Electricity and Magnetism Virtual Lab",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99974, E99973, E99972, E99971, E99970, E99969, E99968, E99967]}]
+				}
+}

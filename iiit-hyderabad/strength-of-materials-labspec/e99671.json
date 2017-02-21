@@ -1,0 +1,10 @@
+{"experiment": {"id":  "eerc01",
+				"name": "Creep Test Experiment",
+				"overview": "This experiments deals with Creep Test Experiment",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Quizzes", 
+ 					 "FurtherReadings"]				}
+}

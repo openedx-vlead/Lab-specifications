@@ -1,0 +1,6 @@
+{"experiment": {"id":  "ov-au",
+				"name": "Diffraction Grating",
+				"overview": "This experiments deals with Diffraction Grating",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

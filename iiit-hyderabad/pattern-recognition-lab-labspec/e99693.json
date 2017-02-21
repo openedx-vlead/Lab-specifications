@@ -1,0 +1,12 @@
+{"experiment": {"id":  "cse20",
+				"name": "Data Clustering: K-Means, MST-based",
+				"overview": "This experiments deals with Data Clustering: K-Means, MST-based",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Quizzes", 
+ 					 "Procedure", 
+ 					 "Further Readings", 
+ 					 "Feedback"]				}
+}

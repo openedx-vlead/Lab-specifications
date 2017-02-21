@@ -1,0 +1,11 @@
+{"experiment": {"id":  "mech04",
+				"name": "Impact test on cantilever Modal analysis",
+				"overview": "This experiments deals with Impact test on cantilever Modal analysis",
+				"sections" : ["Aim", 
+ 					 "Theory", 
+ 					 "Simulator", 
+ 					 "Procedure", 
+ 					 "Audio/Video", 
+ 					 "Review Questions", 
+ 					 "Feedback"]				}
+}

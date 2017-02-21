@@ -1,0 +1,9 @@
+{"experiment": {"id":  "hss03",
+				"name": "Obtain the main line formula",
+				"overview": "This experiments deals with Obtain the main line formula",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Simulator", 
+ 					 "Quiz", 
+ 					 "Assignments"]				}
+}

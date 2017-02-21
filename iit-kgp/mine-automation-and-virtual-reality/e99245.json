@@ -1,0 +1,12 @@
+{"experiment": {"id":  "mech27",
+				"name": "Determination of method factor for a duct",
+				"overview": "This experiments deals with Determination of method factor for a duct",
+				"sections" : ["Theory", 
+ 					 "Video Demo", 
+ 					 "Procedure", 
+ 					 "Simulator Procedure", 
+ 					 "Simulator", 
+ 					 "Reference", 
+ 					 "Evaluation", 
+ 					 "Feedback"]				}
+}

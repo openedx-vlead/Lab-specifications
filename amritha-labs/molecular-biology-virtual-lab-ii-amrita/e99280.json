@@ -1,0 +1,6 @@
+{"experiment": {"id":  "mbvii-au",
+				"name": "Polyacrylamide Gel Electrophoresis",
+				"overview": "This experiments deals with Polyacrylamide Gel Electrophoresis",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

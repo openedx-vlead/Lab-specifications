@@ -1,0 +1,6 @@
+{"experiment": {"id":  "pcv-au",
+				"name": "Calorimetry-Water Equivalent Calorimetry",
+				"overview": "This experiments deals with Calorimetry-Water Equivalent Calorimetry",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

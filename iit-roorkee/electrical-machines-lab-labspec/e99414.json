@@ -1,0 +1,11 @@
+{"experiment": {"id":  "eee02",
+				"name": "Speed control of DC motor by using Ward-Leonard Method of speed control",
+				"overview": "This experiments deals with Speed control of DC motor by using Ward-Leonard Method of speed control",
+				"sections" : ["THEORY", 
+ 					 "OBJECTIVE", 
+ 					 "EQUIPMENT USED", 
+ 					 "EXPERIMENT", 
+ 					 "QUIZZES", 
+ 					 "PROCEDURE", 
+ 					 "FURTHER READINGS"]				}
+}

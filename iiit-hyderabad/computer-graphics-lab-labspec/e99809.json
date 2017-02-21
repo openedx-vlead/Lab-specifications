@@ -1,0 +1,13 @@
+{"experiment": {"id":  "cse18",
+				"name": "Rasterization: Polygon",
+				"overview": "This experiments deals with Rasterization: Polygon",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Objective", 
+ 					 "Experiment", 
+ 					 "Manual", 
+ 					 "Quizzes", 
+ 					 "Procedure", 
+ 					 "Further Readings", 
+ 					 "Feedback"]				}
+}

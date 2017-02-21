@@ -1,0 +1,12 @@
+{"experiment": {"id":  "chem01",
+				"name": "Nature of flow",
+				"overview": "This experiments deals with Nature of flow",
+				"sections" : ["Aim", 
+ 					 "Theory", 
+ 					 "Pre-Test", 
+ 					 "Simulator", 
+ 					 "Procedure", 
+ 					 "FAQ", 
+ 					 "Reference", 
+ 					 "Feedback"]				}
+}

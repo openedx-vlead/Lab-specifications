@@ -1,0 +1,10 @@
+{"experiment": {"id":  "hss03",
+				"name": "Pottery - Virtual Reconstruction of Shapes",
+				"overview": "This experiments deals with Pottery - Virtual Reconstruction of Shapes",
+				"sections" : ["Theory", 
+ 					 "Procedure", 
+ 					 "Simulator", 
+ 					 "Quiz", 
+ 					 "Assignments", 
+ 					 "References"]				}
+}

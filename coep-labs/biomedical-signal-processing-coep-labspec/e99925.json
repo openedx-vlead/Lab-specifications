@@ -1,0 +1,11 @@
+{"experiment": {"id":  "bio16",
+				"name": "To simulate Electroencephalogram Signal",
+				"overview": "This experiments deals with To simulate Electroencephalogram Signal",
+				"sections" : ["Aim", 
+ 					 "Pre-test", 
+ 					 "Theory", 
+ 					 "Simulator", 
+ 					 "Procedure", 
+ 					 "Post-test", 
+ 					 "Conclusion"]				}
+}

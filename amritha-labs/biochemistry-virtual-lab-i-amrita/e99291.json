@@ -1,0 +1,6 @@
+{"experiment": {"id":  "biotech01",
+				"name": "Detection of Adulteration in Milk",
+				"overview": "This experiments deals with Detection of Adulteration in Milk",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

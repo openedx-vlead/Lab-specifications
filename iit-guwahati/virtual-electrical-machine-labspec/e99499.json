@@ -1,0 +1,9 @@
+{"experiment": {"id":  "eee01",
+				"name": "Star-Delta Starting",
+				"overview": "This experiments deals with Star-Delta Starting",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Procedure", 
+ 					 "Experiment", 
+ 					 "Quiz"]				}
+}

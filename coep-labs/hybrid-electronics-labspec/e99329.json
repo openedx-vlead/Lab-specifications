@@ -1,0 +1,12 @@
+{"experiment": {"id":  "ece19",
+				"name": "Design and Simulation of Various Counters and Shift Registers",
+				"overview": "This experiments deals with Design and Simulation of Various Counters and Shift Registers",
+				"sections" : ["Aim", 
+ 					 "Pre Test", 
+ 					 "Theory", 
+ 					 "Simulator", 
+ 					 "Procedure", 
+ 					 "Post Test", 
+ 					 "Downloads", 
+ 					 "Conclusion"]				}
+}

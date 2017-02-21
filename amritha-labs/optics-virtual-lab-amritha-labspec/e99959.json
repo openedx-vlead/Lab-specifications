@@ -1,0 +1,6 @@
+{"experiment": {"id":  "ov-au",
+				"name": "Spectrometer Refractive Index of the Material of a Prism",
+				"overview": "This experiments deals with Spectrometer Refractive Index of the Material of a Prism",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

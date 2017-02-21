@@ -1,0 +1,11 @@
+{"experiment": {"id":  "eee02",
+				"name": "Magnetisation Characteristics of DC shunt generator",
+				"overview": "This experiments deals with Magnetisation Characteristics of DC shunt generator",
+				"sections" : ["THEORY", 
+ 					 "OBJECTIVE", 
+ 					 "EQUIPMENT USED", 
+ 					 "EXPERIMENT", 
+ 					 "QUIZZES", 
+ 					 "PROCEDURE", 
+ 					 "FURTHER READINGS"]				}
+}

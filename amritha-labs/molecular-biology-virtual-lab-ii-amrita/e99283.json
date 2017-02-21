@@ -1,0 +1,6 @@
+{"experiment": {"id":  "mbvii-au",
+				"name": "Ligation Using T4 DNA Ligase",
+				"overview": "This experiments deals with Ligation Using T4 DNA Ligase",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

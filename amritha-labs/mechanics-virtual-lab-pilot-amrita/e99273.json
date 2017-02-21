@@ -1,0 +1,6 @@
+{"experiment": {"id":  "phy-sc22-au",
+				"name": "Newton's Second Law of Motion",
+				"overview": "This experiments deals with Newton's Second Law of Motion",
+				"sections" : ["Simulator", 
+ 					 "Animation"]				}
+}

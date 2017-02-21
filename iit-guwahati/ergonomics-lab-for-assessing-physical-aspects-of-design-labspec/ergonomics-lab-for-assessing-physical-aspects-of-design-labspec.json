@@ -1,0 +1,7 @@
+{"lab": {"id":  "dsgn-engg04",
+				"name": "Ergonomics Lab for Assessing Physical Aspects of Design",
+				"overview": "This lab deals with Ergonomics Lab for Assessing Physical Aspects of Design",
+				"sections" : [{"name": "Introduction"},
+							{"experiments": [E99566, E99565, E99564, E99563, E99562, E99561, E99560, E99559, E99558, E99557]}]
+				}
+}

@@ -1,0 +1,13 @@
+{"experiment": {"id":  "cse14",
+				"name": "Spice Code Platform",
+				"overview": "This experiments deals with Spice Code Platform",
+				"sections" : ["Introduction", 
+ 					 "Objective", 
+ 					 "Theory", 
+ 					 "Procedure", 
+ 					 "Manual", 
+ 					 "Simulator", 
+ 					 "Quiz", 
+ 					 "References", 
+ 					 "Feedback"]				}
+}

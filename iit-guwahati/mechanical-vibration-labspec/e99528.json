@@ -1,0 +1,11 @@
+{"experiment": {"id":  "mv-iitg",
+				"name": "Free Vibration of a Cantilever Beam (Continuous System)",
+				"overview": "This experiments deals with Free Vibration of a Cantilever Beam (Continuous System)",
+				"sections" : ["Introduction", 
+ 					 "Theory", 
+ 					 "Setup", 
+ 					 "Procedure", 
+ 					 "Experiment", 
+ 					 "Discussion", 
+ 					 "Quiz"]				}
+}
