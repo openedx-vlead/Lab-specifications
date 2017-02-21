@@ -1,11 +1,12 @@
-{"experiment": {"id":  "biotech26",
-				"name": "EEG alpha RMS derivation",
-				"overview": "This experiments deals with EEG alpha RMS derivation",
-				"sections" : ["THEORY", 
- 					 "OBJECTIVE", 
- 					 "EQUIPMENT USED", 
- 					 "EXPERIMENT", 
- 					 "QUIZZES", 
- 					 "PROCEDURE", 
- 					 "FURTHER READINGS"]				}
+{"experiment": {"id":  "e99420",
+	 	"name": "EEG alpha RMS derivation",
+	 	"overview": "This experiments deals with EEG alpha RMS derivation",
+	 	"sections" : ["THEORY", 
+ 			      "OBJECTIVE", 
+ 			      "EQUIPMENT USED", 
+ 			      "EXPERIMENT", 
+ 			      "QUIZZES", 
+ 			      "PROCEDURE", 
+ 			      "FURTHER READINGS"]		
+		}
 }

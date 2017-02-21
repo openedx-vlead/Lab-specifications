@@ -1,13 +1,14 @@
-{"experiment": {"id":  "ccnsb03",
-				"name": "  Study of kinetics of a reaction by using spectrophotometric method ",
-				"overview": "This experiments deals with   Study of kinetics of a reaction by using spectrophotometric method ",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Procedure", 
- 					 "References", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99731",
+	 	"name": "  Study of kinetics of a reaction by using spectrophotometric method ",
+	 	"overview": "This experiments deals with   Study of kinetics of a reaction by using spectrophotometric method ",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "References", 
+ 			      "Feedback"]		
+		}
 }

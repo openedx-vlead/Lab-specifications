@@ -1,7 +1,7 @@
 {"lab": {"id":  "cse18",
-				"name": "Computer Graphics",
-				"overview": "This lab deals with Computer Graphics",
-				"sections" : [{"name": "Introduction"},
-							{"experiments": [E99819, E99818, E99817, E99816, E99815, E99814, E99813, E99812, E99811, E99810, E99809]}]
-				}
+	 "name": "Computer Graphics",
+	 "overview": "This lab deals with Computer Graphics",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99819, e99818, e99817, e99816, e99815, e99814, e99813, e99812, e99811, e99810, e99809]}]
+	}
 }

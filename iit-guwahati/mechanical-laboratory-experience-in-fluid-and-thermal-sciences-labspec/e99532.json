@@ -1,9 +1,10 @@
-{"experiment": {"id":  "mfts-iitg",
-				"name": "To investigate the Lambert’s direction law (cosine law)",
-				"overview": "This experiments deals with To investigate the Lambert’s direction law (cosine law)",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Software Package", 
- 					 "Setup", 
- 					 "Simulator"]				}
+{"experiment": {"id":  "e99532",
+	 	"name": "To investigate the Lambert’s direction law (cosine law)",
+	 	"overview": "This experiments deals with To investigate the Lambert’s direction law (cosine law)",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Software Package", 
+ 			      "Setup", 
+ 			      "Simulator"]		
+		}
 }

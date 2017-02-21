@@ -1,6 +1,7 @@
-{"experiment": {"id":  "biotech01",
-				"name": "Estimation of Blood Glucose by Glucose Oxidase Method",
-				"overview": "This experiments deals with Estimation of Blood Glucose by Glucose Oxidase Method",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99289",
+	 	"name": "Estimation of Blood Glucose by Glucose Oxidase Method",
+	 	"overview": "This experiments deals with Estimation of Blood Glucose by Glucose Oxidase Method",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

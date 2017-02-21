@@ -1,5 +1,6 @@
-{"experiment": {"id":  "biotech18",
-				"name": "Metapopulation Dynamics -Levins Model",
-				"overview": "This experiments deals with Metapopulation Dynamics -Levins Model",
-				"sections" : ["Simulator"]				}
+{"experiment": {"id":  "e99954",
+	 	"name": "Metapopulation Dynamics -Levins Model",
+	 	"overview": "This experiments deals with Metapopulation Dynamics -Levins Model",
+	 	"sections" : ["Simulator"]		
+		}
 }

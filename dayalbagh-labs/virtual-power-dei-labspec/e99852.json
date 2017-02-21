@@ -1,12 +1,13 @@
-{"experiment": {"id":  "eee06",
-				"name": "To Study the effect of different shape of electrodes on dielectric (air) breakdown.",
-				"overview": "This experiments deals with To Study the effect of different shape of electrodes on dielectric (air) breakdown.",
-				"sections" : ["Objective", 
- 					 "Equipments", 
- 					 "Block Diagram", 
- 					 "Theory and Procedure", 
- 					 "Observation", 
- 					 "Simulation", 
- 					 "Videos of Exp5", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99852",
+	 	"name": "To Study the effect of different shape of electrodes on dielectric (air) breakdown.",
+	 	"overview": "This experiments deals with To Study the effect of different shape of electrodes on dielectric (air) breakdown.",
+	 	"sections" : ["Objective", 
+ 			      "Equipments", 
+ 			      "Block Diagram", 
+ 			      "Theory and Procedure", 
+ 			      "Observation", 
+ 			      "Simulation", 
+ 			      "Videos of Exp5", 
+ 			      "Quiz"]		
+		}
 }

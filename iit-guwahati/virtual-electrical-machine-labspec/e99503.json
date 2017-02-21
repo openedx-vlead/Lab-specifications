@@ -1,10 +1,11 @@
-{"experiment": {"id":  "eee01",
-				"name": "No-Load Test",
-				"overview": "This experiments deals with No-Load Test",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Procedure", 
- 					 "Experiment", 
- 					 "Solved Examples", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99503",
+	 	"name": "No-Load Test",
+	 	"overview": "This experiments deals with No-Load Test",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Experiment", 
+ 			      "Solved Examples", 
+ 			      "Quiz"]		
+		}
 }

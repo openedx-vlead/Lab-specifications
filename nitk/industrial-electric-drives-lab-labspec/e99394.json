@@ -1,12 +1,13 @@
-{"experiment": {"id":  "eee08",
-				"name": "PLC Retentive Timer On Instruction",
-				"overview": "This experiments deals with PLC Retentive Timer On Instruction",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99394",
+	 	"name": "PLC Retentive Timer On Instruction",
+	 	"overview": "This experiments deals with PLC Retentive Timer On Instruction",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
 }

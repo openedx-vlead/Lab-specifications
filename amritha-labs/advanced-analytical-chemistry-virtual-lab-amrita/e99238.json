@@ -1,5 +1,6 @@
-{"experiment": {"id":  "aacv-au",
-				"name": "Estimation of Phosphate Content in Soft Drinks",
-				"overview": "This experiments deals with Estimation of Phosphate Content in Soft Drinks",
-				"sections" : ["Simulator"]				}
+{"experiment": {"id":  "e99238",
+	 	"name": "Estimation of Phosphate Content in Soft Drinks",
+	 	"overview": "This experiments deals with Estimation of Phosphate Content in Soft Drinks",
+	 	"sections" : ["Simulator"]		
+		}
 }

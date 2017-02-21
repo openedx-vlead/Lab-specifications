@@ -1,11 +1,12 @@
-{"experiment": {"id":  "biotech26",
-				"name": "ECG Acquisition and HRV analysis in time and frequency domain",
-				"overview": "This experiments deals with ECG Acquisition and HRV analysis in time and frequency domain",
-				"sections" : ["THEORY", 
- 					 "OBJECTIVE", 
- 					 "EQUIPMENT USED", 
- 					 "EXPERIMENT", 
- 					 "QUIZZES", 
- 					 "PROCEDURE", 
- 					 "FURTHER READINGS"]				}
+{"experiment": {"id":  "e99424",
+	 	"name": "ECG Acquisition and HRV analysis in time and frequency domain",
+	 	"overview": "This experiments deals with ECG Acquisition and HRV analysis in time and frequency domain",
+	 	"sections" : ["THEORY", 
+ 			      "OBJECTIVE", 
+ 			      "EQUIPMENT USED", 
+ 			      "EXPERIMENT", 
+ 			      "QUIZZES", 
+ 			      "PROCEDURE", 
+ 			      "FURTHER READINGS"]		
+		}
 }

@@ -1,6 +1,7 @@
-{"experiment": {"id":  "aacv-au",
-				"name": "Electrogravimetric Estimation of Metals",
-				"overview": "This experiments deals with Electrogravimetric Estimation of Metals",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99262",
+	 	"name": "Electrogravimetric Estimation of Metals",
+	 	"overview": "This experiments deals with Electrogravimetric Estimation of Metals",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

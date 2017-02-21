@@ -1,11 +1,12 @@
-{"experiment": {"id":  "ece08",
-				"name": "Microwave Coupler",
-				"overview": "This experiments deals with Microwave Coupler",
-				"sections" : ["To perform the experiments please download the following software:", 
- 					 "Manual", 
- 					 "Pre Experiment Quiz", 
- 					 "Demo", 
- 					 "Experiment", 
- 					 "Post Experiment Quiz", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99600",
+	 	"name": "Microwave Coupler",
+	 	"overview": "This experiments deals with Microwave Coupler",
+	 	"sections" : ["To perform the experiments please download the following software:", 
+ 			      "Manual", 
+ 			      "Pre Experiment Quiz", 
+ 			      "Demo", 
+ 			      "Experiment", 
+ 			      "Post Experiment Quiz", 
+ 			      "Feedback"]		
+		}
 }

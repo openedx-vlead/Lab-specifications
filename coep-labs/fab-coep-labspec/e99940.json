@@ -1,12 +1,13 @@
-{"experiment": {"id":  "mech18",
-				"name": "PCB design and fabrication",
-				"overview": "This experiments deals with PCB design and fabrication",
-				"sections" : ["Aim", 
- 					 "Pre Test", 
- 					 "Theory", 
- 					 "Simulator", 
- 					 "Procedure", 
- 					 "Audio/Video", 
- 					 "Post Test", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99940",
+	 	"name": "PCB design and fabrication",
+	 	"overview": "This experiments deals with PCB design and fabrication",
+	 	"sections" : ["Aim", 
+ 			      "Pre Test", 
+ 			      "Theory", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Audio/Video", 
+ 			      "Post Test", 
+ 			      "Feedback"]		
+		}
 }

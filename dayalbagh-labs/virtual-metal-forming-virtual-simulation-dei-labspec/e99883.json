@@ -1,14 +1,15 @@
-{"experiment": {"id":  "mech26",
-				"name": "Equipments:Extrusion Presses",
-				"overview": "This experiments deals with Equipments:Extrusion Presses",
-				"sections" : ["Direct extrusion press", 
- 					 "Downward indirect extrusion press", 
- 					 "Upward indirect extrusion press", 
- 					 "Direct extrusion with mandrel", 
- 					 "Direct extrusion with die", 
- 					 "Indirect extrusion with die", 
- 					 "Extrusion with pressing tool", 
- 					 "Direct extrusion-Industrial setup", 
- 					 "Indirect extrusion-Industrial setup ", 
- 					 "Hydrostatic extrusion press"]				}
+{"experiment": {"id":  "e99883",
+	 	"name": "Equipments:Extrusion Presses",
+	 	"overview": "This experiments deals with Equipments:Extrusion Presses",
+	 	"sections" : ["Direct extrusion press", 
+ 			      "Downward indirect extrusion press", 
+ 			      "Upward indirect extrusion press", 
+ 			      "Direct extrusion with mandrel", 
+ 			      "Direct extrusion with die", 
+ 			      "Indirect extrusion with die", 
+ 			      "Extrusion with pressing tool", 
+ 			      "Direct extrusion-Industrial setup", 
+ 			      "Indirect extrusion-Industrial setup ", 
+ 			      "Hydrostatic extrusion press"]		
+		}
 }

@@ -1,10 +1,11 @@
-{"experiment": {"id":  "mech04",
-				"name": "SDOF System - Arbitrary Excitation",
-				"overview": "This experiments deals with SDOF System - Arbitrary Excitation",
-				"sections" : ["Aim", 
- 					 "Simulator", 
- 					 "Procedure", 
- 					 "Audio/Video", 
- 					 "Review Questions", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99895",
+	 	"name": "SDOF System - Arbitrary Excitation",
+	 	"overview": "This experiments deals with SDOF System - Arbitrary Excitation",
+	 	"sections" : ["Aim", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Audio/Video", 
+ 			      "Review Questions", 
+ 			      "Feedback"]		
+		}
 }

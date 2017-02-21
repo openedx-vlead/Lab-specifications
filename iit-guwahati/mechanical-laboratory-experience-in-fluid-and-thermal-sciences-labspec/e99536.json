@@ -1,11 +1,12 @@
-{"experiment": {"id":  "mfts-iitg",
-				"name": "Conduction Analysis of Double Material Cylinder",
-				"overview": "This experiments deals with Conduction Analysis of Double Material Cylinder",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Software Package", 
- 					 "Setup", 
- 					 "Simulator", 
- 					 "Demonstration", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99536",
+	 	"name": "Conduction Analysis of Double Material Cylinder",
+	 	"overview": "This experiments deals with Conduction Analysis of Double Material Cylinder",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Software Package", 
+ 			      "Setup", 
+ 			      "Simulator", 
+ 			      "Demonstration", 
+ 			      "Quiz"]		
+		}
 }

@@ -1,9 +1,10 @@
-{"experiment": {"id":  "eee01",
-				"name": "Rotating Magnetic Field Behaviour in three coils",
-				"overview": "This experiments deals with Rotating Magnetic Field Behaviour in three coils",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Procedure", 
- 					 "Experiment1", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99505",
+	 	"name": "Rotating Magnetic Field Behaviour in three coils",
+	 	"overview": "This experiments deals with Rotating Magnetic Field Behaviour in three coils",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Experiment1", 
+ 			      "Quiz"]		
+		}
 }

@@ -1,0 +1,11 @@
+﻿{"experiment": {"id":  "e99610",
+	 	"name": "MS data analysis - Peptide Mass Fingerprinting (PMF)",
+	 	"overview": "This experiments deals with MS data analysis - Peptide Mass Fingerprinting (PMF)",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Reference",
+				"Assignments"]		
+		}
+}

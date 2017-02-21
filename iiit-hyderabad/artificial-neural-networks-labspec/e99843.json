@@ -1,12 +1,13 @@
-{"experiment": {"id":  "cse22",
-				"name": "Hopfield model with stochastic update",
-				"overview": "This experiments deals with Hopfield model with stochastic update",
-				"sections" : ["Objective", 
- 					 "Tutorial", 
- 					 "Illustration", 
- 					 "Procedure", 
- 					 "Experiment", 
- 					 "Observations", 
- 					 "Assignment", 
- 					 "References"]				}
+{"experiment": {"id":  "e99843",
+	 	"name": "Hopfield model with stochastic update",
+	 	"overview": "This experiments deals with Hopfield model with stochastic update",
+	 	"sections" : ["Objective", 
+ 			      "Tutorial", 
+ 			      "Illustration", 
+ 			      "Procedure", 
+ 			      "Experiment", 
+ 			      "Observations", 
+ 			      "Assignment", 
+ 			      "References"]		
+		}
 }

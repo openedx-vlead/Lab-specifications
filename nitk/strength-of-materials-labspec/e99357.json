@@ -1,12 +1,13 @@
-{"experiment": {"id":  "civil07",
-				"name": "Direct Shear Test On Mild Steel Plate",
-				"overview": "This experiments deals with Direct Shear Test On Mild Steel Plate",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99357",
+	 	"name": "Direct Shear Test On Mild Steel Plate",
+	 	"overview": "This experiments deals with Direct Shear Test On Mild Steel Plate",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
 }

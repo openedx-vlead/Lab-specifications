@@ -1,7 +1,7 @@
 {"lab": {"id":  "cse01",
-				"name": "Data Structures",
-				"overview": "This lab deals with Data Structures",
-				"sections" : [{"name": "Introduction"},
-							{"experiments": [E99780, E99779, E99778, E99777, E99776, E99775, E99774, E99773, E99772]}]
-				}
+	 "name": "Data Structures",
+	 "overview": "This lab deals with Data Structures",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99780, e99779, e99778, e99777, e99776, e99775, e99774, e99773, e99772]}]
+	}
 }

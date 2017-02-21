@@ -1,12 +1,13 @@
-{"experiment": {"id":  "ece19",
-				"name": "Design and Simulation of Decoders, Encoders, Multiplexer and Demultiplexer",
-				"overview": "This experiments deals with Design and Simulation of Decoders, Encoders, Multiplexer and Demultiplexer",
-				"sections" : ["Aim", 
- 					 "Pre Test", 
- 					 "Theory", 
- 					 "Simulator", 
- 					 "Procedure", 
- 					 "Post Test", 
- 					 "Downloads", 
- 					 "Conclusion"]				}
+{"experiment": {"id":  "e99327",
+	 	"name": "Design and Simulation of Decoders, Encoders, Multiplexer and Demultiplexer",
+	 	"overview": "This experiments deals with Design and Simulation of Decoders, Encoders, Multiplexer and Demultiplexer",
+	 	"sections" : ["Aim", 
+ 			      "Pre Test", 
+ 			      "Theory", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Post Test", 
+ 			      "Downloads", 
+ 			      "Conclusion"]		
+		}
 }

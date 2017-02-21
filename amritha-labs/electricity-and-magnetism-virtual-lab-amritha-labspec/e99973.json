@@ -1,6 +1,7 @@
-{"experiment": {"id":  "emv-au",
-				"name": "Tangent Galvanometer",
-				"overview": "This experiments deals with Tangent Galvanometer",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99973",
+	 	"name": "Tangent Galvanometer",
+	 	"overview": "This experiments deals with Tangent Galvanometer",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

@@ -1,6 +1,7 @@
-{"experiment": {"id":  "aacv-au",
-				"name": "Polarography 2 - Determination of Unknown Concentration of Vitamin C",
-				"overview": "This experiments deals with Polarography 2 - Determination of Unknown Concentration of Vitamin C",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99259",
+	 	"name": "Polarography 2 - Determination of Unknown Concentration of Vitamin C",
+	 	"overview": "This experiments deals with Polarography 2 - Determination of Unknown Concentration of Vitamin C",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

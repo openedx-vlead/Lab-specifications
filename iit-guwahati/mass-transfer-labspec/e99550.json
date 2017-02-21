@@ -1,13 +1,14 @@
-{"experiment": {"id":  "vmt-iitg",
-				"name": "Forced draft tray dryer",
-				"overview": "This experiments deals with Forced draft tray dryer",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Expt Calc", 
- 					 "Labview Calc", 
- 					 "Pre Quiz", 
- 					 "Download", 
- 					 "Simulator", 
- 					 "Post Expt Quiz", 
- 					 "Videos"]				}
+{"experiment": {"id":  "e99550",
+	 	"name": "Forced draft tray dryer",
+	 	"overview": "This experiments deals with Forced draft tray dryer",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Expt Calc", 
+ 			      "Labview Calc", 
+ 			      "Pre Quiz", 
+ 			      "Download", 
+ 			      "Simulator", 
+ 			      "Post Expt Quiz", 
+ 			      "Videos"]		
+		}
 }

@@ -1,11 +1,12 @@
-{"experiment": {"id":  "mfts-iitg",
-				"name": "Conduction Analysis of a Single Material Slab",
-				"overview": "This experiments deals with Conduction Analysis of a Single Material Slab",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Software Package", 
- 					 "Setup", 
- 					 "Simulator", 
- 					 "Demonstration", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99541",
+	 	"name": "Conduction Analysis of a Single Material Slab",
+	 	"overview": "This experiments deals with Conduction Analysis of a Single Material Slab",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Software Package", 
+ 			      "Setup", 
+ 			      "Simulator", 
+ 			      "Demonstration", 
+ 			      "Quiz"]		
+		}
 }

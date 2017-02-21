@@ -1,6 +1,7 @@
-{"experiment": {"id":  "icv-au",
-				"name": "Alloy Analysis (Brass)",
-				"overview": "This experiments deals with Alloy Analysis (Brass)",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99299",
+	 	"name": "Alloy Analysis (Brass)",
+	 	"overview": "This experiments deals with Alloy Analysis (Brass)",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

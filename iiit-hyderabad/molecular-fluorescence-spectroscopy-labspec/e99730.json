@@ -1,12 +1,13 @@
-{"experiment": {"id":  "ccnsb01",
-				"name": " Introduction to the fluorescence spectroscopy principle  ",
-				"overview": "This experiments deals with  Introduction to the fluorescence spectroscopy principle  ",
-				"sections" : ["Introduction", 
- 					 "Objective ", 
- 					 "Theory ", 
- 					 "Procedure ", 
- 					 "Simulator ", 
- 					 "Quiz ", 
- 					 "References", 
- 					 "Feedback "]				}
+{"experiment": {"id":  "e99730",
+	 	"name": " Introduction to the fluorescence spectroscopy principle  ",
+	 	"overview": "This experiments deals with  Introduction to the fluorescence spectroscopy principle  ",
+	 	"sections" : ["Introduction", 
+ 			      "Objective ", 
+ 			      "Theory ", 
+ 			      "Procedure ", 
+ 			      "Simulator ", 
+ 			      "Quiz ", 
+ 			      "References", 
+ 			      "Feedback "]		
+		}
 }

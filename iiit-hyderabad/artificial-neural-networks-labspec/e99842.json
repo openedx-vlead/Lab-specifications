@@ -1,12 +1,13 @@
-{"experiment": {"id":  "cse22",
-				"name": "Competitive learning neural networks for pattern clustering",
-				"overview": "This experiments deals with Competitive learning neural networks for pattern clustering",
-				"sections" : ["Objective", 
- 					 "Tutorial", 
- 					 "Illustration", 
- 					 "Procedure", 
- 					 "Experiment", 
- 					 "Observations", 
- 					 "Assignment", 
- 					 "References"]				}
+{"experiment": {"id":  "e99842",
+	 	"name": "Competitive learning neural networks for pattern clustering",
+	 	"overview": "This experiments deals with Competitive learning neural networks for pattern clustering",
+	 	"sections" : ["Objective", 
+ 			      "Tutorial", 
+ 			      "Illustration", 
+ 			      "Procedure", 
+ 			      "Experiment", 
+ 			      "Observations", 
+ 			      "Assignment", 
+ 			      "References"]		
+		}
 }

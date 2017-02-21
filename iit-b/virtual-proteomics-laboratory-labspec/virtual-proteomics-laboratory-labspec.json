@@ -1,0 +1,7 @@
+﻿{"lab": {"id":  "biotech25",
+	 "name": "Virtual Proteomics Lab",
+	 "overview": "This lab deals with Virtual Proteomics Lab",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99616, e99615, e99614, e99613, e99612, e99611, e99610, e99609, e99608, e99607, e99606, e99605]}]
+	}
+}

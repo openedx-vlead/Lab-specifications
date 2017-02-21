@@ -1,5 +1,6 @@
-{"experiment": {"id":  "civil16",
-				"name": "Experiment-1",
-				"overview": "This experiments deals with Experiment-1",
-				"sections" : ["Manual for the experiment"]				}
+{"experiment": {"id":  "e99583",
+	 	"name": "Experiment-1",
+	 	"overview": "This experiments deals with Experiment-1",
+	 	"sections" : ["Manual for the experiment"]		
+		}
 }

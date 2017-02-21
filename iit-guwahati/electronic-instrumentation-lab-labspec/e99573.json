@@ -1,10 +1,11 @@
-{"experiment": {"id":  "eil-iitg",
-				"name": "Determination of Dynamic Performance Characteristics of Higher Order Systems",
-				"overview": "This experiments deals with Determination of Dynamic Performance Characteristics of Higher Order Systems",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Simulator", 
- 					 "Self Evaluation", 
- 					 "Reference", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99573",
+	 	"name": "Determination of Dynamic Performance Characteristics of Higher Order Systems",
+	 	"overview": "This experiments deals with Determination of Dynamic Performance Characteristics of Higher Order Systems",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Self Evaluation", 
+ 			      "Reference", 
+ 			      "Feedback"]		
+		}
 }

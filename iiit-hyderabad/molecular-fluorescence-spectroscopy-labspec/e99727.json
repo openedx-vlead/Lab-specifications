@@ -1,12 +1,13 @@
-{"experiment": {"id":  "ccnsb01",
-				"name": " Demonstration of solvent effects on fluorescence spectra ",
-				"overview": "This experiments deals with  Demonstration of solvent effects on fluorescence spectra ",
-				"sections" : ["Introduction", 
- 					 "Objective ", 
- 					 "Theory ", 
- 					 "Procedure ", 
- 					 "Simulator ", 
- 					 "Quiz ", 
- 					 "References", 
- 					 "Feedback "]				}
+{"experiment": {"id":  "e99727",
+	 	"name": " Demonstration of solvent effects on fluorescence spectra ",
+	 	"overview": "This experiments deals with  Demonstration of solvent effects on fluorescence spectra ",
+	 	"sections" : ["Introduction", 
+ 			      "Objective ", 
+ 			      "Theory ", 
+ 			      "Procedure ", 
+ 			      "Simulator ", 
+ 			      "Quiz ", 
+ 			      "References", 
+ 			      "Feedback "]		
+		}
 }

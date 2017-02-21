@@ -1,13 +1,14 @@
-{"experiment": {"id":  "mech48",
-				"name": "Characterization of droplet combustion",
-				"overview": "This experiments deals with Characterization of droplet combustion",
-				"sections" : ["Aim", 
- 					 "Intro", 
- 					 "Theory", 
- 					 "About Exp", 
- 					 "Results", 
- 					 "Simulation", 
- 					 "Conclusions", 
- 					 "FAQs", 
- 					 "References"]				}
+{"experiment": {"id":  "e99428",
+	 	"name": "Characterization of droplet combustion",
+	 	"overview": "This experiments deals with Characterization of droplet combustion",
+	 	"sections" : ["Aim", 
+ 			      "Intro", 
+ 			      "Theory", 
+ 			      "About Exp", 
+ 			      "Results", 
+ 			      "Simulation", 
+ 			      "Conclusions", 
+ 			      "FAQs", 
+ 			      "References"]		
+		}
 }

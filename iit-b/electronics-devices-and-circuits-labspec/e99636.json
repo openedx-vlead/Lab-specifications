@@ -1,11 +1,12 @@
-{"experiment": {"id":  "ece40",
-				"name": "Monostable and Astable multivibrators using IC 555",
-				"overview": "This experiments deals with Monostable and Astable multivibrators using IC 555",
-				"sections" : ["Aim", 
- 					 "Theory", 
- 					 "Pre-Test", 
- 					 "Interactive Tutorial", 
- 					 "Simulator", 
- 					 "Post-Test", 
- 					 "Addional Resources"]				}
+{"experiment": {"id":  "e99636",
+	 	"name": "Monostable and Astable multivibrators using IC 555",
+	 	"overview": "This experiments deals with Monostable and Astable multivibrators using IC 555",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Pre-Test", 
+ 			      "Interactive Tutorial", 
+ 			      "Simulator", 
+ 			      "Post-Test", 
+ 			      "Addional Resources"]		
+		}
 }

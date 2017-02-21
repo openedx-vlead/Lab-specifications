@@ -1,11 +1,12 @@
-{"experiment": {"id":  "mfts-iitg",
-				"name": "Conduction Analysis of a Double Material Sphere",
-				"overview": "This experiments deals with Conduction Analysis of a Double Material Sphere",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Software Package", 
- 					 "Setup", 
- 					 "Simulator", 
- 					 "Demonstration", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99537",
+	 	"name": "Conduction Analysis of a Double Material Sphere",
+	 	"overview": "This experiments deals with Conduction Analysis of a Double Material Sphere",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Software Package", 
+ 			      "Setup", 
+ 			      "Simulator", 
+ 			      "Demonstration", 
+ 			      "Quiz"]		
+		}
 }

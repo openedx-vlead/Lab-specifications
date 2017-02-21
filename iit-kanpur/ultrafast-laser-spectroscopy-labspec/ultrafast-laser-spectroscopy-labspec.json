@@ -1,7 +1,7 @@
 {"lab": {"id":  "chs13",
-				"name": "Ultrafast Laser Spectroscopy",
-				"overview": "This lab deals with Ultrafast Laser Spectroscopy",
-				"sections" : [{"name": "Introduction"},
-							{"experiments": [E99455, E99454, E99453, E99452, E99451, E99450]}]
-				}
+	 "name": "Ultrafast Laser Spectroscopy",
+	 "overview": "This lab deals with Ultrafast Laser Spectroscopy",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99455, e99454, e99453, e99452, e99451, e99450]}]
+	}
 }

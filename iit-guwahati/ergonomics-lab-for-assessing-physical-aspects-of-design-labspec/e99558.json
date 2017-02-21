@@ -1,10 +1,11 @@
-{"experiment": {"id":  "dsgn-engg04",
-				"name": "Squatting posture",
-				"overview": "This experiments deals with Squatting posture",
-				"sections" : ["Home", 
- 					 "Reference Datasheet", 
- 					 "Practical Experience", 
- 					 "Application Relevence", 
- 					 "Quiz", 
- 					 "Experiments"]				}
+{"experiment": {"id":  "e99558",
+	 	"name": "Squatting posture",
+	 	"overview": "This experiments deals with Squatting posture",
+	 	"sections" : ["Home", 
+ 			      "Reference Datasheet", 
+ 			      "Practical Experience", 
+ 			      "Application Relevence", 
+ 			      "Quiz", 
+ 			      "Experiments"]		
+		}
 }

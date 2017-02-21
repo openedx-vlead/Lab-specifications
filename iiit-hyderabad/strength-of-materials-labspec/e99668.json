@@ -1,10 +1,11 @@
-{"experiment": {"id":  "eerc01",
-				"name": "Principal Stresses Experiment",
-				"overview": "This experiments deals with Principal Stresses Experiment",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Quizzes", 
- 					 "FurtherReadings"]				}
+{"experiment": {"id":  "e99668",
+	 	"name": "Principal Stresses Experiment",
+	 	"overview": "This experiments deals with Principal Stresses Experiment",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Quizzes", 
+ 			      "FurtherReadings"]		
+		}
 }

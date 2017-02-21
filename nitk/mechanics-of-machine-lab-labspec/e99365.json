@@ -1,13 +1,14 @@
-{"experiment": {"id":  "mech05",
-				"name": "Position analysis of Elliptical Trammel",
-				"overview": "This experiments deals with Position analysis of Elliptical Trammel",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video", 
- 					 "Quiz", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99365",
+	 	"name": "Position analysis of Elliptical Trammel",
+	 	"overview": "This experiments deals with Position analysis of Elliptical Trammel",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz", 
+ 			      "Feedback"]		
+		}
 }

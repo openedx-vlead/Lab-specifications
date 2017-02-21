@@ -1,9 +1,10 @@
-{"experiment": {"id":  "ccnsb07",
-				"name": "Molecular seperation using interatomic forces: Column chromatography",
-				"overview": "This experiments deals with Molecular seperation using interatomic forces: Column chromatography",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual"]				}
+{"experiment": {"id":  "e99711",
+	 	"name": "Molecular seperation using interatomic forces: Column chromatography",
+	 	"overview": "This experiments deals with Molecular seperation using interatomic forces: Column chromatography",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual"]		
+		}
 }

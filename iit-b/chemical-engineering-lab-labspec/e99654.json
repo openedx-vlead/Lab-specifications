@@ -1,12 +1,13 @@
-{"experiment": {"id":  "chem01",
-				"name": "Two Phase Flow in Horizontal Tubes",
-				"overview": "This experiments deals with Two Phase Flow in Horizontal Tubes",
-				"sections" : ["Aim", 
- 					 "Theory", 
- 					 "Pre-Test", 
- 					 "Simulator", 
- 					 "Procedure", 
- 					 "FAQ", 
- 					 "Reference", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99654",
+	 	"name": "Two Phase Flow in Horizontal Tubes",
+	 	"overview": "This experiments deals with Two Phase Flow in Horizontal Tubes",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Pre-Test", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "FAQ", 
+ 			      "Reference", 
+ 			      "Feedback"]		
+		}
 }

@@ -1,12 +1,13 @@
-{"experiment": {"id":  "ece10",
-				"name": "Analysis of LTI system response",
-				"overview": "This experiments deals with Analysis of LTI system response",
-				"sections" : ["Objective", 
- 					 "Theory", 
- 					 "Procedure", 
- 					 "Simulator", 
- 					 "Quiz", 
- 					 "Reference", 
- 					 "Download", 
- 					 "Video"]				}
+{"experiment": {"id":  "e99517",
+	 	"name": "Analysis of LTI system response",
+	 	"overview": "This experiments deals with Analysis of LTI system response",
+	 	"sections" : ["Objective", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Quiz", 
+ 			      "Reference", 
+ 			      "Download", 
+ 			      "Video"]		
+		}
 }

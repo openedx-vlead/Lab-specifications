@@ -1,13 +1,14 @@
-{"experiment": {"id":  "ccnsb03",
-				"name": "  Effects of sample path length  ",
-				"overview": "This experiments deals with   Effects of sample path length  ",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Procedure", 
- 					 "References", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99738",
+	 	"name": "  Effects of sample path length  ",
+	 	"overview": "This experiments deals with   Effects of sample path length  ",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "References", 
+ 			      "Feedback"]		
+		}
 }

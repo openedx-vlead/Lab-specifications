@@ -1,12 +1,13 @@
-{"experiment": {"id":  "eee05",
-				"name": "Characterize the strain gauge sensor ",
-				"overview": "This experiments deals with Characterize the strain gauge sensor ",
-				"sections" : ["Aim", 
- 					 "Pre Test", 
- 					 "Theory", 
- 					 "Simulator", 
- 					 "Procedure", 
- 					 "Post Test", 
- 					 "Review Questions", 
- 					 "Reference"]				}
+{"experiment": {"id":  "e99318",
+	 	"name": "Characterize the strain gauge sensor ",
+	 	"overview": "This experiments deals with Characterize the strain gauge sensor ",
+	 	"sections" : ["Aim", 
+ 			      "Pre Test", 
+ 			      "Theory", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Post Test", 
+ 			      "Review Questions", 
+ 			      "Reference"]		
+		}
 }

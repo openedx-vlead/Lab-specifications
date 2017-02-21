@@ -1,12 +1,13 @@
-{"experiment": {"id":  "cse29",
-				"name": "Symmetric Key Encryption Standards (AES)",
-				"overview": "This experiments deals with Symmetric Key Encryption Standards (AES)",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Procedure", 
- 					 "Further Readings"]				}
+{"experiment": {"id":  "e99784",
+	 	"name": "Symmetric Key Encryption Standards (AES)",
+	 	"overview": "This experiments deals with Symmetric Key Encryption Standards (AES)",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "Further Readings"]		
+		}
 }

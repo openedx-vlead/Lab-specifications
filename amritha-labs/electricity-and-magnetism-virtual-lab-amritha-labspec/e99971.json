@@ -1,6 +1,7 @@
-{"experiment": {"id":  "emv-au",
-				"name": "Barkhausen Effect",
-				"overview": "This experiments deals with Barkhausen Effect",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99971",
+	 	"name": "Barkhausen Effect",
+	 	"overview": "This experiments deals with Barkhausen Effect",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

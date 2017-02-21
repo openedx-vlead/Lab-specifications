@@ -1,11 +1,12 @@
-{"experiment": {"id":  "cse23",
-				"name": "Coarse-grained POS Tagging",
-				"overview": "This experiments deals with Coarse-grained POS Tagging",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Procedure"]				}
+{"experiment": {"id":  "e99823",
+	 	"name": "Coarse-grained POS Tagging",
+	 	"overview": "This experiments deals with Coarse-grained POS Tagging",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure"]		
+		}
 }

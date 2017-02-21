@@ -1,12 +1,13 @@
-{"experiment": {"id":  "ccnsb01",
-				"name": " Familiarization with the fluorescence instrumentation ",
-				"overview": "This experiments deals with  Familiarization with the fluorescence instrumentation ",
-				"sections" : ["Introduction", 
- 					 "Objective ", 
- 					 "Theory ", 
- 					 "Procedure ", 
- 					 "Simulator ", 
- 					 "Quiz ", 
- 					 "References", 
- 					 "Feedback "]				}
+{"experiment": {"id":  "e99729",
+	 	"name": " Familiarization with the fluorescence instrumentation ",
+	 	"overview": "This experiments deals with  Familiarization with the fluorescence instrumentation ",
+	 	"sections" : ["Introduction", 
+ 			      "Objective ", 
+ 			      "Theory ", 
+ 			      "Procedure ", 
+ 			      "Simulator ", 
+ 			      "Quiz ", 
+ 			      "References", 
+ 			      "Feedback "]		
+		}
 }

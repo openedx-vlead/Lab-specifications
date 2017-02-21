@@ -1,6 +1,7 @@
-{"experiment": {"id":  "ov-au",
-				"name": "Spectrometer Determination of Cauchy's constants",
-				"overview": "This experiments deals with Spectrometer Determination of Cauchy's constants",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99965",
+	 	"name": "Spectrometer Determination of Cauchy's constants",
+	 	"overview": "This experiments deals with Spectrometer Determination of Cauchy's constants",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

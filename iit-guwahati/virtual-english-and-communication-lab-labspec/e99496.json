@@ -1,8 +1,9 @@
-{"experiment": {"id":  "hss02",
-				"name": "Communication Skills",
-				"overview": "This experiments deals with Communication Skills",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Reference"]				}
+{"experiment": {"id":  "e99496",
+	 	"name": "Communication Skills",
+	 	"overview": "This experiments deals with Communication Skills",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Reference"]		
+		}
 }

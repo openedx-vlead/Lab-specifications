@@ -1,12 +1,13 @@
-{"experiment": {"id":  "eerc03",
-				"name": "Vorticess Experiment",
-				"overview": "This experiments deals with Vorticess Experiment",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Procedure", 
- 					 "FurtherReadings"]				}
+{"experiment": {"id":  "e99754",
+	 	"name": "Vorticess Experiment",
+	 	"overview": "This experiments deals with Vorticess Experiment",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "FurtherReadings"]		
+		}
 }

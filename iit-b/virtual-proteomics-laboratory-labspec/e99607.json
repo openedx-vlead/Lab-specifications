@@ -1,0 +1,11 @@
+﻿{"experiment": {"id":  "e99607",
+	 	"name": "Homology Modelling",
+	 	"overview": "This experiments deals with Homology Modelling",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Reference",
+				"Assignments"]		
+		}
+}

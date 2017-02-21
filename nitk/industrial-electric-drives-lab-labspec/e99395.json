@@ -1,12 +1,13 @@
-{"experiment": {"id":  "eee08",
-				"name": "PLC Off-Delay Timer Instruction",
-				"overview": "This experiments deals with PLC Off-Delay Timer Instruction",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99395",
+	 	"name": "PLC Off-Delay Timer Instruction",
+	 	"overview": "This experiments deals with PLC Off-Delay Timer Instruction",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
 }

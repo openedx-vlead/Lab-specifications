@@ -1,9 +1,10 @@
-{"experiment": {"id":  "chs13",
-				"name": "Ultrafast Laser Pulse Measurment",
-				"overview": "This experiments deals with Ultrafast Laser Pulse Measurment",
-				"sections" : ["Objectives", 
- 					 "Theory", 
- 					 "Instrument Utilized", 
- 					 "Software Used", 
- 					 "Experiment Procedure"]				}
+{"experiment": {"id":  "e99455",
+	 	"name": "Ultrafast Laser Pulse Measurment",
+	 	"overview": "This experiments deals with Ultrafast Laser Pulse Measurment",
+	 	"sections" : ["Objectives", 
+ 			      "Theory", 
+ 			      "Instrument Utilized", 
+ 			      "Software Used", 
+ 			      "Experiment Procedure"]		
+		}
 }

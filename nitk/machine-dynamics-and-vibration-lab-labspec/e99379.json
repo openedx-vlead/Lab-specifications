@@ -1,13 +1,14 @@
-{"experiment": {"id":  "mech21",
-				"name": "Dynamic Vibration Absorber",
-				"overview": "This experiments deals with Dynamic Vibration Absorber",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video", 
- 					 "Quiz", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99379",
+	 	"name": "Dynamic Vibration Absorber",
+	 	"overview": "This experiments deals with Dynamic Vibration Absorber",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz", 
+ 			      "Feedback"]		
+		}
 }

@@ -1,13 +1,14 @@
-{"experiment": {"id":  "vmt-iitg",
-				"name": "Rotary Dryer",
-				"overview": "This experiments deals with Rotary Dryer",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Expt Calc", 
- 					 "Labview Calc", 
- 					 "Pre Quiz", 
- 					 "Download", 
- 					 "Simulator", 
- 					 "Post Expt Quiz", 
- 					 "Videos"]				}
+{"experiment": {"id":  "e99551",
+	 	"name": "Rotary Dryer",
+	 	"overview": "This experiments deals with Rotary Dryer",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Expt Calc", 
+ 			      "Labview Calc", 
+ 			      "Pre Quiz", 
+ 			      "Download", 
+ 			      "Simulator", 
+ 			      "Post Expt Quiz", 
+ 			      "Videos"]		
+		}
 }

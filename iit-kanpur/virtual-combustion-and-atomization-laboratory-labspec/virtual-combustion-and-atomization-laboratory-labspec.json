@@ -1,7 +1,7 @@
 {"lab": {"id":  "mech48",
-				"name": "Virtual Combustion and Atomization Laboratory",
-				"overview": "This lab deals with Virtual Combustion and Atomization Laboratory",
-				"sections" : [{"name": "Introduction"},
-							{"experiments": [E99435, E99434, E99433, E99432, E99431, E99430, E99429, E99428, E99427]}]
-				}
+	 "name": "Virtual Combustion and Atomization Laboratory",
+	 "overview": "This lab deals with Virtual Combustion and Atomization Laboratory",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99435, e99434, e99433, e99432, e99431, e99430, e99429, e99428, e99427]}]
+	}
 }

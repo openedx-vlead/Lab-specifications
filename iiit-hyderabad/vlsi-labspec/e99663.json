@@ -1,13 +1,14 @@
-{"experiment": {"id":  "cse14",
-				"name": "Schematic Design Of Pass Transistor Logic & Multiplexer",
-				"overview": "This experiments deals with Schematic Design Of Pass Transistor Logic & Multiplexer",
-				"sections" : ["Introduction", 
- 					 "Objective", 
- 					 "Theory", 
- 					 "Procedure", 
- 					 "Manual", 
- 					 "Simulator", 
- 					 "Quiz", 
- 					 "References", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99663",
+	 	"name": "Schematic Design Of Pass Transistor Logic & Multiplexer",
+	 	"overview": "This experiments deals with Schematic Design Of Pass Transistor Logic & Multiplexer",
+	 	"sections" : ["Introduction", 
+ 			      "Objective", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Manual", 
+ 			      "Simulator", 
+ 			      "Quiz", 
+ 			      "References", 
+ 			      "Feedback"]		
+		}
 }

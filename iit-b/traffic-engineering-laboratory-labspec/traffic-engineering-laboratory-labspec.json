@@ -1,7 +1,7 @@
 {"lab": {"id":  "tel-iitb",
-				"name": "Traffic Engineering Laboratory",
-				"overview": "This lab deals with Traffic Engineering Laboratory",
-				"sections" : [{"name": "Introduction"},
-							{"experiments": [E99625, E99624, E99623, E99622, E99621, E99620, E99619, E99618, E99617]}]
-				}
+	 "name": "Traffic Engineering Laboratory",
+	 "overview": "This lab deals with Traffic Engineering Laboratory",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99625, e99624, e99623, e99622, e99621, e99620, e99619, e99618, e99617]}]
+	}
 }

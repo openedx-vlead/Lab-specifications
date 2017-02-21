@@ -1,7 +1,7 @@
 {"lab": {"id":  "eee06",
-				"name": "Virtual Power Lab",
-				"overview": "This lab deals with Virtual Power Lab",
-				"sections" : [{"name": "Introduction"},
-							{"experiments": [E99856, E99855, E99854, E99853, E99852, E99851, E99850, E99849, E99848]}]
-				}
+	 "name": "Virtual Power Lab",
+	 "overview": "This lab deals with Virtual Power Lab",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99856, e99855, e99854, e99853, e99852, e99851, e99850, e99849, e99848]}]
+	}
 }

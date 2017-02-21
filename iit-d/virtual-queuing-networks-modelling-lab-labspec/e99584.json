@@ -1,6 +1,7 @@
-{"experiment": {"id":  "ece21",
-				"name": "Experiment-12",
-				"overview": "This experiments deals with Experiment-12",
-				"sections" : ["Live Simulation of Fluid Queue with infinite buffer", 
- 					 "Live Simulation of Fluid Queue with finite buffer"]				}
+{"experiment": {"id":  "e99584",
+	 	"name": "Experiment-12",
+	 	"overview": "This experiments deals with Experiment-12",
+	 	"sections" : ["Live Simulation of Fluid Queue with infinite buffer", 
+ 			      "Live Simulation of Fluid Queue with finite buffer"]		
+		}
 }

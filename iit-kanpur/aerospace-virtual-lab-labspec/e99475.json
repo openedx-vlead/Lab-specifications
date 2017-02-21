@@ -1,10 +1,11 @@
-{"experiment": {"id":  "aero03",
-				"name": "Flow past a airfoil / wing using flow visualization",
-				"overview": "This experiments deals with Flow past a airfoil / wing using flow visualization",
-				"sections" : ["Objective", 
- 					 "Introduction", 
- 					 "Apparatus & Procedure", 
- 					 "Results & Discussion", 
- 					 "Appendix", 
- 					 "Gallery"]				}
+{"experiment": {"id":  "e99475",
+	 	"name": "Flow past a airfoil / wing using flow visualization",
+	 	"overview": "This experiments deals with Flow past a airfoil / wing using flow visualization",
+	 	"sections" : ["Objective", 
+ 			      "Introduction", 
+ 			      "Apparatus & Procedure", 
+ 			      "Results & Discussion", 
+ 			      "Appendix", 
+ 			      "Gallery"]		
+		}
 }

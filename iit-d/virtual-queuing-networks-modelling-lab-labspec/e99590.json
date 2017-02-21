@@ -1,7 +1,8 @@
-{"experiment": {"id":  "ece21",
-				"name": "Experiment-6",
-				"overview": "This experiments deals with Experiment-6",
-				"sections" : [" An overview of Module II: MALDI-TOF MS Analysis", 
- 					 "Pre-Test", 
- 					 "Theory"]				}
+{"experiment": {"id":  "e99590",
+	 	"name": "Experiment-6",
+	 	"overview": "This experiments deals with Experiment-6",
+	 	"sections" : [" An overview of Module II: MALDI-TOF MS Analysis", 
+ 			      "Pre-Test", 
+ 			      "Theory"]		
+		}
 }

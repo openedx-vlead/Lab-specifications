@@ -1,9 +1,10 @@
-{"experiment": {"id":  "chs13",
-				"name": "Optical Tweezer with Femtosecond Laser Pulses",
-				"overview": "This experiments deals with Optical Tweezer with Femtosecond Laser Pulses",
-				"sections" : ["Objective", 
- 					 "Theory", 
- 					 "Instrument Required", 
- 					 "Software Required", 
- 					 "Experiment Procedure"]				}
+{"experiment": {"id":  "e99451",
+	 	"name": "Optical Tweezer with Femtosecond Laser Pulses",
+	 	"overview": "This experiments deals with Optical Tweezer with Femtosecond Laser Pulses",
+	 	"sections" : ["Objective", 
+ 			      "Theory", 
+ 			      "Instrument Required", 
+ 			      "Software Required", 
+ 			      "Experiment Procedure"]		
+		}
 }

@@ -1,13 +1,14 @@
-{"experiment": {"id":  "mech05",
-				"name": "Velocity analysis of Grashof four bar mechanism",
-				"overview": "This experiments deals with Velocity analysis of Grashof four bar mechanism",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video", 
- 					 "Quiz", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99377",
+	 	"name": "Velocity analysis of Grashof four bar mechanism",
+	 	"overview": "This experiments deals with Velocity analysis of Grashof four bar mechanism",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz", 
+ 			      "Feedback"]		
+		}
 }

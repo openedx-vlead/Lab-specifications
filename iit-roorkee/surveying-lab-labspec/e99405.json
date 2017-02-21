@@ -1,12 +1,13 @@
-{"experiment": {"id":  "civil15",
-				"name": "Observations of Vertical and Horizontal angles using Total Station",
-				"overview": "This experiments deals with Observations of Vertical and Horizontal angles using Total Station",
-				"sections" : ["THEORY", 
- 					 "OBJECTIVE", 
- 					 "EQP. USED", 
- 					 "EXPERIMENT", 
- 					 "PROCEDURE", 
- 					 "RESULTS", 
- 					 "QUIZZES", 
- 					 "DOS AND DONT'S"]				}
+{"experiment": {"id":  "e99405",
+	 	"name": "Observations of Vertical and Horizontal angles using Total Station",
+	 	"overview": "This experiments deals with Observations of Vertical and Horizontal angles using Total Station",
+	 	"sections" : ["THEORY", 
+ 			      "OBJECTIVE", 
+ 			      "EQP. USED", 
+ 			      "EXPERIMENT", 
+ 			      "PROCEDURE", 
+ 			      "RESULTS", 
+ 			      "QUIZZES", 
+ 			      "DOS AND DONT'S"]		
+		}
 }

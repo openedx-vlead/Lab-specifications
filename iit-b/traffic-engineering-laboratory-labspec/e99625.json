@@ -1,8 +1,9 @@
-{"experiment": {"id":  "tel-iitb",
-				"name": "Saturation Flow",
-				"overview": "This experiments deals with Saturation Flow",
-				"sections" : ["Self Evaluation", 
- 					 "Simulator", 
- 					 "Feedback", 
- 					 "Contact Us"]				}
+{"experiment": {"id":  "e99625",
+	 	"name": "Saturation Flow",
+	 	"overview": "This experiments deals with Saturation Flow",
+	 	"sections" : ["Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Feedback", 
+ 			      "Contact Us"]		
+		}
 }

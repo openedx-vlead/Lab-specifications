@@ -1,13 +1,14 @@
-{"experiment": {"id":  "cse04",
-				"name": "String Operations",
-				"overview": "This experiments deals with String Operations",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Procedure", 
- 					 "Further Readings", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99682",
+	 	"name": "String Operations",
+	 	"overview": "This experiments deals with String Operations",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "Further Readings", 
+ 			      "Feedback"]		
+		}
 }

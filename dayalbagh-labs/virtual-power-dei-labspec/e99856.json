@@ -1,13 +1,14 @@
-{"experiment": {"id":  "eee06",
-				"name": "To study the Synchronization of alternator with infinite bus bar.",
-				"overview": "This experiments deals with To study the Synchronization of alternator with infinite bus bar.",
-				"sections" : ["Objective", 
- 					 "Equipments", 
- 					 "Theory", 
- 					 "Connection Diagram", 
- 					 "Procedure", 
- 					 "Observation", 
- 					 "Simulation", 
- 					 "Videos of Exp1", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99856",
+	 	"name": "To study the Synchronization of alternator with infinite bus bar.",
+	 	"overview": "This experiments deals with To study the Synchronization of alternator with infinite bus bar.",
+	 	"sections" : ["Objective", 
+ 			      "Equipments", 
+ 			      "Theory", 
+ 			      "Connection Diagram", 
+ 			      "Procedure", 
+ 			      "Observation", 
+ 			      "Simulation", 
+ 			      "Videos of Exp1", 
+ 			      "Quiz"]		
+		}
 }

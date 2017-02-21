@@ -1,11 +1,12 @@
-{"experiment": {"id":  "mv-iitg",
-				"name": "Forced Vibration of a Cantilever Beam with a Lumped Mass at Free End",
-				"overview": "This experiments deals with Forced Vibration of a Cantilever Beam with a Lumped Mass at Free End",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Setup", 
- 					 "Procedure", 
- 					 "Experiment", 
- 					 "Discussion", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99529",
+	 	"name": "Forced Vibration of a Cantilever Beam with a Lumped Mass at Free End",
+	 	"overview": "This experiments deals with Forced Vibration of a Cantilever Beam with a Lumped Mass at Free End",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Setup", 
+ 			      "Procedure", 
+ 			      "Experiment", 
+ 			      "Discussion", 
+ 			      "Quiz"]		
+		}
 }

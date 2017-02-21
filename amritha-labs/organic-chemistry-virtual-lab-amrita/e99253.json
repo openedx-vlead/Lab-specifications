@@ -1,5 +1,6 @@
-{"experiment": {"id":  "ocv-au",
-				"name": "Laser Flash Photometer",
-				"overview": "This experiments deals with Laser Flash Photometer",
-				"sections" : ["Simulator"]				}
+{"experiment": {"id":  "e99253",
+	 	"name": "Laser Flash Photometer",
+	 	"overview": "This experiments deals with Laser Flash Photometer",
+	 	"sections" : ["Simulator"]		
+		}
 }

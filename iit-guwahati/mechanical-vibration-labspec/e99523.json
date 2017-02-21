@@ -1,9 +1,10 @@
-{"experiment": {"id":  "mv-iitg",
-				"name": "Harmonically Excited Rotating Unbalance of a Single DOF system",
-				"overview": "This experiments deals with Harmonically Excited Rotating Unbalance of a Single DOF system",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Procedure", 
- 					 "Simulator", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99523",
+	 	"name": "Harmonically Excited Rotating Unbalance of a Single DOF system",
+	 	"overview": "This experiments deals with Harmonically Excited Rotating Unbalance of a Single DOF system",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Quiz"]		
+		}
 }

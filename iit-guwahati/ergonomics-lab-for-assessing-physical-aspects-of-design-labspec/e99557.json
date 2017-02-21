@@ -1,10 +1,11 @@
-{"experiment": {"id":  "dsgn-engg04",
-				"name": "Body movement ranges",
-				"overview": "This experiments deals with Body movement ranges",
-				"sections" : ["Home", 
- 					 "Reference Datasheet", 
- 					 "Practical Experience", 
- 					 "Application Relevence", 
- 					 "Experiments", 
- 					 "Self Assessment"]				}
+{"experiment": {"id":  "e99557",
+	 	"name": "Body movement ranges",
+	 	"overview": "This experiments deals with Body movement ranges",
+	 	"sections" : ["Home", 
+ 			      "Reference Datasheet", 
+ 			      "Practical Experience", 
+ 			      "Application Relevence", 
+ 			      "Experiments", 
+ 			      "Self Assessment"]		
+		}
 }

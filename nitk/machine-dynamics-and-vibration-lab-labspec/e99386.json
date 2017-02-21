@@ -1,13 +1,14 @@
-{"experiment": {"id":  "mech21",
-				"name": "Free vibration of cantilever beam",
-				"overview": "This experiments deals with Free vibration of cantilever beam",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video", 
- 					 "Quiz", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99386",
+	 	"name": "Free vibration of cantilever beam",
+	 	"overview": "This experiments deals with Free vibration of cantilever beam",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz", 
+ 			      "Feedback"]		
+		}
 }

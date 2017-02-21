@@ -1,7 +1,7 @@
 {"lab": {"id":  "mech27",
-				"name": "Virtual Labs on Mine Ventilation",
-				"overview": "This lab deals with Virtual Labs on Mine Ventilation",
-				"sections" : [{"name": "Introduction"},
-							{"experiments": [E99250, E99249, E99248, E99247, E99246, E99245, E99244, E99243, E99242, E99241]}]
-				}
+	 "name": "Virtual Labs on Mine Ventilation",
+	 "overview": "This lab deals with Virtual Labs on Mine Ventilation",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99250, e99249, e99248, e99247, e99246, e99245, e99244, e99243, e99242, e99241]}]
+	}
 }

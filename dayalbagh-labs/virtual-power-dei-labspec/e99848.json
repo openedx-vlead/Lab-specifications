@@ -1,12 +1,13 @@
-{"experiment": {"id":  "eee06",
-				"name": "To Study the Ferranti Effect of a transmission line/cable.",
-				"overview": "This experiments deals with To Study the Ferranti Effect of a transmission line/cable.",
-				"sections" : ["Objective", 
- 					 "Equipments", 
- 					 "Block Diagram", 
- 					 "Theory and Procedure", 
- 					 "Observation", 
- 					 "Simulation", 
- 					 "Videos of Exp9", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99848",
+	 	"name": "To Study the Ferranti Effect of a transmission line/cable.",
+	 	"overview": "This experiments deals with To Study the Ferranti Effect of a transmission line/cable.",
+	 	"sections" : ["Objective", 
+ 			      "Equipments", 
+ 			      "Block Diagram", 
+ 			      "Theory and Procedure", 
+ 			      "Observation", 
+ 			      "Simulation", 
+ 			      "Videos of Exp9", 
+ 			      "Quiz"]		
+		}
 }

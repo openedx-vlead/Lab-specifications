@@ -1,0 +1,12 @@
+﻿{"experiment": {"id":  "e99606",
+	 	"name": "Protein Function Annotation",
+	 	"overview": "This experiments deals with Protein Function Annotation",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Procedure", 
+				"Videos",
+ 			      "Simulator", 
+ 			      "Reference",
+				"Assignments"]		
+		}
+}

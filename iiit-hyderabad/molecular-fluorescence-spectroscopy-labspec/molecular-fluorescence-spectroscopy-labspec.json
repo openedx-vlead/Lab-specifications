@@ -1,7 +1,7 @@
 {"lab": {"id":  "ccnsb01",
-				"name": "Molecular Fluorescence Spectroscopy",
-				"overview": "This lab deals with Molecular Fluorescence Spectroscopy",
-				"sections" : [{"name": "Introduction"},
-							{"experiments": [E99730, E99729, E99728, E99727, E99726, E99725, E99724, E99723, E99722, E99721]}]
-				}
+	 "name": "Molecular Fluorescence Spectroscopy",
+	 "overview": "This lab deals with Molecular Fluorescence Spectroscopy",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99730, e99729, e99728, e99727, e99726, e99725, e99724, e99723, e99722, e99721]}]
+	}
 }

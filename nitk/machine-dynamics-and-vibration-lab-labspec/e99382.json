@@ -1,13 +1,14 @@
-{"experiment": {"id":  "mech21",
-				"name": "Base Excitation",
-				"overview": "This experiments deals with Base Excitation",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video", 
- 					 "Quiz", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99382",
+	 	"name": "Base Excitation",
+	 	"overview": "This experiments deals with Base Excitation",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz", 
+ 			      "Feedback"]		
+		}
 }

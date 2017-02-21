@@ -1,6 +1,7 @@
-{"experiment": {"id":  "phy-sc22-au",
-				"name": "Projectile Motion",
-				"overview": "This experiments deals with Projectile Motion",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99272",
+	 	"name": "Projectile Motion",
+	 	"overview": "This experiments deals with Projectile Motion",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

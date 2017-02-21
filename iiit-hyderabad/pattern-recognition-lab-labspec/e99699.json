@@ -1,12 +1,13 @@
-{"experiment": {"id":  "cse20",
-				"name": "Feature Representation",
-				"overview": "This experiments deals with Feature Representation",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Quizzes", 
- 					 "Procedure", 
- 					 "Further Readings", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99699",
+	 	"name": "Feature Representation",
+	 	"overview": "This experiments deals with Feature Representation",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "Further Readings", 
+ 			      "Feedback"]		
+		}
 }

@@ -1,12 +1,13 @@
-{"experiment": {"id":  "ee30",
-				"name": "Control of Group Operated Switches (GOS) from workstation",
-				"overview": "This experiments deals with Control of Group Operated Switches (GOS) from workstation",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99350",
+	 	"name": "Control of Group Operated Switches (GOS) from workstation",
+	 	"overview": "This experiments deals with Control of Group Operated Switches (GOS) from workstation",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
 }

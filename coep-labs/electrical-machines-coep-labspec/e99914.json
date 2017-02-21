@@ -1,13 +1,14 @@
-{"experiment": {"id":  "eee10",
-				"name": "Blocked Rotor Test on Three Phase Induction Motor",
-				"overview": "This experiments deals with Blocked Rotor Test on Three Phase Induction Motor",
-				"sections" : ["Aim", 
- 					 "Pre-test", 
- 					 "Theory", 
- 					 "Simulator", 
- 					 "Procedure", 
- 					 "Audio/Video", 
- 					 "Post-test", 
- 					 "Reference", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99914",
+	 	"name": "Blocked Rotor Test on Three Phase Induction Motor",
+	 	"overview": "This experiments deals with Blocked Rotor Test on Three Phase Induction Motor",
+	 	"sections" : ["Aim", 
+ 			      "Pre-test", 
+ 			      "Theory", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Audio/Video", 
+ 			      "Post-test", 
+ 			      "Reference", 
+ 			      "Feedback"]		
+		}
 }

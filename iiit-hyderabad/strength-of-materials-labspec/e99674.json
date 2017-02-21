@@ -1,11 +1,12 @@
-{"experiment": {"id":  "eerc01",
-				"name": "Shear Test Experiment",
-				"overview": "This experiments deals with Shear Test Experiment",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "FurtherReadings"]				}
+{"experiment": {"id":  "e99674",
+	 	"name": "Shear Test Experiment",
+	 	"overview": "This experiments deals with Shear Test Experiment",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "FurtherReadings"]		
+		}
 }

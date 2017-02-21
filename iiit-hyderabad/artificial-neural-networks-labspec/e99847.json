@@ -1,12 +1,13 @@
-{"experiment": {"id":  "cse22",
-				"name": "Parallel and distributed processing - I: Interactive activation and competition models",
-				"overview": "This experiments deals with Parallel and distributed processing - I: Interactive activation and competition models",
-				"sections" : ["Objective", 
- 					 "Tutorial", 
- 					 "Illustration", 
- 					 "Procedure", 
- 					 "Experiment", 
- 					 "Observations", 
- 					 "Assignment", 
- 					 "References"]				}
+{"experiment": {"id":  "e99847",
+	 	"name": "Parallel and distributed processing - I: Interactive activation and competition models",
+	 	"overview": "This experiments deals with Parallel and distributed processing - I: Interactive activation and competition models",
+	 	"sections" : ["Objective", 
+ 			      "Tutorial", 
+ 			      "Illustration", 
+ 			      "Procedure", 
+ 			      "Experiment", 
+ 			      "Observations", 
+ 			      "Assignment", 
+ 			      "References"]		
+		}
 }

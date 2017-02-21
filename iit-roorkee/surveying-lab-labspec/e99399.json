@@ -1,11 +1,12 @@
-{"experiment": {"id":  "civil15",
-				"name": "Study of GPS and Its Accessories",
-				"overview": "This experiments deals with Study of GPS and Its Accessories",
-				"sections" : ["THEORY", 
- 					 "OBJECTIVE", 
- 					 "EQP. USED", 
- 					 "EXPERIMENT", 
- 					 "PROCEDURE", 
- 					 "QUIZZES", 
- 					 "DOS AND DONT'S"]				}
+{"experiment": {"id":  "e99399",
+	 	"name": "Study of GPS and Its Accessories",
+	 	"overview": "This experiments deals with Study of GPS and Its Accessories",
+	 	"sections" : ["THEORY", 
+ 			      "OBJECTIVE", 
+ 			      "EQP. USED", 
+ 			      "EXPERIMENT", 
+ 			      "PROCEDURE", 
+ 			      "QUIZZES", 
+ 			      "DOS AND DONT'S"]		
+		}
 }

@@ -1,11 +1,12 @@
-{"experiment": {"id":  "ccnsb07",
-				"name": "Electrostatic forces between molecules",
-				"overview": "This experiments deals with Electrostatic forces between molecules",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Further Readings"]				}
+{"experiment": {"id":  "e99714",
+	 	"name": "Electrostatic forces between molecules",
+	 	"overview": "This experiments deals with Electrostatic forces between molecules",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Further Readings"]		
+		}
 }

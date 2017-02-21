@@ -1,9 +1,10 @@
-{"experiment": {"id":  "mech08",
-				"name": "Ionic Conductivity YSZ Electrolyte Material For solid Oxide Fuel Cell",
-				"overview": "This experiments deals with Ionic Conductivity YSZ Electrolyte Material For solid Oxide Fuel Cell",
-				"sections" : ["Objective", 
- 					 "Introduction", 
- 					 "Methodology", 
- 					 "Results", 
- 					 "Conclusions"]				}
+{"experiment": {"id":  "e99456",
+	 	"name": "Ionic Conductivity YSZ Electrolyte Material For solid Oxide Fuel Cell",
+	 	"overview": "This experiments deals with Ionic Conductivity YSZ Electrolyte Material For solid Oxide Fuel Cell",
+	 	"sections" : ["Objective", 
+ 			      "Introduction", 
+ 			      "Methodology", 
+ 			      "Results", 
+ 			      "Conclusions"]		
+		}
 }

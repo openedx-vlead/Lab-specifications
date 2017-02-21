@@ -1,11 +1,12 @@
-{"experiment": {"id":  "bio16",
-				"name": "To simulate Electrocardiogram Waveform",
-				"overview": "This experiments deals with To simulate Electrocardiogram Waveform",
-				"sections" : ["Aim", 
- 					 "Pre-test", 
- 					 "Theory", 
- 					 "Simulator", 
- 					 "Procedure", 
- 					 "Post-test", 
- 					 "Conclusion"]				}
+{"experiment": {"id":  "e99926",
+	 	"name": "To simulate Electrocardiogram Waveform",
+	 	"overview": "This experiments deals with To simulate Electrocardiogram Waveform",
+	 	"sections" : ["Aim", 
+ 			      "Pre-test", 
+ 			      "Theory", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Post-test", 
+ 			      "Conclusion"]		
+		}
 }

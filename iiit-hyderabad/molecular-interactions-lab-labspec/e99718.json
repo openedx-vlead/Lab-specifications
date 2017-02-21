@@ -1,11 +1,12 @@
-{"experiment": {"id":  "ccnsb07",
-				"name": "Dihedral forces in a quad-atomic molecule: A magnetic tweezer experiment",
-				"overview": "This experiments deals with Dihedral forces in a quad-atomic molecule: A magnetic tweezer experiment",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Further Readings"]				}
+{"experiment": {"id":  "e99718",
+	 	"name": "Dihedral forces in a quad-atomic molecule: A magnetic tweezer experiment",
+	 	"overview": "This experiments deals with Dihedral forces in a quad-atomic molecule: A magnetic tweezer experiment",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Further Readings"]		
+		}
 }

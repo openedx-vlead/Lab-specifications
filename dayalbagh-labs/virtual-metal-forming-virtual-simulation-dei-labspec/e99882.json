@@ -1,12 +1,13 @@
-{"experiment": {"id":  "mech26",
-				"name": "Upsetting Process",
-				"overview": "This experiments deals with Upsetting Process",
-				"sections" : ["UPSETTING PROCESS", 
- 					 "Variables in Upset Forging Process", 
- 					 "SIMULATION BENCH FOR HYDRAULIC PRESS", 
- 					 "SIMULATION BENCH FOR MECHANICAL PRESS", 
- 					 "Comparative Simulations", 
- 					 "Applications", 
- 					 "Assignment", 
- 					 "SELF CHECK QUIZ"]				}
+{"experiment": {"id":  "e99882",
+	 	"name": "Upsetting Process",
+	 	"overview": "This experiments deals with Upsetting Process",
+	 	"sections" : ["UPSETTING PROCESS", 
+ 			      "Variables in Upset Forging Process", 
+ 			      "SIMULATION BENCH FOR HYDRAULIC PRESS", 
+ 			      "SIMULATION BENCH FOR MECHANICAL PRESS", 
+ 			      "Comparative Simulations", 
+ 			      "Applications", 
+ 			      "Assignment", 
+ 			      "SELF CHECK QUIZ"]		
+		}
 }

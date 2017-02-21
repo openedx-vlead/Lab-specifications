@@ -1,12 +1,13 @@
-{"experiment": {"id":  "ee30",
-				"name": "Development of 11KV/433 volts substation automation scheme using PLC for cyclic ON/OFF load control",
-				"overview": "This experiments deals with Development of 11KV/433 volts substation automation scheme using PLC for cyclic ON/OFF load control",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99342",
+	 	"name": "Development of 11KV/433 volts substation automation scheme using PLC for cyclic ON/OFF load control",
+	 	"overview": "This experiments deals with Development of 11KV/433 volts substation automation scheme using PLC for cyclic ON/OFF load control",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
 }

@@ -1,6 +1,7 @@
-{"experiment": {"id":  "ocv-au",
-				"name": "Calculation of λmax of Organic Compounds Using Woodward Fieser Rules",
-				"overview": "This experiments deals with Calculation of λmax of Organic Compounds Using Woodward Fieser Rules",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99255",
+	 	"name": "Calculation of λmax of Organic Compounds Using Woodward Fieser Rules",
+	 	"overview": "This experiments deals with Calculation of λmax of Organic Compounds Using Woodward Fieser Rules",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

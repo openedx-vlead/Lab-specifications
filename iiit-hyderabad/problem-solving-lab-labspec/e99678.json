@@ -1,13 +1,14 @@
-{"experiment": {"id":  "cse04",
-				"name": "Permutation",
-				"overview": "This experiments deals with Permutation",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Procedure", 
- 					 "Further Readings", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99678",
+	 	"name": "Permutation",
+	 	"overview": "This experiments deals with Permutation",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "Further Readings", 
+ 			      "Feedback"]		
+		}
 }

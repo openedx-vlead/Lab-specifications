@@ -1,11 +1,12 @@
-{"experiment": {"id":  "eee02",
-				"name": "Speed Control of DC motor by varying armature and field resistance",
-				"overview": "This experiments deals with Speed Control of DC motor by varying armature and field resistance",
-				"sections" : ["THEORY", 
- 					 "OBJECTIVE", 
- 					 "EQUIPMENT USED", 
- 					 "EXPERIMENT", 
- 					 "QUIZZES", 
- 					 "PROCEDURE", 
- 					 "FURTHER READINGS"]				}
+{"experiment": {"id":  "e99415",
+	 	"name": "Speed Control of DC motor by varying armature and field resistance",
+	 	"overview": "This experiments deals with Speed Control of DC motor by varying armature and field resistance",
+	 	"sections" : ["THEORY", 
+ 			      "OBJECTIVE", 
+ 			      "EQUIPMENT USED", 
+ 			      "EXPERIMENT", 
+ 			      "QUIZZES", 
+ 			      "PROCEDURE", 
+ 			      "FURTHER READINGS"]		
+		}
 }

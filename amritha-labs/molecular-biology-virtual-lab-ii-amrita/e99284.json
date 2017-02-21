@@ -1,6 +1,7 @@
-{"experiment": {"id":  "mbvii-au",
-				"name": "Electroblotting",
-				"overview": "This experiments deals with Electroblotting",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99284",
+	 	"name": "Electroblotting",
+	 	"overview": "This experiments deals with Electroblotting",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

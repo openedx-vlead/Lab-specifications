@@ -1,10 +1,11 @@
-{"experiment": {"id":  "civil15",
-				"name": "Study of Plane Table and Its Accesories",
-				"overview": "This experiments deals with Study of Plane Table and Its Accesories",
-				"sections" : ["THEORY", 
- 					 "OBJECTIVE", 
- 					 "EQP. USED", 
- 					 "EXPERIMENT", 
- 					 "PROCEDURE", 
- 					 "QUIZZES"]				}
+{"experiment": {"id":  "e99404",
+	 	"name": "Study of Plane Table and Its Accesories",
+	 	"overview": "This experiments deals with Study of Plane Table and Its Accesories",
+	 	"sections" : ["THEORY", 
+ 			      "OBJECTIVE", 
+ 			      "EQP. USED", 
+ 			      "EXPERIMENT", 
+ 			      "PROCEDURE", 
+ 			      "QUIZZES"]		
+		}
 }

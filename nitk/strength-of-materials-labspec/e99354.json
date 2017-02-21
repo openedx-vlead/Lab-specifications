@@ -1,12 +1,13 @@
-{"experiment": {"id":  "civil07",
-				"name": "Bending Stresses",
-				"overview": "This experiments deals with Bending Stresses",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99354",
+	 	"name": "Bending Stresses",
+	 	"overview": "This experiments deals with Bending Stresses",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
 }

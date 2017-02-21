@@ -1,12 +1,13 @@
-{"experiment": {"id":  "eerc03",
-				"name": "Mouthpieces Experiment",
-				"overview": "This experiments deals with Mouthpieces Experiment",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Procedure", 
- 					 "FurtherReadings"]				}
+{"experiment": {"id":  "e99758",
+	 	"name": "Mouthpieces Experiment",
+	 	"overview": "This experiments deals with Mouthpieces Experiment",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "FurtherReadings"]		
+		}
 }

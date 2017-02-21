@@ -1,12 +1,13 @@
-{"experiment": {"id":  "eerc03",
-				"name": "Orifices Experiment",
-				"overview": "This experiments deals with Orifices Experiment",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Procedure", 
- 					 "FurtherReadings"]				}
+{"experiment": {"id":  "e99759",
+	 	"name": "Orifices Experiment",
+	 	"overview": "This experiments deals with Orifices Experiment",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "FurtherReadings"]		
+		}
 }

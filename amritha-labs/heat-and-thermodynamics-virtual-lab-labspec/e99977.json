@@ -1,5 +1,6 @@
-{"experiment": {"id":  "htv-au",
-				"name": "Characteristics of Thermistor",
-				"overview": "This experiments deals with Characteristics of Thermistor",
-				"sections" : ["Simulator"]				}
+{"experiment": {"id":  "e99977",
+	 	"name": "Characteristics of Thermistor",
+	 	"overview": "This experiments deals with Characteristics of Thermistor",
+	 	"sections" : ["Simulator"]		
+		}
 }

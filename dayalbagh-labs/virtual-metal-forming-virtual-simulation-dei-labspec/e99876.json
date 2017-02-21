@@ -1,9 +1,10 @@
-{"experiment": {"id":  "mech26",
-				"name": "Thread Rolling",
-				"overview": "This experiments deals with Thread Rolling",
-				"sections" : [" Thread Rolling ", 
- 					 "Thread Rolling using flat dies ", 
- 					 "Thread Rolling using set of two rolls ", 
- 					 "Thread Rolling using set of three rolls ", 
- 					 "SELF CHECK QUIZ - THREAD ROLLING "]				}
+{"experiment": {"id":  "e99876",
+	 	"name": "Thread Rolling",
+	 	"overview": "This experiments deals with Thread Rolling",
+	 	"sections" : [" Thread Rolling ", 
+ 			      "Thread Rolling using flat dies ", 
+ 			      "Thread Rolling using set of two rolls ", 
+ 			      "Thread Rolling using set of three rolls ", 
+ 			      "SELF CHECK QUIZ - THREAD ROLLING "]		
+		}
 }

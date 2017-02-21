@@ -1,12 +1,13 @@
-{"experiment": {"id":  "eee09",
-				"name": "Simulate analog and digital function blocks",
-				"overview": "This experiments deals with Simulate analog and digital function blocks",
-				"sections" : ["Aim", 
- 					 "Pre Test", 
- 					 "Theory", 
- 					 "Simulation", 
- 					 "Procedure", 
- 					 "Post Test", 
- 					 "Review Questions", 
- 					 "Reference"]				}
+{"experiment": {"id":  "e99317",
+	 	"name": "Simulate analog and digital function blocks",
+	 	"overview": "This experiments deals with Simulate analog and digital function blocks",
+	 	"sections" : ["Aim", 
+ 			      "Pre Test", 
+ 			      "Theory", 
+ 			      "Simulation", 
+ 			      "Procedure", 
+ 			      "Post Test", 
+ 			      "Review Questions", 
+ 			      "Reference"]		
+		}
 }

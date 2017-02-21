@@ -1,12 +1,13 @@
-{"experiment": {"id":  "vmt-iitg",
-				"name": "Binary vapor liquid equilibrium",
-				"overview": "This experiments deals with Binary vapor liquid equilibrium",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Labview Calc", 
- 					 "Pre Quiz", 
- 					 "Download", 
- 					 "Simulator", 
- 					 "Post Expt Quiz", 
- 					 "Videos"]				}
+{"experiment": {"id":  "e99547",
+	 	"name": "Binary vapor liquid equilibrium",
+	 	"overview": "This experiments deals with Binary vapor liquid equilibrium",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Labview Calc", 
+ 			      "Pre Quiz", 
+ 			      "Download", 
+ 			      "Simulator", 
+ 			      "Post Expt Quiz", 
+ 			      "Videos"]		
+		}
 }

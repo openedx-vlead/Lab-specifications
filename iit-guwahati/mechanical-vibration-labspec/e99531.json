@@ -1,11 +1,12 @@
-{"experiment": {"id":  "mv-iitg",
-				"name": "Free Vibration of Spring-Mass system",
-				"overview": "This experiments deals with Free Vibration of Spring-Mass system",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Setup", 
- 					 "Procedure", 
- 					 "Experiment", 
- 					 "Discussion", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99531",
+	 	"name": "Free Vibration of Spring-Mass system",
+	 	"overview": "This experiments deals with Free Vibration of Spring-Mass system",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Setup", 
+ 			      "Procedure", 
+ 			      "Experiment", 
+ 			      "Discussion", 
+ 			      "Quiz"]		
+		}
 }

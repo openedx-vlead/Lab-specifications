@@ -1,6 +1,7 @@
-{"experiment": {"id":  "aacv-au",
-				"name": "Soil Analysis - Determination of Available Nitrogen content in the Soil by Kjeldahl Method",
-				"overview": "This experiments deals with Soil Analysis - Determination of Available Nitrogen content in the Soil by Kjeldahl Method",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99256",
+	 	"name": "Soil Analysis - Determination of Available Nitrogen content in the Soil by Kjeldahl Method",
+	 	"overview": "This experiments deals with Soil Analysis - Determination of Available Nitrogen content in the Soil by Kjeldahl Method",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

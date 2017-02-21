@@ -1,11 +1,12 @@
-{"experiment": {"id":  "cse23",
-				"name": "Forming Sentences-2",
-				"overview": "This experiments deals with Forming Sentences-2",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Procedure"]				}
+{"experiment": {"id":  "e99827",
+	 	"name": "Forming Sentences-2",
+	 	"overview": "This experiments deals with Forming Sentences-2",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure"]		
+		}
 }

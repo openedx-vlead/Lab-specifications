@@ -1,11 +1,12 @@
-{"experiment": {"id":  "ece40",
-				"name": "Wave Shaping Circuits using Diodes",
-				"overview": "This experiments deals with Wave Shaping Circuits using Diodes",
-				"sections" : ["Aim", 
- 					 "Theory", 
- 					 "Pre-Test", 
- 					 "Interactive Tutorial", 
- 					 "Simulator", 
- 					 "Post-Test", 
- 					 "Addional Resources"]				}
+{"experiment": {"id":  "e99643",
+	 	"name": "Wave Shaping Circuits using Diodes",
+	 	"overview": "This experiments deals with Wave Shaping Circuits using Diodes",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Pre-Test", 
+ 			      "Interactive Tutorial", 
+ 			      "Simulator", 
+ 			      "Post-Test", 
+ 			      "Addional Resources"]		
+		}
 }

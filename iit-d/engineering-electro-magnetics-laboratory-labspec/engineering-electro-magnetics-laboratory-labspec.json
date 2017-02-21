@@ -1,7 +1,7 @@
 {"lab": {"id":  "ece08",
-				"name": "Engineering Electromagnetic Lab",
-				"overview": "This lab deals with Engineering Electromagnetic Lab",
-				"sections" : [{"name": "Introduction"},
-							{"experiments": [E99604, E99603, E99602, E99601, E99600, E99599, E99598, E99597, E99596]}]
-				}
+	 "name": "Engineering Electromagnetic Lab",
+	 "overview": "This lab deals with Engineering Electromagnetic Lab",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99604, e99603, e99602, e99601, e99600, e99599, e99598, e99597, e99596]}]
+	}
 }

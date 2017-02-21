@@ -1,12 +1,13 @@
-{"experiment": {"id":  "civil20",
-				"name": "Calibration of V-Notch",
-				"overview": "This experiments deals with Calibration of V-Notch",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99252",
+	 	"name": "Calibration of V-Notch",
+	 	"overview": "This experiments deals with Calibration of V-Notch",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
 }

@@ -1,12 +1,13 @@
-{"experiment": {"id":  "eee09",
-				"name": "Study, understand and perform experiments on timers and counters",
-				"overview": "This experiments deals with Study, understand and perform experiments on timers and counters",
-				"sections" : ["Aim", 
- 					 "Pre Test", 
- 					 "Theory", 
- 					 "Simulation", 
- 					 "Procedure", 
- 					 "Post Test", 
- 					 "Review Questions", 
- 					 "Reference"]				}
+{"experiment": {"id":  "e99316",
+	 	"name": "Study, understand and perform experiments on timers and counters",
+	 	"overview": "This experiments deals with Study, understand and perform experiments on timers and counters",
+	 	"sections" : ["Aim", 
+ 			      "Pre Test", 
+ 			      "Theory", 
+ 			      "Simulation", 
+ 			      "Procedure", 
+ 			      "Post Test", 
+ 			      "Review Questions", 
+ 			      "Reference"]		
+		}
 }

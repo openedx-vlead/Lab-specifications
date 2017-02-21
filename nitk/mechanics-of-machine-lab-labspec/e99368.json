@@ -1,13 +1,14 @@
-{"experiment": {"id":  "mech05",
-				"name": "Position analysis of Scotch Yoke Mechanism",
-				"overview": "This experiments deals with Position analysis of Scotch Yoke Mechanism",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video", 
- 					 "Quiz", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99368",
+	 	"name": "Position analysis of Scotch Yoke Mechanism",
+	 	"overview": "This experiments deals with Position analysis of Scotch Yoke Mechanism",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz", 
+ 			      "Feedback"]		
+		}
 }

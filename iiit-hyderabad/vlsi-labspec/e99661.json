@@ -1,13 +1,14 @@
-{"experiment": {"id":  "cse14",
-				"name": "Schematic Design Of D-Latch and D-Flip Flop",
-				"overview": "This experiments deals with Schematic Design Of D-Latch and D-Flip Flop",
-				"sections" : ["Introduction", 
- 					 "Objective", 
- 					 "Theory", 
- 					 "Procedure", 
- 					 "Manual", 
- 					 "Simulator", 
- 					 "Quiz", 
- 					 "References", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99661",
+	 	"name": "Schematic Design Of D-Latch and D-Flip Flop",
+	 	"overview": "This experiments deals with Schematic Design Of D-Latch and D-Flip Flop",
+	 	"sections" : ["Introduction", 
+ 			      "Objective", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Manual", 
+ 			      "Simulator", 
+ 			      "Quiz", 
+ 			      "References", 
+ 			      "Feedback"]		
+		}
 }

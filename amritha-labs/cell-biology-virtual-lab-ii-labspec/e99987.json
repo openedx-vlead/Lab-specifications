@@ -1,5 +1,6 @@
-{"experiment": {"id":  "cbll-au",
-				"name": "Cell Migration",
-				"overview": "This experiments deals with Cell Migration",
-				"sections" : ["Animation"]				}
+{"experiment": {"id":  "e99987",
+	 	"name": "Cell Migration",
+	 	"overview": "This experiments deals with Cell Migration",
+	 	"sections" : ["Animation"]		
+		}
 }

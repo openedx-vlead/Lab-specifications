@@ -1,11 +1,12 @@
-{"experiment": {"id":  "biotech26",
-				"name": "ECG feature extraction and analysis",
-				"overview": "This experiments deals with ECG feature extraction and analysis",
-				"sections" : ["THEORY", 
- 					 "OBJECTIVE", 
- 					 "EQUIPMENT USED", 
- 					 "EXPERIMENT", 
- 					 "QUIZZES", 
- 					 "PROCEDURE", 
- 					 "FURTHER READINGS"]				}
+{"experiment": {"id":  "e99425",
+	 	"name": "ECG feature extraction and analysis",
+	 	"overview": "This experiments deals with ECG feature extraction and analysis",
+	 	"sections" : ["THEORY", 
+ 			      "OBJECTIVE", 
+ 			      "EQUIPMENT USED", 
+ 			      "EXPERIMENT", 
+ 			      "QUIZZES", 
+ 			      "PROCEDURE", 
+ 			      "FURTHER READINGS"]		
+		}
 }

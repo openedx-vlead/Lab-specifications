@@ -1,12 +1,13 @@
-{"experiment": {"id":  "ece19",
-				"name": "Design and Simulate Various Code Converters",
-				"overview": "This experiments deals with Design and Simulate Various Code Converters",
-				"sections" : ["Aim", 
- 					 "Pre Test", 
- 					 "Theory", 
- 					 "Simulator", 
- 					 "Procedure", 
- 					 "Post Test", 
- 					 "Downloads", 
- 					 "Conclusion"]				}
+{"experiment": {"id":  "e99330",
+	 	"name": "Design and Simulate Various Code Converters",
+	 	"overview": "This experiments deals with Design and Simulate Various Code Converters",
+	 	"sections" : ["Aim", 
+ 			      "Pre Test", 
+ 			      "Theory", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Post Test", 
+ 			      "Downloads", 
+ 			      "Conclusion"]		
+		}
 }

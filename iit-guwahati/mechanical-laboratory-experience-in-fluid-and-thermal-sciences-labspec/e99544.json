@@ -1,9 +1,10 @@
-{"experiment": {"id":  "mfts-iitg",
-				"name": "Energy Loses in Pipe Flow",
-				"overview": "This experiments deals with Energy Loses in Pipe Flow",
-				"sections" : ["Theory", 
- 					 "Apparatus", 
- 					 "Procedure", 
- 					 "Software", 
- 					 "Simulator"]				}
+{"experiment": {"id":  "e99544",
+	 	"name": "Energy Loses in Pipe Flow",
+	 	"overview": "This experiments deals with Energy Loses in Pipe Flow",
+	 	"sections" : ["Theory", 
+ 			      "Apparatus", 
+ 			      "Procedure", 
+ 			      "Software", 
+ 			      "Simulator"]		
+		}
 }

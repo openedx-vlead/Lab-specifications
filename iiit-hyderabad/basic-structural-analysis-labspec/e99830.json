@@ -1,12 +1,13 @@
-{"experiment": {"id":  "eerc04",
-				"name": "Retaining Walls Experiment",
-				"overview": "This experiments deals with Retaining Walls Experiment",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Procedure", 
- 					 "FurtherReadings"]				}
+{"experiment": {"id":  "e99830",
+	 	"name": "Retaining Walls Experiment",
+	 	"overview": "This experiments deals with Retaining Walls Experiment",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "FurtherReadings"]		
+		}
 }

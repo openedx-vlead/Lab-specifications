@@ -1,10 +1,11 @@
-{"experiment": {"id":  "dsgn-engg04",
-				"name": "Hand dimension",
-				"overview": "This experiments deals with Hand dimension",
-				"sections" : ["Home", 
- 					 "Reference Datasheet", 
- 					 "Practical Experience", 
- 					 "Application Relevence", 
- 					 "Quiz", 
- 					 "Experiments"]				}
+{"experiment": {"id":  "e99560",
+	 	"name": "Hand dimension",
+	 	"overview": "This experiments deals with Hand dimension",
+	 	"sections" : ["Home", 
+ 			      "Reference Datasheet", 
+ 			      "Practical Experience", 
+ 			      "Application Relevence", 
+ 			      "Quiz", 
+ 			      "Experiments"]		
+		}
 }

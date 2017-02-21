@@ -1,7 +1,7 @@
 {"lab": {"id":  "eee10",
-				"name": "Electrical Machines",
-				"overview": "This lab deals with Electrical Machines",
-				"sections" : [{"name": "Introduction"},
-							{"experiments": [E99917, E99916, E99915, E99914, E99913, E99912, E99911, E99910]}]
-				}
+	 "name": "Electrical Machines",
+	 "overview": "This lab deals with Electrical Machines",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99917, e99916, e99915, e99914, e99913, e99912, e99911, e99910]}]
+	}
 }

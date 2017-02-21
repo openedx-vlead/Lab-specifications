@@ -1,7 +1,7 @@
 {"lab": {"id":  "cse19",
-				"name": "Image Processing",
-				"overview": "This lab deals with Image Processing",
-				"sections" : [{"name": "Introduction"},
-							{"experiments": [E99751, E99750, E99749, E99748, E99747, E99746, E99745, E99744, E99743, E99742, E99741]}]
-				}
+	 "name": "Image Processing",
+	 "overview": "This lab deals with Image Processing",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99751, e99750, e99749, e99748, e99747, e99746, e99745, e99744, e99743, e99742, e99741]}]
+	}
 }

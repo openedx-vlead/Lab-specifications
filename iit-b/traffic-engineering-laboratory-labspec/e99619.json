@@ -1,10 +1,11 @@
-{"experiment": {"id":  "tel-iitb",
-				"name": "Parking Analysis",
-				"overview": "This experiments deals with Parking Analysis",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Simulator", 
- 					 "Feedback", 
- 					 "Contact Us"]				}
+{"experiment": {"id":  "e99619",
+	 	"name": "Parking Analysis",
+	 	"overview": "This experiments deals with Parking Analysis",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Feedback", 
+ 			      "Contact Us"]		
+		}
 }

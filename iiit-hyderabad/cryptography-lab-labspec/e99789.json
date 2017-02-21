@@ -1,12 +1,13 @@
-{"experiment": {"id":  "cse29",
-				"name": "Breaking the Mono-alphabetic Substitution Cipher",
-				"overview": "This experiments deals with Breaking the Mono-alphabetic Substitution Cipher",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Procedure", 
- 					 "Further Readings"]				}
+{"experiment": {"id":  "e99789",
+	 	"name": "Breaking the Mono-alphabetic Substitution Cipher",
+	 	"overview": "This experiments deals with Breaking the Mono-alphabetic Substitution Cipher",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "Further Readings"]		
+		}
 }

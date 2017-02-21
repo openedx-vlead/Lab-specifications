@@ -1,9 +1,10 @@
-{"experiment": {"id":  "mech08",
-				"name": "Contact Angle Measurement",
-				"overview": "This experiments deals with Contact Angle Measurement",
-				"sections" : ["Objective", 
- 					 "Introduction", 
- 					 "Methodology", 
- 					 "Results", 
- 					 "Conclusions"]				}
+{"experiment": {"id":  "e99459",
+	 	"name": "Contact Angle Measurement",
+	 	"overview": "This experiments deals with Contact Angle Measurement",
+	 	"sections" : ["Objective", 
+ 			      "Introduction", 
+ 			      "Methodology", 
+ 			      "Results", 
+ 			      "Conclusions"]		
+		}
 }

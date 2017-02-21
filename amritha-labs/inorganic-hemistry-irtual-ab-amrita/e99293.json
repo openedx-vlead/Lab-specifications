@@ -1,6 +1,7 @@
-{"experiment": {"id":  "icv-au",
-				"name": "Water Analysis-Determination of Physical Parameters",
-				"overview": "This experiments deals with Water Analysis-Determination of Physical Parameters",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99293",
+	 	"name": "Water Analysis-Determination of Physical Parameters",
+	 	"overview": "This experiments deals with Water Analysis-Determination of Physical Parameters",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

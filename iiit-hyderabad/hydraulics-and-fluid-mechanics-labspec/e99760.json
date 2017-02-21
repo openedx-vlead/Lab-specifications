@@ -1,12 +1,13 @@
-{"experiment": {"id":  "eerc03",
-				"name": "Venturi Meter Experiment",
-				"overview": "This experiments deals with Venturi Meter Experiment",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Procedure", 
- 					 "FurtherReadings"]				}
+{"experiment": {"id":  "e99760",
+	 	"name": "Venturi Meter Experiment",
+	 	"overview": "This experiments deals with Venturi Meter Experiment",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "FurtherReadings"]		
+		}
 }

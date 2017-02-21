@@ -1,5 +1,6 @@
-{"experiment": {"id":  "cbi-au",
-				"name": "Glucose Uptake Assay",
-				"overview": "This experiments deals with Glucose Uptake Assay",
-				"sections" : ["Animation"]				}
+{"experiment": {"id":  "e99993",
+	 	"name": "Glucose Uptake Assay",
+	 	"overview": "This experiments deals with Glucose Uptake Assay",
+	 	"sections" : ["Animation"]		
+		}
 }

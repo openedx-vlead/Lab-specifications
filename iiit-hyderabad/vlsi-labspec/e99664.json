@@ -1,13 +1,14 @@
-{"experiment": {"id":  "cse14",
-				"name": "Schematic Design Of Transistor Level XOR & XNOR Gate",
-				"overview": "This experiments deals with Schematic Design Of Transistor Level XOR & XNOR Gate",
-				"sections" : ["Introduction", 
- 					 "Objective", 
- 					 "Theory", 
- 					 "Procedure", 
- 					 "Manual", 
- 					 "Simulator", 
- 					 "Quiz", 
- 					 "References", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99664",
+	 	"name": "Schematic Design Of Transistor Level XOR & XNOR Gate",
+	 	"overview": "This experiments deals with Schematic Design Of Transistor Level XOR & XNOR Gate",
+	 	"sections" : ["Introduction", 
+ 			      "Objective", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Manual", 
+ 			      "Simulator", 
+ 			      "Quiz", 
+ 			      "References", 
+ 			      "Feedback"]		
+		}
 }

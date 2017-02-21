@@ -1,12 +1,13 @@
-{"experiment": {"id":  "eee06",
-				"name": "To Study the over-current relay and the effect of PSM and TSM.",
-				"overview": "This experiments deals with To Study the over-current relay and the effect of PSM and TSM.",
-				"sections" : ["Objective", 
- 					 "Equipments", 
- 					 "Block Diagram", 
- 					 "Theory and Procedure", 
- 					 "Observation", 
- 					 "Simulation", 
- 					 "Videos of Exp7", 
- 					 "Quiz"]				}
+{"experiment": {"id":  "e99850",
+	 	"name": "To Study the over-current relay and the effect of PSM and TSM.",
+	 	"overview": "This experiments deals with To Study the over-current relay and the effect of PSM and TSM.",
+	 	"sections" : ["Objective", 
+ 			      "Equipments", 
+ 			      "Block Diagram", 
+ 			      "Theory and Procedure", 
+ 			      "Observation", 
+ 			      "Simulation", 
+ 			      "Videos of Exp7", 
+ 			      "Quiz"]		
+		}
 }

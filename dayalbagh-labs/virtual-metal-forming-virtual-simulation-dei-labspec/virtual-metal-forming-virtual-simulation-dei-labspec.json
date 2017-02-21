@@ -1,7 +1,7 @@
 {"lab": {"id":  "mech26",
-				"name": "Metal Forming Virtual Simulation Lab",
-				"overview": "This lab deals with Metal Forming Virtual Simulation Lab",
-				"sections" : [{"name": "Introduction"},
-							{"experiments": [E99884, E99883, E99882, E99881, E99880, E99879, E99878, E99877, E99876, E99875, E99874, E99873, E99872, E99871, E99870, E99869, E99868, E99867, E99866, E99865, E99864, E99863, E99862, E99861, E99860, E99859, E99858, E99857]}]
-				}
+	 "name": "Metal Forming Virtual Simulation Lab",
+	 "overview": "This lab deals with Metal Forming Virtual Simulation Lab",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99884, e99883, e99882, e99881, e99880, e99879, e99878, e99877, e99876, e99875, e99874, e99873, e99872, e99871, e99870, e99869, e99868, e99867, e99866, e99865, e99864, e99863, e99862, e99861, e99860, e99859, e99858, e99857]}]
+	}
 }

@@ -1,6 +1,7 @@
-{"experiment": {"id":  "cbi-au",
-				"name": "Isolation of Chloroplast",
-				"overview": "This experiments deals with Isolation of Chloroplast",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99999",
+	 	"name": "Isolation of Chloroplast",
+	 	"overview": "This experiments deals with Isolation of Chloroplast",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

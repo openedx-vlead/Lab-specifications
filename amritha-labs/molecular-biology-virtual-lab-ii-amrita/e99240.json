@@ -1,5 +1,6 @@
-{"experiment": {"id":  "mbvii-au",
-				"name": "Extraction of Bacteriophage DNA from Large Scale Cultures Using Proteinase K and SDS",
-				"overview": "This experiments deals with Extraction of Bacteriophage DNA from Large Scale Cultures Using Proteinase K and SDS",
-				"sections" : ["Animation"]				}
+{"experiment": {"id":  "e99240",
+	 	"name": "Extraction of Bacteriophage DNA from Large Scale Cultures Using Proteinase K and SDS",
+	 	"overview": "This experiments deals with Extraction of Bacteriophage DNA from Large Scale Cultures Using Proteinase K and SDS",
+	 	"sections" : ["Animation"]		
+		}
 }

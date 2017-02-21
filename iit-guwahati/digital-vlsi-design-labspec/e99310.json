@@ -1,12 +1,13 @@
-{"experiment": {"id":  "vlsi-iitg",
-				"name": "MOSFET",
-				"overview": "This experiments deals with MOSFET",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Self Evaluation", 
- 					 "Procedure", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video"]				}
+{"experiment": {"id":  "e99310",
+	 	"name": "MOSFET",
+	 	"overview": "This experiments deals with MOSFET",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Self Evaluation", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video"]		
+		}
 }

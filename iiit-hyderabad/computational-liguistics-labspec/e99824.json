@@ -1,11 +1,12 @@
-{"experiment": {"id":  "cse23",
-				"name": "Dictionary Generation",
-				"overview": "This experiments deals with Dictionary Generation",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "Procedure"]				}
+{"experiment": {"id":  "e99824",
+	 	"name": "Dictionary Generation",
+	 	"overview": "This experiments deals with Dictionary Generation",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure"]		
+		}
 }

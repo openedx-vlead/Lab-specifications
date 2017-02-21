@@ -1,12 +1,13 @@
-{"experiment": {"id":  "vlsi-iitg",
-				"name": "4X1 Multiplexer",
-				"overview": "This experiments deals with 4X1 Multiplexer",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Self Evaluation", 
- 					 "Procedure", 
- 					 "Simulator", 
- 					 "Assignment", 
- 					 "Reference", 
- 					 "Video"]				}
+{"experiment": {"id":  "e99306",
+	 	"name": "4X1 Multiplexer",
+	 	"overview": "This experiments deals with 4X1 Multiplexer",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Self Evaluation", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video"]		
+		}
 }

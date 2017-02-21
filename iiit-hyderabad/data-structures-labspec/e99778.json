@@ -1,9 +1,10 @@
-{"experiment": {"id":  "cse01",
-				"name": "Sorting using Arrays",
-				"overview": "This experiments deals with Sorting using Arrays",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Simulation", 
- 					 "Quizzes"]				}
+{"experiment": {"id":  "e99778",
+	 	"name": "Sorting using Arrays",
+	 	"overview": "This experiments deals with Sorting using Arrays",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Simulation", 
+ 			      "Quizzes"]		
+		}
 }

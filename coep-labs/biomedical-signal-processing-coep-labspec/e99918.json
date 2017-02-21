@@ -1,8 +1,9 @@
-{"experiment": {"id":  "bio16",
-				"name": "To simulate 12 Lead Ecg Signals",
-				"overview": "This experiments deals with To simulate 12 Lead Ecg Signals",
-				"sections" : ["Aim", 
- 					 "Simulator", 
- 					 "Procedure", 
- 					 "Conclusion"]				}
+{"experiment": {"id":  "e99918",
+	 	"name": "To simulate 12 Lead Ecg Signals",
+	 	"overview": "This experiments deals with To simulate 12 Lead Ecg Signals",
+	 	"sections" : ["Aim", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Conclusion"]		
+		}
 }

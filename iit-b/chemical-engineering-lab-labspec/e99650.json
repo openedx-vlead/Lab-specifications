@@ -1,10 +1,11 @@
-{"experiment": {"id":  "chem01",
-				"name": "Flow through fittings",
-				"overview": "This experiments deals with Flow through fittings",
-				"sections" : ["Aim", 
- 					 "Theory", 
- 					 "Pre-Test", 
- 					 "Simulator", 
- 					 "Procedure", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99650",
+	 	"name": "Flow through fittings",
+	 	"overview": "This experiments deals with Flow through fittings",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Pre-Test", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Feedback"]		
+		}
 }

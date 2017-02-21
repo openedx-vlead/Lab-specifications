@@ -1,12 +1,13 @@
-{"experiment": {"id":  "ccnsb06",
-				"name": "Instrumentation and working principles of solutions infra red spectroscopy",
-				"overview": "This experiments deals with Instrumentation and working principles of solutions infra red spectroscopy",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quizzes", 
- 					 "FurtherReadings", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99691",
+	 	"name": "Instrumentation and working principles of solutions infra red spectroscopy",
+	 	"overview": "This experiments deals with Instrumentation and working principles of solutions infra red spectroscopy",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "FurtherReadings", 
+ 			      "Feedback"]		
+		}
 }

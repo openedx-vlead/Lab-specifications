@@ -1,10 +1,11 @@
-{"experiment": {"id":  "eerc01",
-				"name": "Compression Test on Spring Experiment",
-				"overview": "This experiments deals with Compression Test on Spring Experiment",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Quizzes", 
- 					 "FurtherReadings"]				}
+{"experiment": {"id":  "e99669",
+	 	"name": "Compression Test on Spring Experiment",
+	 	"overview": "This experiments deals with Compression Test on Spring Experiment",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Quizzes", 
+ 			      "FurtherReadings"]		
+		}
 }

@@ -1,8 +1,9 @@
-{"experiment": {"id":  "hss02",
-				"name": "Technical Communication",
-				"overview": "This experiments deals with Technical Communication",
-				"sections" : ["Theory", 
- 					 "Procedure", 
- 					 "Self Evaluation", 
- 					 "Reference"]				}
+{"experiment": {"id":  "e99494",
+	 	"name": "Technical Communication",
+	 	"overview": "This experiments deals with Technical Communication",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Reference"]		
+		}
 }

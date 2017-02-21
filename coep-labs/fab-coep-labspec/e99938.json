@@ -1,11 +1,12 @@
-{"experiment": {"id":  "mech18",
-				"name": "Digital Fabrication of Flexible Circuit board",
-				"overview": "This experiments deals with Digital Fabrication of Flexible Circuit board",
-				"sections" : ["Aim", 
- 					 "Theory", 
- 					 "Simulator", 
- 					 "Procedure", 
- 					 "Audio/Video", 
- 					 "Post Test", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99938",
+	 	"name": "Digital Fabrication of Flexible Circuit board",
+	 	"overview": "This experiments deals with Digital Fabrication of Flexible Circuit board",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Audio/Video", 
+ 			      "Post Test", 
+ 			      "Feedback"]		
+		}
 }

@@ -1,8 +1,9 @@
-{"experiment": {"id":  "mfts-iitg",
-				"name": "Incompressible Flow through Nozzle and a Diffuser",
-				"overview": "This experiments deals with Incompressible Flow through Nozzle and a Diffuser",
-				"sections" : ["Theory", 
- 					 "Apparatus", 
- 					 "Procedure", 
- 					 "Simulator"]				}
+{"experiment": {"id":  "e99542",
+	 	"name": "Incompressible Flow through Nozzle and a Diffuser",
+	 	"overview": "This experiments deals with Incompressible Flow through Nozzle and a Diffuser",
+	 	"sections" : ["Theory", 
+ 			      "Apparatus", 
+ 			      "Procedure", 
+ 			      "Simulator"]		
+		}
 }

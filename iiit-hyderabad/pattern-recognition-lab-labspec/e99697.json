@@ -1,12 +1,13 @@
-{"experiment": {"id":  "cse20",
-				"name": "Linear Perceptron Learning",
-				"overview": "This experiments deals with Linear Perceptron Learning",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Quizzes", 
- 					 "Procedure", 
- 					 "Further Readings", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99697",
+	 	"name": "Linear Perceptron Learning",
+	 	"overview": "This experiments deals with Linear Perceptron Learning",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "Further Readings", 
+ 			      "Feedback"]		
+		}
 }

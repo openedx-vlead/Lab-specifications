@@ -1,6 +1,7 @@
-{"experiment": {"id":  "phy-sc22-au",
-				"name": "Torque and Angular Acceleration of a Fly Wheel",
-				"overview": "This experiments deals with Torque and Angular Acceleration of a Fly Wheel",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99271",
+	 	"name": "Torque and Angular Acceleration of a Fly Wheel",
+	 	"overview": "This experiments deals with Torque and Angular Acceleration of a Fly Wheel",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

@@ -1,6 +1,7 @@
-{"experiment": {"id":  "phy-sc22-au",
-				"name": "Ballistic Pendulum",
-				"overview": "This experiments deals with Ballistic Pendulum",
-				"sections" : ["Simulator", 
- 					 "Animation"]				}
+{"experiment": {"id":  "e99277",
+	 	"name": "Ballistic Pendulum",
+	 	"overview": "This experiments deals with Ballistic Pendulum",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
 }

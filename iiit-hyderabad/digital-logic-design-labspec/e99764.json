@@ -1,13 +1,14 @@
-{"experiment": {"id":  "cse15",
-				"name": "Counters",
-				"overview": "This experiments deals with Counters",
-				"sections" : ["Introduction", 
- 					 "Theory", 
- 					 "Objective", 
- 					 "Experiment", 
- 					 "Manual", 
- 					 "Quiz", 
- 					 "Procedure", 
- 					 "Read", 
- 					 "Feedback"]				}
+{"experiment": {"id":  "e99764",
+	 	"name": "Counters",
+	 	"overview": "This experiments deals with Counters",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quiz", 
+ 			      "Procedure", 
+ 			      "Read", 
+ 			      "Feedback"]		
+		}
 }

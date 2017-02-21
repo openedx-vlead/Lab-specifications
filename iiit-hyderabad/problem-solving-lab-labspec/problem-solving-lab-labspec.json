@@ -1,7 +1,7 @@
 {"lab": {"id":  "cse04",
-				"name": "Problem Solving",
-				"overview": "This lab deals with Problem Solving",
-				"sections" : [{"name": "Introduction"},
-							{"experiments": [E99686, E99685, E99684, E99683, E99682, E99681, E99680, E99679, E99678, E99677]}]
-				}
+	 "name": "Problem Solving",
+	 "overview": "This lab deals with Problem Solving",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99686, e99685, e99684, e99683, e99682, e99681, e99680, e99679, e99678, e99677]}]
+	}
 }

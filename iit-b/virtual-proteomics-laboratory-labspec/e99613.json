@@ -1,0 +1,12 @@
+﻿{"experiment": {"id":  "e99613",
+	 	"name": "In-gel digestion of proteins for MS analysis",
+	 	"overview": "This experiments deals with In-gel digestion of proteins for MS analysis",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Videos", 
+ 			      "Simulator", 
+ 			      "Reference",
+				"Assignments"]		
+		}
+}

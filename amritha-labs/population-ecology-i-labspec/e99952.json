@@ -1,5 +1,6 @@
-{"experiment": {"id":  "biotech18",
-				"name": "Population with Continuous and Discrete Growth",
-				"overview": "This experiments deals with Population with Continuous and Discrete Growth",
-				"sections" : ["Simulator"]				}
+{"experiment": {"id":  "e99952",
+	 	"name": "Population with Continuous and Discrete Growth",
+	 	"overview": "This experiments deals with Population with Continuous and Discrete Growth",
+	 	"sections" : ["Simulator"]		
+		}
 }
