@@ -1,0 +1,15 @@
+﻿{"lab": {"id":  "mech21",
+	   "name": "Machine Dynamics and Mechanical Vibrations",
+	   "discipline_id": "mech",
+	   "institute_id": "nitk",
+	   "developers": [],
+	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://mdmv-nitk.vlabs.ac.in/"},
+	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://mdmv-nitk.vlabs.ac.in/"}],
+	   "integration_level": "",
+	   "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/machine-dynamics-and-mechanical-vibrations-nitk"},
+	 		  {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/machine-dynamics-and-mechanical-vibrations-nitk"}],
+	   "overview": "This lab deals with Machine Dynamics and Mechanical Vibrations",
+	   "sections" : [{"name": "Introduction"},
+		           {"experiments": [e99386, e99385, e99384, e99383, e99382, e99381, e99380, e99379]}]
+	}
+}

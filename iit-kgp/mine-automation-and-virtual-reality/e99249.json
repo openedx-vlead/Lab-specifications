@@ -1,0 +1,21 @@
+﻿{"experiment": {"id":  "e99249",
+	 	    "name": "Familiarization with Assmann Psychrometer and Estimation of Psychrometric Properties of Mine",
+	 	    "discipline_id": "mech",
+	          "institute_id": "iitkgp",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "institute", "hosted_url": ""}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": ""},
+	 			   {"asset_type": "Videos", "path": ""}],
+	 	    "overview": "This experiments deals with Familiarization with Assmann Psychrometer and Estimation of Psychrometric Properties of Mine",
+	 	    "sections" : ["Theory", 
+ 			        "Video Demo", 
+ 			        "How it Works", 
+ 			        "Procedure", 
+ 			        "Simulator Procedure", 
+ 			        "Simulator", 
+ 			        "Reference", 
+ 			        "Evaluation", 
+ 			        "Feedback"]		
+		}
+}

@@ -1,0 +1,18 @@
+﻿{"experiment": {"id":  "e99476",
+	 	    "name": "Determination of heat of combustion of aviation fuel",
+	 	    "discipline_id": "aero",
+	          "institute_id": "iitk",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": ""}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": ""},
+	 			   {"asset_type": "Videos", "path": ""}],
+	 	    "overview": "This experiments deals with Determination of heat of combustion of aviation fuel",
+	 	    "sections" : ["Objective", 
+ 			        "Introduction", 
+ 			        "Apparatus & Procedure", 
+ 			        "Results & Discussion", 
+ 			        "Appendix", 
+ 			        "Gallery"]		
+		}
+}

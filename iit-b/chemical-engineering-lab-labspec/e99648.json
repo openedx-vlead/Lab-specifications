@@ -1,0 +1,20 @@
+﻿{"experiment": {"id":  "e99648",
+	 	    "name": "Vapour Liquid Equilibrium",
+	 	    "discipline_id": "chem-engg",
+	          "institute_id": "iitb",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://ce-iitb.vlabs.ac.in/","http://ce-iitb.vlabs.ac.in/"},
+	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://ce-iitb.vlabs.ac.in/","http://ce-iitb.vlabs.ac.in/"}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/chemical-engg-iitb","https://github.com/Virtual-Labs/chemical-engg-iitb"},
+	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/chemical-engg-iitb","https://github.com/Virtual-Labs/chemical-engg-iitb"}],
+	 	    "overview": "This experiments deals with Vapour Liquid Equilibrium",
+	 	    "sections" : ["Aim", 
+ 			        "Theory", 
+ 			        "Pre-Test", 
+ 			        "Simulator", 
+ 			        "Procedure", 
+ 			        "Reference", 
+ 			        "Feedback"]		
+		}
+}

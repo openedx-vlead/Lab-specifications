@@ -1,0 +1,22 @@
+﻿{"experiment": {"id":  "e99767",
+	 	    "name": "Comparator",
+	 	    "discipline_id": "cse",
+	          "institute_id": "iiith",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://cse15-iiith.vlabs.ac.in/","http://cse15-iiith.vlabs.ac.in/"},
+	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://cse15-iiith.vlabs.ac.in/","http://cse15-iiith.vlabs.ac.in/"}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/digital-logic-design-iiith.git","https://github.com/Virtual-Labs/digital-logic-design-iiith.git"},
+	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/digital-logic-design-iiith.git","https://github.com/Virtual-Labs/digital-logic-design-iiith.git"}],
+	 	    "overview": "This experiments deals with Comparator",
+	 	    "sections" : ["Introduction", 
+ 			        "Theory", 
+ 			        "Objective", 
+ 			        "Experiment", 
+ 			        "Manual", 
+ 			        "Quiz", 
+ 			        "Procedure", 
+ 			        "Read", 
+ 			        "Feedback"]		
+		}
+}

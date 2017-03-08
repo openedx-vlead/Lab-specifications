@@ -1,0 +1,20 @@
+﻿{"experiment": {"id":  "e99922",
+	 	    "name": "To simulate Pacemaker",
+	 	    "discipline_id": "biotech",
+	          "institute_id": "coep",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": ""},
+	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": ""}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/bio-medical-and-signal-processing-laboratory-coep","https://github.com/Virtual-Labs/bio-medical-and-signal-processing-laboratory-coep"},
+	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/bio-medical-and-signal-processing-laboratory-coep","https://github.com/Virtual-Labs/bio-medical-and-signal-processing-laboratory-coep"}],
+	 	    "overview": "This experiments deals with To simulate Pacemaker",
+	 	    "sections" : ["Aim", 
+ 			        "Pre-test", 
+ 			        "Theory", 
+ 			        "Simulator", 
+ 			        "Procedure", 
+ 			        "Post-test", 
+ 			        "Conclusion"]		
+		}
+}

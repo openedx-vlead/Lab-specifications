@@ -1,0 +1,15 @@
+﻿{"lab": {"id":  "cse15",
+	   "name": "Digital Logic Design",
+	   "discipline_id": "cse",
+	   "institute_id": "iiith",
+	   "developers": [],
+	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://cse15-iiith.vlabs.ac.in/","http://cse15-iiith.vlabs.ac.in/"},
+	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://cse15-iiith.vlabs.ac.in/","http://cse15-iiith.vlabs.ac.in/"}],
+	   "integration_level": "",
+	   "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/digital-logic-design-iiith.git","https://github.com/Virtual-Labs/digital-logic-design-iiith.git"},
+	 		  {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/digital-logic-design-iiith.git","https://github.com/Virtual-Labs/digital-logic-design-iiith.git"}],
+	   "overview": "This lab deals with Digital Logic Design",
+	   "sections" : [{"name": "Introduction"},
+		           {"experiments": [e99771, e99770, e99769, e99768, e99767, e99766, e99765, e99764, e99763, e99762]}]
+	}
+}

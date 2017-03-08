@@ -1,0 +1,19 @@
+﻿{"experiment": {"id":  "e99404",
+	 	    "name": "Study of Plane Table and Its Accesories",
+	 	    "discipline_id": "civil",
+	          "institute_id": "iitr",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://sl-iitr.vlabs.ac.in","sl-iitr.vlabs.ac.in"},
+	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://sl-iitr.vlabs.ac.in","sl-iitr.vlabs.ac.in"}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/surveying-lab-iitr","https://github.com/Virtual-Labs/surveying-lab-iitr"},
+	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/surveying-lab-iitr","https://github.com/Virtual-Labs/surveying-lab-iitr"}],
+	 	    "overview": "This experiments deals with Study of Plane Table and Its Accesories",
+	 	    "sections" : ["THEORY", 
+ 			        "OBJECTIVE", 
+ 			        "EQP. USED", 
+ 			        "EXPERIMENT", 
+ 			        "PROCEDURE", 
+ 			        "QUIZZES"]		
+		}
+}

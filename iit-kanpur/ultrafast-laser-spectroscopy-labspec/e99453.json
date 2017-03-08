@@ -1,0 +1,19 @@
+﻿{"experiment": {"id":  "e99453",
+	 	    "name": "Confocal Microscopy: Principles & Experiments",
+	 	    "discipline_id": "chem",
+	          "institute_id": "iitk",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://ufls-iitk.vlabs.ac.in","ufls-iitk.vlabs.ac.in"},
+	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://ufls-iitk.vlabs.ac.in","ufls-iitk.vlabs.ac.in"}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/ultra-fast-laser-spectroscopy-iitk","https://github.com/Virtual-Labs/ultra-fast-laser-spectroscopy-iitk"},
+	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/ultra-fast-laser-spectroscopy-iitk","https://github.com/Virtual-Labs/ultra-fast-laser-spectroscopy-iitk"}],
+	 	    "overview": "This experiments deals with Confocal Microscopy: Principles & Experiments",
+	 	    "sections" : ["Objective", 
+ 			        "Theory", 
+ 			        "Instrument Required", 
+ 			        "Software Required", 
+ 			        "Experiment Procedure", 
+ 			        "Reference"]		
+		}
+}

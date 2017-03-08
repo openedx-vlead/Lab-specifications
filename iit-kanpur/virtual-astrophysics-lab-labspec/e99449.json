@@ -1,0 +1,15 @@
+﻿{"experiment": {"id":  "e99449",
+	 	    "name": "To become familiar with night sky",
+	 	    "discipline_id": "phy-sc",
+	          "institute_id": "iitk",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": ""},
+	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": ""}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": ""},
+	 			   {"asset_type": "Videos", "path": ""}],
+	 	    "overview": "This experiments deals with To become familiar with night sky",
+	 	    "sections" : ["Objective", 
+ 			        "Procedure"]		
+		}
+}

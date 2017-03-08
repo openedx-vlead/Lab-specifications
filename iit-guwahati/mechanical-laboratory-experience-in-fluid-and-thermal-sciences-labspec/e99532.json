@@ -1,0 +1,18 @@
+﻿{"experiment": {"id":  "e99532",
+	 	    "name": "To investigate the Lamberts direction law (cosine law)",
+	 	    "discipline_id": "mech",
+	          "institute_id": "iitg",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://mfts-iitg.vlabs.ac.in","http://mfts-iitg.vlabs.ac.in"},
+	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://mfts-iitg.vlabs.ac.in","http://mfts-iitg.vlabs.ac.in"}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg","https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg"},
+	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg","https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg"}],
+	 	    "overview": "This experiments deals with To investigate the Lamberts direction law (cosine law)",
+	 	    "sections" : ["Theory", 
+ 			        "Procedure", 
+ 			        "Software Package", 
+ 			        "Setup", 
+ 			        "Simulator"]		
+		}
+}

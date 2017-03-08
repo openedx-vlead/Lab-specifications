@@ -1,0 +1,14 @@
+﻿{"lab": {"id":  "aero03",
+	   "name": "Aerospace Virtual Lab",
+	   "discipline_id": "aero",
+	   "institute_id": "iitk",
+	   "developers": [],
+	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": ""}],
+	   "integration_level": "",
+	   "assets": [{"asset_type": "Images", "path": ""},
+	 		  {"asset_type": "Videos", "path": ""}],
+	   "overview": "This lab deals with Aerospace Virtual Lab",
+	   "sections" : [{"name": "Introduction"},
+		           {"experiments": [e99477, e99476, e99475, e99474, e99473, e99472, e99471, e99470, e99469, e99468, e99467, e99466]}]
+	}
+}

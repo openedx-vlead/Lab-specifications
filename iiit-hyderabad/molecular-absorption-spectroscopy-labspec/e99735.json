@@ -1,0 +1,21 @@
+﻿{"experiment": {"id":  "e99735",
+	 	    "name": " Verification of Beer-Lambert Law ",
+	 	    "discipline_id": "chem",
+	          "institute_id": "iiith",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://mas-iiith.vlabs.ac.in/","http://mas-iiith.vlabs.ac.in/"},
+	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://mas-iiith.vlabs.ac.in/","http://mas-iiith.vlabs.ac.in/"}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/molecular-absorption-spectroscopy-iiith.git","https://github.com/Virtual-Labs/molecular-absorption-spectroscopy-iiith.git"},
+	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/molecular-absorption-spectroscopy-iiith.git","https://github.com/Virtual-Labs/molecular-absorption-spectroscopy-iiith.git"}],
+	 	    "overview": "This experiments deals with  Verification of Beer-Lambert Law ",
+	 	    "sections" : ["Introduction", 
+ 			        "Theory", 
+ 			        "Objective", 
+ 			        "Experiment", 
+ 			        "Manual", 
+ 			        "Quizzes", 
+ 			        "Procedure", 
+ 			        "Feedback"]		
+		}
+}

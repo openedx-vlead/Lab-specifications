@@ -1,0 +1,15 @@
+﻿{"experiment": {"id":  "e99973",
+	 	    "name": "Tangent Galvanometer",
+	 	    "discipline_id": "phy-sc",
+	          "institute_id": "amrita",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://emv-au.vlabs.ac.in/"},
+	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://emv-au.vlabs.ac.in/"}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": "https://github.com/CreateAmrita/electricity-magnetism-virtual-lab","https://github.com/CreateAmrita/electricity-magnetism-virtual-lab"},
+	 			   {"asset_type": "Videos", "path": "https://github.com/CreateAmrita/electricity-magnetism-virtual-lab","https://github.com/CreateAmrita/electricity-magnetism-virtual-lab"}],
+	 	    "overview": "This experiments deals with Tangent Galvanometer",
+	 	    "sections" : ["Simulator", 
+ 			        "Animation"]		
+		}
+}

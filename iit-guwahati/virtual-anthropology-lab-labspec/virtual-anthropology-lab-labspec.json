@@ -1,0 +1,15 @@
+﻿{"lab": {"id":  "hss03",
+	   "name": "Virtual Anthropology Lab",
+	   "discipline_id": "hmt",
+	   "institute_id": "iitg",
+	   "developers": [],
+	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://anthropology-iitg.vlabs.ac.in/","anthropology-iitg.vlabs.ac.in"},
+	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://anthropology-iitg.vlabs.ac.in/","anthropology-iitg.vlabs.ac.in"}],
+	   "integration_level": "",
+	   "assets": [{"asset_type": "Images", "path": "https://github.com/vlabs-iitg/IITG_anthropology","https://github.com/vlabs-iitg/IITG_anthropology"},
+	 		  {"asset_type": "Videos", "path": "https://github.com/vlabs-iitg/IITG_anthropology","https://github.com/vlabs-iitg/IITG_anthropology"}],
+	   "overview": "This lab deals with Virtual Anthropology Lab",
+	   "sections" : [{"name": "Introduction"},
+		           {"experiments": [e99516, e99515, e99514, e99513, e99512, e99511, e99510, e99509, e99508]}]
+	}
+}

@@ -1,0 +1,21 @@
+﻿{"experiment": {"id":  "e99848",
+	 	    "name": "To Study the Ferranti Effect of a transmission line/cable.",
+	 	    "discipline_id": "ee",
+	          "institute_id": "dei",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://vp-dei.vlabs.ac.in","vp-dei.vlabs.ac.in"},
+	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://vp-dei.vlabs.ac.in","vp-dei.vlabs.ac.in"}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/virtual-power-lab-dei","https://github.com/Virtual-Labs/virtual-power-lab-dei"},
+	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/virtual-power-lab-dei","https://github.com/Virtual-Labs/virtual-power-lab-dei"}],
+	 	    "overview": "This experiments deals with To Study the Ferranti Effect of a transmission line/cable.",
+	 	    "sections" : ["Objective", 
+ 			        "Equipments", 
+ 			        "Block Diagram", 
+ 			        "Theory and Procedure", 
+ 			        "Observation", 
+ 			        "Simulation", 
+ 			        "Videos of Exp9", 
+ 			        "Quiz"]		
+		}
+}

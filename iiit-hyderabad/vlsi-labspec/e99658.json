@@ -1,0 +1,22 @@
+﻿{"experiment": {"id":  "e99658",
+	 	    "name": "Design Of Digital Circuits Using Verilog",
+	 	    "discipline_id": "cse",
+	   "institute_id": "iiith",
+	   "developers": [],
+	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://cse14-iiith.vlabs.ac.in/","http://cse14-iiith.vlabs.ac.in/"},
+	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://cse14-iiith.vlabs.ac.in/","http://cse14-iiith.vlabs.ac.in/"}],
+	   "integration_level": "",
+	   "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/vlsi-iiith.git","https://github.com/Virtual-Labs/vlsi-iiith.git"},
+	 		  {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/vlsi-iiith.git","https://github.com/Virtual-Labs/vlsi-iiith.git"}],
+	 	    "overview": "This experiments deals with Design Of Digital Circuits Using Verilog",
+	 	    "sections" : ["Introduction", 
+ 			        "Objective", 
+ 			        "Theory", 
+ 			        "Procedure", 
+ 			        "Manual", 
+ 			        "Simulator", 
+ 			        "Quiz", 
+ 			        "References", 
+ 			        "Feedback"]		
+		}
+}

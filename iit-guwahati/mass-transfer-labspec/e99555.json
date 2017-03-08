@@ -1,0 +1,23 @@
+﻿{"experiment": {"id":  "e99555",
+	 	    "name": "ASTM distillation",
+	 	    "discipline_id": "chem-engg",
+	          "institute_id": "iitg",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://vmt-iitg.vlabs.ac.in","http://vmt-iitg.vlabs.ac.in"},
+	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://vmt-iitg.vlabs.ac.in","http://vmt-iitg.vlabs.ac.in"}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/virtual-mass-transfer-lab-iitg","https://github.com/Virtual-Labs/virtual-mass-transfer-lab-iitg"},
+	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/virtual-mass-transfer-lab-iitg","https://github.com/Virtual-Labs/virtual-mass-transfer-lab-iitg"}],
+	 	    "overview": "This experiments deals with ASTM distillation",
+	 	    "sections" : ["Theory", 
+ 			        "Procedure", 
+ 			        "Expt Calc1", 
+ 			        "Expt Calc2", 
+ 			        "Labview Calc", 
+ 			        "Pre Expt Quiz", 
+ 			        "Download", 
+ 			        "Simulator", 
+ 			        "Post Expt Quiz", 
+ 			        "Videos"]		
+		}
+}

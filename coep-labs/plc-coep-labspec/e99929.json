@@ -1,0 +1,23 @@
+﻿{"experiment": {"id":  "e99929",
+	 	    "name": "Implementation Of Up-Down Counter",
+	 	    "discipline_id": "ee",
+	          "institute_id": "coep",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://plc-coep.vlabs.ac.in","plc-coep.vlabs.ac.in"},
+	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://plc-coep.vlabs.ac.in","plc-coep.vlabs.ac.in"}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/programmable-logic-controller-coep","https://github.com/Virtual-Labs/programmable-logic-controller-coep"},
+	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/programmable-logic-controller-coep","https://github.com/Virtual-Labs/programmable-logic-controller-coep"}],
+	 	    "overview": "This experiments deals with Implementation Of Up-Down Counter",
+	 	    "sections" : ["Aim", 
+ 			        "Pre-test", 
+ 			        "Theory", 
+ 			        "Simulator", 
+ 			        "Procedure", 
+ 			        "Audio/Video", 
+ 			        "Post-test", 
+ 			        "Review Questions", 
+ 			        "Reference", 
+ 			        "Feedback"]		
+		}
+}

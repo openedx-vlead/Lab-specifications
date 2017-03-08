@@ -1,0 +1,21 @@
+﻿{"experiment": {"id":  "e99697",
+	 	    "name": "Linear Perceptron Learning",
+	 	    "discipline_id": "cse",
+	          "institute_id": "iiith",
+	          "developers": [],
+	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://cse20-iiith.vlabs.ac.in/","http://cse20-iiith.vlabs.ac.in/"},
+	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://cse20-iiith.vlabs.ac.in/","http://cse20-iiith.vlabs.ac.in/"}],
+	          "integration_level": "",
+	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/pattern-recognition-iiith.git","https://github.com/Virtual-Labs/pattern-recognition-iiith.git"},
+	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/pattern-recognition-iiith.git","https://github.com/Virtual-Labs/pattern-recognition-iiith.git"}],
+	 	    "overview": "This experiments deals with Linear Perceptron Learning",
+	 	    "sections" : ["Introduction", 
+ 			        "Theory", 
+ 			        "Objective", 
+ 			        "Experiment", 
+ 			        "Quizzes", 
+ 			        "Procedure", 
+ 			        "Further Readings", 
+ 			        "Feedback"]		
+		}
+}

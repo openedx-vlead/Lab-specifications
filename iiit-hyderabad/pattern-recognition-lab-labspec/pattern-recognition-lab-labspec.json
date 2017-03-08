@@ -1,0 +1,15 @@
+﻿{"lab": {"id":  "cse20",
+	   "name": "Pattern Recognition",
+	   "discipline_id": "cse",
+	   "institute_id": "iiith",
+	   "developers": [],
+	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://cse20-iiith.vlabs.ac.in/","http://cse20-iiith.vlabs.ac.in/"},
+	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://cse20-iiith.vlabs.ac.in/","http://cse20-iiith.vlabs.ac.in/"}],
+	   "integration_level": "",
+	   "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/pattern-recognition-iiith.git","https://github.com/Virtual-Labs/pattern-recognition-iiith.git"},
+	 		  {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/pattern-recognition-iiith.git","https://github.com/Virtual-Labs/pattern-recognition-iiith.git"}],
+	   "overview": "This lab deals with Pattern Recognition",
+	   "sections" : [{"name": "Introduction"},
+		           {"experiments": [e99699, e99698, e99697, e99696, e99695, e99694, e99693]}]
+	}
+}
