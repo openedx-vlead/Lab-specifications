@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99390",
+	 	"name": "Container Filling Process Using PLC",
+	 	"overview": "This experiments deals with Container Filling Process Using PLC",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
+}

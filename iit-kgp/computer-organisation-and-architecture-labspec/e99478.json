@@ -1,0 +1,11 @@
+{"experiment": {"id":  "e99478",
+	 	"name": "CPU Design",
+	 	"overview": "This experiments deals with CPU Design",
+	 	"sections" : ["Theory", 
+ 			      "Objective", 
+ 			      "Procedure", 
+ 			      "Experiment", 
+ 			      "Quizes", 
+ 			      "Further Reading"]		
+		}
+}

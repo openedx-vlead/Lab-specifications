@@ -1,0 +1,7 @@
+{"lab": {"id":  "ece19",
+	 "name": "Hybird Electronics",
+	 "overview": "This lab deals with Hybird Electronics",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99331, e99330, e99329, e99328, e99327, e99326, e99325]}]
+	}
+}

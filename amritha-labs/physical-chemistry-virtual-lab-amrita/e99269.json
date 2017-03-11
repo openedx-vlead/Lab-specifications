@@ -1,0 +1,7 @@
+{"experiment": {"id":  "e99269",
+	 	"name": "Calorimetry-Heat of Neutralization",
+	 	"overview": "This experiments deals with Calorimetry-Heat of Neutralization",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
+}

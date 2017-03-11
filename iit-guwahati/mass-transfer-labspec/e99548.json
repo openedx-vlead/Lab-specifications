@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e99548",
+	 	"name": "Mass transfer with or without chemical reaction",
+	 	"overview": "This experiments deals with Mass transfer with or without chemical reaction",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Expt Calc", 
+ 			      "Labview Calc", 
+ 			      "Pre Quiz", 
+ 			      "Download", 
+ 			      "Simulator", 
+ 			      "Post Expt Quiz", 
+ 			      "Videos"]		
+		}
+}

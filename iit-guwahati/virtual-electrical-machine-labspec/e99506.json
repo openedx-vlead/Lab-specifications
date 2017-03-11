@@ -1,0 +1,10 @@
+{"experiment": {"id":  "e99506",
+	 	"name": "Rotating Magnetic Field Behaviour in two coils",
+	 	"overview": "This experiments deals with Rotating Magnetic Field Behaviour in two coils",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Experiment1", 
+ 			      "Quiz"]		
+		}
+}

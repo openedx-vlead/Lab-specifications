@@ -1,0 +1,10 @@
+{"experiment": {"id":  "e99618",
+	 	"name": "General Motors Car Following Model",
+	 	"overview": "This experiments deals with General Motors Car Following Model",
+	 	"sections" : ["Theory", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Feedback", 
+ 			      "Contact Us"]		
+		}
+}

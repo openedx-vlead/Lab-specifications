@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99313",
+	 	"name": "Tune PID controller for heat exchanger using DCS",
+	 	"overview": "This experiments deals with Tune PID controller for heat exchanger using DCS",
+	 	"sections" : ["Aim", 
+ 			      "Pre Test", 
+ 			      "Theory", 
+ 			      "Simulation", 
+ 			      "Procedure", 
+ 			      "Post Test", 
+ 			      "Review Questions", 
+ 			      "Reference"]		
+		}
+}

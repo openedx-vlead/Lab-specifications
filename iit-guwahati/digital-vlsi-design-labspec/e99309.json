@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99309",
+	 	"name": "CMOS Inverter",
+	 	"overview": "This experiments deals with CMOS Inverter",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Self Evaluation", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video"]		
+		}
+}

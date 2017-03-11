@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99526",
+	 	"name": "Free Vibration of a Two-DOF System",
+	 	"overview": "This experiments deals with Free Vibration of a Two-DOF System",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Setup", 
+ 			      "Procedure", 
+ 			      "Calculation", 
+ 			      "Experiment", 
+ 			      "Discussion", 
+ 			      "Quiz"]		
+		}
+}

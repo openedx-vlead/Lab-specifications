@@ -1,0 +1,10 @@
+{"experiment": {"id":  "e99450",
+	 	"name": "Thermal Lens Spectroscopy with High Repetition Rate Lasers",
+	 	"overview": "This experiments deals with Thermal Lens Spectroscopy with High Repetition Rate Lasers",
+	 	"sections" : ["Objective", 
+ 			      "Theory", 
+ 			      "Instrument Required", 
+ 			      "Software Required", 
+ 			      "Experiment Procedure"]		
+		}
+}

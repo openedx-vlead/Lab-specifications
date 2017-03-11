@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99820",
+	 	"name": "Context Free Grammar",
+	 	"overview": "This experiments deals with Context Free Grammar",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure"]		
+		}
+}

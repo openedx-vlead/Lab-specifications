@@ -1,0 +1,10 @@
+{"experiment": {"id":  "e99525",
+	 	"name": "Free Vibration of a Viscously Damped Single DOF System",
+	 	"overview": "This experiments deals with Free Vibration of a Viscously Damped Single DOF System",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Quiz"]		
+		}
+}

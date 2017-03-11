@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99899",
+	 	"name": "Sine Sweep of base excitation of cantilever",
+	 	"overview": "This experiments deals with Sine Sweep of base excitation of cantilever",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Audio/Video", 
+ 			      "Review Questions", 
+ 			      "Feedback"]		
+		}
+}

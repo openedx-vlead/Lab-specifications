@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e99659",
+	 	"name": "Design Of D-Flip Flop Using Verilog",
+	 	"overview": "This experiments deals with Design Of D-Flip Flop Using Verilog",
+	 	"sections" : ["Introduction", 
+ 			      "Objective", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Manual", 
+ 			      "Simulator", 
+ 			      "Quiz", 
+ 			      "References", 
+ 			      "Feedback"]		
+		}
+}

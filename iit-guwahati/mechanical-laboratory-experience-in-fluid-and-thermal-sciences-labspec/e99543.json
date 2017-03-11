@@ -1,0 +1,10 @@
+{"experiment": {"id":  "e99543",
+	 	"name": "Flow through Venturi Meter",
+	 	"overview": "This experiments deals with Flow through Venturi Meter",
+	 	"sections" : ["Theory", 
+ 			      "Apparatus", 
+ 			      "Procedure", 
+ 			      "Software", 
+ 			      "Simulator"]		
+		}
+}

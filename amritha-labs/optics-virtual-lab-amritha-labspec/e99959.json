@@ -1,0 +1,7 @@
+{"experiment": {"id":  "e99959",
+	 	"name": "Spectrometer Refractive Index of the Material of a Prism",
+	 	"overview": "This experiments deals with Spectrometer Refractive Index of the Material of a Prism",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
+}

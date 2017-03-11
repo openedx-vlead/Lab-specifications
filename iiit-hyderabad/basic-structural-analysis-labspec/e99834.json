@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99834",
+	 	"name": "Plates Experiment",
+	 	"overview": "This experiments deals with Plates Experiment",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "FurtherReadings"]		
+		}
+}

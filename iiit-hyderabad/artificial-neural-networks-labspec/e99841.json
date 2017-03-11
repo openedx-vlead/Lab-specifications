@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99841",
+	 	"name": "Solution to travelling salesman problem using self organizing maps",
+	 	"overview": "This experiments deals with Solution to travelling salesman problem using self organizing maps",
+	 	"sections" : ["Objective", 
+ 			      "Tutorial", 
+ 			      "Illustration", 
+ 			      "Procedure", 
+ 			      "Experiment", 
+ 			      "Observations", 
+ 			      "Assignment", 
+ 			      "References"]		
+		}
+}

@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99745",
+	 	"name": "Fourier Transform",
+	 	"overview": "This experiments deals with Fourier Transform",
+	 	"sections" : ["Objective", 
+ 			      "Introduction", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Experiment", 
+ 			      "Assessment", 
+ 			      "References"]		
+		}
+}

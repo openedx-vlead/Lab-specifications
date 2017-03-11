@@ -1,0 +1,7 @@
+{"lab": {"id":  "eerc01",
+	 "name": "Basic Engineering Mechanics and Strength of Materials",
+	 "overview": "This lab deals with Basic Engineering Mechanics and Strength of Materials",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99676, e99675, e99674, e99673, e99672, e99671, e99670, e99669, e99668, e99667]}]
+	}
+}

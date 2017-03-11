@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e99683",
+	 	"name": "Factorials",
+	 	"overview": "This experiments deals with Factorials",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "Further Readings", 
+ 			      "Feedback"]		
+		}
+}

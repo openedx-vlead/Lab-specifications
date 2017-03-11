@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e99383",
+	 	"name": "Forced vibration of SDOF system",
+	 	"overview": "This experiments deals with Forced vibration of SDOF system",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz", 
+ 			      "Feedback"]		
+		}
+}

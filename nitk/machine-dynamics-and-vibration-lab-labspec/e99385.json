@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e99385",
+	 	"name": "Free vibration of simply supported beam",
+	 	"overview": "This experiments deals with Free vibration of simply supported beam",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz", 
+ 			      "Feedback"]		
+		}
+}

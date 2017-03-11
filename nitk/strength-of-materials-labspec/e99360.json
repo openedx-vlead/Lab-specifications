@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99360",
+	 	"name": "Charpy Impact Test",
+	 	"overview": "This experiments deals with Charpy Impact Test",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
+}

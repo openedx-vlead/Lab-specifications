@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99708",
+	 	"name": "Word Generation",
+	 	"overview": "This experiments deals with Word Generation",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "Further Readings", 
+ 			      "Feedback"]		
+		}
+}

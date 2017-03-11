@@ -1,0 +1,10 @@
+{"experiment": {"id":  "e99772",
+	 	"name": "Minimum Spanning Trees",
+	 	"overview": "This experiments deals with Minimum Spanning Trees",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Simulation", 
+ 			      "Quizzes"]		
+		}
+}

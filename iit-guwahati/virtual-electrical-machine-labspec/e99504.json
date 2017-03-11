@@ -1,0 +1,10 @@
+{"experiment": {"id":  "e99504",
+	 	"name": "The DC Test for Stator Resistance",
+	 	"overview": "This experiments deals with The DC Test for Stator Resistance",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Experiment", 
+ 			      "Quiz"]		
+		}
+}

@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99821",
+	 	"name": "Chunking",
+	 	"overview": "This experiments deals with Chunking",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure"]		
+		}
+}

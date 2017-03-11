@@ -1,0 +1,7 @@
+{"experiment": {"id":  "e99277",
+	 	"name": "Ballistic Pendulum",
+	 	"overview": "This experiments deals with Ballistic Pendulum",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
+}

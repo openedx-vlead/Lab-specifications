@@ -1,0 +1,7 @@
+{"lab": {"id":  "phy01",
+	 "name": "Virtual Astrophysics Lab",
+	 "overview": "This lab deals with Virtual Astrophysics Lab",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99449, e99448, e99447, e99446, e99445, e99444, e99443, e99442, e99441, e99440, e99439, e99438, e99437, e99436]}]
+	}
+}

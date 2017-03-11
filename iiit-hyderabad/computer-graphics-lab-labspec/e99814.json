@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e99814",
+	 	"name": "Hierarchical Transformations: 3D Articulated Arm",
+	 	"overview": "This experiments deals with Hierarchical Transformations: 3D Articulated Arm",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "Further Readings", 
+ 			      "Feedback"]		
+		}
+}

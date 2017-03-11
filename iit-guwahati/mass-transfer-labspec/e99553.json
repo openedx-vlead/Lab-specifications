@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e99553",
+	 	"name": "Column tray effeciency",
+	 	"overview": "This experiments deals with Column tray effeciency",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Expt Calc", 
+ 			      "Labview Calc", 
+ 			      "Pre Quiz", 
+ 			      "Download", 
+ 			      "Simulator", 
+ 			      "Post Expt Quiz", 
+ 			      "Videos"]		
+		}
+}

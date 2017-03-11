@@ -1,0 +1,10 @@
+{"experiment": {"id":  "e99522",
+	 	"name": "Harmonically Excited Support Motion of a Single DOF System",
+	 	"overview": "This experiments deals with Harmonically Excited Support Motion of a Single DOF System",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Quiz"]		
+		}
+}

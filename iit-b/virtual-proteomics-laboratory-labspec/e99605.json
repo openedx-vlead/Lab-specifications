@@ -1,0 +1,11 @@
+﻿{"experiment": {"id":  "e99605",
+	 	"name": "Molecular Docking",
+	 	"overview": "This experiments deals with Molecular Docking",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Reference",
+				"Assignments"]		
+		}
+}

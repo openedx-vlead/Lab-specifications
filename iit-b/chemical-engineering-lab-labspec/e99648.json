@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99648",
+	 	"name": "Vapour Liquid Equilibrium",
+	 	"overview": "This experiments deals with Vapour Liquid Equilibrium",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Pre-Test", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Reference", 
+ 			      "Feedback"]		
+		}
+}

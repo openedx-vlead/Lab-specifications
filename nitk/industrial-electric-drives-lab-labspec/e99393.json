@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99393",
+	 	"name": "PLC COUNT-UP INSTRUCTION",
+	 	"overview": "This experiments deals with PLC COUNT-UP INSTRUCTION",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
+}

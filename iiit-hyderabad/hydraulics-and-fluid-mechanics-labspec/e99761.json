@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99761",
+	 	"name": " Bernoullis Experiment",
+	 	"overview": "This experiments deals with  Bernoullis Experiment",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "FurtherReadings"]		
+		}
+}

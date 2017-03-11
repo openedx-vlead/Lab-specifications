@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99352",
+	 	"name": "Deflection in Beam",
+	 	"overview": "This experiments deals with Deflection in Beam",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
+}

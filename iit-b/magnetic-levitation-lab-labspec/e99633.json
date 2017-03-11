@@ -1,0 +1,11 @@
+{"experiment": {"id":  "e99633",
+	 	"name": "On-Off control",
+	 	"overview": "This experiments deals with On-Off control",
+	 	"sections" : ["Aim", 
+ 			      "Introduction", 
+ 			      "Theory", 
+ 			      "Simulator", 
+ 			      "Quiz", 
+ 			      "Things to think about"]		
+		}
+}

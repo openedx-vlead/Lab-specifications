@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99655",
+	 	"name": "Gas Liquid Absorption",
+	 	"overview": "This experiments deals with Gas Liquid Absorption",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Pre-Test", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "FAQ", 
+ 			      "Reference", 
+ 			      "Feedback"]		
+		}
+}

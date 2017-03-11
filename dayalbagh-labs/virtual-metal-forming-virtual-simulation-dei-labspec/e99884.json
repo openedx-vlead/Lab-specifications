@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99884",
+	 	"name": "Equipments:Upsetting Presses",
+	 	"overview": "This experiments deals with Equipments:Upsetting Presses",
+	 	"sections" : ["Gravity drop hammer-Description", 
+ 			      "Gravity drop hammer-Kinematics", 
+ 			      "Knuckle-joint press", 
+ 			      "Hydraulic press type-1", 
+ 			      "Hydraulic press type-2 ", 
+ 			      "Hydraulic press type-3", 
+ 			      "Mechanical press ", 
+ 			      "Screw press"]		
+		}
+}

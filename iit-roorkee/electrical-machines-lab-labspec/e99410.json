@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99410",
+	 	"name": "Speed control of slipring Induction Motor",
+	 	"overview": "This experiments deals with Speed control of slipring Induction Motor",
+	 	"sections" : ["THEORY", 
+ 			      "OBJECTIVE", 
+ 			      "EQUIPMENT USED", 
+ 			      "EXPERIMENT", 
+ 			      "QUIZZES", 
+ 			      "PROCEDURE", 
+ 			      "FURTHER READINGS"]		
+		}
+}

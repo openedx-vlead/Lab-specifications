@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99604",
+	 	"name": "Measurement of VSWR on a line",
+	 	"overview": "This experiments deals with Measurement of VSWR on a line",
+	 	"sections" : ["To perform the experiments please download the following software:", 
+ 			      "Manual", 
+ 			      "Pre Experiment Quiz", 
+ 			      "Demo", 
+ 			      "Experiment", 
+ 			      "Post Experiment Quiz", 
+ 			      "Feedback"]		
+		}
+}

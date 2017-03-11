@@ -1,0 +1,11 @@
+{"experiment": {"id":  "e99568",
+	 	"name": "Magnetic Field Coupling",
+	 	"overview": "This experiments deals with Magnetic Field Coupling",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Self Evaluation", 
+ 			      "Reference", 
+ 			      "Feedback"]		
+		}
+}

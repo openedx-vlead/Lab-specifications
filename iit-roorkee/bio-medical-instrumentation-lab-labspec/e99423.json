@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99423",
+	 	"name": "EEG acquisition and frequency components calculation",
+	 	"overview": "This experiments deals with EEG acquisition and frequency components calculation",
+	 	"sections" : ["THEORY", 
+ 			      "OBJECTIVE", 
+ 			      "EQUIPMENT USED", 
+ 			      "EXPERIMENT", 
+ 			      "QUIZZES", 
+ 			      "PROCEDURE", 
+ 			      "FURTHER READINGS"]		
+		}
+}

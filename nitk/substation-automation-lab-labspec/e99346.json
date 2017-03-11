@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99346",
+	 	"name": "Load Transfer from one Feeder to other during Transformer Maintenance",
+	 	"overview": "This experiments deals with Load Transfer from one Feeder to other during Transformer Maintenance",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
+}

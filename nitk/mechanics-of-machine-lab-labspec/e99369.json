@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e99369",
+	 	"name": "Position analysis of Slider crank mechanism with Offset",
+	 	"overview": "This experiments deals with Position analysis of Slider crank mechanism with Offset",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz", 
+ 			      "Feedback"]		
+		}
+}

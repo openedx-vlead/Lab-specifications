@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99351",
+	 	"name": "Circuit Breaker Status Indication from field input:",
+	 	"overview": "This experiments deals with Circuit Breaker Status Indication from field input:",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
+}

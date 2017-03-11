@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99694",
+	 	"name": "MLE: Learning the classifier from data",
+	 	"overview": "This experiments deals with MLE: Learning the classifier from data",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "Further Readings", 
+ 			      "Feedback"]		
+		}
+}

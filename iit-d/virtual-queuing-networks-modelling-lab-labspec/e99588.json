@@ -1,0 +1,17 @@
+{"experiment": {"id":  "e99588",
+	 	"name": "Experiment-8",
+	 	"overview": "This experiments deals with Experiment-8",
+	 	"sections" : ["Live Simulation of Discrete time single server - infinite capacity model", 
+ 			      "Live Simulation of Discrete time finite servers - infinite capacity model", 
+ 			      "Live Simulation of Discrete time infinite servers - infinite capacity model", 
+ 			      "Live Simulation of Discrete time finite servers - finite capacity model", 
+ 			      "Live Simulation of Discrete time bulk arrival and bulk departure model", 
+ 			      "Example-1", 
+ 			      "Example-2", 
+ 			      "Example-3", 
+ 			      "Example-4", 
+ 			      "Example-5", 
+ 			      "Example-6", 
+ 			      "Example-7"]		
+		}
+}

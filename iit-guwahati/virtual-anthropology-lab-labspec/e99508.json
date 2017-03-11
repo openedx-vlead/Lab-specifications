@@ -1,0 +1,10 @@
+{"experiment": {"id":  "e99508",
+	 	"name": "Mendel's Law",
+	 	"overview": "This experiments deals with Mendel's Law",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Quiz", 
+ 			      "Assignments"]		
+		}
+}

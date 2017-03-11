@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99849",
+	 	"name": "To determine the sub-transient (xd″), transient (xd′) and steady state reactance (xd) of a synchronous machine.",
+	 	"overview": "This experiments deals with To determine the sub-transient (xd″), transient (xd′) and steady state reactance (xd) of a synchronous machine.",
+	 	"sections" : ["Objective", 
+ 			      "Equipments", 
+ 			      "Block Diagram", 
+ 			      "Theory and Procedure", 
+ 			      "Observation", 
+ 			      "Simulation", 
+ 			      "Videos of Exp8", 
+ 			      "Quiz"]		
+		}
+}

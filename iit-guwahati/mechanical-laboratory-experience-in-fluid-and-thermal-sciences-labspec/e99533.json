@@ -1,0 +1,10 @@
+{"experiment": {"id":  "e99533",
+	 	"name": "To investigate the Lambert’s distance law",
+	 	"overview": "This experiments deals with To investigate the Lambert’s distance law",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Software Package", 
+ 			      "Setup", 
+ 			      "Simulator"]		
+		}
+}

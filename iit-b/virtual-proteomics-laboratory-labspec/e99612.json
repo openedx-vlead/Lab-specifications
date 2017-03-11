@@ -1,0 +1,12 @@
+﻿{"experiment": {"id":  "e99612",
+	 	"name": "Sample preparation for the MALDI-TOF MS analysis",
+	 	"overview": "This experiments deals with Sample preparation for the MALDI-TOF MS analysis",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Videos", 
+ 			      "Simulator", 
+ 			      "Reference",
+				"Assignments"]		
+		}
+}

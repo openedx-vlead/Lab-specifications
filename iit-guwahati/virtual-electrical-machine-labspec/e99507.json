@@ -1,0 +1,11 @@
+{"experiment": {"id":  "e99507",
+	 	"name": "Magnetic Field Behaviour in single coil",
+	 	"overview": "This experiments deals with Magnetic Field Behaviour in single coil",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Experiment1", 
+ 			      "Experiment2", 
+ 			      "Quiz"]		
+		}
+}

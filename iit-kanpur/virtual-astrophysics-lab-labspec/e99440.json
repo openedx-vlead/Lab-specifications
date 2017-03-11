@@ -1,0 +1,9 @@
+{"experiment": {"id":  "e99440",
+	 	"name": "Colour Magnitude Diagram",
+	 	"overview": "This experiments deals with Colour Magnitude Diagram",
+	 	"sections" : ["Objective", 
+ 			      "Introduction", 
+ 			      "User Manual", 
+ 			      "Project"]		
+		}
+}

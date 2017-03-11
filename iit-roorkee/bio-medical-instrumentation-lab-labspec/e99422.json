@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99422",
+	 	"name": "EEG Power Spectral Density calculation",
+	 	"overview": "This experiments deals with EEG Power Spectral Density calculation",
+	 	"sections" : ["THEORY", 
+ 			      "OBJECTIVE", 
+ 			      "EQUIPMENT USED", 
+ 			      "EXPERIMENT", 
+ 			      "QUIZZES", 
+ 			      "PROCEDURE", 
+ 			      "FURTHER READINGS"]		
+		}
+}

@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e99662",
+	 	"name": "Delay Estimation In Chain Of Inverters",
+	 	"overview": "This experiments deals with Delay Estimation In Chain Of Inverters",
+	 	"sections" : ["Introduction", 
+ 			      "Objective", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Manual", 
+ 			      "Simulator", 
+ 			      "Quiz", 
+ 			      "References", 
+ 			      "Feedback"]		
+		}
+}

@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e99381",
+	 	"name": "Rotating Unbalance",
+	 	"overview": "This experiments deals with Rotating Unbalance",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz", 
+ 			      "Feedback"]		
+		}
+}

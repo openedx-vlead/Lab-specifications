@@ -1,0 +1,15 @@
+{"experiment": {"id":  "e99555",
+	 	"name": "ASTM distillation",
+	 	"overview": "This experiments deals with ASTM distillation",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Expt Calc1", 
+ 			      "Expt Calc2", 
+ 			      "Labview Calc", 
+ 			      "Pre Expt Quiz", 
+ 			      "Download", 
+ 			      "Simulator", 
+ 			      "Post Expt Quiz", 
+ 			      "Videos"]		
+		}
+}

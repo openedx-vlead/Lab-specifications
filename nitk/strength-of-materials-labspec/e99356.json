@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99356",
+	 	"name": "Brinell Hardness Test",
+	 	"overview": "This experiments deals with Brinell Hardness Test",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
+}

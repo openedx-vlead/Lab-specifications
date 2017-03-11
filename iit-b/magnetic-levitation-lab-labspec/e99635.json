@@ -1,0 +1,11 @@
+{"experiment": {"id":  "e99635",
+	 	"name": "Plant Modeling",
+	 	"overview": "This experiments deals with Plant Modeling",
+	 	"sections" : ["Aim", 
+ 			      "Introduction", 
+ 			      "Theory", 
+ 			      "Simulator", 
+ 			      "Quiz", 
+ 			      "Things to think about"]		
+		}
+}

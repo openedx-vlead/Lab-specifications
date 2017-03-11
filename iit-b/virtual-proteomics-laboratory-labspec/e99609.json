@@ -1,0 +1,11 @@
+﻿{"experiment": {"id":  "e99609",
+	 	"name": "Molecular Weight Determination of Intact Protein Using MALDI TOF",
+	 	"overview": "This experiments deals with Molecular Weight Determination of Intact Protein Using MALDI TOF",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Reference",
+				"Assignments"]		
+		}
+}

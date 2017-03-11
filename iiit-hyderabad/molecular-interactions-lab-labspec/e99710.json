@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99710",
+	 	"name": "Radiation forces on a dielectric particle",
+	 	"overview": "This experiments deals with Radiation forces on a dielectric particle",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Further Readings"]		
+		}
+}

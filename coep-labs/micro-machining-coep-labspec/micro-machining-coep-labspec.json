@@ -1,0 +1,7 @@
+{"lab": {"id":  "mech17",
+	 "name": "Micromachining Laboratory",
+	 "overview": "This lab deals with Micromachining Laboratory",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99909, e99908, e99907, e99906, e99905, e99904, e99903, e99902]}]
+	}
+}

@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99527",
+	 	"name": "Forced Vibration of a Cantilever Beam (Continuous System)",
+	 	"overview": "This experiments deals with Forced Vibration of a Cantilever Beam (Continuous System)",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Setup", 
+ 			      "Procedure", 
+ 			      "Experiment", 
+ 			      "Discussion", 
+ 			      "Quiz"]		
+		}
+}

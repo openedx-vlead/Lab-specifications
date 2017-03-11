@@ -1,0 +1,7 @@
+{"experiment": {"id":  "e99276",
+	 	"name": "Collision Balls",
+	 	"overview": "This experiments deals with Collision Balls",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
+}

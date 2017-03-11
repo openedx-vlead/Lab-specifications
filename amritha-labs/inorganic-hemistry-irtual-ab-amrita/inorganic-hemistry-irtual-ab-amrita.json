@@ -1,0 +1,7 @@
+{"lab": {"id":  "icv-au",
+	 "name": "Inorganic Chemistry Virtual Lab",
+	 "overview": "This lab deals with Inorganic Chemistry Virtual Lab",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99300, e99299, e99298, e99297, e99296, e99295, e99294, e99293]}]
+	}
+}

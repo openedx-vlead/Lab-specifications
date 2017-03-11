@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99822",
+	 	"name": "Fine-grained POS Tagging",
+	 	"overview": "This experiments deals with Fine-grained POS Tagging",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Procedure"]		
+		}
+}

@@ -1,0 +1,10 @@
+{"experiment": {"id":  "e99779",
+	 	"name": "Expression Evaluation using Stacks",
+	 	"overview": "This experiments deals with Expression Evaluation using Stacks",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Simulation", 
+ 			      "Quizzes"]		
+		}
+}

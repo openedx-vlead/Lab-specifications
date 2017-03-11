@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e99241",
+	 	"name": "Fan Rating Test",
+	 	"overview": "This experiments deals with Fan Rating Test",
+	 	"sections" : ["Theory", 
+ 			      "Instruments", 
+ 			      "Video Demo", 
+ 			      "Procedure", 
+ 			      "Simulator Procedure", 
+ 			      "Simulator", 
+ 			      "Reference", 
+ 			      "Evaluation", 
+ 			      "Feedback"]		
+		}
+}

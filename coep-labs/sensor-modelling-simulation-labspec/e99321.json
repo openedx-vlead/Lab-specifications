@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99321",
+	 	"name": "Characterize the LVDT",
+	 	"overview": "This experiments deals with Characterize the LVDT",
+	 	"sections" : ["Aim", 
+ 			      "Pre Test", 
+ 			      "Theory", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Post Test", 
+ 			      "Review Questions", 
+ 			      "Reference"]		
+		}
+}

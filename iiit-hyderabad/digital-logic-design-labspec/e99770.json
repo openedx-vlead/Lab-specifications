@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e99770",
+	 	"name": "Multiplexer",
+	 	"overview": "This experiments deals with Multiplexer",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quiz", 
+ 			      "Procedure", 
+ 			      "Read", 
+ 			      "Feedback"]		
+		}
+}

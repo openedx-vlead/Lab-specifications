@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99922",
+	 	"name": "To simulate Pacemaker",
+	 	"overview": "This experiments deals with To simulate Pacemaker",
+	 	"sections" : ["Aim", 
+ 			      "Pre-test", 
+ 			      "Theory", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Post-test", 
+ 			      "Conclusion"]		
+		}
+}

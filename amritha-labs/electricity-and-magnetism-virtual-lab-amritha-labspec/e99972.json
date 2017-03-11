@@ -1,0 +1,7 @@
+{"experiment": {"id":  "e99972",
+	 	"name": "Temperature Coefficient of Resistance",
+	 	"overview": "This experiments deals with Temperature Coefficient of Resistance",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
+		}
+}

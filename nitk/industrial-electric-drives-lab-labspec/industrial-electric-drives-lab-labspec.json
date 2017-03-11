@@ -1,0 +1,7 @@
+{"lab": {"id":  "eee08",
+	 "name": "Industrial Electric Drives",
+	 "overview": "This lab deals with Industrial Electric Drives",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99396, e99395, e99394, e99393, e99392, e99391, e99390, e99389, e99388, e99387]}]
+	}
+}

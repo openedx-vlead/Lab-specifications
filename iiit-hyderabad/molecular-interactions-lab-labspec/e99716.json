@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99716",
+	 	"name": "van der Waals forces between molecules",
+	 	"overview": "This experiments deals with van der Waals forces between molecules",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Further Readings"]		
+		}
+}

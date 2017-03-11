@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99601",
+	 	"name": "Experiment of Microwave Cavity",
+	 	"overview": "This experiments deals with Experiment of Microwave Cavity",
+	 	"sections" : ["To perform the experiments please download the following software:", 
+ 			      "Manual", 
+ 			      "Pre Experiment Quiz", 
+ 			      "Demo", 
+ 			      "Experiment", 
+ 			      "Post Experiment Quiz", 
+ 			      "Feedback"]		
+		}
+}

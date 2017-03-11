@@ -1,0 +1,10 @@
+{"experiment": {"id":  "e99501",
+	 	"name": "Stator Resistance Starter",
+	 	"overview": "This experiments deals with Stator Resistance Starter",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Experiment", 
+ 			      "Quiz"]		
+		}
+}

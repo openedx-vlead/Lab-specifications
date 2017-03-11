@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e99433",
+	 	"name": "Numerical characterization of laminar premixed methane-air flames",
+	 	"overview": "This experiments deals with Numerical characterization of laminar premixed methane-air flames",
+	 	"sections" : ["Aim", 
+ 			      "Intro", 
+ 			      "Theory", 
+ 			      "About Exp", 
+ 			      "Results", 
+ 			      "Simulation", 
+ 			      "Conclusions", 
+ 			      "FAQs", 
+ 			      "References"]		
+		}
+}

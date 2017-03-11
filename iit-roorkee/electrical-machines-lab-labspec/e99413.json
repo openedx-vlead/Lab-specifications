@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99413",
+	 	"name": "Load Characteristics of DC shunt generator",
+	 	"overview": "This experiments deals with Load Characteristics of DC shunt generator",
+	 	"sections" : ["THEORY", 
+ 			      "OBJECTIVE", 
+ 			      "EQUIPMENT USED", 
+ 			      "EXPERIMENT", 
+ 			      "QUIZZES", 
+ 			      "PROCEDURE", 
+ 			      "FURTHER READINGS"]		
+		}
+}

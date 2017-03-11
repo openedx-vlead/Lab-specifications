@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99359",
+	 	"name": "Direct Shear Test On Mild Steel Rod",
+	 	"overview": "This experiments deals with Direct Shear Test On Mild Steel Rod",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Self Evaluation", 
+ 			      "Simulator", 
+ 			      "Assignment", 
+ 			      "Reference", 
+ 			      "Video", 
+ 			      "Quiz"]		
+		}
+}

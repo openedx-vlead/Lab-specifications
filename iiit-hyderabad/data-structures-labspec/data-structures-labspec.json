@@ -1,0 +1,7 @@
+{"lab": {"id":  "cse01",
+	 "name": "Data Structures",
+	 "overview": "This lab deals with Data Structures",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99780, e99779, e99778, e99777, e99776, e99775, e99774, e99773, e99772]}]
+	}
+}

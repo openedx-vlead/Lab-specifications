@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99597",
+	 	"name": "Antenna Gain measurement",
+	 	"overview": "This experiments deals with Antenna Gain measurement",
+	 	"sections" : ["To perform the experiments please download the following software:", 
+ 			      "Manual", 
+ 			      "Pre Experiment Quiz", 
+ 			      "Demo", 
+ 			      "Experiment", 
+ 			      "Post Experiment Quiz", 
+ 			      "Feedback"]		
+		}
+}

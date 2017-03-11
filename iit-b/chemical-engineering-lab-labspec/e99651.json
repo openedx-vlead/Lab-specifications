@@ -1,0 +1,12 @@
+{"experiment": {"id":  "e99651",
+	 	"name": "Adiabatic calorimetry",
+	 	"overview": "This experiments deals with Adiabatic calorimetry",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Pre-Test", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Reference", 
+ 			      "Feedback"]		
+		}
+}

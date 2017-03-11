@@ -1,0 +1,13 @@
+{"experiment": {"id":  "e99706",
+	 	"name": "N-Grams",
+	 	"overview": "This experiments deals with N-Grams",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Quizzes", 
+ 			      "Procedure", 
+ 			      "Further Readings", 
+ 			      "Feedback"]		
+		}
+}

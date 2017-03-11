@@ -1,0 +1,11 @@
+{"experiment": {"id":  "e99502",
+	 	"name": "Blocked-Rotor Test",
+	 	"overview": "This experiments deals with Blocked-Rotor Test",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Experiment", 
+ 			      "Solved Examples", 
+ 			      "Quiz"]		
+		}
+}

@@ -1,0 +1,10 @@
+{"experiment": {"id":  "e99777",
+	 	"name": "Polynomials via Linked Lists",
+	 	"overview": "This experiments deals with Polynomials via Linked Lists",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Simulation", 
+ 			      "Quizzes"]		
+		}
+}
