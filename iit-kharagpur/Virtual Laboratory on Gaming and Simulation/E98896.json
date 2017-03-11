@@ -1,0 +1,15 @@
+{"experiment": {"id":  "e98896",
+                "name": "15 Liter Bio-reactor Cultivation",
+                "discipline_id": "Industrial and Systems Engineering",
+                "institute_id": "iitkgp",
+                "developers": [{"name":"dev1", "email": "dev1_id"},
+                                {"name":"dev2", "email": "dev2_id"},
+                "hosting_info": [{"hosting_status": "host_status", "hosted_on": "host_on", "hosted_url": "http://iitd.vlab.co.in/?sub=63&brch=177&sim=1644&cnt=2"},
+                                 {"hosting_status": "host_status", "hosted_on": "host_on", "hosted_url": "http://iitd.vlab.co.in/?sub=63&brch=177&sim=1644&cnt=2"}],
+                "integration_level": "4",
+                "assets": [{"asset_type": "Images", "path": "vlabs.ac.in/images/static/logo.png"},
+                            {"asset_type": "Videos", "path": "vlabs.ac.in/video/abc.mkv"}],
+                "sections" : ["Procedure ", 
+ 							 "Feedback "]
+              }
+}

@@ -1,0 +1,21 @@
+{"experiment": {"id":  "e98886",
+                "name": "Experiment-10 : Supply Chain Risks",
+                "discipline_id": "Mining Engineering",
+                "institute_id": "iitkgp",
+                "developers": [{"name":"dev1", "email": "dev1_id"},
+                                {"name":"dev2", "email": "dev2_id"},
+                "hosting_info": [{"hosting_status": "host_status", "hosted_on": "host_on", "hosted_url": "http://vlabs.iitkgp.ernet.in/gs/riskpooling_homepage.html"},
+                                 {"hosting_status": "host_status", "hosted_on": "host_on", "hosted_url": "http://vlabs.iitkgp.ernet.in/gs/riskpooling_homepage.html"}],
+                "integration_level": "4",
+                "assets": [{"asset_type": "Images", "path": "vlabs.ac.in/images/static/logo.png"},
+                            {"asset_type": "Videos", "path": "vlabs.ac.in/video/abc.mkv"}],
+                "sections" : ["Home", 
+ 							 "Theory»", 
+ 							 "Procedure»", 
+ 							 "Simulator»", 
+ 							 "Reference", 
+ 							 "Assignment", 
+ 							 "Self Evaluation", 
+ 							 "Feedback"]
+              }
+}

@@ -1,0 +1,20 @@
+{"experiment": {"id":  "e98975",
+                "name": "TC: Temperature control using ATmega16",
+                "discipline_id": "ece",
+                "institute_id": "iitkgp",
+                "developers": [{"name":"dev1", "email": "dev1_id"},
+                                {"name":"dev2", "email": "dev2_id"},
+                "hosting_info": [{"hosting_status": "host_status", "hosted_on": "host_on", "hosted_url": "http://vlabs.iitkgp.ernet.in/rtes/exp16/index.html"},
+                                 {"hosting_status": "host_status", "hosted_on": "host_on", "hosted_url": "http://vlabs.iitkgp.ernet.in/rtes/exp16/index.html"}],
+                "integration_level": "4",
+                "assets": [{"asset_type": "Images", "path": "vlabs.ac.in/images/static/logo.png"},
+                            {"asset_type": "Videos", "path": "vlabs.ac.in/video/abc.mkv"}],
+                "sections" : ["Introduction", 
+ 							 "Prerequisite", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "References"]
+              }
+}

@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e99177",
+                "name": "Fabrication of Plant modified Electrodes. (Not experimental)",
+                "discipline_id": "chem-engg",
+                "institute_id": "iitkgp",
+                "developers": [{"name":"dev1", "email": "dev1_id"},
+                                {"name":"dev2", "email": "dev2_id"},
+                "hosting_info": [{"hosting_status": "host_status", "hosted_on": "host_on", "hosted_url": "http://220.227.100.58/Experiments/onlineExperiments/Experiment8/introduction.aspx"},
+                                 {"hosting_status": "host_status", "hosted_on": "host_on", "hosted_url": "http://220.227.100.58/Experiments/onlineExperiments/Experiment8/introduction.aspx"}],
+                "integration_level": "4",
+                "assets": [{"asset_type": "Images", "path": "vlabs.ac.in/images/static/logo.png"},
+                            {"asset_type": "Videos", "path": "vlabs.ac.in/video/abc.mkv"}],
+                "sections" : ["Introduction"]
+              }
+}
