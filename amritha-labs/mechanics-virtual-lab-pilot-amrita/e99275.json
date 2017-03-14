@@ -1,7 +1,0 @@
-{"experiment": {"id":  "e99275",
-	 	"name": "Elastic and Inelastic Collision",
-	 	"overview": "This experiments deals with Elastic and Inelastic Collision",
-	 	"sections" : ["Simulator", 
- 			      "Animation"]		
-		}
-}

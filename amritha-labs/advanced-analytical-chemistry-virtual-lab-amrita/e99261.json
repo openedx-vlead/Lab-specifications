@@ -1,7 +1,0 @@
-{"experiment": {"id":  "e99261",
-	 	"name": "Flame Photometry",
-	 	"overview": "This experiments deals with Flame Photometry",
-	 	"sections" : ["Simulator", 
- 			      "Animation"]		
-		}
-}

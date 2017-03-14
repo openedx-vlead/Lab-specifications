@@ -1,7 +1,0 @@
-{"experiment": {"id":  "e99967",
-	 	"name": "Deflection Magnetometer",
-	 	"overview": "This experiments deals with Deflection Magnetometer",
-	 	"sections" : ["Simulator", 
- 			      "Animation"]		
-		}
-}

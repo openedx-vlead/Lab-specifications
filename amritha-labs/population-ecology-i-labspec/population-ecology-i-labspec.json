@@ -1,7 +1,0 @@
-{"lab": {"id":  "biotech18",
-	 "name": "Population ecology Virtual Lab I",
-	 "overview": "This lab deals with Population ecology Virtual Lab I",
-	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99958, e99957, e99956, e99955, e99954, e99953, e99952, e99951]}]
-	}
-}

@@ -1,7 +1,0 @@
-{"experiment": {"id":  "e99998",
-	 	"name": "Light Microscope",
-	 	"overview": "This experiments deals with Light Microscope",
-	 	"sections" : ["Simulator", 
- 			      "Animation"]		
-		}
-}

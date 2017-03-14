@@ -1,7 +1,0 @@
-{"experiment": {"id":  "e99964",
-	 	"name": "Diffraction Grating",
-	 	"overview": "This experiments deals with Diffraction Grating",
-	 	"sections" : ["Simulator", 
- 			      "Animation"]		
-		}
-}

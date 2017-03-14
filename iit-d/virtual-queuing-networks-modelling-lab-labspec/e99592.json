@@ -1,9 +1,0 @@
-{"experiment": {"id":  "e99592",
-	 	"name": "Experiment-4",
-	 	"overview": "This experiments deals with Experiment-4",
-	 	"sections" : ["Live Simulation of M/G/1 , G/M/1 , G/G/1 - Single Server", 
- 			      "Examples of M/G/1 , G/M/1 , G/G/1 - Single Server", 
- 			      "Live Simulation of M/G/c , G/M/c, G/G/c - Finite Servers", 
- 			      "Examples of M/G/1 , G/M/1 , G/G/1 - Finite Servers"]		
-		}
-}

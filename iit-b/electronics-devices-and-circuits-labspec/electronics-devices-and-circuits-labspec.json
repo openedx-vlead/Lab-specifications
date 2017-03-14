@@ -1,7 +1,0 @@
-{"lab": {"id":  "ece40",
-	 "name": "Electronic Devices and Circuits",
-	 "overview": "This lab deals with Electronic Devices and Circuits",
-	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99646, e99645, e99644, e99643, e99642, e99641, e99640, e99639, e99638, e99637, e99636]}]
-	}
-}

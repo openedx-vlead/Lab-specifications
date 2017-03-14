@@ -1,7 +1,0 @@
-{"lab": {"id":  "mv-iitg",
-	 "name": "Mechanical Vibration",
-	 "overview": "This lab deals with Mechanical Vibration",
-	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99531, e99530, e99529, e99528, e99527, e99526, e99525, e99524, e99523, e99522]}]
-	}
-}

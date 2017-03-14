@@ -1,7 +1,0 @@
-{"lab": {"id":  "civil16",
-	 "name": "Virtual Smart Structures and Dynamics Laboratory",
-	 "overview": "This lab deals with Virtual Smart Structures and Dynamics Laboratory",
-	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99583, e99582, e99581, e99580, e99579, e99578, e99577, e99576]}]
-	}
-}

@@ -1,7 +1,0 @@
-{"experiment": {"id":  "e99263",
-	 	"name": "Spectrophotometry",
-	 	"overview": "This experiments deals with Spectrophotometry",
-	 	"sections" : ["Simulator", 
- 			      "Animation"]		
-		}
-}

@@ -1,7 +1,0 @@
-{"experiment": {"id":  "e99254",
-	 	"name": "Estimation of Glucose",
-	 	"overview": "This experiments deals with Estimation of Glucose",
-	 	"sections" : ["Simulator", 
- 			      "Animation"]		
-		}
-}

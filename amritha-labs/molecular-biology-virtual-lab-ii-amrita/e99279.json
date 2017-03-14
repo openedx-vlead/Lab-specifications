@@ -1,7 +1,0 @@
-{"experiment": {"id":  "e99279",
-	 	"name": "Polymerase Chain Reaction (PCR)",
-	 	"overview": "This experiments deals with Polymerase Chain Reaction (PCR)",
-	 	"sections" : ["Simulator", 
- 			      "Animation"]		
-		}
-}
