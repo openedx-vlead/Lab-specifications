@@ -3,7 +3,7 @@
                 "discipline_id": "mech",
                 "institute_id": "iitkgp",
                 "developers": [{"name":"dev1", "email": "dev1_id"},
-                                {"name":"dev2", "email": "dev2_id"},
+                                {"name":"dev2", "email": "dev2_id"}],
                 "hosting_info": [{"hosting_status": "host_status", "hosted_on": "host_on", "hosted_url": "http://vlabs.iitkgp.ernet.in/kdm/exp12/index.html"},
                                  {"hosting_status": "host_status", "hosted_on": "host_on", "hosted_url": "http://vlabs.iitkgp.ernet.in/kdm/exp12/index.html"}],
                 "integration_level": "4",

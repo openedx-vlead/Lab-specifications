@@ -806,6 +806,365 @@
     {"id": "E99234", "name": "Purification by Steam Distillation or Crystallisation"},  
     {"id": "E99233", "name": "Separation of Compounds using Column Chromatography"},
     {"id": "E99232", "name": "Multilayer feedforward neural networks"} 
-
-    
+{"id": "E99231","name": "Gram Stain Technique"}
+{"id": "E99230","name": "Aseptic Technique and the Transfer of Microorganisms"}
+{"id": "E99229","name": "Streak Plate Method"}
+{"id": "E99228","name": "Motility Test"}
+{"id": "E99227","name": "Catalase and Coagulase Test"}
+{"id": "E99226","name": "Selective and Differential Media for Identifying Microorganisms"}
+{"id": "E99225","name": "Lecithinase Test"}
+{"id": "E99224","name": "Bacterial Growth Curve"}
+{"id": "E99223","name": "Carbohydrate Fermentation Test"}
+{"id": "E99222","name": "Differential and Cytological Staining Techniques"}
+{"id": "E99221","name": "Antibiotic Susceptibility Testing"}
+	{"id": "E99220","name": "Methylene Blue Reductase Test"}
+	{"id": "E99219","name": "Voges-Proskauer Test"}
+	{"id": "E99218","name": "Triple Sugar Iron Agar "}
+	{"id": "E99217","name": "Urease Test"}
+	{"id": "E99216","name": "Litmus Milk Test"}
+	{"id": "E99215","name": "Slide Culture Technique for Fungi"}
+	{"id": "E99214","name": "Bacteriophage Plaque Assay for Phage Titer"}
+	{"id": "E99213","name": "Isolation and Identification of Auxotrophic and Drug Resistant Mutants"}
+	{"id": "E99212","name": "Routes of Viral Inoculation in Embryonated Eggs"}
+	{"id": "E99211","name": "16S Ribosomal RNA Sequencing"}
+	{"id": "E99210","name": "Torque and angular acceleration of a fly wheel"}
+	{"id": "E99209","name": "Torsional oscillations in different liquids"}
+	{"id": "E99208","name": "Collision balls"}
+	{"id": "E99207","name": "Melde's String Apparatus"}
+	{"id": "E99206","name": "Kundt's Tube Apparatus"}
+	{"id": "E99205","name": "Ultrasonic Interferometer"}
+	{"id": "E99204","name": "Doppler Effect"}
+	{"id": "E99203","name": "A.C Sonometer"}
+	{"id": "E99202","name": "Colpitts Oscillator"}
+	{"id": "E99201","name": "Hartley Oscillator"}
+	{"id": "E99200","name": "Franck-Hertz Experiment"}
+	{"id": "E99199","name": "Soldering (Remote Trigger)"}
+	{"id": "E99198","name": "Solar Panel Experiment (Remote Trigger)"}
+	{"id": "E99197","name": "Photoelectric effect"}
+	{"id": "E99196","name": "Determination of Planck's Constant"}
+	{"id": "E99195","name": "Abbe's Refractometer"}
+	{"id": "E99194","name": "Emission spectra"}
+	{"id": "E99193","name": "Millikan's oil drop experiment"}
+	{"id": "E99192","name": "Magnetic Material Characterization via Hystersis (Remote Trigger)"}
+	{"id": "E99191","name": "Michelson's Interferometer- Refractive index of glass plate "}
+	{"id": "E99190","name": "Newton's Rings-Refractive index of liquid"}
+	{"id": "E99189","name": "Michelson's Interferometer- Wavelength of laser beam "}
+	{"id": "E99188","name": "Laser beam divergence and spot size"}
+	{"id": "E99187","name": "Newton's Rings-Wavelength of light"}
+	{"id": "E99186","name": "Brewsters Angle determination"}
+	{"id": "E99185","name": "Numerical Aperture of Optical Fiber"}
+	{"id": "E99184","name": "Introduction to Electrochemical Technique-Cyclic Voltammetry of Ferricyanide System."}
+	{"id": "E99183","name": "Determination of Heavy Metals in Yamuna River Water by Differential Pulse Anodic Stripping Voltammetry."}
+	{"id": "E99182","name": "Study of Electrochemical behaviour of Ascorbic Acid by CNT Electrode."}
+	{"id": "E99181","name": "Electrochemical Study of Acetaminophen in Paracetamol Tablet."}
+	{"id": "E99180","name": "Simultaneous Determination Of Heavy Metals In Water Samples Using Boron Doped Diamond Electrode."}
+	{"id": "E99179","name": "Electrochemical study of ferri/ferro system with MUX MULTI4 Module."}
+	{"id": "E99178","name": "Measurement of electrode impedance by Electrochemical Impedance Spectroscopy."}
+	{"id": "E99177","name": "Fabrication of Plant modified Electrodes. (Not experimental)"}
+	{"id": "E99176","name": "Stirred tank heater"}
+	{"id": "E99175","name": "Heat Exchanger"}
+	{"id": "E99174","name": "Flash Drum"}
+	{"id": "E99173","name": "Continuous Stirred Tank Reactor"}
+	{"id": "E99172","name": "Adsorption"}
+	{"id": "E99171","name": "Feedbatch Fermentor"}
+	{"id": "E99170","name": "Membrane separation"}
+	{"id": "E99169","name": "Polymerization reactor"}
+	{"id": "E99168","name": "Flow Through Pipes:"}
+	{"id": "E99167","name": "Flow Through Fittings:"}
+	{"id": "E99166","name": "Flow through orifice meter:"}
+	{"id": "E99165","name": "Flow through Venturi meter:"}
+	{"id": "E99164","name": "Flow through Packed Bed:"}
+	{"id": "E99163","name": "Flow through Fluidized Bed:"}
+	{"id": "E99162","name": "Reaction kinetic studies in a batch reactor:"}
+	{"id": "E99161","name": "Reaction kinetic studies in a mixed flow reactor:"}
+	{"id": "E99160","name": "Reaction kinetic studies in a plug flow reactor:"}
+	{"id": "E99159","name": "Identifying the Requirements from Problem Statements"}
+	{"id": "E99158","name": "Estimation of Project Metrics"}
+	{"id": "E99157","name": "Modeling UML Use Case Diagrams and Capturing Use Case Scenarios"}
+	{"id": "E99156","name": "E-R Modeling from the Problem Statements"}
+	{"id": "E99155","name": "Identifying Domain Classes from the Problem Statements"}
+	{"id": "E99154","name": "Statechart and Activity Modeling"}
+	{"id": "E99153","name": "Modeling UML Class Diagrams and Sequence diagrams"}
+	{"id": "E99152","name": "Modeling Data Flow Diagrams"}
+	{"id": "E99151","name": "Estimation of Test Coverage Metrics and Structural Complexity"}
+	{"id": "E99150","name": "Designing Test Suites"}
+	{"id": "E99149","name": "1a : Full Wave Rectifier"}
+	{"id": "E99148","name": "1b : Full Wave Rectifier With Source Inductance"}
+	{"id": "E99147","name": "2 : 3 Phase Rectifier With Source Inductance"}
+	{"id": "E99146","name": "3a : Buck Converter"}
+	{"id": "E99145","name": "3b : Boost Converter"}
+	{"id": "E99144","name": "3c : Buck Boost Converter"}
+	{"id": "E99143","name": "4a : Single Phase VSI With Square Wave PWM"}
+	{"id": "E99142","name": "4b : Single Phase VSI with Single PWM"}
+	{"id": "E99141","name": "4c : Single Phase VSI with Sine-Triangular PWM"}
+	{"id": "E99140","name": "5 : DC motor starting and braking"}
+	{"id": "E99139","name": "6 : DC Motor Speed Control"}
+	{"id": "E99138","name": "7 : Induction Motor Starting and Braking"}
+	{"id": "E99137","name": "8 : V/F Control Of VSI Fed Three-Phase Induction Motor"}
+	{"id": "E99136","name": "9 : Rotor Resistance Control of Wound Rotor Induction Motor"}
+	{"id": "E99135","name": "Verification of Norton Theorem"}
+	{"id": "E99134","name": "Verification of Thevenin Theorem"}
+	{"id": "E99133","name": "Verification of Tellegen's Theorem"}
+	{"id": "E99132","name": "Verification of Superposition Theorem"}
+	{"id": "E99131","name": "Verification of Millman’s Theorem"}
+	{"id": "E99130","name": "Three Phase Power Measurement"}
+	{"id": "E99129","name": "R-L-C Circuit Analysis"}
+	{"id": "E99128","name": "Tests on Single Phase Transformer"}
+	{"id": "E99127","name": "Verification of Compensation Theorem"}
+	{"id": "E99126","name": "Verification of Reciprocity Theorem"}
+	{"id": "E99125","name": "Verification of Maximum Power Transfer Theorem"}
+	{"id": "E99124","name": "Measurement of Self Inductance by Maxwell Bridge"}
+	{"id": "E99123","name": "Determination of different parameters of Two-port network and verification of their interrelations"}
+	{"id": "E99122","name": "Measurement of Capacitance by Carey Foster Bridge"}
+	{"id": "E99121","name": "Measurement of Self Inductance of High Quality Factor Coil by Hay's Bridge"}
+	{"id": "E99120","name": "To study the Kelvin Double Bridge for Low resistance measurement"}
+	{"id": "E99119","name": "Measurement of Self Inductance by Maxwell's Bridge"}
+	{"id": "E99118","name": "Q meter Experiment"}
+	{"id": "E99117","name": "Measurement of Capacitance by Wien Series Bridge"}
+	{"id": "E99116","name": "Measurement of Capacitance by De Sauty's (Modified) bridge"}
+	{"id": "E99115","name": "Mesurement of Self Inductance by Owen Bridge"}
+	{"id": "E99114","name": "Measurement of Self-Inductance by Maxwell Bridge"}
+	{"id": "E99113","name": "Measurement of Capacitance by Schering Bridge"}
+	{"id": "E99112","name": "Measurement of Self Inductance accurately by Anderson's Bridge"}
+	{"id": "E99111","name": "To study the Wien Robinson's Frequency Bridge"}
+	{"id": "E99110","name": "To find Galvanometer Constant"}
+	{"id": "E99109","name": "To determine Mutual Inductance measurement by Campbell's Modification of Heaviside Bridge"}
+	{"id": "E99108","name": "To determine the High Resistance by Megohm Bridge method"}
+	{"id": "E99107","name": "Precision Resistance Measurement by Carey Foster Slide-Wire Bridge"}
+	{"id": "E99106","name": "Mutual Inductance measurement by Heydweiller Bridge"}
+	{"id": "E99105","name": "Simple Drawing Board"}
+	{"id": "E99104","name": "Position Analysis of a 4 Bar RRPR Grashofian Inverted Slider Crank Mechanism"}
+	{"id": "E99103","name": "Position Analysis of a 4 Bar RRRR Grashofian Double Crank Mechanism"}
+	{"id": "E99102","name": "Position Analysis of a 4 Bar RRRR Grashofian Crank Rocker Mechanism"}
+	{"id": "E99101","name": "Position Analysis of a 4 Bar RRRR Grashofian Double Rocker Mechanism"}
+	{"id": "E99100","name": "Position Analysis of a 4 Bar RRRR Non Grashofian Double Rocker Mechanism"}
+	{"id": "E99099","name": "Position Analysis of a 4 Bar RRRP Grashofian Slider Crank Mechanism"}
+	{"id": "E99098","name": "Position Analysis of a 4 Bar RRPR Grashofian Inverted Slider Crank Rocker Mechanism"}
+	{"id": "E99097","name": "Position Analysis of a 4 Bar RPRR Grashofian Inverted Slider Crank Mechanism"}
+	{"id": "E99096","name": "Position Analysis of a 4 Bar RPRR Grashofian Inverted Slider Crank Rocker Mechanism"}
+	{"id": "E99095","name": "Three Point Path Synthesis with a RRRR Mechanism"}
+	{"id": "E99094","name": "Position Analysis of Spherical 4 Bar Mechanisms"}
+	{"id": "E99093","name": "Peaucellier Mechanism"}
+	{"id": "E99092","name": "Three Position Rigid Body Guidance with a RRRR Mechanism"}
+	{"id": "E99091","name": "Hart Straight Line Mechanism 1"}
+	{"id": "E99090","name": "Hart Straight Line Mechanism 2"}
+	{"id": "E99089","name": "Kempe Straight Line Mechanism"}
+	{"id": "E99088","name": "Three Position Coordinated Motion Synthesis with a RRRR Mechanism"}
+	{"id": "E99087","name": "Simulation of Universal Joint"}
+	{"id": "E99086","name": "Three Position Rigid Body Guidance with a RRRP Mechanism"}
+	{"id": "E99085","name": "Position Analysis of a 4 Bar RRRP Grashofian Slider Rocker Mechanism"}
+	{"id": "E99084","name": "Position Analysis of a 4 Bar RRRP Non Grashofian Slider Rocker Mechanism"}
+	{"id": "E99083","name": "Position Analysis of a 4 Bar RRPR Non Grashofian Inverted Slider Double Rocker Mechanism"}
+	{"id": "E99082","name": "Dead Center Synthesis with RRRR Mechanism"}
+	{"id": "E99081","name": "Dead Center Synthesis with RRRP Mechanism"}
+	{"id": "E99080","name": "Two Position Coordinated Motion Synthesis with a RRRP Mechanism"}
+	{"id": "E99079","name": "Three Position Coordinated Motion Synthesis with a RRRP Mechanism"}
+	{"id": "E99078","name": "Two Position Coordinated Motion Synthesis with a RRRR Mechanism"}
+	{"id": "E99077","name": "Four Point Path Synthesis with a RRRR Mechanism"}
+	{"id": "E99076","name": "Three Point Path Synthesis with Coordinated Motion using a RRRR Mechanism"}
+	{"id": "E99075","name": "Fourbar Mechanism"}
+	{"id": "E99074","name": "The Slider Crank mechanism"}
+	{"id": "E99073","name": "Forward Kinematics 5R Robot Manipulator"}
+	{"id": "E99072","name": "Forward Kinematics of 6R Robot Manipulator"}
+	{"id": "E99071","name": "Inverse Kinematics of a 6R robot"}
+	{"id": "E99070","name": "Multi-link"}
+	{"id": "E99069","name": "KGP 50"}
+	{"id": "E99068","name": "Open loop characteristics of DC motor"}
+	{"id": "E99067","name": "Closed loop characteristics of DC motor with Proportional Control"}
+	{"id": "E99066","name": "Closed loop characteristics of DC motor with Proportional Integral and Derivative Control(Continuous)"}
+	{"id": "E99065","name": "Control of one degree of freedom revolute type robot arm"}
+	{"id": "E99064","name": "Control of Underwater robot"}
+	{"id": "E99063","name": "Closed loop characteristics of DC motor with Proportional and Integral Control"}
+	{"id": "E99062","name": "Closed loop characteristics of DC motor with Proportional and Derivative Control"}
+	{"id": "E99061","name": "Closed loop characteristics of DC motor with Proportional Integral and Derivative Control(Discrete)"}
+	{"id": "E99060","name": "Machinery Soft-Foot"}
+	{"id": "E99059","name": "Effects of Bent Shafts on Rotor Performance"}
+	{"id": "E99058","name": "Cavitation of Centrifugal Pump"}
+	{"id": "E99057","name": "Sympathetic Vibrations and its Effects"}
+	{"id": "E99056","name": "Bearing Defects of Various Types"}
+	{"id": "E99055","name": "Mechanical Looseness"}
+	{"id": "E99054","name": "Diagnosis of Shaft Misalignment and its Effects"}
+	{"id": "E99053","name": "Static Balancing Studies of Rotary Systems"}
+	{"id": "E99052","name": "Oil Whirl Monitoring"}
+	{"id": "E99051","name": "Basics of Dynamic Signals"}
+	{"id": "E99050","name": "Pump Impeller Fault Detection"}
+	{"id": "E99049","name": "Basics of Frequency Domain Signal Analysis"}
+	{"id": "E99048","name": "Frequency Response of Mechanical Systems"}
+	{"id": "E99047","name": "Time-Frequency Analysis of Mechanical Systems"}
+	{"id": "E99046","name": "Responses of First and Second Order Mechanical Systems"}
+	{"id": "E99045","name": "Vibration Monitoring of Machineries by Wireless Technique"}
+	{"id": "E99044","name": "Electrical Motor Fault Detection by MCSA"}
+	{"id": "E99043","name": "Ultrasonics in Fault Detection"}
+	{"id": "E99042","name": "Gearbox Fault Detection"}
+	{"id": "E99041","name": "*Full-Wave Rectification"}
+	{"id": "E99040","name": "Voltage Tripler"}
+	{"id": "E99039","name": "Varactor Tuner"}
+	{"id": "E99038","name": "Tunnel Diode Oscillator"}
+	{"id": "E99037","name": "Voltage Quad"}
+	{"id": "E99036","name": "AM Detector"}
+	{"id": "E99035","name": "Voltage Doubler"}
+	{"id": "E99034","name": "Zener Diode Applications"}
+	{"id": "E99033","name": "FM Detector"}
+	{"id": "E99032","name": "*Diode Clamper"}
+	{"id": "E99031","name": "*Diode Clipper"}
+	{"id": "E99030","name": "*Diode Limiter"}
+	{"id": "E99029","name": "*Push Pull Amplifier"}
+	{"id": "E99028","name": "*Integrator"}
+	{"id": "E99027","name": "*Non-Inverting Amplifier"}
+	{"id": "E99026","name": "*Voltage Follower"}
+	{"id": "E99025","name": "Summing amplifier"}
+	{"id": "E99024","name": "*Halfwave Rectifier"}
+	{"id": "E99023","name": "*Logarithmic Amplifier"}
+	{"id": "E99022","name": "Schmitt Trigger"}
+	{"id": "E99021","name": "*Inverting Amplifier"}
+	{"id": "E99020","name": "*Astable Multi-Vibrator"}
+	{"id": "E99019","name": "Monostable Multi-Vibrator"}
+	{"id": "E99018","name": "*RC-Integrator"}
+	{"id": "E99017","name": "*RC-Differentiator"}
+	{"id": "E99016","name": "To Design, implement and Simulate the Full adder using two half adder."}
+	{"id": "E99015","name": "To Design, implement and Simulate the 3 : 8 Decoder."}
+	{"id": "E99014","name": "To Design, implement and Simulate the 16 : 1 Multiplexer using 4 : 1 Multiplexer."}
+	{"id": "E99013","name": "To Design, implement and Simulate the Flip-Flop."}
+	{"id": "E99012","name": "To Design, implement and Simulate the Look ahead carry."}
+	{"id": "E99011","name": "To Design, implement and Simulate the Ring Counter."}
+	{"id": "E99010","name": "To Design, implement and Simulate the Binary to BCD code Converter by Showing BCD No. on 7segment Display."}
+	{"id": "E99009","name": "To Design, implement and Simulate the 4 bit comparator."}
+	{"id": "E99008","name": "To Design, implement and Simulate the Finite State Machine by Moore method."}
+	{"id": "E99007","name": "Diodes as Clampers"}
+	{"id": "E99006","name": "Diodes as Clippers"}
+	{"id": "E99005","name": "BJT as Switch and Load Lines"}
+	{"id": "E99004","name": "Understanding of Pathloss"}
+	{"id": "E99003","name": "Pathloss with Shadowing"}
+	{"id": "E99002","name": "Horizontal and Vertical Beam Pattern"}
+	{"id": "E99001","name": "Calculation of Boundary Coverage Probability"}
+	{"id": "E99000","name": "Sectoring"}
+	{"id": "E98999","name": "Handoff"}
+	{"id": "E98998","name": "Flat Fading"}
+	{"id": "E98997","name": "Frequency Selective Fading"}
+	{"id": "E98996","name": "Calculation of SINR including Beam Tilt"}
+	{"id": "E98995","name": "A: Downlink"}
+	{"id": "E98994","name": "B: Uplink"}
+	{"id": "E98993","name": "Frequency Reuse"}
+	{"id": "E98992","name": "A: Co-Channel Cells"}
+	{"id": "E98991","name": "B: Cell Cluster"}
+	{"id": "E98990","name": "Fatigue Test Experiment"}
+	{"id": "E98989","name": "DF-Part1: Digital FIR filter design and simulation"}
+	{"id": "E98988","name": "DF-Part7 Implementation of Digital FIR Filter on 8051 Microcontroller"}
+	{"id": "E98987","name": "HN-Part4: Implementation of Hopfield Network on ATMEGA-16 microcontroller"}
+	{"id": "E98986","name": "DF-Part2: Fixed point Implementation of Digital FIR Filter"}
+	{"id": "E98985","name": "DF-Part3: MCU-DAC interfacing and generation of ramp wave"}
+	{"id": "E98984","name": "DF-Part4: Interfacing of ADC and data trasnfer by software polling, study of aliasing"}
+	{"id": "E98983","name": "DF-Part5: ADC triggering through timer(On Chip Timer)"}
+	{"id": "E98982","name": "DF-Part6: Interrupt driven data transfer from ADC"}
+	{"id": "E98981","name": "SM-Part1: LCD - MCU interfacing and displaying a string"}
+	{"id": "E98980","name": "SM-Part2 Keyboard-MCU interfacing take a input from keypad and display on LCD"}
+	{"id": "E98979","name": "SM-Part3: Stepper Motor Control Using ATMEGA-16 Microcontroller"}
+	{"id": "E98978","name": "HN-Part1: Interface a LED matrix and display a number on the matrix."}
+	{"id": "E98977","name": "HN-Part2: Interfacing 4x4 switch matrix with the microcontroller"}
+	{"id": "E98976","name": "HN-Part3: Implementation of Hopfield network in C to recognize a simple ASCII character."}
+	{"id": "E98975","name": "TC: Temperature control using ATmega16"}
+	{"id": "E98974","name": "SC: Serial Communication between micro controller and PC"}
+	{"id": "E98973","name": "Basics of Network Simulation"}
+	{"id": "E98972","name": "Simulating a Local Area Network"}
+	{"id": "E98971","name": "Measuring Network Performance"}
+	{"id": "E98970","name": "Simulation of a Satellite Network"}
+	{"id": "E98969","name": "Simulating a Wi-Fi Network"}
+	{"id": "E98968","name": "Simulating a WiMAX Network"}
+	{"id": "E98967","name": "Simulating a Mobile Adhoc Network"}
+	{"id": "E98966","name": "Simulating a Wireless Sensor Network"}
+	{"id": "E98965","name": "Setting up a Bluetooth Network"}
+	{"id": "E98964","name": "Setting up a ZigBee Network"}
+	{"id": "E98963","name": "Analysis of Functions of BCD-TO-7-segment Decoder / Driver and Operation of 7-segment LED Display"}
+	{"id": "E98962","name": "Analysis and Synthesis of Sequential Circuits using Basic Flip-Flops"}
+	{"id": "E98961","name": "Analysis and Synthesis of Multi-bit Sequential Circuits using Shift Registers"}
+	{"id": "E98960","name": "Design of Arithmetic Logic Unit (ALU)"}
+	{"id": "E98959","name": "Characterization of Digital Logic Families"}
+	{"id": "E98958","name": "Analysis and Synthesis of Boolean Expressions using Basic Logic Gates"}
+	{"id": "E98957","name": "Analysis and Synthesis of Logic Functions using Multiplexers"}
+	{"id": "E98956","name": "Analysis and Synthesis of Logic Functions using Decoders"}
+	{"id": "E98955","name": "Analysis and Synthesis of Boolean Relations using Digital Comparators"}
+	{"id": "E98954","name": "Analysis and Synthesis of Arithmetic Expressions using Adders / Subtractors"}
+	{"id": "E98953","name": "Study of sampling theorem, effect of undersampling."}
+	{"id": "E98952","name": "Study of Transform domain properties and its use. ."}
+	{"id": "E98951","name": "Study of Quantization of continuous-amplitude, discrete-time analog signals."}
+	{"id": "E98950","name": "Study of different types of Companding Techniques."}
+	{"id": "E98949","name": "Study of properties of Linear time-invariant system."}
+	{"id": "E98948","name": "Study of convolution: series and parallel system."}
+	{"id": "E98947","name": "Study of Discrete Fourier Transform (DFT) and its inverse."}
+	{"id": "E98946","name": "Study of FIR filter design using window method: Lowpass and highpass filter."}
+	{"id": "E98945","name": "Study of FIR filter design using window method: Bandpass and Bandstop filter ."}
+	{"id": "E98944","name": "Study of Infinite Impulse Response (IIR) filter."}
+	{"id": "E98943","name": "Volume, Speed and Delay Study at Intersection"}
+	{"id": "E98942","name": "Calibration of Singly Constrained Gravity Model"}
+	{"id": "E98941","name": "Regression Analysis"}
+	{"id": "E98940","name": "Category Analysis"}
+	{"id": "E98939","name": "Growth Factor Distribution Modelis"}
+	{"id": "E98938","name": "Singly constrained Gravity Model"}
+	{"id": "E98937","name": "Doubly constrained Gravity Model"}
+	{"id": "E98936","name": "Calibration of Doubly Constrained Gravity Model"}
+	{"id": "E98935","name": "Mode Split"}
+	{"id": "E98934","name": "All or Nothing (AON) Assignment"}
+	{"id": "E98933","name": "System Optimal Assignment"}
+	{"id": "E98932","name": "User Equilibrium Assignment"}
+	{"id": "E98931","name": "Introduction to Fundamental of Fuzzy Logic and Basic Operations"}
+	{"id": "E98930","name": "Fuzzy Inference System(FIS)"}
+	{"id": "E98929","name": "Fuzzy Control and Application"}
+	{"id": "E98928","name": "Introduction to Neural Networks and Perceptron Example"}
+	{"id": "E98927","name": "Fuzzy Weighted Average and Application"}
+	{"id": "E98926","name": "Multilayer Perceptron and Application"}
+	{"id": "E98925","name": "Radial Basis Function and Application"}
+	{"id": "E98924","name": "Probabilitic Neural Networks and Application"}
+	{"id": "E98923","name": "Introduction to Probabilistic Reasoning and Baayesian Networks Application"}
+	{"id": "E98922","name": "Introduction to Evolutionary Algorithms and Fundamentals"}
+	{"id": "E98921","name": "Binary and Real Coded genetic Algorithms and Application"}
+	{"id": "E98920","name": "Genetic Expression Programming and Application"}
+	{"id": "E98919","name": "Bioreactor- Basics"}
+	{"id": "E98918","name": "Control Characteristics of pH Controller"}
+	{"id": "E98917","name": "Estimation of growth kinetic parameters in batch fermentation"}
+	{"id": "E98916","name": "Simultaneous measurement of specific growth / death rate of micro organisms"}
+	{"id": "E98915","name": "Determination of Volumeteric Mass Transfer Co-efficient (Dynamic method)"}
+	{"id": "E98914","name": "Determination of Volumeteric Mass Transfer Co-efficient (Oxygen balance method)"}
+	{"id": "E98913","name": "Development of mathematical model"}
+	{"id": "E98912","name": "Batch Microbial Cultivation"}
+	{"id": "E98911","name": "Fed-Batch Microbial Cultivation"}
+	{"id": "E98910","name": "Continuous Microbial Cultivation"}
+	{"id": "E98909","name": "Biopolymer Production by Microbes"}
+	{"id": "E98908","name": "Acetone-Butanol-Ethanol Fermentation"}
+	{"id": "E98907","name": "Propionic Acid Fermentation"}
+	{"id": "E98906","name": "1, 3 Propanediol Fermentation"}
+	{"id": "E98905","name": "Plant Cell Laboratory Experiment-Preparation of Plant Tissue Culture Medium"}
+	{"id": "E98904","name": "Plant Cell Laboratory Experiment-Callus Induction"}
+	{"id": "E98903","name": "Plant Cell Laboratory Experiment-Hairy Root Induction"}
+	{"id": "E98902","name": "Plant Cell Laboratory Experiment-Determination of cell viability by TTC"}
+	{"id": "E98901","name": "Plant Cell-Batch Cultivation"}
+	{"id": "E98900","name": "Animal Cell Batch Culture"}
+	{"id": "E98899","name": "Animal Cell Fed Batch Cultivation"}
+	{"id": "E98898","name": "Study of Enzyme Kinetics"}
+	{"id": "E98897","name": "Immobilization of whole cells"}
+	{"id": "E98896","name": "Zener Regulator"}
+	{"id": "E98895","name": "Differential Amplifier"}
+	{"id": "E98894","name": "*Differentiator"}
+	{"id": "E98893","name": "15 Liter Bio-reactor Cultivation"}
+	{"id": "E98892","name": "Experiment-1 : Dynamics of quality fluctuations"}
+	{"id": "E98891","name": "Experiment-2 : Simulation of Auction Markets"}
+	{"id": "E98890","name": "Experiment-3 : Project Investment"}
+	{"id": "E98889","name": "Experiment-4 : Production Distribution"}
+	{"id": "E98888","name": "Experiment-5 : Organizational Procurement"}
+	{"id": "E98887","name": "Experiment-6 : Inventory Decisions"}
+	{"id": "E98886","name": "Experiment-7 : Supply Chain Coordination"}
+	{"id": "E98885","name": "Experiment-8 : Bullwhip effect in multi-echelon supply chain"}
+	{"id": "E98884","name": "Experiment-9 : Limits to Growth System Archetype"}
+	{"id": "E98883","name": "Experiment-10 : Supply Chain Risks"}
+	{"id": "E98882","name": "Use of Assmann Psychrometer and estimation of Psychrometer properties."}
+	{"id": "E98881","name": "Calibration of Inclined Tube Manometer using Askania Minimeter."}
+	{"id": "E98880","name": "Determination of method factor of a duct."}
+	{"id": "E98879","name": "Calibration of orifice plates."}
+	{"id": "E98878","name": "Fan Rating Test."}
+	{"id": "E98877","name": "Establishment of the Relationship between Kata Cooling Power and Air Velocity"}
+	{"id": "E98876","name": "Determination of Shock Pressure Loss in Presence of Tub and Estimation of Drag coefficient"}
+	{"id": "E98875","name": "Determination of Frictional Co-efficient of Mine Airways"}
+	{"id": "E98874","name": "Precise Traversing in a Duct using Pitot Tube"}
+	{"id": "E98873","name": "Performance Evaluation of Mine Evasee Present in a Ventilation System"}
+	{"id": "E98872","name": "Equatorial orbit"}
+	{"id": "E98871","name": "Polar Orbit"}
 ]}

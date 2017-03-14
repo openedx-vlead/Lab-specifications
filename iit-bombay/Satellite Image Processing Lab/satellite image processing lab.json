@@ -1,0 +1,15 @@
+{"lab": {"id":  "civil11",
+                "name": "satellite image processing lab",
+                "discipline_id": "civil",
+                "institute_id": "iitb",
+                "developers": [{"name":"dev1", "email": "dev1_id"},
+                {"name":"dev2", "email": "dev2_id"}],
+                "hosting_info": [{"hosting_status": "host_status", "hosted_on": "host_on", "hosted_url": "http://10.142.141.68:8080/siplabs/"},
+                                    {"hosting_status": "host_status", "hosted_on": "host_on", "hosted_url": "http://10.142.141.68:8080/siplabs/"}],
+                "integration_level": "4",
+                "assets": [{"asset_type": "Images", "path": "vlabs.ac.in/images/static/logo.png"},
+                            {"asset_type": "Videos", "path": "vlabs.ac.in/video/abc.mkv"}],
+                "overview": "This lab deals with satellite image processing lab" , 
+                "experiments" : [""]
+              }
+}

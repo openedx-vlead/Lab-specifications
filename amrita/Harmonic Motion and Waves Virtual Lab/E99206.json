@@ -3,7 +3,7 @@
                 "discipline_id": "phy-sc",
                 "institute_id": "amrita",
                 "developers": [{"name":"dev1", "email": "dev1_id"},
-                                {"name":"dev2", "email": "dev2_id"},
+                                {"name":"dev2", "email": "dev2_id"}],
                 "hosting_info": [{"hosting_status": "host_status", "hosted_on": "host_on", "hosted_url": "http://vlab.amrita.edu/?sub=1&brch=201&sim=853&cnt=1"},
                                  {"hosting_status": "host_status", "hosted_on": "host_on", "hosted_url": "http://vlab.amrita.edu/?sub=1&brch=201&sim=853&cnt=1"}],
                 "integration_level": "4",
