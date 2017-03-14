@@ -1,7 +1,0 @@
-{"lab": {"id":  "mech21",
-	 "name": "Machine Dynamics and Mechanical Vibrations",
-	 "overview": "This lab deals with Machine Dynamics and Mechanical Vibrations",
-	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99386, e99385, e99384, e99383, e99382, e99381, e99380, e99379]}]
-	}
-}
