@@ -1,15 +1,15 @@
-﻿{"experiment": {"id":  "e99961",
-	 	    "name": "Spectrometer i-d Curve",
-	 	    "discipline_id": "phy-sc",
-	          "institute_id": "amrita",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": ""},
-	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": ""}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": "https://github.com/CreateAmrita/optics-virtual-lab","https://github.com/CreateAmrita/optics-virtual-lab"},
-	 			   {"asset_type": "Videos", "path": "https://github.com/CreateAmrita/optics-virtual-lab","https://github.com/CreateAmrita/optics-virtual-lab"}],
-	 	    "overview": "This experiments deals with Spectrometer i-d Curve",
-	 	    "sections" : ["Simulator", 
- 			        "Animation"]		
+{"experiment": {"id":  "e99961",
+	 	"name": "Spectrometer i-d Curve",
+	 	"discipline_id": "phy-sc",
+	        "institute_id": "amrita",
+	        "developers": [],
+	        "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": ""},
+			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": ""}],
+	        "integration_level": "6",
+	        "assets": [{"asset_type": "image", "path": ["https://github.com/CreateAmrita/optics-virtual-lab"]},
+	 		   {"asset_type": "video", "path": ["https://github.com/CreateAmrita/optics-virtual-lab"]}],
+	 	"overview": "This experiments deals with Spectrometer i-d Curve",
+	 	"sections" : ["Simulator", 
+ 			      "Animation"]		
 		}
 }

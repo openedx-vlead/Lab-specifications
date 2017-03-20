@@ -1,14 +1,14 @@
-﻿{"experiment": {"id":  "e99988",
-	 	    "name": "Cell Attachment",
-	 	    "discipline_id": "biotech",
-	          "institute_id": "amrita",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://cbii-au.vlabs.ac.in/"},
-	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://cbii-au.vlabs.ac.in/"}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": "https://github.com/CreateAmrita/cell-biology-virtual-lab-II","https://github.com/CreateAmrita/cell-biology-virtual-lab-II"},
-	 			   {"asset_type": "Videos", "path": "https://github.com/CreateAmrita/cell-biology-virtual-lab-II","https://github.com/CreateAmrita/cell-biology-virtual-lab-II"}],
-	 	    "overview": "This experiments deals with Cell Attachment",
-	 	    "sections" : ["Animation"]		
+{"experiment": {"id":  "e99988",
+	 	"name": "Cell Attachment",
+	 	"discipline_id": "biotech",
+	        "institute_id": "amrita",
+	        "developers": [],
+	        "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://cbii-au.vlabs.ac.in/"},
+			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://cbii-au.vlabs.ac.in/"}],
+	        "integration_level": "6",
+	        "assets": [{"asset_type": "image", "path": ["https://github.com/CreateAmrita/cell-biology-virtual-lab-II"]},
+	 		   {"asset_type": "video", "path": ["https://github.com/CreateAmrita/cell-biology-virtual-lab-II"]}],
+	 	"overview": "This experiments deals with Cell Attachment",
+	 	"sections" : ["Animation"]		
 		}
 }

@@ -1,14 +1,12 @@
-﻿{"experiment": {"id":  "e99978",
-	 	    "name": "Black Body Radiation",
-	 	    "discipline_id": "phy-sc",
-	          "institute_id": "amrita",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "", "hosted_url": "http://htv-au.vlabs.ac.in/"},
-	 		              {"hosting_status": "hosted", "hosted_on": "", "hosted_url": "http://htv-au.vlabs.ac.in/"}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": "https://github.com/CreateAmrita/electricity-magnetism-virtual-lab","https://github.com/CreateAmrita/electricity-magnetism-virtual-lab"},
-	 			   {"asset_type": "Videos", "path": "https://github.com/CreateAmrita/electricity-magnetism-virtual-lab","https://github.com/CreateAmrita/electricity-magnetism-virtual-lab"}],
-	 	    "overview": "This experiments deals with Black Body Radiation",
-	 	    "sections" : ["Simulator"]		
+{"experiment": {"id":  "e99978",
+	 	"name": "Black Body Radiation",
+	 	"discipline_id": "",
+	        "institute_id": "amrita",
+	        "developers": [],
+	        "hostinginfo": 	        "integration_level": "",
+	        "assets": [{"asset_type": "image", "path": [""]},
+	 		   {"asset_type": "video", "path": [""]}],
+	 	"overview": "This experiments deals with Black Body Radiation",
+	 	"sections" : ["Simulator"]		
 		}
 }

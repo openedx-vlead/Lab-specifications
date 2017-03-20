@@ -1,14 +1,14 @@
-﻿{"experiment": {"id":  "e99955",
-	 	    "name": "Logistic Population Growth: Continuous and Discrete",
-	 	    "discipline_id": "biotech",
-	          "institute_id": "amrita",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://pev-au.vlabs.ac.in/"},
-	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://pev-au.vlabs.ac.in/"}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/population-ecology-virtual-lab-i-au","https://github.com/Virtual-Labs/population-ecology-virtual-lab-i-au"},
-	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/population-ecology-virtual-lab-i-au","https://github.com/Virtual-Labs/population-ecology-virtual-lab-i-au"}],
-	 	    "overview": "This experiments deals with Logistic Population Growth: Continuous and Discrete",
-	 	    "sections" : ["Simulator"]		
+{"experiment": {"id":  "e99955",
+	 	"name": "Logistic Population Growth: Continuous and Discrete",
+	 	"discipline_id": "biotech",
+	        "institute_id": "amrita",
+	        "developers": [],
+	        "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://pevii-au.vlabs.ac.in/"},
+			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://pevii-au.vlabs.ac.in/"}],
+	        "integration_level": "6",
+	        "assets": [{"asset_type": "image", "path": ["https://github.com/Virtual-Labs/population-ecology-virtual-lab-ii-au"]},
+	 		   {"asset_type": "video", "path": ["https://github.com/Virtual-Labs/population-ecology-virtual-lab-ii-au"]}],
+	 	"overview": "This experiments deals with Logistic Population Growth: Continuous and Discrete",
+	 	"sections" : ["Simulator"]		
 		}
 }
