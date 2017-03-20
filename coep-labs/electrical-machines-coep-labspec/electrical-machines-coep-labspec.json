@@ -1,15 +1,15 @@
-﻿{"lab": {"id":  "eee10",
-	   "name": "Electrical Machines",
-	   "discipline_id": "ee",
-	   "institute_id": "coep",
-	   "developers": [],
-	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://em-coep.vlabs.ac.in","em-coep.vlabs.ac.in"},
-	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://em-coep.vlabs.ac.in","em-coep.vlabs.ac.in"}],
-	   "integration_level": "",
-	   "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/electrical-machines-coep","https://github.com/Virtual-Labs/electrical-machines-coep"},
-	 		  {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/electrical-machines-coep","https://github.com/Virtual-Labs/electrical-machines-coep"}],
-	   "overview": "This lab deals with Electrical Machines",
-	   "sections" : [{"name": "Introduction"},
-		           {"experiments": [e99917, e99916, e99915, e99914, e99913, e99912, e99911, e99910]}]
+{"lab": {"id":  "eee10",
+	 "name": "Electrical Machines",
+	 "discipline_id": "ee",
+	 "institute_id": "coep",
+	 "developers": [],
+	 "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://em-coep.vlabs.ac.in"},
+			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://em-coep.vlabs.ac.in"}],
+	 "integration_level": "6",
+	 "assets": [{"asset_type": "image", "path": ["https://github.com/Virtual-Labs/electrical-machines-coep"]},
+	 	    {"asset_type": "video", "path": ["https://github.com/Virtual-Labs/electrical-machines-coep"]}],
+	 "overview": "This lab deals with Electrical Machines",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99917, e99916, e99915, e99914, e99913, e99912, e99911, e99910]}]
 	}
 }

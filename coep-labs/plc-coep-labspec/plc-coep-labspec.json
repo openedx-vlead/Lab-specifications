@@ -1,15 +1,15 @@
-﻿{"lab": {"id":  "eee12",
-	   "name": "PLC",
-	   "discipline_id": "ee",
-	   "institute_id": "coep",
-	   "developers": [],
-	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://plc-coep.vlabs.ac.in","plc-coep.vlabs.ac.in"},
-	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://plc-coep.vlabs.ac.in","plc-coep.vlabs.ac.in"}],
-	   "integration_level": "",
-	   "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/programmable-logic-controller-coep","https://github.com/Virtual-Labs/programmable-logic-controller-coep"},
-	 		  {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/programmable-logic-controller-coep","https://github.com/Virtual-Labs/programmable-logic-controller-coep"}],
-	   "overview": "This lab deals with PLC",
-	   "sections" : [{"name": "Introduction"},
-		           {"experiments": [e99934, e99933, e99932, e99931, e99930, e99929, e99928, e99927]}]
+{"lab": {"id":  "eee12",
+	 "name": "PLC",
+	 "discipline_id": ", integration: ",
+	 "institute_id": "coep",
+	 "developers": [],
+	 "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": ""},
+			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": ""}],
+	 "integration_level": "6",
+	 "assets": [{"asset_type": "image", "path": ["https://github.com/Virtual-Labs/programmable-logic-controller-coep"]},
+	 	    {"asset_type": "video", "path": ["https://github.com/Virtual-Labs/programmable-logic-controller-coep"]}],
+	 "overview": "This lab deals with PLC",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99934, e99933, e99932, e99931, e99930, e99929, e99928, e99927]}]
 	}
 }
