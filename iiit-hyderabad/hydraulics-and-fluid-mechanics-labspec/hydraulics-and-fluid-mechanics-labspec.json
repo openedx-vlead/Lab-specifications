@@ -1,7 +1,0 @@
-{"lab": {"id":  "eerc03",
-	 "name": "Hydraulics and Fluid Mechanics",
-	 "overview": "This lab deals with Hydraulics and Fluid Mechanics",
-	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99761, e99760, e99759, e99758, e99757, e99756, e99755, e99754, e99753, e99752]}]
-	}
-}

@@ -1,7 +1,0 @@
-{"lab": {"id":  "cse29",
-	 "name": "Cryptography",
-	 "overview": "This lab deals with Cryptography",
-	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99790, e99789, e99788, e99787, e99786, e99785, e99784, e99783, e99782, e99781]}]
-	}
-}

@@ -1,7 +1,0 @@
-{"lab": {"id":  "cse24",
-	 "name": "Natural Language Processing",
-	 "overview": "This lab deals with Natural Language Processing",
-	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99709, e99708, e99707, e99706, e99705, e99704, e99703, e99702, e99701, e99700]}]
-	}
-}

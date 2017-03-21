@@ -1,7 +1,0 @@
-{"lab": {"id":  "cse23",
-	 "name": "Computation Linguistics",
-	 "overview": "This lab deals with Computation Linguistics",
-	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99828, e99827, e99826, e99825, e99824, e99823, e99822, e99821, e99820]}]
-	}
-}

@@ -1,7 +1,0 @@
-{"lab": {"id":  "ccnsb06",
-	 "name": "Physical Chemistry",
-	 "overview": "This lab deals with Physical Chemistry",
-	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99692, e99691, e99690, e99689, e99688, e99687]}]
-	}
-}
