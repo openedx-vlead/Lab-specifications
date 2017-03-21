@@ -1,72 +1,77 @@
 [
   {
-    "dis_id": "aero",
+    "discipline_id": "aero",
     "id": 1,
-    "dis_name": "Aerospace Engineering"
+    "discipline_name": "Aerospace Engineering"
   },
   {
-    "dis_id": "biotech",
+    "discipline_id": "biotech",
     "id": 2,
-    "dis_name": "Biotechnology and Biomedical Engineering"
+    "discipline_name": "Biotechnology and Biomedical Engineering"
   },
   {
-    "dis_id": "chem-engg",
+    "discipline_id": "chem-engg",
     "id": 3,
-    "dis_name": "Chemical Engineering"
+    "discipline_name": "Chemical Engineering"
   },
   {
-    "dis_id": "chem",
+    "discipline_id": "chem",
     "id": 4,
-    "dis_name": "Chemical Sciences"
+    "discipline_name": "Chemical Sciences"
   },
   {
-    "dis_id": "civil",
+    "discipline_id": "civil",
     "id": 5,
-    "dis_name": "Civil Engineering"
+    "discipline_name": "Civil Engineering"
   },
   {
-    "dis_id": "cse",
+    "discipline_id": "cse",
     "id": 6,
-    "dis_name": "Computer Science and Engineering"
+    "discipline_name": "Computer Science and Engineering"
   },
   {
-    "dis_id": "ee",
+    "discipline_id": "ee",
     "id": 7,
-    "dis_name": "Electrical Engineering"
+    "discipline_name": "Electrical Engineering"
   },
   {
-    "dis_id": "ece",
+    "discipline_id": "ece",
     "id": 8,
-    "dis_name": "Electronics and Communication"
+    "discipline_name": "Electronics and Communication"
   },
   {
-    "dis_id": "hmt",
+    "discipline_id": "hmt",
     "id": 9,
-    "dis_name": "Humanities"
+    "discipline_name": "Humanities"
   },
   {
-    "dis_id": "mech",
+    "discipline_id": "mech",
     "id": 10,
-    "dis_name": "Mechanical Engineering"
+    "discipline_name": "Mechanical Engineering"
   },
   {
-    "dis_id": "phy-sc",
+    "discipline_id": "phy-sc",
     "id": 11,
-    "dis_name": "Physical Sciences"
+    "discipline_name": "Physical Sciences"
   },
   {
-    "dis_id": "tex-engg",
+    "discipline_id": "tex-engg",
     "id": 12,
-    "dis_name": "Textile Engineering"
+    "discipline_name": "Textile Engineering"
   },
   {
-    "dis_id": "dsgn-engg",
+    "discipline_id": "dsgn-engg",
     "id": 13,
-    "dis_name": "Design Engineering"
+    "discipline_name": "Design Engineering"
   },
   {
-    "dis_id": "mat-sc",
+    "discipline_id": "mat-sc",
     "id": 14,
-    "dis_name": "Material Sciences"
+    "discipline_name": "Material Sciences"
+  },
+  {
+    "discipline_id": "mine-engg",
+    "id": 15,
+    "discipline_name": "Mining Engineering"
   }
 ]
