@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98947",
+                "name": "Study of Discrete Fourier Transform (DFT) and its inverse.",
+                "overview": "This experiment deals with Study of Discrete Fourier Transform (DFT) and its inverse.",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "procedure", 
+ 							 "simulator", 
+ 							 "Quizzes", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98949",
+                "name": "Study of properties of Linear time-invariant system.",
+                "overview": "This experiment deals with Study of properties of Linear time-invariant system.",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "procedure", 
+ 							 "simulator", 
+ 							 "Quizzes", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

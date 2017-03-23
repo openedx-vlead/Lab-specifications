@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98796",
+                "name": "Voltage Clamp Protocol",
+                "overview": "This experiment deals with Voltage Clamp Protocol",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,25 @@
+{ 
+              "lab": { 
+                "id": "biotech07",
+                "name": "systems biology virtual lab",
+                "overview": "This lab deals with systems biology virtual lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98835", 
+ 							 "e98834", 
+ 							 "e98833", 
+ 							 "e98832", 
+ 							 "e98831", 
+ 							 "e98830", 
+ 							 "e98829", 
+ 							 "e98828" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

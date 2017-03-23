@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98994",
+                "name": "B: Uplink",
+                "overview": "This experiment deals with B: Uplink",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Instruction", 
+ 							 "Demo", 
+ 							 "Download", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

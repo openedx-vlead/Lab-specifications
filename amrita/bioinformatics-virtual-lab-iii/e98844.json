@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98844",
+                "name": "Calculating the Distance between the Ligand and a Particular Amino acid",
+                "overview": "This experiment deals with Calculating the Distance between the Ligand and a Particular Amino acid",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98793",
+                "name": "Voltage-Current (VI) plot",
+                "overview": "This experiment deals with Voltage-Current (VI) plot",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

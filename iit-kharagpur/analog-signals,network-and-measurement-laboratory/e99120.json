@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99120",
+                "name": "To study the Kelvin Double Bridge for Low resistance measurement",
+                "overview": "This experiment deals with To study the Kelvin Double Bridge for Low resistance measurement",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Operating Environment", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98948",
+                "name": "Study of convolution: series and parallel system.",
+                "overview": "This experiment deals with Study of convolution: series and parallel system.",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "procedure", 
+ 							 "simulator", 
+ 							 "Quizzes", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

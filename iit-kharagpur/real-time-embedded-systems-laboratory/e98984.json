@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98984",
+                "name": "DF-Part4: Interfacing of ADC and data trasnfer by software polling, study of aliasing",
+                "overview": "This experiment deals with DF-Part4: Interfacing of ADC and data trasnfer by software polling, study of aliasing",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

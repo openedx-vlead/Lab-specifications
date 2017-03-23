@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99140",
+                "name": "5 : DC motor starting and braking",
+                "overview": "This experiment deals with 5 : DC motor starting and braking",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Reference", 
+ 							 "Simulator 2", 
+ 							 "Simulator 3" 
+                ]
+              },
+              "content-type": "org"
+            }

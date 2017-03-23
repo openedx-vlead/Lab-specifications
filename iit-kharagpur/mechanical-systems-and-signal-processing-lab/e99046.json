@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e99046",
+                "name": "Responses of First and Second Order Mechanical Systems",
+                "overview": "This experiment deals with Responses of First and Second Order Mechanical Systems",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Assignment", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99190",
+                "name": "Newton's Rings-Refractive index of liquid",
+                "overview": "This experiment deals with Newton's Rings-Refractive index of liquid",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

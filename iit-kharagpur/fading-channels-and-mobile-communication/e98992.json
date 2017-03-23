@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98992",
+                "name": "A: Co-Channel Cells",
+                "overview": "This experiment deals with A: Co-Channel Cells",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Instruction", 
+ 							 "Demo", 
+ 							 "Download", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

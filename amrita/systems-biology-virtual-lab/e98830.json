@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98830",
+                "name": "Analysis of biological networks for feature detection",
+                "overview": "This experiment deals with Analysis of biological networks for feature detection",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98911",
+                "name": "Fed-Batch Microbial Cultivation",
+                "overview": "This experiment deals with Fed-Batch Microbial Cultivation",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Animation", 
+ 							 "Simulator", 
+ 							 "Self Evaluation", 
+ 							 "Matlab", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

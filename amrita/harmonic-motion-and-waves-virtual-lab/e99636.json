@@ -1,0 +1,23 @@
+{
+              "experiment": {
+                "id": "e99636",
+                "name": "Astable multivibrator",
+                "overview": "This experiment deals with Astable multivibrator",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "Theory", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

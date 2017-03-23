@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98856",
+                "name": "Zener Diode as Voltage Regulator",
+                "overview": "This experiment deals with Zener Diode as Voltage Regulator",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

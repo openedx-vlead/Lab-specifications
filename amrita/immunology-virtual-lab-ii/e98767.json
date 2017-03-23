@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98767",
+                "name": "Parenteral Injections",
+                "overview": "This experiment deals with Parenteral Injections",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99092",
+                "name": "Three Position Rigid Body Guidance with a RRRR Mechanism",
+                "overview": "This experiment deals with Three Position Rigid Body Guidance with a RRRR Mechanism",
+                "sections": [
+                "Introduction", 
+ 							 "Demo", 
+ 							 "Procedure", 
+ 							 "Instruments", 
+ 							 "Simulator", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

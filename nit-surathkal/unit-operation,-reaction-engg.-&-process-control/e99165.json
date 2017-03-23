@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e99165",
+                "name": "Flow through Venturi meter:",
+                "overview": "This experiment deals with Flow through Venturi meter:",
+                "sections": [
+                "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SELF EVALUATION", 
+ 							 "SIMULATOR", 
+ 							 "ASSIGNMENT", 
+ 							 "REFERENCE", 
+ 							 "VIDEO", 
+ 							 "QUIZ" 
+                ]
+              },
+              "content-type": "org"
+            }

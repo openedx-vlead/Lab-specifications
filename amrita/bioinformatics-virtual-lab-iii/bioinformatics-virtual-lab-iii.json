@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "biotech10",
+                "name": "bioinformatics virtual lab iii",
+                "overview": "This lab deals with bioinformatics virtual lab iii",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98845", 
+ 							 "e98844", 
+ 							 "e98843", 
+ 							 "e98842", 
+ 							 "e98841", 
+ 							 "e98840", 
+ 							 "e98839", 
+ 							 "e98838", 
+ 							 "e98837", 
+ 							 "e98836" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

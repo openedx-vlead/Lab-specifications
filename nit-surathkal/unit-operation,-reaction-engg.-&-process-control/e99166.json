@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e99166",
+                "name": "Flow through orifice meter:",
+                "overview": "This experiment deals with Flow through orifice meter:",
+                "sections": [
+                "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SELF EVALUATION", 
+ 							 "SIMULATOR", 
+ 							 "ASSIGNMENT", 
+ 							 "REFERENCE", 
+ 							 "VIDEO", 
+ 							 "QUIZ" 
+                ]
+              },
+              "content-type": "org"
+            }

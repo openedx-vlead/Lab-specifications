@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99053",
+                "name": "Static Balancing Studies of Rotary Systems",
+                "overview": "This experiment deals with Static Balancing Studies of Rotary Systems",
+                "sections": [
+                "Introduction", 
+ 							 "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "QUIZ", 
+ 							 "REFERENCE" 
+                ]
+              },
+              "content-type": "org"
+            }

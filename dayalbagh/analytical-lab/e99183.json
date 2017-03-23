@@ -1,0 +1,21 @@
+{
+              "experiment": {
+                "id": "e99183",
+                "name": "Determination of Heavy Metals in Yamuna River Water by Differential Pulse Anodic Stripping Voltammetry.",
+                "overview": "This experiment deals with Determination of Heavy Metals in Yamuna River Water by Differential Pulse Anodic Stripping Voltammetry.",
+                "sections": [
+                "Introduction", 
+ 							 "Setup", 
+ 							 "Sample", 
+ 							 "Procedure", 
+ 							 "Animate", 
+ 							 "Perform", 
+ 							 "Data Analysis", 
+ 							 "Quiz", 
+ 							 "Video", 
+ 							 "Live View", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

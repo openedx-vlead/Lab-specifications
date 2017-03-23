@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98843",
+                "name": "Finding the Active Site Pockets of a given Protein Molecule",
+                "overview": "This experiment deals with Finding the Active Site Pockets of a given Protein Molecule",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

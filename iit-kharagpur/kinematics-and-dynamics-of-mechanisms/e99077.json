@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99077",
+                "name": "Four Point Path Synthesis with a RRRR Mechanism",
+                "overview": "This experiment deals with Four Point Path Synthesis with a RRRR Mechanism",
+                "sections": [
+                "Introduction", 
+ 							 "Demo", 
+ 							 "Procedure", 
+ 							 "Instruments", 
+ 							 "Simulator", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

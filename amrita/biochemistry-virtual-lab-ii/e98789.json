@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98789",
+                "name": "Extraction of Caffeine from Tea",
+                "overview": "This experiment deals with Extraction of Caffeine from Tea",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

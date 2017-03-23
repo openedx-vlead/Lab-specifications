@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "biotech02",
+                "name": "biochemistry virtual lab ii",
+                "overview": "This lab deals with biochemistry virtual lab ii",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98791", 
+ 							 "e98790", 
+ 							 "e98789", 
+ 							 "e98788", 
+ 							 "e98787", 
+ 							 "e98786", 
+ 							 "e98785", 
+ 							 "e98784", 
+ 							 "e98783", 
+ 							 "e98782" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

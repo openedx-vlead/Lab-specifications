@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99002",
+                "name": "Horizontal and Vertical Beam Pattern",
+                "overview": "This experiment deals with Horizontal and Vertical Beam Pattern",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Instruction", 
+ 							 "Demo", 
+ 							 "Download", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

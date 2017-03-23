@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98869",
+                "name": "Locating the chromosome of a Gene",
+                "overview": "This experiment deals with Locating the chromosome of a Gene",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

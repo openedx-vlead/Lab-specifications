@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99196",
+                "name": "Determination of Planck's Constant",
+                "overview": "This experiment deals with Determination of Planck's Constant",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

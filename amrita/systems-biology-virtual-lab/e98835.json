@@ -1,0 +1,25 @@
+{
+              "experiment": {
+                "id": "e98835",
+                "name": "Mathematical modeling and simulating of Biochemical network",
+                "overview": "This experiment deals with Mathematical modeling and simulating of Biochemical network",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "NPTEL Video", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

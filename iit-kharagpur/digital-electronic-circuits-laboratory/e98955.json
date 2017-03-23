@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98955",
+                "name": "Analysis and Synthesis of Boolean Relations using Digital Comparators",
+                "overview": "This experiment deals with Analysis and Synthesis of Boolean Relations using Digital Comparators",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quizzes", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

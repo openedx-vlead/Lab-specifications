@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98903",
+                "name": "Plant Cell Laboratory Experiment-Hairy Root Induction",
+                "overview": "This experiment deals with Plant Cell Laboratory Experiment-Hairy Root Induction",
+                "sections": [
+                "Theory", 
+ 							 "Animation", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

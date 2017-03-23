@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98878",
+                "name": "Fan Rating Test.",
+                "overview": "This experiment deals with Fan Rating Test.",
+                "sections": [
+                "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "INSTRUMENTS", 
+ 							 "DEMO", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "REFERENCE" 
+                ]
+              },
+              "content-type": "org"
+            }

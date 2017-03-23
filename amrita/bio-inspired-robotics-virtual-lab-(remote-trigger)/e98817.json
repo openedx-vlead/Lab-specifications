@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98817",
+                "name": "Understanding the kinematics of a robotic upper arm - Interactive (Remote Trigger)",
+                "overview": "This experiment deals with Understanding the kinematics of a robotic upper arm - Interactive (Remote Trigger)",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Remote Panel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99030",
+                "name": "*Diode Limiter",
+                "overview": "This experiment deals with *Diode Limiter",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Live Experiment", 
+ 							 "Case Study", 
+ 							 "Lab-Report", 
+ 							 "Videos Tutorial" 
+                ]
+              },
+              "content-type": "org"
+            }

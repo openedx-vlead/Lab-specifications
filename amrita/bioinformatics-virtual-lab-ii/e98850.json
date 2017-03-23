@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98850",
+                "name": "Aligning Multiple Sequences with CLUSTAL W",
+                "overview": "This experiment deals with Aligning Multiple Sequences with CLUSTAL W",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

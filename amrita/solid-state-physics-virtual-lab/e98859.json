@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98859",
+                "name": "B-H Curve",
+                "overview": "This experiment deals with B-H Curve",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

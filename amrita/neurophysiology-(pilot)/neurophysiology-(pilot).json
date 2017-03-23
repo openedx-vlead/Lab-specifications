@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "biotech20",
+                "name": "neurophysiology (pilot)",
+                "overview": "This lab deals with neurophysiology (pilot)",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98811", 
+ 							 "e98810", 
+ 							 "e98809", 
+ 							 "e98808", 
+ 							 "e98807", 
+ 							 "e98806", 
+ 							 "e98805", 
+ 							 "e98804", 
+ 							 "e98803", 
+ 							 "e98802" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

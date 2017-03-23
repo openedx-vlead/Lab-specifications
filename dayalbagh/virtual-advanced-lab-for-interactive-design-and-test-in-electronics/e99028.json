@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99028",
+                "name": "*Integrator",
+                "overview": "This experiment deals with *Integrator",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Live Experiment", 
+ 							 "Case Study", 
+ 							 "Lab-Report", 
+ 							 "Videos Tutorial" 
+                ]
+              },
+              "content-type": "org"
+            }

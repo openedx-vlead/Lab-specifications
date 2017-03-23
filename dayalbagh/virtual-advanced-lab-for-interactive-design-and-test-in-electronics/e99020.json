@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e99020",
+                "name": "*Astable Multi-Vibrator",
+                "overview": "This experiment deals with *Astable Multi-Vibrator",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Live Experiment", 
+ 							 "Lab-Report", 
+ 							 "Videos Tutorial" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "VLS09",
+                "name": "advanced network technologies virtual lab",
+                "overview": "This lab deals with advanced network technologies virtual lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98973", 
+ 							 "e98972", 
+ 							 "e98971", 
+ 							 "e98970", 
+ 							 "e98969", 
+ 							 "e98968", 
+ 							 "e98967", 
+ 							 "e98966", 
+ 							 "e98965", 
+ 							 "e98964" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,25 @@
+{ 
+              "lab": { 
+                "id": "phy-sc28",
+                "name": "harmonic motion and waves virtual lab",
+                "overview": "This lab deals with harmonic motion and waves virtual lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e99636", 
+ 							 "e99207", 
+ 							 "e99206", 
+ 							 "e99205", 
+ 							 "e99204", 
+ 							 "e99203", 
+ 							 "e99202", 
+ 							 "e99201" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

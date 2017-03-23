@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99193",
+                "name": "Millikan's oil drop experiment",
+                "overview": "This experiment deals with Millikan's oil drop experiment",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

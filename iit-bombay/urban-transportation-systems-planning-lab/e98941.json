@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98941",
+                "name": "Regression Analysis",
+                "overview": "This experiment deals with Regression Analysis",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Experiment", 
+ 							 "Self Evaluation", 
+ 							 "FAQs" 
+                ]
+              },
+              "content-type": "org"
+            }

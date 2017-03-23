@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e99006",
+                "name": "Diodes as Clippers",
+                "overview": "This experiment deals with Diodes as Clippers",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Simulation", 
+ 							 "Quiz", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

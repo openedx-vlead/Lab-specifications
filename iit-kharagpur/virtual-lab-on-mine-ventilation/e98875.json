@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98875",
+                "name": "Determination of Frictional Co-efficient of Mine Airways",
+                "overview": "This experiment deals with Determination of Frictional Co-efficient of Mine Airways",
+                "sections": [
+                "THEORY", 
+ 							 "INSTRUMENTS", 
+ 							 "VIDEO DEMO", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "REFERENCE" 
+                ]
+              },
+              "content-type": "org"
+            }

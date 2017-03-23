@@ -1,0 +1,32 @@
+{ 
+              "lab": { 
+                "id": "VLS04",
+                "name": "robotics and control systems simulation laboratory",
+                "overview": "This lab deals with robotics and control systems simulation laboratory",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e99075", 
+ 							 "e99074", 
+ 							 "e99073", 
+ 							 "e99072", 
+ 							 "e99071", 
+ 							 "e99070", 
+ 							 "e99069", 
+ 							 "e99068", 
+ 							 "e99067", 
+ 							 "e99066", 
+ 							 "e99065", 
+ 							 "e99064", 
+ 							 "e99063", 
+ 							 "e99062", 
+ 							 "e99061" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

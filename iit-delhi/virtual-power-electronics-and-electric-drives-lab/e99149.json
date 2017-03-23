@@ -1,0 +1,23 @@
+{
+              "experiment": {
+                "id": "e99149",
+                "name": "1a : Full Wave Rectifier",
+                "overview": "This experiment deals with 1a : Full Wave Rectifier",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Simulation", 
+ 							 "Case Study", 
+ 							 "Self-evaluation", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "References", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

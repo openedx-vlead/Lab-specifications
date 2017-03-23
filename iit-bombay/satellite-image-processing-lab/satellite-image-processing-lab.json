@@ -1,0 +1,18 @@
+{ 
+              "lab": { 
+                "id": "civil11",
+                "name": "satellite image processing lab",
+                "overview": "This lab deals with satellite image processing lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

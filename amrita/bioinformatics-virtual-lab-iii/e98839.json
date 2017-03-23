@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98839",
+                "name": "Retrieving details of a drug molecule",
+                "overview": "This experiment deals with Retrieving details of a drug molecule",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

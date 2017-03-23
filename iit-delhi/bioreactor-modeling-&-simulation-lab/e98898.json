@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98898",
+                "name": "Study of Enzyme Kinetics",
+                "overview": "This experiment deals with Study of Enzyme Kinetics",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Animation Substrate", 
+ 							 "Animation pH", 
+ 							 "Animation Temp", 
+ 							 "Self Evaluation", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

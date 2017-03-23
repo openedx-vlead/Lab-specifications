@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e99071",
+                "name": "Inverse Kinematics of a 6R robot",
+                "overview": "This experiment deals with Inverse Kinematics of a 6R robot",
+                "sections": [
+                "AIM", 
+ 							 "THEORY", 
+ 							 "SIMULATION", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

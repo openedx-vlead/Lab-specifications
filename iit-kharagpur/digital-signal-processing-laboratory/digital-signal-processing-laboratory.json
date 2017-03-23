@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "VLS06",
+                "name": "digital signal processing laboratory",
+                "overview": "This lab deals with digital signal processing laboratory",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98953", 
+ 							 "e98952", 
+ 							 "e98951", 
+ 							 "e98950", 
+ 							 "e98949", 
+ 							 "e98948", 
+ 							 "e98947", 
+ 							 "e98946", 
+ 							 "e98945", 
+ 							 "e98944" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

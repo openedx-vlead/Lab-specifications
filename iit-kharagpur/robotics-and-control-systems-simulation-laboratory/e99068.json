@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e99068",
+                "name": "Open loop characteristics of DC motor",
+                "overview": "This experiment deals with Open loop characteristics of DC motor",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Tutorial", 
+ 							 "Simulation" 
+                ]
+              },
+              "content-type": "org"
+            }

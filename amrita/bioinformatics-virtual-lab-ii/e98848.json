@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98848",
+                "name": "Phylogenetic Analysis using PHYLIP - Rooted trees",
+                "overview": "This experiment deals with Phylogenetic Analysis using PHYLIP - Rooted trees",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

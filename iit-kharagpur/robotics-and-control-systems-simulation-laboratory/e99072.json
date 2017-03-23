@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99072",
+                "name": "Forward Kinematics of 6R Robot Manipulator",
+                "overview": "This experiment deals with Forward Kinematics of 6R Robot Manipulator",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Tutorial", 
+ 							 "Simulation", 
+ 							 "Simulation(Java Sessions)", 
+ 							 "OnLine Control" 
+                ]
+              },
+              "content-type": "org"
+            }

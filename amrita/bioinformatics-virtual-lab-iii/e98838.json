@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98838",
+                "name": "Converting chemical file formats",
+                "overview": "This experiment deals with Converting chemical file formats",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

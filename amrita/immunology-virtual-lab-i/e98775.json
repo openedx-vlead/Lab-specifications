@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98775",
+                "name": "Antibody Labeling with HRP",
+                "overview": "This experiment deals with Antibody Labeling with HRP",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

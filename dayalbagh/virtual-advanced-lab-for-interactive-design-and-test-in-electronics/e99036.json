@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e99036",
+                "name": "AM Detector",
+                "overview": "This experiment deals with AM Detector",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Live Experiment", 
+ 							 "Lab-Report" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99221",
+                "name": "Antibiotic Susceptibility Testing",
+                "overview": "This experiment deals with Antibiotic Susceptibility Testing",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

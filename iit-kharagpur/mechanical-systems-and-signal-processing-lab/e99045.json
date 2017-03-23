@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99045",
+                "name": "Vibration Monitoring of Machineries by Wireless Technique",
+                "overview": "This experiment deals with Vibration Monitoring of Machineries by Wireless Technique",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

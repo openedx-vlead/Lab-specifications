@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98905",
+                "name": "Plant Cell Laboratory Experiment-Preparation of Plant Tissue Culture Medium",
+                "overview": "This experiment deals with Plant Cell Laboratory Experiment-Preparation of Plant Tissue Culture Medium",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Animation", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

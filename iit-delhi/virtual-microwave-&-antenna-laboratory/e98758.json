@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98758",
+                "name": "s-parameter",
+                "overview": "This experiment deals with s-parameter",
+                "sections": [
+                "Theory", 
+ 							 "Pre Experiment Quiz", 
+ 							 "Procedure", 
+ 							 "Video tutorial", 
+ 							 "Experiment", 
+ 							 "Post Experiment Quiz", 
+ 							 "Feedback", 
+ 							 "Remote Experiment" 
+                ]
+              },
+              "content-type": "org"
+            }

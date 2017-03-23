@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98907",
+                "name": "Propionic Acid Fermentation",
+                "overview": "This experiment deals with Propionic Acid Fermentation",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Animation1", 
+ 							 "Animation2", 
+ 							 "Animation3", 
+ 							 "Self Evaluation", 
+ 							 "Matlab", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

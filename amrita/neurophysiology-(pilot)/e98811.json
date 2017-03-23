@@ -1,0 +1,24 @@
+{
+              "experiment": {
+                "id": "e98811",
+                "name": "Brain Slice Preparation",
+                "overview": "This experiment deals with Brain Slice Preparation",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Remote Panel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

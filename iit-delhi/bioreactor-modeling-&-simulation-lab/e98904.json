@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98904",
+                "name": "Plant Cell Laboratory Experiment-Callus Induction",
+                "overview": "This experiment deals with Plant Cell Laboratory Experiment-Callus Induction",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Animation", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

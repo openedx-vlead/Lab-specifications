@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98938",
+                "name": "Singly constrained Gravity Model",
+                "overview": "This experiment deals with Singly constrained Gravity Model",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Experiment", 
+ 							 "FAQS", 
+ 							 "Self Evaluation" 
+                ]
+              },
+              "content-type": "org"
+            }

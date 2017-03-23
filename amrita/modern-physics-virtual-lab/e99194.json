@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e99194",
+                "name": "Emission spectra",
+                "overview": "This experiment deals with Emission spectra",
+                "sections": [
+                "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

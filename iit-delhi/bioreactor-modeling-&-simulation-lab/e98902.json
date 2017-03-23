@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98902",
+                "name": "Plant Cell Laboratory Experiment-Determination of cell viability by TTC",
+                "overview": "This experiment deals with Plant Cell Laboratory Experiment-Determination of cell viability by TTC",
+                "sections": [
+                "Theory", 
+ 							 "Animation Part1", 
+ 							 "Animation Part2", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

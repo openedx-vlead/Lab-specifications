@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98842",
+                "name": "Primary Structure Analysis of a Protein Using ProtParam",
+                "overview": "This experiment deals with Primary Structure Analysis of a Protein Using ProtParam",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

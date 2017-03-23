@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98960",
+                "name": "Design of Arithmetic Logic Unit (ALU)",
+                "overview": "This experiment deals with Design of Arithmetic Logic Unit (ALU)",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quizzes", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

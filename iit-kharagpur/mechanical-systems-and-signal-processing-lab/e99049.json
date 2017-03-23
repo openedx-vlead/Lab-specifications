@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99049",
+                "name": "Basics of Frequency Domain Signal Analysis",
+                "overview": "This experiment deals with Basics of Frequency Domain Signal Analysis",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Modules", 
+ 							 "Quiz", 
+ 							 "Assignment", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

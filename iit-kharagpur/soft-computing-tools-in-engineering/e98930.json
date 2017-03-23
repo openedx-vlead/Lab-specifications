@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98930",
+                "name": "Fuzzy Inference System(FIS)",
+                "overview": "This experiment deals with Fuzzy Inference System(FIS)",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98961",
+                "name": "Analysis and Synthesis of Multi-bit Sequential Circuits using Shift Registers",
+                "overview": "This experiment deals with Analysis and Synthesis of Multi-bit Sequential Circuits using Shift Registers",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quizzes", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98815",
+                "name": "Mechanism behind the movement of a Walker robot with 4 neurons (Remote Trigger)",
+                "overview": "This experiment deals with Mechanism behind the movement of a Walker robot with 4 neurons (Remote Trigger)",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Remote Panel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

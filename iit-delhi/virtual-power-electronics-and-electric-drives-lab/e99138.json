@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99138",
+                "name": "7 : Induction Motor Starting and Braking",
+                "overview": "This experiment deals with 7 : Induction Motor Starting and Braking",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Assignment", 
+ 							 "Simulator", 
+ 							 "Simulator2", 
+ 							 "Simulator3" 
+                ]
+              },
+              "content-type": "org"
+            }

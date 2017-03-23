@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "VLS16",
+                "name": "mechanical systems and signal processing lab",
+                "overview": "This lab deals with mechanical systems and signal processing lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e99051", 
+ 							 "e99050", 
+ 							 "e99049", 
+ 							 "e99048", 
+ 							 "e99047", 
+ 							 "e99046", 
+ 							 "e99045", 
+ 							 "e99044", 
+ 							 "e99043", 
+ 							 "e99042" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

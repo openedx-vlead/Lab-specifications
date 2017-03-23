@@ -1,0 +1,24 @@
+{
+              "experiment": {
+                "id": "e98854",
+                "name": "Global alignment of two sequences - Needleman-Wunsch Algorithm",
+                "overview": "This experiment deals with Global alignment of two sequences - Needleman-Wunsch Algorithm",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

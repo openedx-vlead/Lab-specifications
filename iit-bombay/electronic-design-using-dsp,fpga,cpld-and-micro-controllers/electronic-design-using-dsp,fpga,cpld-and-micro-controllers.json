@@ -1,0 +1,18 @@
+{ 
+              "lab": { 
+                "id": "ece04",
+                "name": "electronic design using dsp,fpga,cpld and micro controllers",
+                "overview": "This lab deals with electronic design using dsp,fpga,cpld and micro controllers",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

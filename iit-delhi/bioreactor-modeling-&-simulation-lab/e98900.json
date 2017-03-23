@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98900",
+                "name": "Animal Cell Batch Culture",
+                "overview": "This experiment deals with Animal Cell Batch Culture",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Animation1", 
+ 							 "Animation2", 
+ 							 "Self Evaluation", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

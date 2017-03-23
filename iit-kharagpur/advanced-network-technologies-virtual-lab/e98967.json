@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98967",
+                "name": "Simulating a Mobile Adhoc Network",
+                "overview": "This experiment deals with Simulating a Mobile Adhoc Network",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Simulation", 
+ 							 "Self-evaluation", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

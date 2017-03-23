@@ -1,0 +1,25 @@
+{ 
+              "lab": { 
+                "id": "ai-dei",
+                "name": "analytical lab",
+                "overview": "This lab deals with analytical lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e99184", 
+ 							 "e99183", 
+ 							 "e99182", 
+ 							 "e99181", 
+ 							 "e99180", 
+ 							 "e99179", 
+ 							 "e99178", 
+ 							 "e99177" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99187",
+                "name": "Newton's Rings-Wavelength of light",
+                "overview": "This experiment deals with Newton's Rings-Wavelength of light",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

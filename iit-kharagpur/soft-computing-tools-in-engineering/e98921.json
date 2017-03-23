@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98921",
+                "name": "Binary and Real Coded genetic Algorithms and Application",
+                "overview": "This experiment deals with Binary and Real Coded genetic Algorithms and Application",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

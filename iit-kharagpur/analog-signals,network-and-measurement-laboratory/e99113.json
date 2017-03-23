@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99113",
+                "name": "Measurement of Capacitance by Schering Bridge",
+                "overview": "This experiment deals with Measurement of Capacitance by Schering Bridge",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Operating Environment", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

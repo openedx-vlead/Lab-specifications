@@ -1,0 +1,24 @@
+{
+              "experiment": {
+                "id": "e98973",
+                "name": "Basics of Network Simulation",
+                "overview": "This experiment deals with Basics of Network Simulation",
+                "sections": [
+                "Introduction", 
+ 							 "Prerequisite", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "References", 
+ 							 "Introduction", 
+ 							 "Theory", 
+ 							 "Simulation", 
+ 							 "Self-evaluation", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

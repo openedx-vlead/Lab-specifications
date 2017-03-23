@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98783",
+                "name": "Effect of temperature on enzyme kinetics",
+                "overview": "This experiment deals with Effect of temperature on enzyme kinetics",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "NPTEL Video" 
+                ]
+              },
+              "content-type": "org"
+            }

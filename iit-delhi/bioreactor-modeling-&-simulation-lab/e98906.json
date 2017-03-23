@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98906",
+                "name": "1, 3 Propanediol Fermentation",
+                "overview": "This experiment deals with 1, 3 Propanediol Fermentation",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Animation", 
+ 							 "Simulator", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

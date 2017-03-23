@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "VLS07",
+                "name": "digital electronic circuits laboratory",
+                "overview": "This lab deals with digital electronic circuits laboratory",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98963", 
+ 							 "e98962", 
+ 							 "e98961", 
+ 							 "e98960", 
+ 							 "e98959", 
+ 							 "e98958", 
+ 							 "e98957", 
+ 							 "e98956", 
+ 							 "e98955", 
+ 							 "e98954" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

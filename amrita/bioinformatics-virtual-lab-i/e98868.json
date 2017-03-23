@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98868",
+                "name": "Retrieve gene expression data from GEO",
+                "overview": "This experiment deals with Retrieve gene expression data from GEO",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98916",
+                "name": "Simultaneous measurement of specific growth / death rate of micro organisms",
+                "overview": "This experiment deals with Simultaneous measurement of specific growth / death rate of micro organisms",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Animation", 
+ 							 "Self Evaluation", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

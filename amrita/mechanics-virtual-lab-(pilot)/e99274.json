@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99274",
+                "name": "Moment of Inertia of Flywheel",
+                "overview": "This experiment deals with Moment of Inertia of Flywheel",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

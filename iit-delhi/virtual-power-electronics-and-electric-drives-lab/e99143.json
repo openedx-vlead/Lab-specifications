@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e99143",
+                "name": "4a : Single Phase VSI With Square Wave PWM",
+                "overview": "This experiment deals with 4a : Single Phase VSI With Square Wave PWM",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

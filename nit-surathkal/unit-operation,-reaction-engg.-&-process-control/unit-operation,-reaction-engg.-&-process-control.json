@@ -1,0 +1,26 @@
+{ 
+              "lab": { 
+                "id": "chem05",
+                "name": "unit operation, reaction engg. & process control",
+                "overview": "This lab deals with unit operation, reaction engg. & process control",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e99168", 
+ 							 "e99167", 
+ 							 "e99166", 
+ 							 "e99165", 
+ 							 "e99164", 
+ 							 "e99163", 
+ 							 "e99162", 
+ 							 "e99161", 
+ 							 "e99160" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

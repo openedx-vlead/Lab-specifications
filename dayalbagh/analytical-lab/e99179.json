@@ -1,0 +1,21 @@
+{
+              "experiment": {
+                "id": "e99179",
+                "name": "Electrochemical study of ferri/ferro system with MUX MULTI4 Module.",
+                "overview": "This experiment deals with Electrochemical study of ferri/ferro system with MUX MULTI4 Module.",
+                "sections": [
+                "Introduction", 
+ 							 "Setup", 
+ 							 "Sample", 
+ 							 "Procedure", 
+ 							 "Animate", 
+ 							 "Perform", 
+ 							 "Data Analysis", 
+ 							 "Quiz", 
+ 							 "Video", 
+ 							 "Live View", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

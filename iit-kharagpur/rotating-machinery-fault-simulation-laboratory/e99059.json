@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99059",
+                "name": "Effects of Bent Shafts on Rotor Performance",
+                "overview": "This experiment deals with Effects of Bent Shafts on Rotor Performance",
+                "sections": [
+                "Introduction", 
+ 							 "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "QUIZ", 
+ 							 "REFERENCE" 
+                ]
+              },
+              "content-type": "org"
+            }

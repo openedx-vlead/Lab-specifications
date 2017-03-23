@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98766",
+                "name": "Purification of IgG Antibodies using Affinity Chromatography",
+                "overview": "This experiment deals with Purification of IgG Antibodies using Affinity Chromatography",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98865",
+                "name": "Retrieving structural data of a protein using PDB database",
+                "overview": "This experiment deals with Retrieving structural data of a protein using PDB database",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

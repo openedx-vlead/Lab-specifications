@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e99173",
+                "name": "Continuous Stirred Tank Reactor",
+                "overview": "This experiment deals with Continuous Stirred Tank Reactor",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "SIMULATOR", 
+ 							 "ASSIGNMENT", 
+ 							 "QUIZ", 
+ 							 "REFERENCES" 
+                ]
+              },
+              "content-type": "org"
+            }

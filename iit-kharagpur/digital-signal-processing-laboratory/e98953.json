@@ -1,0 +1,23 @@
+{
+              "experiment": {
+                "id": "e98953",
+                "name": "Study of sampling theorem, effect of undersampling.",
+                "overview": "This experiment deals with Study of sampling theorem, effect of undersampling.",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quizzes", 
+ 							 "Reference", 
+ 							 "Introduction", 
+ 							 "Theory", 
+ 							 "procedure", 
+ 							 "simulator", 
+ 							 "Quizzes", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

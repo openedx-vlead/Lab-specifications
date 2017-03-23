@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99218",
+                "name": "Triple Sugar Iron Agar",
+                "overview": "This experiment deals with Triple Sugar Iron Agar",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

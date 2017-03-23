@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98926",
+                "name": "Multilayer Perceptron and Application",
+                "overview": "This experiment deals with Multilayer Perceptron and Application",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

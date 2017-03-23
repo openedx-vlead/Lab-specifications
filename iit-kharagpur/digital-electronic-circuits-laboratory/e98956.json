@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98956",
+                "name": "Analysis and Synthesis of Logic Functions using Decoders",
+                "overview": "This experiment deals with Analysis and Synthesis of Logic Functions using Decoders",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quizzes", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

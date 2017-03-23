@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98764",
+                "name": "Fragmentation of IgG Using Papain",
+                "overview": "This experiment deals with Fragmentation of IgG Using Papain",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

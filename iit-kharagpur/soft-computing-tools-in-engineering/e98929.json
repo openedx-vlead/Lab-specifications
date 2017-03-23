@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98929",
+                "name": "Fuzzy Control and Application",
+                "overview": "This experiment deals with Fuzzy Control and Application",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

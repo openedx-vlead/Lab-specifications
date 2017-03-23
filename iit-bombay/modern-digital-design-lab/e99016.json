@@ -1,0 +1,24 @@
+{
+              "experiment": {
+                "id": "e99016",
+                "name": "To Design, implement and Simulate the Full adder using two half adder.",
+                "overview": "This experiment deals with To Design, implement and Simulate the Full adder using two half adder.",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Live Experiment", 
+ 							 "Case Study", 
+ 							 "Lab-Report", 
+ 							 "Videos Tutorial", 
+ 							 "AIM", 
+ 							 "THEORY", 
+ 							 "PRELAB QUIZ", 
+ 							 "Verilog", 
+ 							 "Simulator", 
+ 							 "Manual", 
+ 							 "POST LAB", 
+ 							 "Tutorial" 
+                ]
+              },
+              "content-type": "org"
+            }

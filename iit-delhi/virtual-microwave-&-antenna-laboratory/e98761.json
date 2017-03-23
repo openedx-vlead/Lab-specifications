@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98761",
+                "name": "To measure the sideband levels of a modulated signal",
+                "overview": "This experiment deals with To measure the sideband levels of a modulated signal",
+                "sections": [
+                "Theory", 
+ 							 "Pre Experiment Quiz", 
+ 							 "Procedure", 
+ 							 "Video tutorial", 
+ 							 "Experiment", 
+ 							 "Post Experiment Quiz", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

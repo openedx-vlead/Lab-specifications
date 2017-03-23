@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98822",
+                "name": "Drug-Receptor Interaction",
+                "overview": "This experiment deals with Drug-Receptor Interaction",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "NPTEL Video" 
+                ]
+              },
+              "content-type": "org"
+            }

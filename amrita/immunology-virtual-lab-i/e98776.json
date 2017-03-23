@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98776",
+                "name": "ELISPOT Assay",
+                "overview": "This experiment deals with ELISPOT Assay",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98928",
+                "name": "Introduction to Neural Networks and Perceptron Example",
+                "overview": "This experiment deals with Introduction to Neural Networks and Perceptron Example",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

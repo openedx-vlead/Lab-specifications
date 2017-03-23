@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98897",
+                "name": "Immobilization of whole cells",
+                "overview": "This experiment deals with Immobilization of whole cells",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Animation Part1", 
+ 							 "Animation Part2", 
+ 							 "Self Evaluation", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

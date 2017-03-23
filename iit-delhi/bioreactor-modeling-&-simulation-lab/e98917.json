@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98917",
+                "name": "Estimation of growth kinetic parameters in batch fermentation",
+                "overview": "This experiment deals with Estimation of growth kinetic parameters in batch fermentation",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Animation", 
+ 							 "Self Evaluation", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

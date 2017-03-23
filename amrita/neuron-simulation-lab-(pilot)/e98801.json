@@ -1,0 +1,24 @@
+{
+              "experiment": {
+                "id": "e98801",
+                "name": "Modeling resting potentials in Neurons",
+                "overview": "This experiment deals with Modeling resting potentials in Neurons",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "RemotePanel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

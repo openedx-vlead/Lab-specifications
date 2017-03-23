@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99207",
+                "name": "Melde's String Apparatus",
+                "overview": "This experiment deals with Melde's String Apparatus",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

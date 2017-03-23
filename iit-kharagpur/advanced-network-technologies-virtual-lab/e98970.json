@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98970",
+                "name": "Simulation of a Satellite Network",
+                "overview": "This experiment deals with Simulation of a Satellite Network",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Simulation", 
+ 							 "Self-evaluation", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

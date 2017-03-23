@@ -1,0 +1,26 @@
+{
+              "experiment": {
+                "id": "e99159",
+                "name": "Identifying the Requirements from Problem Statements",
+                "overview": "This experiment deals with Identifying the Requirements from Problem Statements",
+                "sections": [
+                "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SELF EVALUATION", 
+ 							 "SIMULATOR", 
+ 							 "ASSIGNMENT", 
+ 							 "REFERENCE", 
+ 							 "VIDEO", 
+ 							 "QUIZ", 
+ 							 "Introduction", 
+ 							 "Theory", 
+ 							 "Simulation", 
+ 							 "Case Study", 
+ 							 "Self-evaluation", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

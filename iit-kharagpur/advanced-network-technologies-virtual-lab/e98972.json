@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98972",
+                "name": "Simulating a Local Area Network",
+                "overview": "This experiment deals with Simulating a Local Area Network",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Simulation", 
+ 							 "Self-evaluation", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

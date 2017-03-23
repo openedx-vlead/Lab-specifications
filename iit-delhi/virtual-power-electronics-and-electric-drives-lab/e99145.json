@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99145",
+                "name": "3b : Boost Converter",
+                "overview": "This experiment deals with 3b : Boost Converter",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

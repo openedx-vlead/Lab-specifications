@@ -1,0 +1,27 @@
+{
+              "experiment": {
+                "id": "e98919",
+                "name": "Bioreactor- Basics",
+                "overview": "This experiment deals with Bioreactor- Basics",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "V Bioengg 1", 
+ 							 "V Bioengg 2", 
+ 							 "V Applikon 1", 
+ 							 "V Applikon 2", 
+ 							 "V Applikon 3", 
+ 							 "Self Evaluation", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

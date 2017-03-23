@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98918",
+                "name": "Control Characteristics of pH Controller",
+                "overview": "This experiment deals with Control Characteristics of pH Controller",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Animation", 
+ 							 "Self Evaluation", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

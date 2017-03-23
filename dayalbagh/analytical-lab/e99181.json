@@ -1,0 +1,21 @@
+{
+              "experiment": {
+                "id": "e99181",
+                "name": "Electrochemical Study of Acetaminophen in Paracetamol Tablet.",
+                "overview": "This experiment deals with Electrochemical Study of Acetaminophen in Paracetamol Tablet.",
+                "sections": [
+                "Introduction", 
+ 							 "Setup", 
+ 							 "Sample", 
+ 							 "Procedure", 
+ 							 "Animate", 
+ 							 "Perform", 
+ 							 "Data Analysis", 
+ 							 "Quiz", 
+ 							 "Video", 
+ 							 "Live View", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

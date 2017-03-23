@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98913",
+                "name": "Development of mathematical model",
+                "overview": "This experiment deals with Development of mathematical model",
+                "sections": [
+                "Types of Bioreactor", 
+ 							 "Cultivation mode of Bioreactor", 
+ 							 "Steps in Modelling", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98795",
+                "name": "Understanding Frequency-Current relationship",
+                "overview": "This experiment deals with Understanding Frequency-Current relationship",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

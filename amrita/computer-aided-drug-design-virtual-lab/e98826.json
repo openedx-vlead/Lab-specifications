@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98826",
+                "name": "Introducing Hydrogen atoms to a molecule",
+                "overview": "This experiment deals with Introducing Hydrogen atoms to a molecule",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

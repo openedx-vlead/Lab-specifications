@@ -1,0 +1,21 @@
+{
+              "experiment": {
+                "id": "e99060",
+                "name": "Machinery Soft-Foot",
+                "overview": "This experiment deals with Machinery Soft-Foot",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Tutorial", 
+ 							 "Simulation", 
+ 							 "Introduction", 
+ 							 "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "QUIZ", 
+ 							 "REFERENCE" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98816",
+                "name": "Light sensing process in a neural circuit (Remote Trigger)",
+                "overview": "This experiment deals with Light sensing process in a neural circuit (Remote Trigger)",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Remote Panel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

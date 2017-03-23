@@ -1,0 +1,13 @@
+{
+              "experiment": {
+                "id": "e99074",
+                "name": "The Slider Crank mechanism",
+                "overview": "This experiment deals with The Slider Crank mechanism",
+                "sections": [
+                "AIM", 
+ 							 "Theory", 
+ 							 "Simulation" 
+                ]
+              },
+              "content-type": "org"
+            }

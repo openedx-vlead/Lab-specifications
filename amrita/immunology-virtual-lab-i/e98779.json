@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98779",
+                "name": "Latex Agglutination",
+                "overview": "This experiment deals with Latex Agglutination",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

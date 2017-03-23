@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98899",
+                "name": "Animal Cell Fed Batch Cultivation",
+                "overview": "This experiment deals with Animal Cell Fed Batch Cultivation",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Animation1", 
+ 							 "Animation2", 
+ 							 "Self Evaluation", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

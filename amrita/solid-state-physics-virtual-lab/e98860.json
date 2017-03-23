@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98860",
+                "name": "Resistivity by Four Probe Method",
+                "overview": "This experiment deals with Resistivity by Four Probe Method",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

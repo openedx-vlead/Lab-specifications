@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98927",
+                "name": "Fuzzy Weighted Average and Application",
+                "overview": "This experiment deals with Fuzzy Weighted Average and Application",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

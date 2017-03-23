@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98881",
+                "name": "Calibration of Inclined Tube Manometer using Askania Minimeter.",
+                "overview": "This experiment deals with Calibration of Inclined Tube Manometer using Askania Minimeter.",
+                "sections": [
+                "THEORY", 
+ 							 "HOW IT WORKS", 
+ 							 "INSTRUMENTS", 
+ 							 "DEMO", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "REFERENCE" 
+                ]
+              },
+              "content-type": "org"
+            }

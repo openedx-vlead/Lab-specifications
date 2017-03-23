@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98787",
+                "name": "Isolation of Plant Pigments by Column Chromatography",
+                "overview": "This experiment deals with Isolation of Plant Pigments by Column Chromatography",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "NPTEL Video" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98891",
+                "name": "Experiment-2 : Simulation of Auction Markets",
+                "overview": "This experiment deals with Experiment-2 : Simulation of Auction Markets",
+                "sections": [
+                "Home", 
+ 							 "Theory»", 
+ 							 "Procedure»", 
+ 							 "Simulator»", 
+ 							 "Reference", 
+ 							 "Assignment", 
+ 							 "Self Evaluation", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

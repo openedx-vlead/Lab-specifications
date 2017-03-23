@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98814",
+                "name": "Interaction study with Neuronal Circuits",
+                "overview": "This experiment deals with Interaction study with Neuronal Circuits",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "RemotePanel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "biotech16",
+                "name": "immunology virtual lab i",
+                "overview": "This lab deals with immunology virtual lab i",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98781", 
+ 							 "e98780", 
+ 							 "e98779", 
+ 							 "e98778", 
+ 							 "e98778", 
+ 							 "e98777", 
+ 							 "e98776", 
+ 							 "e98775", 
+ 							 "e98774", 
+ 							 "e98773" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

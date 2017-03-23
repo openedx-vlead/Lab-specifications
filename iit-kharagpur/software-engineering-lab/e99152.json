@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e99152",
+                "name": "Modeling Data Flow Diagrams",
+                "overview": "This experiment deals with Modeling Data Flow Diagrams",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Simulation", 
+ 							 "Case Study", 
+ 							 "Self-evaluation", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

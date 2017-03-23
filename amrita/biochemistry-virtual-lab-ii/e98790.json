@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98790",
+                "name": "Gelatin Zymography",
+                "overview": "This experiment deals with Gelatin Zymography",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99129",
+                "name": "R-L-C Circuit Analysis",
+                "overview": "This experiment deals with R-L-C Circuit Analysis",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Operating Environment", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

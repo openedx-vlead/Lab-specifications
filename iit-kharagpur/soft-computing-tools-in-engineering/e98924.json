@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98924",
+                "name": "Probabilitic Neural Networks and Application",
+                "overview": "This experiment deals with Probabilitic Neural Networks and Application",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

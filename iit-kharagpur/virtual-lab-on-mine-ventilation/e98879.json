@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98879",
+                "name": "Calibration of orifice plates.",
+                "overview": "This experiment deals with Calibration of orifice plates.",
+                "sections": [
+                "THEORY", 
+ 							 "DEMO", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "REFERENCE" 
+                ]
+              },
+              "content-type": "org"
+            }

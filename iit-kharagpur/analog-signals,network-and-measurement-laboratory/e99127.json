@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99127",
+                "name": "Verification of Compensation Theorem",
+                "overview": "This experiment deals with Verification of Compensation Theorem",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Operating Environment", 
+ 							 "Simulator", 
+ 							 "Quizzes", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

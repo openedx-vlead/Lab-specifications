@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99188",
+                "name": "Laser beam divergence and spot size",
+                "overview": "This experiment deals with Laser beam divergence and spot size",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

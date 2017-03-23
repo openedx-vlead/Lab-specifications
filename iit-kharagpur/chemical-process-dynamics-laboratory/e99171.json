@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e99171",
+                "name": "Feedbatch Fermentor",
+                "overview": "This experiment deals with Feedbatch Fermentor",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "SIMULATOR", 
+ 							 "ASSIGNMENT", 
+ 							 "QUIZ", 
+ 							 "REFERENCES" 
+                ]
+              },
+              "content-type": "org"
+            }

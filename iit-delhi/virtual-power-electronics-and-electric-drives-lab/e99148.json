@@ -1,0 +1,11 @@
+{
+              "experiment": {
+                "id": "e99148",
+                "name": "1b : Full Wave Rectifier With Source Inductance",
+                "overview": "This experiment deals with 1b : Full Wave Rectifier With Source Inductance",
+                "sections": [
+                "Simulator" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98985",
+                "name": "DF-Part3: MCU-DAC interfacing and generation of ramp wave",
+                "overview": "This experiment deals with DF-Part3: MCU-DAC interfacing and generation of ramp wave",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

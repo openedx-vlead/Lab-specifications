@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "VLS20",
+                "name": "virtual lab on mine ventilation",
+                "overview": "This lab deals with virtual lab on mine ventilation",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98882", 
+ 							 "e98881", 
+ 							 "e98880", 
+ 							 "e98879", 
+ 							 "e98878", 
+ 							 "e98877", 
+ 							 "e98876", 
+ 							 "e98875", 
+ 							 "e98874", 
+ 							 "e98873" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

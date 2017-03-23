@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98925",
+                "name": "Radial Basis Function and Application",
+                "overview": "This experiment deals with Radial Basis Function and Application",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

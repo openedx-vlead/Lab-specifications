@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99057",
+                "name": "Sympathetic Vibrations and its Effects",
+                "overview": "This experiment deals with Sympathetic Vibrations and its Effects",
+                "sections": [
+                "Introduction", 
+ 							 "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "QUIZ", 
+ 							 "REFERENCE" 
+                ]
+              },
+              "content-type": "org"
+            }

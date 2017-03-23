@@ -1,0 +1,28 @@
+{
+              "experiment": {
+                "id": "e99184",
+                "name": "Introduction to Electrochemical Technique-Cyclic Voltammetry of Ferricyanide System.",
+                "overview": "This experiment deals with Introduction to Electrochemical Technique-Cyclic Voltammetry of Ferricyanide System.",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "Introduction", 
+ 							 "Setup", 
+ 							 "Sample", 
+ 							 "Procedure", 
+ 							 "Animate", 
+ 							 "Perform", 
+ 							 "Data Analysis", 
+ 							 "Quiz", 
+ 							 "Video", 
+ 							 "Live View", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

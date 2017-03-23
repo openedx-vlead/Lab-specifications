@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99204",
+                "name": "Doppler Effect",
+                "overview": "This experiment deals with Doppler Effect",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

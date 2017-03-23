@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99056",
+                "name": "Bearing Defects of Various Types",
+                "overview": "This experiment deals with Bearing Defects of Various Types",
+                "sections": [
+                "Introduction", 
+ 							 "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "QUIZ", 
+ 							 "REFERENCE" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e99065",
+                "name": "Control of one degree of freedom revolute type robot arm",
+                "overview": "This experiment deals with Control of one degree of freedom revolute type robot arm",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Tutorial", 
+ 							 "Simulation" 
+                ]
+              },
+              "content-type": "org"
+            }

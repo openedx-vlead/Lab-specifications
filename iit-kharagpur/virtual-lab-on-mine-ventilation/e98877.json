@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98877",
+                "name": "Establishment of the Relationship between Kata Cooling Power and Air Velocity",
+                "overview": "This experiment deals with Establishment of the Relationship between Kata Cooling Power and Air Velocity",
+                "sections": [
+                "THEORY", 
+ 							 "INSTRUMENTS", 
+ 							 "HOW IT WORKS", 
+ 							 "DEMO", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "REFERENCE" 
+                ]
+              },
+              "content-type": "org"
+            }

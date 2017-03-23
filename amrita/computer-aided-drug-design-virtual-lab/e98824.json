@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98824",
+                "name": "Energy minimization of a molecule",
+                "overview": "This experiment deals with Energy minimization of a molecule",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

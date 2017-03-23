@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99095",
+                "name": "Three Point Path Synthesis with a RRRR Mechanism",
+                "overview": "This experiment deals with Three Point Path Synthesis with a RRRR Mechanism",
+                "sections": [
+                "Introduction", 
+ 							 "Demo", 
+ 							 "Procedure", 
+ 							 "Instruments", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

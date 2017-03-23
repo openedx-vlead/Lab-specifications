@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e99199",
+                "name": "Soldering (Remote Trigger)",
+                "overview": "This experiment deals with Soldering (Remote Trigger)",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

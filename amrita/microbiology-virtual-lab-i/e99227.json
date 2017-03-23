@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99227",
+                "name": "Catalase and Coagulase Test",
+                "overview": "This experiment deals with Catalase and Coagulase Test",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

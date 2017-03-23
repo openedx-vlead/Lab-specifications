@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98834",
+                "name": "Import and simulate models from different databases",
+                "overview": "This experiment deals with Import and simulate models from different databases",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

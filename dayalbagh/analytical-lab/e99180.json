@@ -1,0 +1,21 @@
+{
+              "experiment": {
+                "id": "e99180",
+                "name": "Simultaneous Determination Of Heavy Metals In Water Samples Using Boron Doped Diamond Electrode.",
+                "overview": "This experiment deals with Simultaneous Determination Of Heavy Metals In Water Samples Using Boron Doped Diamond Electrode.",
+                "sections": [
+                "Introduction", 
+ 							 "Setup", 
+ 							 "Sample", 
+ 							 "Procedure", 
+ 							 "Animate", 
+ 							 "Perform", 
+ 							 "Data Analysis", 
+ 							 "Quiz", 
+ 							 "Video", 
+ 							 "Live View", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

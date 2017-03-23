@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98778",
+                "name": "DIRECT Elisa",
+                "overview": "This experiment deals with DIRECT Elisa",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "NPTEL Video" 
+                ]
+              },
+              "content-type": "org"
+            }

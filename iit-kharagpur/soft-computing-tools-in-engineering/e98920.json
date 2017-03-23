@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98920",
+                "name": "Genetic Expression Programming and Application",
+                "overview": "This experiment deals with Genetic Expression Programming and Application",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99277",
+                "name": "Ballistic Pendulum",
+                "overview": "This experiment deals with Ballistic Pendulum",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,22 @@
+{
+              "experiment": {
+                "id": "e99004",
+                "name": "Understanding of Pathloss",
+                "overview": "This experiment deals with Understanding of Pathloss",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Simulation", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Introduction", 
+ 							 "Theory", 
+ 							 "Instruction", 
+ 							 "Demo", 
+ 							 "Download", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

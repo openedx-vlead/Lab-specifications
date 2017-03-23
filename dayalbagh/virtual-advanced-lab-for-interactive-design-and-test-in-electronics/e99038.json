@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e99038",
+                "name": "Tunnel Diode Oscillator",
+                "overview": "This experiment deals with Tunnel Diode Oscillator",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Live Experiment", 
+ 							 "Lab-Report" 
+                ]
+              },
+              "content-type": "org"
+            }

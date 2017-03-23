@@ -1,0 +1,33 @@
+{ 
+              "lab": { 
+                "id": "VLS13",
+                "name": "real time embedded systems laboratory",
+                "overview": "This lab deals with real time embedded systems laboratory",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98989", 
+ 							 "e98988", 
+ 							 "e98987", 
+ 							 "e98986", 
+ 							 "e98985", 
+ 							 "e98984", 
+ 							 "e98983", 
+ 							 "e98982", 
+ 							 "e98981", 
+ 							 "e98980", 
+ 							 "e98979", 
+ 							 "e98978", 
+ 							 "e98977", 
+ 							 "e98976", 
+ 							 "e98975", 
+ 							 "e98974" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

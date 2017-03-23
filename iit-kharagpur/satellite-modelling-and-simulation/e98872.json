@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98872",
+                "name": "Equatorial orbit",
+                "overview": "This experiment deals with Equatorial orbit",
+                "sections": [
+                "THEORY", 
+ 							 "INSTRUMENTS", 
+ 							 "VIDEO DEMO", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "REFERENCE" 
+                ]
+              },
+              "content-type": "org"
+            }

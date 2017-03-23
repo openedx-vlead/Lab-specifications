@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99203",
+                "name": "A.C Sonometer",
+                "overview": "This experiment deals with A.C Sonometer",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

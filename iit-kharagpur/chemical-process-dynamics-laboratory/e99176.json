@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99176",
+                "name": "Stirred tank heater",
+                "overview": "This experiment deals with Stirred tank heater",
+                "sections": [
+                "Introduction", 
+ 							 "INTRODUCTION", 
+ 							 "DEMO", 
+ 							 "SIMULATOR", 
+ 							 "ASSIGNMENT", 
+ 							 "QUIZ", 
+ 							 "REFERENCES" 
+                ]
+              },
+              "content-type": "org"
+            }

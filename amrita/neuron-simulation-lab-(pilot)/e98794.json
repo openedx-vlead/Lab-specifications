@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98794",
+                "name": "Understanding first spike latency - current relationship",
+                "overview": "This experiment deals with Understanding first spike latency - current relationship",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

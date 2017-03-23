@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e99167",
+                "name": "Flow Through Fittings:",
+                "overview": "This experiment deals with Flow Through Fittings:",
+                "sections": [
+                "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SELF EVALUATION", 
+ 							 "SIMULATOR", 
+ 							 "ASSIGNMENT", 
+ 							 "REFERENCE", 
+ 							 "VIDEO", 
+ 							 "QUIZ" 
+                ]
+              },
+              "content-type": "org"
+            }

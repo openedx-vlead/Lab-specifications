@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98936",
+                "name": "Calibration of Doubly Constrained Gravity Model",
+                "overview": "This experiment deals with Calibration of Doubly Constrained Gravity Model",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Experiment", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "FAQ's" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,24 @@
+{ 
+              "lab": { 
+                "id": "phy-sc24",
+                "name": "laser optics virtual lab",
+                "overview": "This lab deals with laser optics virtual lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e99191", 
+ 							 "e99190", 
+ 							 "e99189", 
+ 							 "e99188", 
+ 							 "e99187", 
+ 							 "e99186", 
+ 							 "e99185" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

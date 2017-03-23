@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98952",
+                "name": "Study of Transform domain properties and its use. .",
+                "overview": "This experiment deals with Study of Transform domain properties and its use. .",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "procedure", 
+ 							 "simulator", 
+ 							 "Quizzes", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

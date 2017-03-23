@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98849",
+                "name": "Construction of Cladogram",
+                "overview": "This experiment deals with Construction of Cladogram",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

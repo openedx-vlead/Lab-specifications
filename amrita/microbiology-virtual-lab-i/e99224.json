@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e99224",
+                "name": "Bacterial Growth Curve",
+                "overview": "This experiment deals with Bacterial Growth Curve",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Simulation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "NPTEL Video" 
+                ]
+              },
+              "content-type": "org"
+            }

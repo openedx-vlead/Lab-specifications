@@ -1,0 +1,20 @@
+{ 
+              "lab": { 
+                "id": "VLS03",
+                "name": "virtual pulse, switching and analogue circuits lab",
+                "overview": "This lab deals with virtual pulse, switching and analogue circuits lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e99007", 
+ 							 "e99006", 
+ 							 "e99005" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

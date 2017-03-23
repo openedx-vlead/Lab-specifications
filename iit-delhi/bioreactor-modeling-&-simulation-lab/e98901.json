@@ -1,0 +1,22 @@
+{
+              "experiment": {
+                "id": "e98901",
+                "name": "Plant Cell-Batch Cultivation",
+                "overview": "This experiment deals with Plant Cell-Batch Cultivation",
+                "sections": [
+                "Thoery", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Batch", 
+ 							 "Fed Batch", 
+ 							 "Continuous", 
+ 							 "Cell Retention", 
+ 							 "Hairy Root", 
+ 							 "Self Evaluation", 
+ 							 "Matlab", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

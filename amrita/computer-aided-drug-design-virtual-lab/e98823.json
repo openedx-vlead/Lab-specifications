@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98823",
+                "name": "Predict the structure of protein-Homology Modeling",
+                "overview": "This experiment deals with Predict the structure of protein-Homology Modeling",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99097",
+                "name": "Position Analysis of a 4 Bar RPRR Grashofian Inverted Slider Crank Mechanism",
+                "overview": "This experiment deals with Position Analysis of a 4 Bar RPRR Grashofian Inverted Slider Crank Mechanism",
+                "sections": [
+                "Introduction", 
+ 							 "Demo", 
+ 							 "Procedure", 
+ 							 "Instruments", 
+ 							 "Simulator", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,19 @@
+{ 
+              "lab": { 
+                "id": "aero04",
+                "name": "satellite modelling and simulation",
+                "overview": "This lab deals with satellite modelling and simulation",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98872", 
+ 							 "e98871" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

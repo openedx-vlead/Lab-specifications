@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98853",
+                "name": "Smith-Waterman Algorithm - Local Alignment of Sequences",
+                "overview": "This experiment deals with Smith-Waterman Algorithm - Local Alignment of Sequences",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

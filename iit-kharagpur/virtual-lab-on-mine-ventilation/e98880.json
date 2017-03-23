@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98880",
+                "name": "Determination of method factor of a duct.",
+                "overview": "This experiment deals with Determination of method factor of a duct.",
+                "sections": [
+                "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "DEMO", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "REFERENCE" 
+                ]
+              },
+              "content-type": "org"
+            }

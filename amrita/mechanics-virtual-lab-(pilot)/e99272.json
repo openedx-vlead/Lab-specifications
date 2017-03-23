@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99272",
+                "name": "Projectile Motion",
+                "overview": "This experiment deals with Projectile Motion",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,23 @@
+{
+              "experiment": {
+                "id": "e99007",
+                "name": "Diodes as Clampers",
+                "overview": "This experiment deals with Diodes as Clampers",
+                "sections": [
+                "AIM", 
+ 							 "THEORY", 
+ 							 "PRELAB QUIZ", 
+ 							 "Verilog", 
+ 							 "Simulator", 
+ 							 "Manual", 
+ 							 "POST LAB", 
+ 							 "Tutorial", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulation", 
+ 							 "Quiz", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

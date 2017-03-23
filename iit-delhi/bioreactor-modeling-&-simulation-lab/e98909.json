@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98909",
+                "name": "Biopolymer Production by Microbes",
+                "overview": "This experiment deals with Biopolymer Production by Microbes",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Animation", 
+ 							 "Self Evaluation", 
+ 							 "Matlab", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

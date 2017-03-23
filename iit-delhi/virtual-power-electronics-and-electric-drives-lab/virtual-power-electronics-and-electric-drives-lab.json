@@ -1,0 +1,31 @@
+{ 
+              "lab": { 
+                "id": "eee07",
+                "name": "virtual power electronics and electric drives lab",
+                "overview": "This lab deals with virtual power electronics and electric drives lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e99149", 
+ 							 "e99148", 
+ 							 "e99147", 
+ 							 "e99146", 
+ 							 "e99145", 
+ 							 "e99144", 
+ 							 "e99143", 
+ 							 "e99142", 
+ 							 "e99141", 
+ 							 "e99140", 
+ 							 "e99139", 
+ 							 "e99138", 
+ 							 "e99137", 
+ 							 "e99136" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

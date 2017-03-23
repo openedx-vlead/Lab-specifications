@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98858",
+                "name": "Hall effect experiment:- Determination of charge carrier density",
+                "overview": "This experiment deals with Hall effect experiment:- Determination of charge carrier density",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

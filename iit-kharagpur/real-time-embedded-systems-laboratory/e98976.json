@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98976",
+                "name": "HN-Part3: Implementation of Hopfield network in C to recognize a simple ASCII character.",
+                "overview": "This experiment deals with HN-Part3: Implementation of Hopfield network in C to recognize a simple ASCII character.",
+                "sections": [
+                "Introduction", 
+ 							 "Prerequisite", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

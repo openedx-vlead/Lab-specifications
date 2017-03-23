@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e99086",
+                "name": "Three Position Rigid Body Guidance with a RRRP Mechanism",
+                "overview": "This experiment deals with Three Position Rigid Body Guidance with a RRRP Mechanism",
+                "sections": [
+                "Introduction", 
+ 							 "Demo", 
+ 							 "Procedure", 
+ 							 "Instruments", 
+ 							 "Simulator" 
+                ]
+              },
+              "content-type": "org"
+            }

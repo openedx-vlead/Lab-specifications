@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e99214",
+                "name": "Bacteriophage Plaque Assay for Phage Titer",
+                "overview": "This experiment deals with Bacteriophage Plaque Assay for Phage Titer",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

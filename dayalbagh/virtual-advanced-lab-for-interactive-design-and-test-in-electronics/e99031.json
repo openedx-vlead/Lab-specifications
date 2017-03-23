@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99031",
+                "name": "*Diode Clipper",
+                "overview": "This experiment deals with *Diode Clipper",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Live Experiment", 
+ 							 "Case Study", 
+ 							 "Lab-Report", 
+ 							 "Videos Tutorial" 
+                ]
+              },
+              "content-type": "org"
+            }

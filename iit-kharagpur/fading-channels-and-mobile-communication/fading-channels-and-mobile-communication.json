@@ -1,0 +1,31 @@
+{ 
+              "lab": { 
+                "id": "VLS05",
+                "name": "fading channels and mobile communication",
+                "overview": "This lab deals with fading channels and mobile communication",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e99004", 
+ 							 "e99003", 
+ 							 "e99002", 
+ 							 "e99001", 
+ 							 "e99000", 
+ 							 "e98999", 
+ 							 "e98998", 
+ 							 "e98997", 
+ 							 "e98996", 
+ 							 "e98995", 
+ 							 "e98994", 
+ 							 "e98993", 
+ 							 "e98992", 
+ 							 "e98991" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

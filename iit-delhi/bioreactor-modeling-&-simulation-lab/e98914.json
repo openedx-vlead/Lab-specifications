@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98914",
+                "name": "Determination of Volumeteric Mass Transfer Co-efficient (Oxygen balance method)",
+                "overview": "This experiment deals with Determination of Volumeteric Mass Transfer Co-efficient (Oxygen balance method)",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Animation", 
+ 							 "Self Evaluation", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

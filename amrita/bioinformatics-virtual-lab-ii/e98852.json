@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98852",
+                "name": "Pairwise Sequence Alignment using BLAST",
+                "overview": "This experiment deals with Pairwise Sequence Alignment using BLAST",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

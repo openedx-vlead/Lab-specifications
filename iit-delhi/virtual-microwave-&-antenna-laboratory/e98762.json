@@ -1,0 +1,24 @@
+{
+              "experiment": {
+                "id": "e98762",
+                "name": "Measuring total harmonic distortion for a given source in CW mode",
+                "overview": "This experiment deals with Measuring total harmonic distortion for a given source in CW mode",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "Theory", 
+ 							 "Pre Experiment Quiz", 
+ 							 "Procedure", 
+ 							 "Video tutorial", 
+ 							 "Experiment", 
+ 							 "Post Experiment Quiz", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

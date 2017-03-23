@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e99063",
+                "name": "Closed loop characteristics of DC motor with Proportional and Integral Control",
+                "overview": "This experiment deals with Closed loop characteristics of DC motor with Proportional and Integral Control",
+                "sections": [
+                "AIM", 
+ 							 "Theory", 
+ 							 "Tutorial", 
+ 							 "Simulation" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99114",
+                "name": "Measurement of Self-Inductance by Maxwell Bridge",
+                "overview": "This experiment deals with Measurement of Self-Inductance by Maxwell Bridge",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Operating Environment", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

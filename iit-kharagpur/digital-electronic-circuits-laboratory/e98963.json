@@ -1,0 +1,24 @@
+{
+              "experiment": {
+                "id": "e98963",
+                "name": "Analysis of Functions of BCD-TO-7-segment Decoder / Driver and Operation of 7-segment LED Display",
+                "overview": "This experiment deals with Analysis of Functions of BCD-TO-7-segment Decoder / Driver and Operation of 7-segment LED Display",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Simulation", 
+ 							 "Self-evaluation", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "References", 
+ 							 "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quizzes", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

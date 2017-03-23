@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98866",
+                "name": "Finding ORF of a Given Sequence",
+                "overview": "This experiment deals with Finding ORF of a Given Sequence",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

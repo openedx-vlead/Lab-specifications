@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98765",
+                "name": "Fluorescent Labeling of Antibodies",
+                "overview": "This experiment deals with Fluorescent Labeling of Antibodies",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

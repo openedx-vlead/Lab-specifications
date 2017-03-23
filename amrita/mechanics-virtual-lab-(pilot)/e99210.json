@@ -1,0 +1,24 @@
+{
+              "experiment": {
+                "id": "e99210",
+                "name": "Torque and angular acceleration of a fly wheel",
+                "overview": "This experiment deals with Torque and angular acceleration of a fly wheel",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

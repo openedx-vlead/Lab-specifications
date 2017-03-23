@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e99069",
+                "name": "KGP 50",
+                "overview": "This experiment deals with KGP 50",
+                "sections": [
+                "Introduction", 
+ 							 "Specification", 
+ 							 "Tutorial", 
+ 							 "Animation", 
+ 							 "Simulation" 
+                ]
+              },
+              "content-type": "org"
+            }

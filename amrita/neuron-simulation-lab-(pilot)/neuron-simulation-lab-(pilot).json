@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "biotech19",
+                "name": "neuron simulation lab (pilot)",
+                "overview": "This lab deals with neuron simulation lab (pilot)",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98801", 
+ 							 "e98800", 
+ 							 "e98799", 
+ 							 "e98798", 
+ 							 "e98797", 
+ 							 "e98796", 
+ 							 "e98795", 
+ 							 "e98794", 
+ 							 "e98793", 
+ 							 "e98792" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

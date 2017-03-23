@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98981",
+                "name": "SM-Part1: LCD - MCU interfacing and displaying a string",
+                "overview": "This experiment deals with SM-Part1: LCD - MCU interfacing and displaying a string",
+                "sections": [
+                "Introduction", 
+ 							 "Prerequisite", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

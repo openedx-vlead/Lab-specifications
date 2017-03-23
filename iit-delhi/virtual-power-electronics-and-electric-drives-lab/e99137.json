@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e99137",
+                "name": "8 : V/F Control Of VSI Fed Three-Phase Induction Motor",
+                "overview": "This experiment deals with 8 : V/F Control Of VSI Fed Three-Phase Induction Motor",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

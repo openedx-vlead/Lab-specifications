@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e99035",
+                "name": "Voltage Doubler",
+                "overview": "This experiment deals with Voltage Doubler",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Live Experiment", 
+ 							 "Lab-Report" 
+                ]
+              },
+              "content-type": "org"
+            }

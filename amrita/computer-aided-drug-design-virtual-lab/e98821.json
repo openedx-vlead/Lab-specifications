@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98821",
+                "name": "Absorption and Distribution Property Prediction in Drug Designing Process",
+                "overview": "This experiment deals with Absorption and Distribution Property Prediction in Drug Designing Process",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98831",
+                "name": "Creating and Visualizing a Simple Network Model",
+                "overview": "This experiment deals with Creating and Visualizing a Simple Network Model",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

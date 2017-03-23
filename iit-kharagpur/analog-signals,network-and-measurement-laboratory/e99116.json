@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99116",
+                "name": "Measurement of Capacitance by De Sauty's (Modified) bridge",
+                "overview": "This experiment deals with Measurement of Capacitance by De Sauty's (Modified) bridge",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Operating Environment", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

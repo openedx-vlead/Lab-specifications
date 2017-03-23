@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e99142",
+                "name": "4b : Single Phase VSI with Single PWM",
+                "overview": "This experiment deals with 4b : Single Phase VSI with Single PWM",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

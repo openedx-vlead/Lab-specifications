@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e99012",
+                "name": "To Design, implement and Simulate the Look ahead carry.",
+                "overview": "This experiment deals with To Design, implement and Simulate the Look ahead carry.",
+                "sections": [
+                "AIM", 
+ 							 "THEORY", 
+ 							 "PRELAB QUIZ", 
+ 							 "Verilog", 
+ 							 "Simulator", 
+ 							 "Manual", 
+ 							 "POST LAB", 
+ 							 "Tutorial" 
+                ]
+              },
+              "content-type": "org"
+            }

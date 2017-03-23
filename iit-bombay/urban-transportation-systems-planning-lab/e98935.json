@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98935",
+                "name": "Mode Split",
+                "overview": "This experiment deals with Mode Split",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Experiment", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "FAQ's" 
+                ]
+              },
+              "content-type": "org"
+            }

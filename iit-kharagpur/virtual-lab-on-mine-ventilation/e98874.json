@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98874",
+                "name": "Precise Traversing in a Duct using Pitot Tube",
+                "overview": "This experiment deals with Precise Traversing in a Duct using Pitot Tube",
+                "sections": [
+                "THEORY", 
+ 							 "VIDEO DEMO", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "REFERENCE" 
+                ]
+              },
+              "content-type": "org"
+            }

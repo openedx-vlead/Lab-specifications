@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e99015",
+                "name": "To Design, implement and Simulate the 3 : 8 Decoder.",
+                "overview": "This experiment deals with To Design, implement and Simulate the 3 : 8 Decoder.",
+                "sections": [
+                "AIM", 
+ 							 "THEORY", 
+ 							 "PRELAB QUIZ", 
+ 							 "Verilog", 
+ 							 "Simulator", 
+ 							 "Manual", 
+ 							 "POST LAB", 
+ 							 "Tutoria" 
+                ]
+              },
+              "content-type": "org"
+            }

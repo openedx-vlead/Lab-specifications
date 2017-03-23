@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99032",
+                "name": "*Diode Clamper",
+                "overview": "This experiment deals with *Diode Clamper",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Live Experiment", 
+ 							 "Case Study", 
+ 							 "Lab-Report", 
+ 							 "Videos Tutorial" 
+                ]
+              },
+              "content-type": "org"
+            }

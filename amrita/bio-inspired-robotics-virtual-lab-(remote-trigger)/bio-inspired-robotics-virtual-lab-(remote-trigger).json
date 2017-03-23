@@ -1,0 +1,25 @@
+{ 
+              "lab": { 
+                "id": "biotech11",
+                "name": "bio-inspired robotics virtual lab (remote trigger)",
+                "overview": "This lab deals with bio-inspired robotics virtual lab (remote trigger)",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98819", 
+ 							 "e98818", 
+ 							 "e98817", 
+ 							 "e98816", 
+ 							 "e98815", 
+ 							 "e98814", 
+ 							 "e98813", 
+ 							 "e98812" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

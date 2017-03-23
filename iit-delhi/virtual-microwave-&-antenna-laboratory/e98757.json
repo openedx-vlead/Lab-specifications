@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98757",
+                "name": "near field",
+                "overview": "This experiment deals with near field",
+                "sections": [
+                "Theory", 
+ 							 "Pre Experiment Quiz", 
+ 							 "Procedure", 
+ 							 "Video tutorial", 
+ 							 "Experiment", 
+ 							 "Post Experiment Quiz", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

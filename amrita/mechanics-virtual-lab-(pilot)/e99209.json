@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e99209",
+                "name": "Torsional oscillations in different liquids",
+                "overview": "This experiment deals with Torsional oscillations in different liquids",
+                "sections": [
+                "Theory", 
+ 							 "Simulator", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

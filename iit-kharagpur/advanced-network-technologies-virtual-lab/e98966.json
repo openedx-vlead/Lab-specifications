@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98966",
+                "name": "Simulating a Wireless Sensor Network",
+                "overview": "This experiment deals with Simulating a Wireless Sensor Network",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Simulation", 
+ 							 "Self-evaluation", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

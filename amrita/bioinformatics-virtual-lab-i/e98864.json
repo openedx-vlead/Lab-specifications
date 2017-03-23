@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98864",
+                "name": "Retrieving Motif Information of a Protein Using Prosite",
+                "overview": "This experiment deals with Retrieving Motif Information of a Protein Using Prosite",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

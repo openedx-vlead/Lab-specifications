@@ -1,0 +1,21 @@
+{
+              "experiment": {
+                "id": "e99182",
+                "name": "Study of Electrochemical behaviour of Ascorbic Acid by CNT Electrode.",
+                "overview": "This experiment deals with Study of Electrochemical behaviour of Ascorbic Acid by CNT Electrode.",
+                "sections": [
+                "Introduction", 
+ 							 "Setup", 
+ 							 "Sample", 
+ 							 "Procedure", 
+ 							 "Animate", 
+ 							 "Perform", 
+ 							 "Data Analysis", 
+ 							 "Quiz", 
+ 							 "Video", 
+ 							 "Live View", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

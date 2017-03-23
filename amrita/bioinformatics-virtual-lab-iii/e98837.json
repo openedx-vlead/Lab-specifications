@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98837",
+                "name": "Homology Modeling using Modeller",
+                "overview": "This experiment deals with Homology Modeling using Modeller",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

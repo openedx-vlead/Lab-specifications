@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98840",
+                "name": "Surface Analysis of a Protein Using CASTp",
+                "overview": "This experiment deals with Surface Analysis of a Protein Using CASTp",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

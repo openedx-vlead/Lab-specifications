@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98958",
+                "name": "Analysis and Synthesis of Boolean Expressions using Basic Logic Gates",
+                "overview": "This experiment deals with Analysis and Synthesis of Boolean Expressions using Basic Logic Gates",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quizzes", 
+ 							 "Referenc" 
+                ]
+              },
+              "content-type": "org"
+            }

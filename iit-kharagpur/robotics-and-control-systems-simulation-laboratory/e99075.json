@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e99075",
+                "name": "Fourbar Mechanism",
+                "overview": "This experiment deals with Fourbar Mechanism",
+                "sections": [
+                "Introduction", 
+ 							 "Demo", 
+ 							 "Procedure", 
+ 							 "Instruments", 
+ 							 "Simulator", 
+ 							 "Reference", 
+ 							 "AIM", 
+ 							 "Theory", 
+ 							 "Simulation" 
+                ]
+              },
+              "content-type": "org"
+            }

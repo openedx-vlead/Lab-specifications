@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99078",
+                "name": "Two Position Coordinated Motion Synthesis with a RRRR Mechanism",
+                "overview": "This experiment deals with Two Position Coordinated Motion Synthesis with a RRRR Mechanism",
+                "sections": [
+                "Introduction", 
+ 							 "Demo", 
+ 							 "Procedure", 
+ 							 "Instruments", 
+ 							 "Simulator", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

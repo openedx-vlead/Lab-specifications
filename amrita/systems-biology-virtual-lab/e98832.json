@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98832",
+                "name": "SBML-A markup language for mathematical models in systems biology using cell designer",
+                "overview": "This experiment deals with SBML-A markup language for mathematical models in systems biology using cell designer",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,13 @@
+{
+              "experiment": {
+                "id": "e99139",
+                "name": "6 : DC Motor Speed Control",
+                "overview": "This experiment deals with 6 : DC Motor Speed Control",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator" 
+                ]
+              },
+              "content-type": "org"
+            }

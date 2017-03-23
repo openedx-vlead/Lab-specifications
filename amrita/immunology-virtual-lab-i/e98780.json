@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98780",
+                "name": "Blood Grouping Experiment",
+                "overview": "This experiment deals with Blood Grouping Experiment",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "NPTEL Video" 
+                ]
+              },
+              "content-type": "org"
+            }

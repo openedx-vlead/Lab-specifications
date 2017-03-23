@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99198",
+                "name": "Solar Panel Experiment (Remote Trigger)",
+                "overview": "This experiment deals with Solar Panel Experiment (Remote Trigger)",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Remote Panel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

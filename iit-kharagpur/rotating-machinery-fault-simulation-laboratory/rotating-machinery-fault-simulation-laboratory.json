@@ -1,0 +1,26 @@
+{ 
+              "lab": { 
+                "id": "VLS15",
+                "name": "rotating machinery fault simulation laboratory",
+                "overview": "This lab deals with rotating machinery fault simulation laboratory",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e99060", 
+ 							 "e99059", 
+ 							 "e99058", 
+ 							 "e99057", 
+ 							 "e99056", 
+ 							 "e99055", 
+ 							 "e99054", 
+ 							 "e99053", 
+ 							 "e99052" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

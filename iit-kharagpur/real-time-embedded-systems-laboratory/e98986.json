@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98986",
+                "name": "DF-Part2: Fixed point Implementation of Digital FIR Filter",
+                "overview": "This experiment deals with DF-Part2: Fixed point Implementation of Digital FIR Filter",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

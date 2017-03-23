@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99202",
+                "name": "Colpitts Oscillator",
+                "overview": "This experiment deals with Colpitts Oscillator",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

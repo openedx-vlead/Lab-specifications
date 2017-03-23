@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98959",
+                "name": "Characterization of Digital Logic Families",
+                "overview": "This experiment deals with Characterization of Digital Logic Families",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quizzes", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

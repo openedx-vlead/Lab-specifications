@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98867",
+                "name": "Retrieving articles using PubMed",
+                "overview": "This experiment deals with Retrieving articles using PubMed",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

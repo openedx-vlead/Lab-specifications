@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98833",
+                "name": "To Import and simulate a model from the repository",
+                "overview": "This experiment deals with To Import and simulate a model from the repository",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

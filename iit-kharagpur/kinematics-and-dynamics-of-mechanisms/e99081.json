@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99081",
+                "name": "Dead Center Synthesis with RRRP Mechanism",
+                "overview": "This experiment deals with Dead Center Synthesis with RRRP Mechanism",
+                "sections": [
+                "Introduction", 
+ 							 "Demo", 
+ 							 "Procedure", 
+ 							 "Instruments", 
+ 							 "Simulator", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

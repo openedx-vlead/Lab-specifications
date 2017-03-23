@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e99029",
+                "name": "*Push Pull Amplifier",
+                "overview": "This experiment deals with *Push Pull Amplifier",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Live Experiment", 
+ 							 "Lab-Report", 
+ 							 "Videos Tutorial" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,25 @@
+{ 
+              "lab": { 
+                "id": "phy-sc21",
+                "name": "solid state physics virtual lab",
+                "overview": "This lab deals with solid state physics virtual lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98861", 
+ 							 "e99977", 
+ 							 "e98860", 
+ 							 "e98859", 
+ 							 "e98858", 
+ 							 "e98857", 
+ 							 "e98856", 
+ 							 "e98855" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

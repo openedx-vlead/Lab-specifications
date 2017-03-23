@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98968",
+                "name": "Simulating a WiMAX Network",
+                "overview": "This experiment deals with Simulating a WiMAX Network",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Simulation", 
+ 							 "Self-evaluation", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

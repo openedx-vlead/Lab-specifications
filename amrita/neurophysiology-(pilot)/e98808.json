@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98808",
+                "name": "Current Clamp Technique",
+                "overview": "This experiment deals with Current Clamp Technique",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

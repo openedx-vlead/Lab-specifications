@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98803",
+                "name": "Effects of Ion Channels in Membrane Biophysics (Remote trigger)",
+                "overview": "This experiment deals with Effects of Ion Channels in Membrane Biophysics (Remote trigger)",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "RemotePanel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

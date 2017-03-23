@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98933",
+                "name": "System Optimal Assignment",
+                "overview": "This experiment deals with System Optimal Assignment",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Experiment", 
+ 							 "Self Evaluation", 
+ 							 "FAQs" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e99044",
+                "name": "Electrical Motor Fault Detection by MCSA",
+                "overview": "This experiment deals with Electrical Motor Fault Detection by MCSA",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Modules", 
+ 							 "Simulator" 
+                ]
+              },
+              "content-type": "org"
+            }

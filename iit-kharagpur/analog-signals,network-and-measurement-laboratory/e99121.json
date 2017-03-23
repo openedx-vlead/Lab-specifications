@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99121",
+                "name": "Measurement of Self Inductance of High Quality Factor Coil by Hay's Bridge",
+                "overview": "This experiment deals with Measurement of Self Inductance of High Quality Factor Coil by Hay's Bridge",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Operating Environment", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

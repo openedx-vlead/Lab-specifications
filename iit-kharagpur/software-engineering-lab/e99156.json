@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e99156",
+                "name": "E-R Modeling from the Problem Statements",
+                "overview": "This experiment deals with E-R Modeling from the Problem Statements",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Simulation", 
+ 							 "Case Study", 
+ 							 "Self-evaluation", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

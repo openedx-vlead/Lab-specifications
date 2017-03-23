@@ -1,0 +1,24 @@
+{
+              "experiment": {
+                "id": "e99191",
+                "name": "Michelson's Interferometer- Refractive index of glass plate ",
+                "overview": "This experiment deals with Michelson's Interferometer- Refractive index of glass plate ",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Remote Panel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e99151",
+                "name": "Estimation of Test Coverage Metrics and Structural Complexity",
+                "overview": "This experiment deals with Estimation of Test Coverage Metrics and Structural Complexity",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Simulation", 
+ 							 "Case Study", 
+ 							 "Self-evaluation", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

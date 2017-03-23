@@ -1,0 +1,25 @@
+{ 
+              "lab": { 
+                "id": "VLS14",
+                "name": "chemical process dynamics laboratory",
+                "overview": "This lab deals with chemical process dynamics laboratory",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e99176", 
+ 							 "e99175", 
+ 							 "e99174", 
+ 							 "e99173", 
+ 							 "e99172", 
+ 							 "e99171", 
+ 							 "e99170", 
+ 							 "e99169" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

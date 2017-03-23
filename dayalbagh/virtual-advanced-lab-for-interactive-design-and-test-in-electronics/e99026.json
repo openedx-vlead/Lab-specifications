@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99026",
+                "name": "*Voltage Follower",
+                "overview": "This experiment deals with *Voltage Follower",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Live Experiment", 
+ 							 "Case Study", 
+ 							 "Lab-Report", 
+ 							 "Videos Tutorial" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98851",
+                "name": "Pairwise sequence alignment using FASTA",
+                "overview": "This experiment deals with Pairwise sequence alignment using FASTA",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

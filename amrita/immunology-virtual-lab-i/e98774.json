@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98774",
+                "name": "Extraction of IgG Antibodies from Immunized Hen Egg",
+                "overview": "This experiment deals with Extraction of IgG Antibodies from Immunized Hen Egg",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

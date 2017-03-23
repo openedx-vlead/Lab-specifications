@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99047",
+                "name": "Time-Frequency Analysis of Mechanical Systems",
+                "overview": "This experiment deals with Time-Frequency Analysis of Mechanical Systems",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

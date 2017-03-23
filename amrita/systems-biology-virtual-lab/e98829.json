@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98829",
+                "name": "Integrating Biological Networks and Microarray Expression data",
+                "overview": "This experiment deals with Integrating Biological Networks and Microarray Expression data",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

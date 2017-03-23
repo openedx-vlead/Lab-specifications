@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98950",
+                "name": "Study of different types of Companding Techniques.",
+                "overview": "This experiment deals with Study of different types of Companding Techniques.",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "procedure", 
+ 							 "simulator", 
+ 							 "Quizzes", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

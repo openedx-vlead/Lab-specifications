@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98825",
+                "name": "Dihedral angle calculation of a molecule",
+                "overview": "This experiment deals with Dihedral angle calculation of a molecule",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

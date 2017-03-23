@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e99141",
+                "name": "4c : Single Phase VSI with Sine-Triangular PWM",
+                "overview": "This experiment deals with 4c : Single Phase VSI with Sine-Triangular PWM",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

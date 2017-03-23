@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e99147",
+                "name": "2 : 3 Phase Rectifier With Source Inductance",
+                "overview": "This experiment deals with 2 : 3 Phase Rectifier With Source Inductance",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

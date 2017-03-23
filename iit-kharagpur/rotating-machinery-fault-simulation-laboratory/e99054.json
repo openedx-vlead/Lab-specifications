@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99054",
+                "name": "Diagnosis of Shaft Misalignment and its Effects",
+                "overview": "This experiment deals with Diagnosis of Shaft Misalignment and its Effects",
+                "sections": [
+                "Introduction", 
+ 							 "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "QUIZ", 
+ 							 "REFERENCE" 
+                ]
+              },
+              "content-type": "org"
+            }

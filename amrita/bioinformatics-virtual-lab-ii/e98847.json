@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98847",
+                "name": "Phylogenetic Analysis using PHYLIP - Unrooted trees",
+                "overview": "This experiment deals with Phylogenetic Analysis using PHYLIP - Unrooted trees",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

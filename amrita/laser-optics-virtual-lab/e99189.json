@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99189",
+                "name": "Michelson's Interferometer- Wavelength of laser beam ",
+                "overview": "This experiment deals with Michelson's Interferometer- Wavelength of laser beam ",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

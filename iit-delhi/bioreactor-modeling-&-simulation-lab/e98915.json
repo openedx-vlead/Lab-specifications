@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98915",
+                "name": "Determination of Volumeteric Mass Transfer Co-efficient (Dynamic method)",
+                "overview": "This experiment deals with Determination of Volumeteric Mass Transfer Co-efficient (Dynamic method)",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Animation", 
+ 							 "Self Evaluation", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

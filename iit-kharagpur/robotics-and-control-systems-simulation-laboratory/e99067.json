@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e99067",
+                "name": "Closed loop characteristics of DC motor with Proportional Control",
+                "overview": "This experiment deals with Closed loop characteristics of DC motor with Proportional Control",
+                "sections": [
+                "AIM", 
+ 							 "Theory", 
+ 							 "Tutorial", 
+ 							 "Simulation" 
+                ]
+              },
+              "content-type": "org"
+            }

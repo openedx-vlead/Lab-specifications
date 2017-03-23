@@ -1,0 +1,26 @@
+{ 
+              "lab": { 
+                "id": "-",
+                "name": "modern digital design lab",
+                "overview": "This lab deals with modern digital design lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e99016", 
+ 							 "e99015", 
+ 							 "e99014", 
+ 							 "e99013", 
+ 							 "e99012", 
+ 							 "e99011", 
+ 							 "e99010", 
+ 							 "e99009", 
+ 							 "e99008" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

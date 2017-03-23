@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99123",
+                "name": "Determination of different parameters of Two-port network and verification of their interrelations",
+                "overview": "This experiment deals with Determination of different parameters of Two-port network and verification of their interrelations",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Operating Environment", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

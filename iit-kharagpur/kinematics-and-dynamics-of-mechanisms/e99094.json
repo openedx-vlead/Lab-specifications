@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e99094",
+                "name": "Position Analysis of Spherical 4 Bar Mechanisms",
+                "overview": "This experiment deals with Position Analysis of Spherical 4 Bar Mechanisms",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Simulator", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

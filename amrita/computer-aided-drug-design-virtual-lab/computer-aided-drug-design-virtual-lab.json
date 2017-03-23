@@ -1,0 +1,25 @@
+{ 
+              "lab": { 
+                "id": "biotech06",
+                "name": "computer-aided drug design virtual lab",
+                "overview": "This lab deals with computer-aided drug design virtual lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98827", 
+ 							 "e98826", 
+ 							 "e98825", 
+ 							 "e98824", 
+ 							 "e98823", 
+ 							 "e98822", 
+ 							 "e98821", 
+ 							 "e98820" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

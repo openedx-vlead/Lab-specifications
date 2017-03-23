@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e99073",
+                "name": "Forward Kinematics 5R Robot Manipulator",
+                "overview": "This experiment deals with Forward Kinematics 5R Robot Manipulator",
+                "sections": [
+                "AIM", 
+ 							 "Theory", 
+ 							 "Simulation", 
+ 							 "Simulation(Java Sessions)", 
+ 							 "Online Control" 
+                ]
+              },
+              "content-type": "org"
+            }

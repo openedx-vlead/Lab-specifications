@@ -1,0 +1,24 @@
+{
+              "experiment": {
+                "id": "e99051",
+                "name": "Basics of Dynamic Signals",
+                "overview": "This experiment deals with Basics of Dynamic Signals",
+                "sections": [
+                "Introduction", 
+ 							 "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SIMULATOR", 
+ 							 "QUIZ", 
+ 							 "REFERENCE", 
+ 							 "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Modules", 
+ 							 "Quiz", 
+ 							 "Assignment", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

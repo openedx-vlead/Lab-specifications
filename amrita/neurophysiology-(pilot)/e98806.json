@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98806",
+                "name": "Study of Synaptic Transmission (Remote trigger)",
+                "overview": "This experiment deals with Study of Synaptic Transmission (Remote trigger)",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "RemotePanel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

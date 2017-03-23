@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98788",
+                "name": "Construction of Maltose Standard Curve by DNS Method",
+                "overview": "This experiment deals with Construction of Maltose Standard Curve by DNS Method",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99977",
+                "name": "Characteristics of Thermistor",
+                "overview": "This experiment deals with Characteristics of Thermistor",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

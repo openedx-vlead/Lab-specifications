@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98804",
+                "name": "Understanding the Passive Properties of a Simple Neuron (Remote trigger)",
+                "overview": "This experiment deals with Understanding the Passive Properties of a Simple Neuron (Remote trigger)",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "RemotePanel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

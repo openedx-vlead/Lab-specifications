@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98937",
+                "name": "Doubly constrained Gravity Model",
+                "overview": "This experiment deals with Doubly constrained Gravity Model",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Experiment", 
+ 							 "Faqs", 
+ 							 "Self Evaluation" 
+                ]
+              },
+              "content-type": "org"
+            }

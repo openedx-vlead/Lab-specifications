@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99146",
+                "name": "3a : Buck Converter",
+                "overview": "This experiment deals with 3a : Buck Converter",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

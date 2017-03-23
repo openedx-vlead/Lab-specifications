@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98946",
+                "name": "Study of FIR filter design using window method: Lowpass and highpass filter.",
+                "overview": "This experiment deals with Study of FIR filter design using window method: Lowpass and highpass filter.",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "procedure", 
+ 							 "simulator", 
+ 							 "Quizzes", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e99161",
+                "name": "Reaction kinetic studies in a mixed flow reactor:",
+                "overview": "This experiment deals with Reaction kinetic studies in a mixed flow reactor:",
+                "sections": [
+                "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SELF EVALUATION", 
+ 							 "SIMULATOR", 
+ 							 "ASSIGNMENT", 
+ 							 "REFERENCE", 
+ 							 "VIDEO", 
+ 							 "QUIZ" 
+                ]
+              },
+              "content-type": "org"
+            }

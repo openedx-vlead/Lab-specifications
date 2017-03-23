@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98841",
+                "name": "Secondary structure analysis of a protein using SOPMA",
+                "overview": "This experiment deals with Secondary structure analysis of a protein using SOPMA",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

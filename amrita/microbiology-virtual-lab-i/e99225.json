@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99225",
+                "name": "Lecithinase Test",
+                "overview": "This experiment deals with Lecithinase Test",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

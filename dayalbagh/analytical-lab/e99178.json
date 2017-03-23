@@ -1,0 +1,21 @@
+{
+              "experiment": {
+                "id": "e99178",
+                "name": "Measurement of electrode impedance by Electrochemical Impedance Spectroscopy.",
+                "overview": "This experiment deals with Measurement of electrode impedance by Electrochemical Impedance Spectroscopy.",
+                "sections": [
+                "Introduction", 
+ 							 "Setup", 
+ 							 "Sample", 
+ 							 "Procedure", 
+ 							 "Animate", 
+ 							 "Perform", 
+ 							 "Data Analysis", 
+ 							 "Quiz", 
+ 							 "Video", 
+ 							 "Live View", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

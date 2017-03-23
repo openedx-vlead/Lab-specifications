@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99126",
+                "name": "Verification of Reciprocity Theorem",
+                "overview": "This experiment deals with Verification of Reciprocity Theorem",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Operating Environment", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98777",
+                "name": "SANDWICH Elisa",
+                "overview": "This experiment deals with SANDWICH Elisa",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback", 
+ 							 "NPTEL Video" 
+                ]
+              },
+              "content-type": "org"
+            }

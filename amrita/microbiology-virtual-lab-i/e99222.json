@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99222",
+                "name": "Differential and Cytological Staining Techniques",
+                "overview": "This experiment deals with Differential and Cytological Staining Techniques",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

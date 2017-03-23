@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98922",
+                "name": "Introduction to Evolutionary Algorithms and Fundamentals",
+                "overview": "This experiment deals with Introduction to Evolutionary Algorithms and Fundamentals",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

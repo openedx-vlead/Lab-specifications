@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e99022",
+                "name": "Schmitt Trigger",
+                "overview": "This experiment deals with Schmitt Trigger",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Live Experiment", 
+ 							 "Lab-Report" 
+                ]
+              },
+              "content-type": "org"
+            }

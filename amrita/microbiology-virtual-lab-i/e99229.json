@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e99229",
+                "name": "Streak Plate Method",
+                "overview": "This experiment deals with Streak Plate Method",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

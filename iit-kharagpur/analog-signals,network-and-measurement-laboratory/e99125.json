@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99125",
+                "name": "Verification of Maximum Power Transfer Theorem",
+                "overview": "This experiment deals with Verification of Maximum Power Transfer Theorem",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Operating Environment", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

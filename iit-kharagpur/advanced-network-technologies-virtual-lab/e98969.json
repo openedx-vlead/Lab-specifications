@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98969",
+                "name": "Simulating a Wi-Fi Network",
+                "overview": "This experiment deals with Simulating a Wi-Fi Network",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Simulation", 
+ 							 "Self-evaluation", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

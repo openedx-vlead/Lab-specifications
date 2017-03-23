@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98939",
+                "name": "Growth Factor Distribution Modelis",
+                "overview": "This experiment deals with Growth Factor Distribution Modelis",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Experiment", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "FAQ's" 
+                ]
+              },
+              "content-type": "org"
+            }

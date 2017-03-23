@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98805",
+                "name": "Measuring Field Potentials Using MEA chips",
+                "overview": "This experiment deals with Measuring Field Potentials Using MEA chips",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98863",
+                "name": "Retrieving Gene Information from TAIR database",
+                "overview": "This experiment deals with Retrieving Gene Information from TAIR database",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

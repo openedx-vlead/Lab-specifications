@@ -1,0 +1,26 @@
+{ 
+              "lab": { 
+                "id": "phy-sc27",
+                "name": "modern physics virtual lab",
+                "overview": "This lab deals with modern physics virtual lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e99200", 
+ 							 "e99199", 
+ 							 "e99198", 
+ 							 "e99197", 
+ 							 "e99196", 
+ 							 "e99195", 
+ 							 "e99194", 
+ 							 "e99193", 
+ 							 "e99192" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98870",
+                "name": "Retrieving sequence data from Entrez",
+                "overview": "This experiment deals with Retrieving sequence data from Entrez",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }
