@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98733",
+                "name": "Acid-Base Indicators",
+                "overview": "This experiment deals with Acid-Base Indicators",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

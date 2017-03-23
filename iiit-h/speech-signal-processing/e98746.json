@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98746",
+                "name": "Speech production mechanism",
+                "overview": "This experiment deals with Speech production mechanism",
+                "sections": [
+                "Objective", 
+ 							 "Procedure", 
+ 							 "Tutorial", 
+ 							 "Experiment", 
+ 							 "Observations", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

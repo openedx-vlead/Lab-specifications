@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98745",
+                "name": "Nature of Speech Signal",
+                "overview": "This experiment deals with Nature of Speech Signal",
+                "sections": [
+                "Objective", 
+ 							 "Procedure", 
+ 							 "Tutorial", 
+ 							 "Experiment", 
+ 							 "Observations", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

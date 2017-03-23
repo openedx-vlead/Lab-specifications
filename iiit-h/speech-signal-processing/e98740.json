@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98740",
+                "name": "Linear prediction analysis of speech",
+                "overview": "This experiment deals with Linear prediction analysis of speech",
+                "sections": [
+                "Objective", 
+ 							 "Procedure", 
+ 							 "Tutorial", 
+ 							 "Experiment", 
+ 							 "Observations", 
+ 							 "Assessment", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

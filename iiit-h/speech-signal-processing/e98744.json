@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98744",
+                "name": "Basics of DSP",
+                "overview": "This experiment deals with Basics of DSP",
+                "sections": [
+                "Objective", 
+ 							 "Procedure", 
+ 							 "Tutorial", 
+ 							 "Experiment", 
+ 							 "Observations", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

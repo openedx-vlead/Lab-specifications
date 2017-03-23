@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98739",
+                "name": "Formant synthesis",
+                "overview": "This experiment deals with Formant synthesis",
+                "sections": [
+                "Objective", 
+ 							 "Procedure", 
+ 							 "Tutorial", 
+ 							 "Experiment", 
+ 							 "Observations", 
+ 							 "Assessment", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98741",
+                "name": "Cepstral analysis of speech",
+                "overview": "This experiment deals with Cepstral analysis of speech",
+                "sections": [
+                "Objective", 
+ 							 "Procedure", 
+ 							 "Tutorial", 
+ 							 "Experiment", 
+ 							 "Observations", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

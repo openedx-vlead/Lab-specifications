@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98732",
+                "name": "Geiger Muller Counter",
+                "overview": "This experiment deals with Geiger Muller Counter",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

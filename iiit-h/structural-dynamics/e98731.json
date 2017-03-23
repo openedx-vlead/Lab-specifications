@@ -1,0 +1,27 @@
+{
+              "experiment": {
+                "id": "e98731",
+                "name": "imple Harmonic Oscillator",
+                "overview": "This experiment deals with imple Harmonic Oscillator",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Feedback", 
+ 							 "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Experiment", 
+ 							 "Manual", 
+ 							 "Quizzes", 
+ 							 "Procedure", 
+ 							 "Further Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

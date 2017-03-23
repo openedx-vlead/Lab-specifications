@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98736",
+                "name": "Millikan's Experiment",
+                "overview": "This experiment deals with Millikan's Experiment",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98742",
+                "name": "Spectrographic analysis of speech",
+                "overview": "This experiment deals with Spectrographic analysis of speech",
+                "sections": [
+                "Objective", 
+ 							 "Procedure", 
+ 							 "Tutorial", 
+ 							 "Experiment", 
+ 							 "Observations", 
+ 							 "Assessment", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

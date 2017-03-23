@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98749",
+                "name": "Demonstration of the Surface-Effect on Chemical Properties of Finely Divided Particle",
+                "overview": "This experiment deals with Demonstration of the Surface-Effect on Chemical Properties of Finely Divided Particle",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Experiments", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

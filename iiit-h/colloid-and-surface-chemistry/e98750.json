@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98750",
+                "name": "Demonstration of Tyndall Effect or Tyndall Scattering in Colloidal Systems",
+                "overview": "This experiment deals with Demonstration of Tyndall Effect or Tyndall Scattering in Colloidal Systems",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Experiments", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

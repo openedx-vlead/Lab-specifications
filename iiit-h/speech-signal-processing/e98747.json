@@ -1,0 +1,27 @@
+{
+              "experiment": {
+                "id": "e98747",
+                "name": "Manual speech signal-to-symbol transformation",
+                "overview": "This experiment deals with Manual speech signal-to-symbol transformation",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Experiments", 
+ 							 "Feedback", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Tutorial", 
+ 							 "Experiment", 
+ 							 "Observations", 
+ 							 "Assessment", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

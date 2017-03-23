@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "eerc06",
+                "name": "structural-dynamics",
+                "overview": "This lab deals with structural-dynamics",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98731", 
+ 							 "e98730", 
+ 							 "e98729", 
+ 							 "e98728", 
+ 							 "e98727", 
+ 							 "e98726", 
+ 							 "e98725", 
+ 							 "e98724", 
+ 							 "e98723", 
+ 							 "e98722" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

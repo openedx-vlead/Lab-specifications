@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e99477",
+                "name": "Young's Modulus",
+                "overview": "This experiment deals with Young's Modulus",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

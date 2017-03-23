@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98754",
+                "name": "Preparation of Gels",
+                "overview": "This experiment deals with Preparation of Gels",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Experiments", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

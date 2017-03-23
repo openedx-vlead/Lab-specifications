@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98755",
+                "name": "Preparation of Sols",
+                "overview": "This experiment deals with Preparation of Sols",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Experiments", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

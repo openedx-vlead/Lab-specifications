@@ -1167,4 +1167,153 @@
 	{"id": "E98873","name": "Performance Evaluation of Mine Evasee Present in a Ventilation System"}
 	{"id": "E98872","name": "Equatorial orbit"}
 	{"id": "E98871","name": "Polar Orbit"}
+	{"id": "E98870","name": "Retrieving sequence data from Entrez"}
+	{"id": "E98869","name": "Locating the chromosome of a Gene"}
+	{"id": "E98868","name": "Retrieve gene expression data from GEO"}
+	{"id": "E98867","name": "Retrieving articles using PubMed"}
+	{"id": "E98866","name": "Finding ORF of a Given Sequence"}
+	{"id": "E98865","name": "Retrieving structural data of a protein using PDB database"}
+	{"id": "E98864","name": "Retrieving Motif Information of a Protein Using Prosite"}
+	{"id": "E98863","name": "Retrieving Gene Information from TAIR database"}
+	{"id": "E98862","name": "Designing a primer"}
+	{"id": "E98861","name": "Characteristics of Zener diode"}
+	{"id": "E98860","name": "Resistivity by Four Probe Method"}
+	{"id": "E98859","name": "B-H Curve"}
+	{"id": "E98858","name": "Hall effect experiment:- Determination of charge carrier density"}
+	{"id": "E98857","name": "Cornus Experiment"}
+	{"id": "E98856","name": "Zener Diode as Voltage Regulator"}
+	{"id": "E98855","name": "Crystal Structure"}
+	{"id": "E98854","name": "Global alignment of two sequences - Needleman-Wunsch Algorithm"}
+	{"id": "E98853","name": "Smith-Waterman Algorithm - Local Alignment of Sequences"}
+	{"id": "E98852","name": "Pairwise Sequence Alignment using BLAST"}
+	{"id": "E98851","name": "Pairwise sequence alignment using FASTA"}
+	{"id": "E98850","name": "Aligning Multiple Sequences with CLUSTAL W"}
+	{"id": "E98849","name": "Construction of Cladogram"}
+	{"id": "E98848","name": "Phylogenetic Analysis using PHYLIP - Rooted trees"}
+	{"id": "E98847","name": "Phylogenetic Analysis using PHYLIP - Unrooted trees"}
+	{"id": "E98846","name": "Genome Annotation and Multiple Sequence Allignment."}
+	{"id": "E98845","name": "Visualizing the Secondary Structure of a Protein"}
+	{"id": "E98844","name": "Calculating the Distance between the Ligand and a Particular Amino acid"}
+	{"id": "E98843","name": "Finding the Active Site Pockets of a given Protein Molecule"}
+	{"id": "E98842","name": "Primary Structure Analysis of a Protein Using ProtParam"}
+	{"id": "E98841","name": "Secondary structure analysis of a protein using SOPMA"}
+	{"id": "E98840","name": "Surface Analysis of a Protein Using CASTp"}
+	{"id": "E98839","name": "Retrieving details of a drug molecule"}
+	{"id": "E98838","name": "Converting chemical file formats"}
+	{"id": "E98837","name": "Homology Modeling using Modeller"}
+	{"id": "E98836","name": "Protein- Ligand Interaction"}
+	{"id": "E98835","name": "Mathematical modeling and simulating of Biochemical network"}
+	{"id": "E98834","name": "Import and simulate models from different databases"}
+	{"id": "E98833","name": "To Import and simulate a model from the repository"}
+	{"id": "E98832","name": "SBML-A markup language for mathematical models in systems biology using cell designer"}
+	{"id": "E98831","name": "Creating and Visualizing a Simple Network Model"}
+	{"id": "E98830","name": "Analysis of biological networks for feature detection"}
+	{"id": "E98829","name": "Integrating Biological Networks and Microarray Expression data"}
+	{"id": "E98828","name": "Analyzing the network by finding sub modules"}
+	{"id": "E98827","name": "Constructing computational model of a molecule"}
+	{"id": "E98826","name": "Introducing Hydrogen atoms to a molecule"}
+	{"id": "E98825","name": "Dihedral angle calculation of a molecule"}
+	{"id": "E98824","name": "Energy minimization of a molecule"}
+	{"id": "E98823","name": "Predict the structure of protein-Homology Modeling"}
+	{"id": "E98822","name": "Drug-Receptor Interaction"}
+	{"id": "E98821","name": "Absorption and Distribution Property Prediction in Drug Designing Process"}
+	{"id": "E98820","name": "Toxicity prediction of a Molecule"}
+	{"id": "E98819","name": "Controlling a servo motor in a bio-robotic environment (Remote Trigger)"}
+	{"id": "E98818","name": "Understanding the kinematics of a robotic upper arm (Remote Trigger)"}
+	{"id": "E98817","name": "Understanding the kinematics of a robotic upper arm - Interactive (Remote Trigger)"}
+	{"id": "E98816","name": "Light sensing process in a neural circuit (Remote Trigger)"}
+	{"id": "E98815","name": "Mechanism behind the movement of a Walker robot with 4 neurons (Remote Trigger)"}
+	{"id": "E98814","name": "Interaction study with Neuronal Circuits"}
+	{"id": "E98813","name": "Constructing a six core brain like circuit (Remote Trigger)"}
+	{"id": "E98812","name": "Pattern recognition in a hardware neural network (Remote Trigger)"}
+	{"id": "E98811","name": "Brain Slice Preparation"}
+	{"id": "E98810","name": "Simple Neuron Model - the HH neuron"}
+	{"id": "E98809","name": "Patch Clamp Technique"}
+	{"id": "E98808","name": "Current Clamp Technique"}
+	{"id": "E98807","name": "Voltage Clamp Technique"}
+	{"id": "E98806","name": "Study of Synaptic Transmission (Remote trigger)"}
+	{"id": "E98805","name": "Measuring Field Potentials Using MEA chips"}
+	{"id": "E98804","name": "Understanding the Passive Properties of a Simple Neuron (Remote trigger)"}
+	{"id": "E98803","name": "Effects of Ion Channels in Membrane Biophysics (Remote trigger)"}
+	{"id": "E98802","name": "Effect of Noise on Spiking Neurons (Remote trigger)"}
+	{"id": "E98801","name": "Modeling resting potentials in Neurons"}
+	{"id": "E98800","name": "Modeling action potentials"}
+	{"id": "E98799","name": "Modeling the delayed rectifier Potassium channels"}
+	{"id": "E98798","name": "Modeling the sodium ion channel and its effects on neural signaling"}
+	{"id": "E98797","name": "Current Clamp protocol"}
+	{"id": "E98796","name": "Voltage Clamp Protocol"}
+	{"id": "E98795","name": "Understanding Frequency-Current relationship"}
+	{"id": "E98794","name": "Understanding first spike latency - current relationship"}
+	{"id": "E98793","name": "Voltage-Current (VI) plot"}
+	{"id": "E98792","name": "Effects of pharmacological blockers on action potential"}
+	{"id": "E98791","name": "Isolation of β -Amylase from Sweet Potato"}
+	{"id": "E98790","name": "Gelatin Zymography"}
+	{"id": "E98789","name": "Extraction of Caffeine from Tea"}
+	{"id": "E98788","name": "Construction of Maltose Standard Curve by DNS Method"}
+	{"id": "E98787","name": "Isolation of Plant Pigments by Column Chromatography"}
+	{"id": "E98786","name": "Structural Studies of Phycobiliproteins from Spirulina"}
+	{"id": "E98785","name": "Construction of Protein Standard Curve using Folin’s Lowry Method"}
+	{"id": "E98784","name": "Effect of Substrate Concentration on Enzyme Kinetics"}
+	{"id": "E98783","name": "Effect of temperature on enzyme kinetics"}
+	{"id": "E98782","name": "Hydrolysis of Ester using orange peel esterase"}
+	{"id": "E98781","name": "Collection of Serum from Blood"}
+	{"id": "E98780","name": "Blood Grouping Experiment"}
+	{"id": "E98779","name": "Latex Agglutination"}
+	{"id": "E98778","name": "INDIRECT Elisa"}
+	{"id": "E98777","name": "SANDWICH Elisa"}
+	{"id": "E98776","name": "ELISPOT Assay"}
+	{"id": "E98775","name": "Antibody Labeling with HRP"}
+	{"id": "E98774","name": "Extraction of IgG Antibodies from Immunized Hen Egg"}
+	{"id": "E98773","name": "Isolation of lymphocytes from whole blood"}
+	{"id": "E98772","name": "Ouchterlony Double Diffusion -Titration"}
+	{"id": "E98771","name": "Ouchterlony Double Diffusion - Patterns"}
+	{"id": "E98770","name": "Purification of IgG Antibodies with Ammonium Sulphate"}
+	{"id": "E98769","name": "Removal of Thymus and Spleen from Mice"}
+	{"id": "E98768","name": "Mouse Anesthesia and Blood Collection"}
+	{"id": "E98767","name": "Parenteral Injections"}
+	{"id": "E98766","name": "Purification of IgG Antibodies using Affinity Chromatography"}
+	{"id": "E98765","name": "Fluorescent Labeling of Antibodies"}
+	{"id": "E98764","name": "Fragmentation of IgG Using Papain"}
+	{"id": "E98763","name": "Fragmentation of IgG using pepsin"}
+	{"id": "E98762","name": "Measuring total harmonic distortion for a given source in CW mode"}
+	{"id": "E98761","name": "To measure the sideband levels of a modulated signal"}
+	{"id": "E98760","name": "Measuring conversion loss of a given harmonic mixer"}
+	{"id": "E98759","name": "Calibration of vector network analyzer and spectrum analyzer"}
+	{"id": "E98758","name": "s-parameter"}
+	{"id": "E98757","name": "near field"}
+	{"id": "E98756","name": "Wireless link"}
+	{"id": "E98755","name": "Preparation of Sols"}
+	{"id": "E98754","name": "Preparation of Gels"}
+	{"id": "E98753","name": "Demonstration of the Preparation and Use of Association Colloids (Micelles)"}
+	{"id": "E98752","name": "Determination of Critical Micelle Concentration (CMC) of a Surfactant"}
+	{"id": "E98751","name": "Demonstration of the Surface Tension Lowering of Water by Soaps/Detergents"}
+	{"id": "E98750","name": "Demonstration of Tyndall Effect or Tyndall Scattering in Colloidal Systems"}
+	{"id": "E98749","name": "Demonstration of the Surface-Effect on Chemical Properties of Finely Divided Particle"}
+	{"id": "E98748","name": "Study of the Catalytic Effects of Finely Divided Particles"}
+	{"id": "E98747","name": "Manual speech signal-to-symbol transformation"}
+	{"id": "E98746","name": "Speech production mechanism"}
+	{"id": "E98745","name": "Nature of Speech Signal"}
+	{"id": "E98744","name": "Basics of DSP"}
+	{"id": "E98743","name": "Short-time spectrum analysis of speech"}
+	{"id": "E98742","name": "Spectrographic analysis of speech"}
+	{"id": "E98741","name": "Cepstral analysis of speech"}
+	{"id": "E98740","name": "Linear prediction analysis of speech"}
+	{"id": "E98739","name": "Formant synthesis"}
+	{"id": "E98738","name": "Analysis-by-synthesis of speech"}
+	{"id": "E98737","name": "Measurement of Dipole Moment"}
+	{"id": "E98736","name": "Millikan's Experiment"}
+	{"id": "E98735","name": "Photoelectric Effect"}
+	{"id": "E98734","name": "Inversion of Cane Sugar"}
+	{"id": "E98733","name": "Acid-Base Indicators"}
+	{"id": "E98732","name": "Geiger Muller Counter"}
+	{"id": "E98731","name": "imple Harmonic Oscillator"}
+	{"id": "E98730","name": "Free Vibration of S.D.O.F System"}
+	{"id": "E98729","name": "Forced Vibration of S.D.O.F System"}
+	{"id": "E98728","name": "Impulse Response of S.D.O.F System"}
+	{"id": "E98727","name": "Concept of Response Spectrum"}
+	{"id": "E98726","name": "Vibration of M.D.O.F System"}
+	{"id": "E98725","name": "Behaviour of Rigid Blocks"}
+	{"id": "E98724","name": "Torsional Response of Building"}
+	{"id": "E98723","name": "Continuous Systems"}
+	{"id": "E98722","name": "Vibration Control"}
 ]}

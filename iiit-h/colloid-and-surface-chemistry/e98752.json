@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98752",
+                "name": "Determination of Critical Micelle Concentration (CMC) of a Surfactant",
+                "overview": "This experiment deals with Determination of Critical Micelle Concentration (CMC) of a Surfactant",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Experiments", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

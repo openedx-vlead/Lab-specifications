@@ -1,0 +1,26 @@
+{ 
+              "lab": { 
+                "id": "phy14",
+                "name": "physical sciences",
+                "overview": "This lab deals with physical sciences",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98737", 
+ 							 "e98736", 
+ 							 "e98735", 
+ 							 "e98734", 
+ 							 "e99269", 
+ 							 "e98733", 
+ 							 "e98732", 
+ 							 "e99477", 
+ 							 "e98751" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

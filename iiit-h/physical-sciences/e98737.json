@@ -1,0 +1,26 @@
+{
+              "experiment": {
+                "id": "e98737",
+                "name": "Measurement of Dipole Moment",
+                "overview": "This experiment deals with Measurement of Dipole Moment",
+                "sections": [
+                "Objective", 
+ 							 "Procedure", 
+ 							 "Tutorial", 
+ 							 "Experiment", 
+ 							 "Observations", 
+ 							 "Assessment", 
+ 							 "References", 
+ 							 "Feedback", 
+ 							 "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

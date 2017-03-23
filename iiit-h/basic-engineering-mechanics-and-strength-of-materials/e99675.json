@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e99675",
+                "name": "Compression Test Experiment",
+                "overview": "This experiment deals with Compression Test Experiment",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Experiment", 
+ 							 "Manual", 
+ 							 "Quizzes", 
+ 							 "Procedure", 
+ 							 "Further Readings" 
+                ]
+              },
+              "content-type": "org"
+            }

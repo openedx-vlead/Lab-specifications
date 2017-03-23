@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "cse16",
+                "name": "speech signal processing",
+                "overview": "This lab deals with speech signal processing",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98747", 
+ 							 "e98746", 
+ 							 "e98745", 
+ 							 "e98744", 
+ 							 "e98743", 
+ 							 "e98742", 
+ 							 "e98741", 
+ 							 "e98740", 
+ 							 "e98739", 
+ 							 "e98738" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

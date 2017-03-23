@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98735",
+                "name": "Photoelectric Effect",
+                "overview": "This experiment deals with Photoelectric Effect",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

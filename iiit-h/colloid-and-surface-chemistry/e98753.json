@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98753",
+                "name": "Demonstration of the Preparation and Use of Association Colloids (Micelles)",
+                "overview": "This experiment deals with Demonstration of the Preparation and Use of Association Colloids (Micelles)",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Experiments", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }
