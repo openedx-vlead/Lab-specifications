@@ -1,0 +1,19 @@
+{
+  "experiment": {
+    "id":  "E98505",
+    "name": "Study of field pattern of various modes inside a rectangular waveguide",
+    "overview": "This experiment deals with study of field pattern of various modes inside a rectangular waveguide",        
+    "sections" : ["Aim",
+                  "About",
+ 		  "Theory", 
+ 		  "Procedure",
+                  "Quiz",
+                  "Tutorial",
+                  "Experiment Manual",
+                  "References",
+                  "Requirement",
+                  "Live support"
+                 ]
+  },
+ "content-type": "org"
+}

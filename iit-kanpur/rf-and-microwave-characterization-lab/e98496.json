@@ -1,0 +1,19 @@
+{
+  "experiment": {
+    "id":  "E98496",
+    "name": "Introduce the concept of ratio meter, and its significance for the scalar network analyzer",
+    "overview": "This experiment deals with Introduce the concept of ratio meter, and its significance for the scalar network analyzer",        
+    "sections" : ["Aim",
+                  "About",
+ 		  "Theory", 
+ 		  "Procedure",
+                  "Quiz",
+                  "Tutorial",
+                  "Experiment Manual",
+                  "References",
+                  "Requirement",
+                  "Live support"
+                 ]
+  },
+ "content-type": "org"
+}

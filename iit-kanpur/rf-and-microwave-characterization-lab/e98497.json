@@ -1,0 +1,19 @@
+{
+  "experiment": {
+    "id":  "E98497",
+    "name": "Find the change in characteristics impedance and reflection coefficients of the transmission line by changing the dielectric properties of materials embedded between two conductors",
+    "overview": "This experiment deals with Find the change in characteristics impedance and reflection coefficients of the transmission line by changing the dielectric properties of materials embedded between two conductors",        
+    "sections" : ["Aim",
+                  "About",
+ 		  "Theory", 
+ 		  "Procedure",
+                  "Quiz",
+                  "Tutorial",
+                  "Experiment Manual",
+                  "References",
+                  "Requirement",
+                  "Live support"
+                 ]
+  },
+ "content-type": "org"
+}
