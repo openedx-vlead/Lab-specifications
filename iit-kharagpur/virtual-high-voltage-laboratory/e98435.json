@@ -1,0 +1,16 @@
+{
+  "experiment": {
+    "id": "e98435",
+    "name": "3-Stage Cockroft Walton Voltage Multiplier",
+    "overview": "This experiment deals with 3-Stage Cockroft Walton Voltage Multiplier",
+    "sections": [
+      "Introduction",
+      "Theory",
+      "Objective",
+      "Simulator",
+      "Application",
+      "Procedure"
+    ]
+  },
+  "content-type": "org"
+}

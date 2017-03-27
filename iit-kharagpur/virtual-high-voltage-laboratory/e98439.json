@@ -1,0 +1,16 @@
+{
+  "experiment": {
+    "id": "e98439",
+    "name": "Critical Flashover of a Sphere Gap using IVG",
+    "overview": "This experiment deals with Critical Flashover of a Sphere Gap using IVG",
+    "sections": [
+      "Introduction",
+      "Theory",
+      "Objective",
+      "Simulator",
+      "Application",
+      "Procedure"
+    ]
+  },
+  "content-type": "org"
+}

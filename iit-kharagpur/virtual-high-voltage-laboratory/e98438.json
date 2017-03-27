@@ -1,0 +1,16 @@
+{
+  "experiment": {
+    "id": "e98438",
+    "name": "Application of High Voltage D.C.Test Source(Half Wave)",
+    "overview": "This experiment deals with Application of High Voltage D.C.Test Source(Half Wave)",
+    "sections": [
+      "Introduction",
+      "Theory",
+      "Objective",
+      "Simulator",
+      "Application",
+      "Procedure"
+    ]
+  },
+  "content-type": "org"
+}

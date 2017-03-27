@@ -1,0 +1,39 @@
+{
+  "lab": {
+    "id": "ee26",
+    "name": "virtual-high-voltage-laboratory",
+    "overview": "This lab deals with virtual-high-voltage-laboratory",
+    "sections": [
+      {
+        "name": "Introduction"
+      },
+      {
+        "name": "FAQ"
+      },
+      {
+        "name": "Reference"
+      },
+      {
+        "name": "People"
+      },
+      {
+        "name": "Feedback"
+      },
+      {
+        "experiments": [
+          "e98459",
+          "e98458",
+          "e98449",
+          "e98441",
+          "e98440",
+          "e98439",
+          "e98438",
+          "e98437",
+          "e98436",
+          "e98435"
+        ]
+      }
+    ]
+  },
+  "content-type": "org"
+}

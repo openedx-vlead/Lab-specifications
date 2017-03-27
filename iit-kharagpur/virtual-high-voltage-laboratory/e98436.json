@@ -1,0 +1,16 @@
+{
+  "experiment": {
+    "id": "e98436",
+    "name": "Functioning of Voltage Doubler",
+    "overview": "This experiment deals with Functioning of Voltage Doubler",
+    "sections": [
+      "Introduction",
+      "Theory",
+      "Objective",
+      "Simulator",
+      "Application",
+      "Procedure"
+    ]
+  },
+  "content-type": "org"
+}
