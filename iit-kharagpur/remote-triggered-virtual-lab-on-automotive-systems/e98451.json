@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98451",
+                "name": "Variation of Exhaust Noise with Engine Speed",
+                "overview": "This experiment deals with Variation of Exhaust Noise with Engine Speed",
+                "sections": [
+			"Introduction",
+			"Theory",
+			"Objective",
+			"Procedure",
+			"Simulator",
+			"Quiz",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

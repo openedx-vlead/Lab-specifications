@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98452",
+                "name": "Engine Health Monitoring by Vibration Analysis",
+                "overview": "This experiment deals with Engine Health Monitoring by Vibration Analysis",
+                "sections": [
+			"Introduction",
+			"Theory",
+			"Objective",
+			"Procedure",
+			"Simulator",
+			"Quiz",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }
