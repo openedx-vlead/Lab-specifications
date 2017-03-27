@@ -1,15 +1,8 @@
-﻿{"lab": {"id":  "mech48",
-	   "name": "Virtual Combustion and Atomization Laboratory",
-	   "discipline_id": "mech",
-	   "institute_id": "iitk",
-	   "developers": [],
-	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://vcal-iitk.vlabs.ac.in","vcal-iitk.vlabs.ac.in"},
-	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://vcal-iitk.vlabs.ac.in","vcal-iitk.vlabs.ac.in"}],
-	   "integration_level": "",
-	   "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/virtual-combustion-and-automization-lab-iitk","https://github.com/Virtual-Labs/virtual-combustion-and-automization-lab-iitk"},
-	 		  {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/virtual-combustion-and-automization-lab-iitk","https://github.com/Virtual-Labs/virtual-combustion-and-automization-lab-iitk"}],
-	   "overview": "This lab deals with Virtual Combustion and Atomization Laboratory",
-	   "sections" : [{"name": "Introduction"},
-		           {"experiments": [e99435, e99434, e99433, e99432, e99431, e99430, e99429, e99428, e99427]}]
-	}
+{"lab": {"id":  "mech48",
+	 "name": "Virtual Combustion and Atomization Laboratory",
+	 "overview": "This lab deals with Virtual Combustion and Atomization Laboratory",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99435, e99434, e99433, e99432, e99431, e99430, e99429, e99428, e99427]}]
+	},
+	"content-type": "org"
 }

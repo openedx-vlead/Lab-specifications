@@ -1,20 +1,14 @@
-﻿{"experiment": {"id":  "e99245",
-	 	    "name": "Determination of method factor for a duct",
-	 	    "discipline_id": "mech",
-	          "institute_id": "iitkgp",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "institute", "hosted_url": ""}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": ""},
-	 			   {"asset_type": "Videos", "path": ""}],
-	 	    "overview": "This experiments deals with Determination of method factor for a duct",
-	 	    "sections" : ["Theory", 
- 			        "Video Demo", 
- 			        "Procedure", 
- 			        "Simulator Procedure", 
- 			        "Simulator", 
- 			        "Reference", 
- 			        "Evaluation", 
- 			        "Feedback"]		
-		}
+{"experiment": {"id":  "e99245",
+	 	"name": "Determination of method factor for a duct",
+	 	"overview": "This experiments deals with Determination of method factor for a duct",
+	 	"sections" : ["Theory", 
+ 			      "Video Demo", 
+ 			      "Procedure", 
+ 			      "Simulator Procedure", 
+ 			      "Simulator", 
+ 			      "Reference", 
+ 			      "Evaluation", 
+ 			      "Feedback"]		
+		},
+		"content-type": "org"
 }

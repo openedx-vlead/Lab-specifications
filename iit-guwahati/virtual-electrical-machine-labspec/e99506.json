@@ -1,18 +1,11 @@
-﻿{"experiment": {"id":  "e99506",
-	 	    "name": "Rotating Magnetic Field Behaviour in two coils",
-	 	    "discipline_id": "ece",
-	          "institute_id": "iitg",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://vem-iitg.vlabs.ac.in/","http://vem-iitg.vlabs.ac.in/"},
-	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://vem-iitg.vlabs.ac.in/","http://vem-iitg.vlabs.ac.in/"}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/virtual-electrical-machine-iitg","https://github.com/Virtual-Labs/virtual-electrical-machine-iitg"},
-	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/virtual-electrical-machine-iitg","https://github.com/Virtual-Labs/virtual-electrical-machine-iitg"}],
-	 	    "overview": "This experiments deals with Rotating Magnetic Field Behaviour in two coils",
-	 	    "sections" : ["Introduction", 
- 			        "Theory", 
- 			        "Procedure", 
- 			        "Experiment1", 
- 			        "Quiz"]		
-		}
+{"experiment": {"id":  "e99506",
+	 	"name": "Rotating Magnetic Field Behaviour in two coils",
+	 	"overview": "This experiments deals with Rotating Magnetic Field Behaviour in two coils",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Procedure", 
+ 			      "Experiment1", 
+ 			      "Quiz"]		
+		},
+		"content-type": "org"
 }

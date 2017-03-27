@@ -1,18 +1,11 @@
-﻿{"experiment": {"id":  "e99464",
-	 	    "name": "Selection of Obstacle Distance (λ, grain boundary or precipitate)",
-	 	    "discipline_id": "mech",
-	          "institute_id": "iitk",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://mrmsmtbs-iitk.vlabs.ac.in","mrmsmtbs-iitk.vlabs.ac.in"},
-	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://mrmsmtbs-iitk.vlabs.ac.in","mrmsmtbs-iitk.vlabs.ac.in"}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/material-response-to-micro-structural-mechanical-thermal-and-biological-stimuli-iitk","https://github.com/Virtual-Labs/material-response-to-micro-structural-mechanical-thermal-and-biological-stimuli-iitk"},
-	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/material-response-to-micro-structural-mechanical-thermal-and-biological-stimuli-iitk","https://github.com/Virtual-Labs/material-response-to-micro-structural-mechanical-thermal-and-biological-stimuli-iitk"}],
-	 	    "overview": "This experiments deals with Selection of Obstacle Distance (λ, grain boundary or precipitate)",
-	 	    "sections" : ["Objective", 
- 			        "Introduction", 
- 			        "Methodology", 
- 			        "Results", 
- 			        "Conclusions"]		
-		}
+{"experiment": {"id":  "e99464",
+	 	"name": "Selection of Obstacle Distance (λ, grain boundary or precipitate)",
+	 	"overview": "This experiments deals with Selection of Obstacle Distance (λ, grain boundary or precipitate)",
+	 	"sections" : ["Objective", 
+ 			      "Introduction", 
+ 			      "Methodology", 
+ 			      "Results", 
+ 			      "Conclusions"]		
+		},
+		"content-type": "org"
 }

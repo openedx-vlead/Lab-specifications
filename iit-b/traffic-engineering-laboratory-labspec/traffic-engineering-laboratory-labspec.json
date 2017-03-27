@@ -1,15 +1,8 @@
-﻿{"lab": {"id":  "tel-iitb",
-	   "name": "Traffic Engineering Laboratory",
-	   "discipline_id": "civil",
-	   "institute_id": "iitb",
-	   "developers": [],
-	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://vlabs.iitb.ac.in/vlab/traffic/index.html","http://vlabs.iitb.ac.in/vlab/traffic/index.html"},
-	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://vlabs.iitb.ac.in/vlab/traffic/index.html","http://vlabs.iitb.ac.in/vlab/traffic/index.html"}],
-	   "integration_level": "",
-	   "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/traffic-engg-iitb","https://github.com/Virtual-Labs/traffic-engg-iitb"},
-	 		  {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/traffic-engg-iitb","https://github.com/Virtual-Labs/traffic-engg-iitb"}],
-	   "overview": "This lab deals with Traffic Engineering Laboratory",
-	   "sections" : [{"name": "Introduction"},
-		           {"experiments": [e99625, e99624, e99623, e99622, e99621, e99620, e99619, e99618, e99617]}]
-	}
+{"lab": {"id":  "tel-iitb",
+	 "name": "Traffic Engineering Laboratory",
+	 "overview": "This lab deals with Traffic Engineering Laboratory",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99625, e99624, e99623, e99622, e99621, e99620, e99619, e99618, e99617]}]
+	},
+	"content-type": "org"
 }

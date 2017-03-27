@@ -1,20 +1,13 @@
-﻿{"experiment": {"id":  "e99601",
-	 	    "name": "Experiment of Microwave Cavity",
-	 	    "discipline_id": "ece",
-	          "institute_id": "iitd",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://eem-iitd.vlabs.ac.in","eem-iitd.vlabs.ac.in"},
-	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://eem-iitd.vlabs.ac.in","eem-iitd.vlabs.ac.in"}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/engineering-electro-magnetics-laboratory-iitd.git","https://github.com/Virtual-Labs/engineering-electro-magnetics-laboratory-iitd.git"},
-	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/engineering-electro-magnetics-laboratory-iitd.git","https://github.com/Virtual-Labs/engineering-electro-magnetics-laboratory-iitd.git"}],
-	 	    "overview": "This experiments deals with Experiment of Microwave Cavity",
-	 	    "sections" : ["To perform the experiments please download the following software:", 
- 			        "Manual", 
- 			        "Pre Experiment Quiz", 
- 			        "Demo", 
- 			        "Experiment", 
- 			        "Post Experiment Quiz", 
- 			        "Feedback"]		
-		}
+{"experiment": {"id":  "e99601",
+	 	"name": "Experiment of Microwave Cavity",
+	 	"overview": "This experiments deals with Experiment of Microwave Cavity",
+	 	"sections" : ["To perform the experiments please download the following software:", 
+ 			      "Manual", 
+ 			      "Pre Experiment Quiz", 
+ 			      "Demo", 
+ 			      "Experiment", 
+ 			      "Post Experiment Quiz", 
+ 			      "Feedback"]		
+		},
+		"content-type": "org"
 }

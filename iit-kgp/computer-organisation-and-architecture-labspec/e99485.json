@@ -1,18 +1,12 @@
-﻿{"experiment": {"id":  "e99485",
-	 	    "name": "Wallace Tree Adder",
-	 	    "discipline_id": "cse",
-	          "institute_id": "iitkgp",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "institute", "hosted_url": "http://vlabs.iitkgp.ernet.in/coa/"}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": ""},
-	 			   {"asset_type": "Videos", "path": ""}],
-	 	    "overview": "This experiments deals with Wallace Tree Adder",
-	 	    "sections" : ["Theory", 
- 			        "Objective", 
- 			        "Procedure", 
- 			        "Experiment", 
- 			        "Quizes", 
- 			        "Further Reading"]		
-		}
+{"experiment": {"id":  "e99485",
+	 	"name": "Wallace Tree Adder",
+	 	"overview": "This experiments deals with Wallace Tree Adder",
+	 	"sections" : ["Theory", 
+ 			      "Objective", 
+ 			      "Procedure", 
+ 			      "Experiment", 
+ 			      "Quizes", 
+ 			      "Further Reading"]		
+		},
+		"content-type": "org"
 }

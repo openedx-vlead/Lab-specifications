@@ -1,15 +1,8 @@
-﻿{"lab": {"id":  "mech05",
-	   "name": "Mechanics of Machine",
-	   "discipline_id": "mech",
-	   "institute_id": "nitk",
-	   "developers": [],
-	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": ""},
-	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": ""}],
-	   "integration_level": "",
-	   "assets": [{"asset_type": "Images", "path": ""},
-	 		  {"asset_type": "Videos", "path": ""}],
-	   "overview": "This lab deals with Mechanics of Machine",
-	   "sections" : [{"name": "E99378duction"},
-		           {"experiments": [e99377, e99376, e99375, e99374, e99373, e99372, e99371, e99370, e99369, e99368, e99367, e99366, e99365, e99364, e99363, e99362]}]
-	}
+{"lab": {"id":  "mech05",
+	 "name": "Mechanics of Machine",
+	 "overview": "This lab deals with Mechanics of Machine",
+	 "sections" : [{"name": "E99378duction"},
+		       {"experiments": [e99377, e99376, e99375, e99374, e99373, e99372, e99371, e99370, e99369, e99368, e99367, e99366, e99365, e99364, e99363, e99362]}]
+	},
+	"content-type": "org"
 }

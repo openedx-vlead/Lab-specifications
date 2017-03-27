@@ -1,18 +1,12 @@
-﻿{"experiment": {"id":  "e99562",
-	 	    "name": "Effective work platform height, standing",
-	 	    "discipline_id": "dsgn-engg",
-	          "institute_id": "iitg",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": ""}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": ""},
-	 			   {"asset_type": "Videos", "path": ""}],
-	 	    "overview": "This experiments deals with Effective work platform height, standing",
-	 	    "sections" : ["Home", 
- 			        "Reference Datasheet", 
- 			        "Practical Experience", 
- 			        "Application Relevence", 
- 			        "Quiz", 
- 			        "Experiments"]		
-		}
+{"experiment": {"id":  "e99562",
+	 	"name": "Effective work platform height, standing",
+	 	"overview": "This experiments deals with Effective work platform height, standing",
+	 	"sections" : ["Home", 
+ 			      "Reference Datasheet", 
+ 			      "Practical Experience", 
+ 			      "Application Relevence", 
+ 			      "Quiz", 
+ 			      "Experiments"]		
+		},
+		"content-type": "org"
 }

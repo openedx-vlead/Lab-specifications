@@ -1,15 +1,8 @@
-﻿{"lab": {"id":  "chem01",
-	   "name": "Chemical Engineering",
-	   "discipline_id": "chem-engg",
-	   "institute_id": "iitb",
-	   "developers": [],
-	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://ce-iitb.vlabs.ac.in/","http://ce-iitb.vlabs.ac.in/"},
-	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://ce-iitb.vlabs.ac.in/","http://ce-iitb.vlabs.ac.in/"}],
-	   "integration_level": "",
-	   "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/chemical-engg-iitb","https://github.com/Virtual-Labs/chemical-engg-iitb"},
-	 		  {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/chemical-engg-iitb","https://github.com/Virtual-Labs/chemical-engg-iitb"}],
-	   "overview": "This lab deals with Chemical Engineering",
-	   "sections" : [{"name": "Introduction"},
-		           {"experiments": [e99656, e99655, e99654, e99653, e99652, e99651, e99650, e99649, e99648, e99647]}]
-	}
+{"lab": {"id":  "chem01",
+	 "name": "Chemical Engineering",
+	 "overview": "This lab deals with Chemical Engineering",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99656, e99655, e99654, e99653, e99652, e99651, e99650, e99649, e99648, e99647]}]
+	},
+	"content-type": "org"
 }

@@ -1,18 +1,12 @@
-﻿{"experiment": {"id":  "e99472",
-	 	    "name": "Study of Full Gas turbine",
-	 	    "discipline_id": "aero",
-	          "institute_id": "iitk",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": ""}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": ""},
-	 			   {"asset_type": "Videos", "path": ""}],
-	 	    "overview": "This experiments deals with Study of Full Gas turbine",
-	 	    "sections" : ["Objective", 
- 			        "Introduction", 
- 			        "Apparatus & Procedure", 
- 			        "Results & Discussion", 
- 			        "Appendix", 
- 			        "Gallery"]		
-		}
+{"experiment": {"id":  "e99472",
+	 	"name": "Study of Full Gas turbine",
+	 	"overview": "This experiments deals with Study of Full Gas turbine",
+	 	"sections" : ["Objective", 
+ 			      "Introduction", 
+ 			      "Apparatus & Procedure", 
+ 			      "Results & Discussion", 
+ 			      "Appendix", 
+ 			      "Gallery"]		
+		},
+		"content-type": "org"
 }

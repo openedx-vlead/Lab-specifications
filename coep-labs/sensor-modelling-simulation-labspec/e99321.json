@@ -1,13 +1,5 @@
 {"experiment": {"id":  "e99321",
 	 	"name": "Characterize the LVDT",
-	 	"discipline_id": "ee",
-	        "institute_id": "coep",
-	        "developers": [],
-	        "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://sl-coep.vlabs.ac.in"},
-			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://sl-coep.vlabs.ac.in"}],
-	        "integration_level": "6",
-	        "assets": [{"asset_type": "image", "path": ["https://github.com/Virtual-Labs/sensor-laboratory-coep"]},
-	 		   {"asset_type": "video", "path": ["https://github.com/Virtual-Labs/sensor-laboratory-coep"]}],
 	 	"overview": "This experiments deals with Characterize the LVDT",
 	 	"sections" : ["Aim", 
  			      "Pre Test", 
@@ -17,5 +9,6 @@
  			      "Post Test", 
  			      "Review Questions", 
  			      "Reference"]		
-		}
+		},
+		"content-type": "org"
 }

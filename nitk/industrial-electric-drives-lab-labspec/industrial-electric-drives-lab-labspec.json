@@ -1,15 +1,8 @@
-﻿{"lab": {"id":  "eee08",
-	   "name": "Industrial Electric Drives",
-	   "discipline_id": "ee",
-	   "institute_id": "nitk",
-	   "developers": [],
-	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://ied-nitk.vlabs.ac.in/","http://ied-nitk.vlabs.ac.in/"},
-	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://ied-nitk.vlabs.ac.in/","http://ied-nitk.vlabs.ac.in/"}],
-	   "integration_level": "",
-	   "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/industrial-electrical-drives-nitk"},
-	 		  {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/industrial-electrical-drives-nitk"}],
-	   "overview": "This lab deals with Industrial Electric Drives",
-	   "sections" : [{"name": "Introduction"},
-		           {"experiments": [e99396, e99395, e99394, e99393, e99392, e99391, e99390, e99389, e99388, e99387]}]
-	}
+{"lab": {"id":  "eee08",
+	 "name": "Industrial Electric Drives",
+	 "overview": "This lab deals with Industrial Electric Drives",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99396, e99395, e99394, e99393, e99392, e99391, e99390, e99389, e99388, e99387]}]
+	},
+	"content-type": "org"
 }

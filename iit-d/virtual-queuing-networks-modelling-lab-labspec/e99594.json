@@ -1,19 +1,12 @@
-﻿{"experiment": {"id":  "e99594",
-	 	    "name": "Experiment-2",
-	 	    "discipline_id": "ece",
-	          "institute_id": "iitd",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://qnm-iitd.vlabs.ac.in","qnm-iitd.vlabs.ac.in"},
-	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://qnm-iitd.vlabs.ac.in","qnm-iitd.vlabs.ac.in"}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/queueing-networks-modelling-lab-iitd.git","https://github.com/Virtual-Labs/queueing-networks-modelling-lab-iitd.git"},
-	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/queueing-networks-modelling-lab-iitd.git","https://github.com/Virtual-Labs/queueing-networks-modelling-lab-iitd.git"}],
-	 	    "overview": "This experiments deals with Experiment-2",
-	 	    "sections" : ["Live Simulation", 
- 			        "Example-1", 
- 			        "Example-2", 
- 			        "Example-3", 
- 			        "Example-4", 
- 			        "Example-5"]		
-		}
+{"experiment": {"id":  "e99594",
+	 	"name": "Experiment-2",
+	 	"overview": "This experiments deals with Experiment-2",
+	 	"sections" : ["Live Simulation", 
+ 			      "Example-1", 
+ 			      "Example-2", 
+ 			      "Example-3", 
+ 			      "Example-4", 
+ 			      "Example-5"]		
+		},
+		"content-type": "org"
 }

@@ -1,15 +1,8 @@
-﻿{"experiment": {"id":  "e99584",
-	 	    "name": "Experiment-12",
-	 	    "discipline_id": "ece",
-	          "institute_id": "iitd",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://qnm-iitd.vlabs.ac.in","qnm-iitd.vlabs.ac.in"},
-	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://qnm-iitd.vlabs.ac.in","qnm-iitd.vlabs.ac.in"}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/queueing-networks-modelling-lab-iitd.git","https://github.com/Virtual-Labs/queueing-networks-modelling-lab-iitd.git"},
-	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/queueing-networks-modelling-lab-iitd.git","https://github.com/Virtual-Labs/queueing-networks-modelling-lab-iitd.git"}],
-	 	    "overview": "This experiments deals with Experiment-12",
-	 	    "sections" : ["Live Simulation of Fluid Queue with infinite buffer", 
- 			        "Live Simulation of Fluid Queue with finite buffer"]		
-		}
+{"experiment": {"id":  "e99584",
+	 	"name": "Experiment-12",
+	 	"overview": "This experiments deals with Experiment-12",
+	 	"sections" : ["Live Simulation of Fluid Queue with infinite buffer", 
+ 			      "Live Simulation of Fluid Queue with finite buffer"]		
+		},
+		"content-type": "org"
 }

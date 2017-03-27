@@ -1,13 +1,5 @@
 {"experiment": {"id":  "e99911",
 	 	"name": "Load Test on Three Phase Alternator",
-	 	"discipline_id": "ee",
-	        "institute_id": "coep",
-	        "developers": [],
-	        "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://em-coep.vlabs.ac.in"},
-			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://em-coep.vlabs.ac.in"}],
-	        "integration_level": "6",
-	        "assets": [{"asset_type": "image", "path": ["https://github.com/Virtual-Labs/electrical-machines-coep"]},
-	 		   {"asset_type": "video", "path": ["https://github.com/Virtual-Labs/electrical-machines-coep"]}],
 	 	"overview": "This experiments deals with Load Test on Three Phase Alternator",
 	 	"sections" : ["Aim", 
  			      "Pre-test", 
@@ -18,5 +10,6 @@
  			      "Post-test", 
  			      "Reference", 
  			      "Feedback"]		
-		}
+		},
+		"content-type": "org"
 }

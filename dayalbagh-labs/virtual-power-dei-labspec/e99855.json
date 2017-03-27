@@ -1,13 +1,5 @@
 {"experiment": {"id":  "e99855",
 	 	"name": "To determine the direct axis reactance (Xd) and quadrature axis reactance (Xq) of synchronous machine.",
-	 	"discipline_id": "ee",
-	        "institute_id": "dei",
-	        "developers": [],
-	        "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://vp-dei.vlabs.ac.in"},
-			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://vp-dei.vlabs.ac.in"}],
-	        "integration_level": "6",
-	        "assets": [{"asset_type": "image", "path": ["https://github.com/Virtual-Labs/virtual-power-lab-dei"]},
-	 		   {"asset_type": "video", "path": ["https://github.com/Virtual-Labs/virtual-power-lab-dei"]}],
 	 	"overview": "This experiments deals with To determine the direct axis reactance (Xd) and quadrature axis reactance (Xq) of synchronous machine.",
 	 	"sections" : ["Objective", 
  			      "Equipments", 
@@ -17,5 +9,6 @@
  			      "Simulation", 
  			      "Videos of Exp2", 
  			      "Quiz"]		
-		}
+		},
+		"content-type": "org"
 }

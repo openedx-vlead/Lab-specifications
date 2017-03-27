@@ -1,19 +1,12 @@
-﻿{"experiment": {"id":  "e99514",
-	 	    "name": "Pottery - Virtual Reconstruction of Shapes",
-	 	    "discipline_id": "hmt",
-	          "institute_id": "iitg",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://anthropology-iitg.vlabs.ac.in/","anthropology-iitg.vlabs.ac.in"},
-	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://anthropology-iitg.vlabs.ac.in/","anthropology-iitg.vlabs.ac.in"}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": "https://github.com/vlabs-iitg/IITG_anthropology","https://github.com/vlabs-iitg/IITG_anthropology"},
-	 			   {"asset_type": "Videos", "path": "https://github.com/vlabs-iitg/IITG_anthropology","https://github.com/vlabs-iitg/IITG_anthropology"}],
-	 	    "overview": "This experiments deals with Pottery - Virtual Reconstruction of Shapes",
-	 	    "sections" : ["Theory", 
- 			        "Procedure", 
- 			        "Simulator", 
- 			        "Quiz", 
- 			        "Assignments", 
- 			        "References"]		
-		}
+{"experiment": {"id":  "e99514",
+	 	"name": "Pottery - Virtual Reconstruction of Shapes",
+	 	"overview": "This experiments deals with Pottery - Virtual Reconstruction of Shapes",
+	 	"sections" : ["Theory", 
+ 			      "Procedure", 
+ 			      "Simulator", 
+ 			      "Quiz", 
+ 			      "Assignments", 
+ 			      "References"]		
+		},
+		"content-type": "org"
 }

@@ -1,13 +1,5 @@
 {"experiment": {"id":  "e99874",
 	 	"name": "Sheet Metal Working",
-	 	"discipline_id": "mech",
-	        "institute_id": "dei",
-	        "developers": [],
-	        "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://msvs-dei.vlabs.ac.in"},
-			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://msvs-dei.vlabs.ac.in"}],
-	        "integration_level": "6",
-	        "assets": [{"asset_type": "image", "path": ["https://github.com/Virtual-Labs/metal-forming-virtual-simulation-lab-dei"]},
-	 		   {"asset_type": "video", "path": ["https://github.com/Virtual-Labs/metal-forming-virtual-simulation-lab-dei"]}],
 	 	"overview": "This experiments deals with Sheet Metal Working",
 	 	"sections" : ["SHEET METAL WORKING", 
  			      "Bending Operations to reduce springback Edit", 
@@ -27,5 +19,6 @@
  			      " Door Handle ", 
  			      "Cover Plate ", 
  			      "SELF CHECK QUIZ "]		
-		}
+		},
+		"content-type": "org"
 }

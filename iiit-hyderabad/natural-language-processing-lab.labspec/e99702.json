@@ -1,20 +1,13 @@
-﻿{"experiment": {"id":  "e99702",
-	 	    "name": "Building POS Tagger",
-	 	    "discipline_id": "cse",
-	          "institute_id": "iiith",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://nlp-iiith.vlabs.ac.in/","http://nlp-iiith.vlabs.ac.in/"},
-	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://nlp-iiith.vlabs.ac.in/","http://nlp-iiith.vlabs.ac.in/"}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/natural-language-processing-iiith.git","https://github.com/Virtual-Labs/natural-language-processing-iiith.git"},
-	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/natural-language-processing-iiith.git","https://github.com/Virtual-Labs/natural-language-processing-iiith.git"}],
-	 	    "overview": "This experiments deals with Building POS Tagger",
-	 	    "sections" : ["Aim", 
- 			        "Theory", 
- 			        "Pre-Test", 
- 			        "Simulator", 
- 			        "Procedure", 
- 			        "Reference", 
- 			        "Feedback"]		
-		}
+{"experiment": {"id":  "e99702",
+	 	"name": "Building POS Tagger",
+	 	"overview": "This experiments deals with Building POS Tagger",
+	 	"sections" : ["Aim", 
+ 			      "Theory", 
+ 			      "Pre-Test", 
+ 			      "Simulator", 
+ 			      "Procedure", 
+ 			      "Reference", 
+ 			      "Feedback"]		
+		},
+		"content-type": "org"
 }

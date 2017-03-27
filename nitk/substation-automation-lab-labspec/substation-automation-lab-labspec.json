@@ -1,15 +1,8 @@
-﻿{"lab": {"id":  "ee30",
-	   "name": "Substation Automation",
-	   "discipline_id": "ee",
-	   "institute_id": "nitk",
-	   "developers": [],
-	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://sa-nitk.vlabs.ac.in/ "},
-	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://sa-nitk.vlabs.ac.in/ "}],
-	   "integration_level": "",
-	   "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/substration-automation-nitk"},
-	 		  {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/substration-automation-nitk"}],
-	   "overview": "This lab deals with Substation Automation",
-	   "sections" : [{"name": "Introduction"},
-		           {"experiments": [e99351, e99350, e99349, e99348, e99347, e99346, e99345, e99344, e99343, e99342, e99341]}]
-	}
+{"lab": {"id":  "ee30",
+	 "name": "Substation Automation",
+	 "overview": "This lab deals with Substation Automation",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99351, e99350, e99349, e99348, e99347, e99346, e99345, e99344, e99343, e99342, e99341]}]
+	},
+	"content-type": "org"
 }

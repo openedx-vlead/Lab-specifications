@@ -1,15 +1,8 @@
-﻿{"lab": {"id":  "mv-iitg",
-	   "name": "Mechanical Vibration",
-	   "discipline_id": "mech",
-	   "institute_id": "iitg",
-	   "developers": [],
-	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://mv-iitg.vlabs.ac.in","http://mv-iitg.vlabs.ac.in"},
-	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://mv-iitg.vlabs.ac.in","http://mv-iitg.vlabs.ac.in"}],
-	   "integration_level": "",
-	   "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/virtual-lab-for-mechanical-vibrations-iitg","https://github.com/Virtual-Labs/virtual-lab-for-mechanical-vibrations-iitg"},
-	 		  {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/virtual-lab-for-mechanical-vibrations-iitg","https://github.com/Virtual-Labs/virtual-lab-for-mechanical-vibrations-iitg"}],
-	   "overview": "This lab deals with Mechanical Vibration",
-	   "sections" : [{"name": "Introduction"},
-		           {"experiments": [e99531, e99530, e99529, e99528, e99527, e99526, e99525, e99524, e99523, e99522]}]
-	}
+{"lab": {"id":  "mv-iitg",
+	 "name": "Mechanical Vibration",
+	 "overview": "This lab deals with Mechanical Vibration",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99531, e99530, e99529, e99528, e99527, e99526, e99525, e99524, e99523, e99522]}]
+	},
+	"content-type": "org"
 }

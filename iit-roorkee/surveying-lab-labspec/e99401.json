@@ -1,20 +1,13 @@
-﻿{"experiment": {"id":  "e99401",
-	 	    "name": "Detail Plotting by Resection Method",
-	 	    "discipline_id": "civil",
-	          "institute_id": "iitr",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://sl-iitr.vlabs.ac.in","sl-iitr.vlabs.ac.in"},
-	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://sl-iitr.vlabs.ac.in","sl-iitr.vlabs.ac.in"}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/surveying-lab-iitr","https://github.com/Virtual-Labs/surveying-lab-iitr"},
-	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/surveying-lab-iitr","https://github.com/Virtual-Labs/surveying-lab-iitr"}],
-	 	    "overview": "This experiments deals with Detail Plotting by Resection Method",
-	 	    "sections" : ["THEORY", 
- 			        "OBJECTIVE", 
- 			        "EQP. USED", 
- 			        "EXPERIMENT", 
- 			        "PROCEDURE", 
- 			        "QUIZZES", 
- 			        "DOS AND DONT'S"]		
-		}
+{"experiment": {"id":  "e99401",
+	 	"name": "Detail Plotting by Resection Method",
+	 	"overview": "This experiments deals with Detail Plotting by Resection Method",
+	 	"sections" : ["THEORY", 
+ 			      "OBJECTIVE", 
+ 			      "EQP. USED", 
+ 			      "EXPERIMENT", 
+ 			      "PROCEDURE", 
+ 			      "QUIZZES", 
+ 			      "DOS AND DONT'S"]		
+		},
+		"content-type": "org"
 }

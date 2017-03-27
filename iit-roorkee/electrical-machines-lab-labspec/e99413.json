@@ -1,20 +1,13 @@
-﻿{"experiment": {"id":  "e99413",
-	 	    "name": "Load Characteristics of DC shunt generator",
-	 	    "discipline_id": "ee",
-	          "institute_id": "iitr",
-	          "developers": [],
-	          "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://em-iitr.vlabs.ac.in/","http://em-iitr.vlabs.ac.in/"},
-	 		              {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://em-iitr.vlabs.ac.in/","http://em-iitr.vlabs.ac.in/"}],
-	          "integration_level": "",
-	          "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/electrical-machines-lab-iitr","https://github.com/Virtual-Labs/electrical-machines-lab-iitr"},
-	 			   {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/electrical-machines-lab-iitr","https://github.com/Virtual-Labs/electrical-machines-lab-iitr"}],
-	 	    "overview": "This experiments deals with Load Characteristics of DC shunt generator",
-	 	    "sections" : ["THEORY", 
- 			        "OBJECTIVE", 
- 			        "EQUIPMENT USED", 
- 			        "EXPERIMENT", 
- 			        "QUIZZES", 
- 			        "PROCEDURE", 
- 			        "FURTHER READINGS"]		
-		}
+{"experiment": {"id":  "e99413",
+	 	"name": "Load Characteristics of DC shunt generator",
+	 	"overview": "This experiments deals with Load Characteristics of DC shunt generator",
+	 	"sections" : ["THEORY", 
+ 			      "OBJECTIVE", 
+ 			      "EQUIPMENT USED", 
+ 			      "EXPERIMENT", 
+ 			      "QUIZZES", 
+ 			      "PROCEDURE", 
+ 			      "FURTHER READINGS"]		
+		},
+		"content-type": "org"
 }

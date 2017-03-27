@@ -1,15 +1,8 @@
-﻿{"lab": {"id":  "eee02",
-	   "name": "Electrical Machines Lab",
-	   "discipline_id": "ee",
-	   "institute_id": "iitr",
-	   "developers": [],
-	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://em-iitr.vlabs.ac.in/","http://em-iitr.vlabs.ac.in/"},
-	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://em-iitr.vlabs.ac.in/","http://em-iitr.vlabs.ac.in/"}],
-	   "integration_level": "",
-	   "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/electrical-machines-lab-iitr","https://github.com/Virtual-Labs/electrical-machines-lab-iitr"},
-	 		  {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/electrical-machines-lab-iitr","https://github.com/Virtual-Labs/electrical-machines-lab-iitr"}],
-	   "overview": "This lab deals with Electrical Machines Lab",
-	   "sections" : [{"name": "Introduction"},
-		           {"experiments": [e99415, e99414, e99413, e99412, e99411, e99410, e99409]}]
-	}
+{"lab": {"id":  "eee02",
+	 "name": "Electrical Machines Lab",
+	 "overview": "This lab deals with Electrical Machines Lab",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99415, e99414, e99413, e99412, e99411, e99410, e99409]}]
+	},
+	"content-type": "org"
 }

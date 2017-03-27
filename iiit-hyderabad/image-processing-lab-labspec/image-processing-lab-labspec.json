@@ -1,15 +1,8 @@
-﻿{"lab": {"id":  "cse19",
-	   "name": "Image Processing",
-	   "discipline_id": "cse",
-	   "institute_id": "iiith",
-	   "developers": [],
-	   "hostinginfo": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://cse19-iiith.vlabs.ac.in/index.php","http://cse19-iiith.vlabs.ac.in/index.php"},
-	 		       {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://cse19-iiith.vlabs.ac.in/index.php","http://cse19-iiith.vlabs.ac.in/index.php"}],
-	   "integration_level": "",
-	   "assets": [{"asset_type": "Images", "path": "https://github.com/Virtual-Labs/image-processing-iiith.git","https://github.com/Virtual-Labs/image-processing-iiith.git"},
-	 		  {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/image-processing-iiith.git","https://github.com/Virtual-Labs/image-processing-iiith.git"}],
-	   "overview": "This lab deals with Image Processing",
-	   "sections" : [{"name": "Introduction"},
-		           {"experiments": [e99751, e99750, e99749, e99748, e99747, e99746, e99745, e99744, e99743, e99742, e99741]}]
-	}
+{"lab": {"id":  "cse19",
+	 "name": "Image Processing",
+	 "overview": "This lab deals with Image Processing",
+	 "sections" : [{"name": "Introduction"},
+		       {"experiments": [e99751, e99750, e99749, e99748, e99747, e99746, e99745, e99744, e99743, e99742, e99741]}]
+	},
+	"content-type": "org"
 }
