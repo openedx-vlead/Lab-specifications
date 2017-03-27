@@ -2,7 +2,7 @@
 	 "name": "Artificial Neural Networks",
 	 "overview": "This lab deals with Artificial Neural Networks",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99847, e99846, e99845, e99844, e99843, e99842, e99841, e99840, e99839]}]
+		       {"experiments": ["e99847", "e99846", "e99845", "e99844", "e99843", "e99842", "e99841", "e99840", "e99839"]}]
 	},
 	"content-type": "org"
 }

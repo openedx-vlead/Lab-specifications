@@ -2,7 +2,7 @@
 	 "name": "Virtual Chemistry Lab",
 	 "overview": "This lab deals with Virtual Chemistry Lab",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99893, e99892, e99891, e99890, e99889, e99888, e99887, e99886, e99885]}]
+		       {"experiments": ["e99893", "e99892", "e99891", "e99890", "e99889", "e99888", "e99887", "e99886", "e99885"]}]
 	},
 	"content-type": "org"
 }

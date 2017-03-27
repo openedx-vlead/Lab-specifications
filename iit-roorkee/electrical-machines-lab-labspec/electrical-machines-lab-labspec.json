@@ -2,7 +2,7 @@
 	 "name": "Electrical Machines Lab",
 	 "overview": "This lab deals with Electrical Machines Lab",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99415, e99414, e99413, e99412, e99411, e99410, e99409]}]
+		       {"experiments": ["e99415", "e99414", "e99413", "e99412", "e99411", "e99410", "e99409"]}]
 	},
 	"content-type": "org"
 }

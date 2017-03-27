@@ -2,7 +2,7 @@
 	 "name": "Biomedical Instrumentation Lab",
 	 "overview": "This lab deals with Biomedical Instrumentation Lab",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99426, e99425, e99424, e99423, e99422, e99421, e99420, e99419]}]
+		       {"experiments": ["e99426", "e99425", "e99424", "e99423", "e99422", "e99421", "e99420", "e99419"]}]
 	},
 	"content-type": "org"
 }

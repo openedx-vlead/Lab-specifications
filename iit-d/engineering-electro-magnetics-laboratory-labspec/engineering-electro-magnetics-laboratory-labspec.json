@@ -2,7 +2,7 @@
 	 "name": "Engineering Electromagnetic Lab",
 	 "overview": "This lab deals with Engineering Electromagnetic Lab",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99604, e99603, e99602, e99601, e99600, e99599, e99598, e99597, e99596]}]
+		       {"experiments": ["e99604", "e99603", "e99602", "e99601", "e99600", "e99599", "e99598", "e99597", "e99596"]}]
 	},
 	"content-type": "org"
 }

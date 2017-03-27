@@ -2,7 +2,7 @@
 	 "name": "Optics Virtual Lab",
 	 "overview": "This lab deals with Optics Virtual Lab",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99966, e99965, e99964, e99963, e99962, e99961, e99960, e99959]}]
+		       {"experiments": ["e99966", "e99965", "e99964", "e99963", "e99962", "e99961", "e99960", "e99959"]}]
 	},
 	"content-type": "org"
 }

@@ -2,7 +2,7 @@
 	 "name": "Virtual Queuing Networks Modelling",
 	 "overview": "This lab deals with Virtual Queuing Networks Modelling",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99595, e99594, e99593, e99592, e99591, e99590, e99589, e99588, e99587, e99586, e99585, e99584]}]
+		       {"experiments": ["e99595", "e99594", "e99593", "e99592", "e99591", "e99590", "e99589", "e99588", "e99587", "e99586", "e99585", "e99584"]}]
 	},
 	"content-type": "org"
 }

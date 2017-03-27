@@ -2,7 +2,7 @@
 	 "name": "Magnetic Levitation Lab",
 	 "overview": "This lab deals with Magnetic Levitation Lab",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99635, e99634, e99633, e99632, e99631, e99630, e99629, e99628, e99627, e99626]}]
+		       {"experiments": ["e99635", "e99634", "e99633", "e99632", "e99631", "e99630", "e99629", "e99628", "e99627", "e99626"]}]
 	},
 	"content-type": "org"
 }

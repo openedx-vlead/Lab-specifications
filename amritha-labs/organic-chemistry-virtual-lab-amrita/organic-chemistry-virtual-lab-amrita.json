@@ -2,7 +2,7 @@
 	 "name": "Organic Chemistry Virtual Lab",
 	 "overview": "This lab deals with Organic Chemistry Virtual Lab",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99255, e99254, e99253, e99237, e99236, e99235, e99234, e99233]}]
+		       {"experiments": ["e99255", "e99254", "e99253", "e99237", "e99236", "e99235", "e99234", "e99233"]}]
 	},
 	"content-type": "org"
 }

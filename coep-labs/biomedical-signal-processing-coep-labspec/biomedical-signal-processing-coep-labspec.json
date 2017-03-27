@@ -2,7 +2,7 @@
 	 "name": "Biomedical and Signal Processing Laboratory",
 	 "overview": "This lab deals with Biomedical and Signal Processing Laboratory",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99926, e99925, e99924, e99923, e99922, e99921, e99920, e99919, e99918]}]
+		       {"experiments": ["e99926", "e99925", "e99924", "e99923", "e99922", "e99921", "e99920", "e99919", "e99918"]}]
 	},
 	"content-type": "org"
 }

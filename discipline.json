@@ -1,0 +1,77 @@
+[
+  {
+    "discipline_id": "aero",
+    "id": 1,
+    "discipline_name": "Aerospace Engineering"
+  },
+  {
+    "discipline_id": "biotech",
+    "id": 2,
+    "discipline_name": "Biotechnology and Biomedical Engineering"
+  },
+  {
+    "discipline_id": "chem-engg",
+    "id": 3,
+    "discipline_name": "Chemical Engineering"
+  },
+  {
+    "discipline_id": "chem",
+    "id": 4,
+    "discipline_name": "Chemical Sciences"
+  },
+  {
+    "discipline_id": "civil",
+    "id": 5,
+    "discipline_name": "Civil Engineering"
+  },
+  {
+    "discipline_id": "cse",
+    "id": 6,
+    "discipline_name": "Computer Science and Engineering"
+  },
+  {
+    "discipline_id": "ee",
+    "id": 7,
+    "discipline_name": "Electrical Engineering"
+  },
+  {
+    "discipline_id": "ece",
+    "id": 8,
+    "discipline_name": "Electronics and Communication"
+  },
+  {
+    "discipline_id": "hmt",
+    "id": 9,
+    "discipline_name": "Humanities"
+  },
+  {
+    "discipline_id": "mech",
+    "id": 10,
+    "discipline_name": "Mechanical Engineering"
+  },
+  {
+    "discipline_id": "phy-sc",
+    "id": 11,
+    "discipline_name": "Physical Sciences"
+  },
+  {
+    "discipline_id": "tex-engg",
+    "id": 12,
+    "discipline_name": "Textile Engineering"
+  },
+  {
+    "discipline_id": "dsgn-engg",
+    "id": 13,
+    "discipline_name": "Design Engineering"
+  },
+  {
+    "discipline_id": "mat-sc",
+    "id": 14,
+    "discipline_name": "Material Sciences"
+  },
+  {
+    "discipline_id": "mine-engg",
+    "id": 15,
+    "discipline_name": "Mining Engineering"
+  }
+]

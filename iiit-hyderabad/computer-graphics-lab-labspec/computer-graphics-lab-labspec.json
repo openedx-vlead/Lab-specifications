@@ -2,7 +2,7 @@
 	 "name": "Computer Graphics",
 	 "overview": "This lab deals with Computer Graphics",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99819, e99818, e99817, e99816, e99815, e99814, e99813, e99812, e99811, e99810, e99809]}]
+		       {"experiments": ["e99819", "e99818", "e99817", "e99816", "e99815", "e99814", "e99813", "e99812", "e99811", "e99810", "e99809"]}]
 	},
 	"content-type": "org"
 }

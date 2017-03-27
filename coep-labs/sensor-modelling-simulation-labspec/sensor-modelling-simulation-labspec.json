@@ -2,7 +2,7 @@
 	 "name": "Sensors Modeling and Simulation",
 	 "overview": "This lab deals with Sensors Modeling and Simulation",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99324, e99323, e99322, e99321, e99320, e99319, e99318, e99317]}]
+		       {"experiments": ["e99324", "e99323", "e99322", "e99321", "e99320", "e99319", "e99318", "e99317"]}]
 	},
 	"content-type": "org"
 }

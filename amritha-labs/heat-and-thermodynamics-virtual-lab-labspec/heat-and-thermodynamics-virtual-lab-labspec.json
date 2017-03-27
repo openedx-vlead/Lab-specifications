@@ -2,7 +2,7 @@
 	 "name": "Heat & Thermodynamics Virtual Lab",
 	 "overview": "This lab deals with Heat & Thermodynamics Virtual Lab",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99983, e99982, e99981, e99980, e99979, e99978, e99977, e99976, e99975]}]
+		       {"experiments": ["e99983", "e99982", "e99981", "e99980", "e99979", "e99978", "e99977", "e99976", "e99975"]}]
 	},
 	"content-type": "org"
 }

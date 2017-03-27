@@ -2,7 +2,7 @@
 	 "name": "Mechanics Virtual Lab (Pilot)",
 	 "overview": "This lab deals with Mechanics Virtual Lab (Pilot)",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99277, e99276, e99275, e99274, e99273, e99272, e99271, e99239]}]
+		       {"experiments": ["e99277", "e99276", "e99275", "e99274", "e99273", "e99272", "e99271", "e99239"]}]
 	},
 	"content-type": "org"
 }

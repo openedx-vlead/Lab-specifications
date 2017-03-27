@@ -2,7 +2,7 @@
 	 "name": "Computer Organisation and Architecture",
 	 "overview": "This lab deals with Computer Organisation and Architecture",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99488, e99487, e99486, e99485, e99484, e99483, e99482, e99481, e99480, e99479, e99478]}]
+		       {"experiments": ["e99488", "e99487", "e99486", "e99485", "e99484", "e99483", "e99482", "e99481", "e99480", "e99479", "e99478"]}]
 	},
 	"content-type": "org"
 }

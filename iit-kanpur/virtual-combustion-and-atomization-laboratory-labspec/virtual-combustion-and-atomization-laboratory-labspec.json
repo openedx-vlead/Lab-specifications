@@ -2,7 +2,7 @@
 	 "name": "Virtual Combustion and Atomization Laboratory",
 	 "overview": "This lab deals with Virtual Combustion and Atomization Laboratory",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99435, e99434, e99433, e99432, e99431, e99430, e99429, e99428, e99427]}]
+		       {"experiments": ["e99435", "e99434", "e99433", "e99432", "e99431", "e99430", "e99429", "e99428", "e99427"]}]
 	},
 	"content-type": "org"
 }

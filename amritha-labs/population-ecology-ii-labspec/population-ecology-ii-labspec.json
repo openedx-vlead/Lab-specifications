@@ -2,7 +2,7 @@
 	 "name": "Population ecology Virtual Lab II",
 	 "overview": "This lab deals with Population ecology Virtual Lab II",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99950, e99949, e99948, e99947, e99946, e99945, e99944, e99943]}]
+		       {"experiments": ["e99950", "e99949", "e99948", "e99947", "e99946", "e99945", "e99944", "e99943"]}]
 	},
 	"content-type": "org"
 }

@@ -2,7 +2,7 @@
 	 "name": "Fluid Mechanics",
 	 "overview": "This lab deals with Fluid Mechanics",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99397, e99252, e99251]}]
+		       {"experiments": ["e99397", "e99252", "e99251"]}]
 	},
 	"content-type": "org"
 }

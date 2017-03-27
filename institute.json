@@ -1,0 +1,62 @@
+[
+  {
+    "institute_name": "Amrita University",
+    "id": 1,
+    "institute_id": "amrita"
+  },
+  {
+    "institute_name": "College of Engineering, Pune",
+    "id": 2,
+    "institute_id": "coep"
+  },
+  {
+    "institute_name": "Dayalbagh Educational institute_cls",
+    "id": 3,
+    "institute_id": "dei"
+  },
+  {
+    "institute_name": "IIT Bombay",
+    "id": 4,
+    "institute_id": "iitb"
+  },
+  {
+    "institute_name": "IIT Delhi",
+    "id": 5,
+    "institute_id": "iitd"
+  },
+  {
+    "institute_name": "IIT Guwahati",
+    "id": 6,
+    "institute_id": "iitg"
+  },
+  {
+    "institute_name": "IIIT Hyderabad",
+    "id": 7,
+    "institute_id": "iiith"
+  },
+  {
+    "institute_name": "IIT Kanpur",
+    "id": 8,
+    "institute_id": "iitk"
+  },
+  {
+    "institute_name": "IIT Kharagpur",
+    "id": 9,
+    "institute_id": "iitkgp"
+  },
+  {
+    "institute_name": "IIT Madras",
+    "id": 10,
+    "institute_id": "iitm"
+  },
+  {
+    "institute_name": "IIT Roorkee",
+    "id": 11,
+    "institute_id": "iitr"
+  },
+  {
+    "institute_name": "NIT Surathkal",
+    "id": 12,
+    "institute_id": "nitk"
+  }
+]

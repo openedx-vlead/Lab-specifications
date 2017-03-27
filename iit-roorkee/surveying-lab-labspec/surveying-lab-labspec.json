@@ -2,7 +2,7 @@
 	 "name": "Surveying Lab",
 	 "overview": "This lab deals with Surveying Lab",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99408, e99407, e99406, e99405, e99404, e99403, e99402, e99401, e99400, e99399, e99398]}]
+		       {"experiments": ["e99408", "e99407", "e99406", "e99405", "e99404", "e99403", "e99402", "e99401", "e99400", "e99399", "e99398"]}]
 	},
 	"content-type": "org"
 }

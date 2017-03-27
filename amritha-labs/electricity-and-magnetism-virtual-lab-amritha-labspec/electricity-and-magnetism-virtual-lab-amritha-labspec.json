@@ -2,7 +2,7 @@
 	 "name": "Electricity and Magnetism Virtual Lab",
 	 "overview": "This lab deals with Electricity and Magnetism Virtual Lab",
 	 "sections" : [{"name": "Introduction"},
-		       {"experiments": [e99974, e99973, e99972, e99971, e99970, e99969, e99968, e99967]}]
+		       {"experiments": ["e99974", "e99973", "e99972", "e99971", "e99970", "e99969", "e99968", "e99967"]}]
 	},
 	"content-type": "org"
 }
