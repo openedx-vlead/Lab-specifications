@@ -1476,47 +1476,61 @@
 	{"id": "E98564","name": "Apriori (An association rule mining algorithm)"}
 	{"id": "E98563","name": "Sampling (An association rule mining algorithm)"}
 	{"id": "E98562","name": "Partition (An association rule mining algorithm)"}
-	{"id": "E98561","name": "Comparison of Association Rule Mining Algorithms"}
-	{"id": "E98560","name": "k-Means (A partitioning clustering algorithm)"}
-	{"id": "E98559","name": "Agglomerative Clustering (A hierachial clustering algorithm)"}
-	{"id": "E98558","name": "DBSCAN (A density-based clustering algorithm)"}
-	{"id": "E98557","name": "kNN (A nearest neighbour based classification algorithm)"}
-	{"id": "E98556","name": "Decision Tree (Classification algorithm)"}
-	{"id": "E98555","name": "Comparison of Classification algorithms"}
-	{"id": "E98554","name": "Water Content Experiment"}
-	{"id": "E98553","name": "Unit Weight Experiment"}
-	{"id": "E98552","name": "Specific Gravity Experiment"}
-	{"id": "E98551","name": "Grain Size Distribution Experiment"}
-	{"id": "E98550","name": "Attenberg Limits Experiment"}
-	{"id": "E98549","name": "Permeability Experiment"}
-	{"id": "E98548","name": "Compaction Test Experiment"}
-	{"id": "E98547","name": "Consolidation Test Experiment"}
-	{"id": "E98546","name": "Direct Shear Test Experiment"}
-	{"id": "E98545","name": "Triaxial Test Experiment"}
-	{"id": "E98544","name": "UV-Visible Spectroscopy of Conjugated Molecules"}
-	{"id": "E98543","name": "Vib-rotational Spectroscopy of Hydrogen Chloride"}
-	{"id": "E98542","name": "Geometry Optimization using ab initio quantum calcuations"}
-	{"id": "E98541","name": "Calculation of Vibrational Frequency of Molecules and Visualization of Normal Modes"}
-	{"id": "E98540","name": "Huckel Molecular Orbital Theory"}
-	{"id": "E98539","name": "Conformational Analysis of 1,2-dichloroethane"}
-	{"id": "E98538","name": "Transition State Calculation for a SN2 reaction"}
-	{"id": "E98537","name": "Eigen systems: Geometrical Intepretation"}
-	{"id": "E98536","name": "Geometry Optimization of Molecules"}
-	{"id": "E98535","name": "Free Vibration of Cantilever Beam"}
-	{"id": "E98534","name": "Free Vibration of Simply Supported Beam"}
-	{"id": "E98533","name": "Free vibration of fixed fixed beam"}
-	{"id": "E98532","name": "Forced vibration of cantilever beam (PZT actuation)"}
-	{"id": "E98531","name": "Forced vibration of cantilever beam (Motor with unbalance)"}
-	{"id": "E98530","name": "Reconfigurable cantilever beam"}
-	{"id": "E98529","name": "Reconfigurable simple pendulum"}
-	{"id": "E98528","name": "Transmissibility Ratio"}
-	{"id": "E98527","name": "Two Degree of Freedom System"}
-	{"id": "E98526","name": "Tuned Mass Damper"}
-	{"id": "E98525","name": "Francis Turbine Constant Head"}
-	{"id": "E98524","name": "Francis Turbine Constant Speed"}
-	{"id": "E98523","name": "Hydraulic Ram"}
-	{"id": "E98522","name": "Kaplan Turbine"}
-	{"id": "E98521","name": "Pelton Turbine Constant Head"}
-	{"id": "E98520","name": "Pelton Turbine Constant Speed"}
-	{"id": "E98519","name": "Double Acting Reciprocating Pump"}
+	{"id": "E98561","name": "Comparison of Association Rule Mining Algorithms"},
+	{"id": "E98560","name": "k-Means (A partitioning clustering algorithm)"},
+	{"id": "E98559","name": "Agglomerative Clustering (A hierachial clustering algorithm)"},
+	{"id": "E98558","name": "DBSCAN (A density-based clustering algorithm)"},
+	{"id": "E98557","name": "kNN (A nearest neighbour based classification algorithm)"},
+	{"id": "E98556","name": "Decision Tree (Classification algorithm)"},
+	{"id": "E98555","name": "Comparison of Classification algorithms"},
+	{"id": "E98554","name": "Water Content Experiment"},
+	{"id": "E98553","name": "Unit Weight Experiment"},
+	{"id": "E98552","name": "Specific Gravity Experiment"},
+	{"id": "E98551","name": "Grain Size Distribution Experiment"},
+	{"id": "E98550","name": "Attenberg Limits Experiment"},
+	{"id": "E98549","name": "Permeability Experiment"},
+	{"id": "E98548","name": "Compaction Test Experiment"},
+	{"id": "E98547","name": "Consolidation Test Experiment"},
+	{"id": "E98546","name": "Direct Shear Test Experiment"},
+	{"id": "E98545","name": "Triaxial Test Experiment"},
+	{"id": "E98544","name": "UV-Visible Spectroscopy of Conjugated Molecules"},
+	{"id": "E98543","name": "Vib-rotational Spectroscopy of Hydrogen Chloride"},
+	{"id": "E98542","name": "Geometry Optimization using ab initio quantum calcuations"},
+	{"id": "E98541","name": "Calculation of Vibrational Frequency of Molecules and Visualization of Normal Modes"},
+	{"id": "E98540","name": "Huckel Molecular Orbital Theory"},
+	{"id": "E98539","name": "Conformational Analysis of 1,2-dichloroethane"},
+	{"id": "E98538","name": "Transition State Calculation for a SN2 reaction"},
+	{"id": "E98537","name": "Eigen systems: Geometrical Intepretation"},
+	{"id": "E98536","name": "Geometry Optimization of Molecules"},
+	{"id": "E98535","name": "Free Vibration of Cantilever Beam"},
+	{"id": "E98534","name": "Free Vibration of Simply Supported Beam"},
+	{"id": "E98533","name": "Free vibration of fixed fixed beam"},
+	{"id": "E98532","name": "Forced vibration of cantilever beam (PZT actuation)"},
+	{"id": "E98531","name": "Forced vibration of cantilever beam (Motor with unbalance)"},
+	{"id": "E98530","name": "Reconfigurable cantilever beam"},
+	{"id": "E98529","name": "Reconfigurable simple pendulum"},
+	{"id": "E98528","name": "Transmissibility Ratio"},
+	{"id": "E98527","name": "Two Degree of Freedom System"},
+	{"id": "E98526","name": "Tuned Mass Damper"},
+	{"id": "E98525","name": "Francis Turbine Constant Head"},
+	{"id": "E98524","name": "Francis Turbine Constant Speed"},
+	{"id": "E98523","name": "Hydraulic Ram"},
+	{"id": "E98522","name": "Kaplan Turbine"},
+	{"id": "E98521","name": "Pelton Turbine Constant Head"},
+	{"id": "E98520","name": "Pelton Turbine Constant Speed"},
+	{"id": "E98519","name": "Double Acting Reciprocating Pump"},
+	{"id": "E98518","name": "Continuous Systems"},
+	{"id": "E98517","name": "Vibration Control"},
+	{"id": "E98516", "name": "Temperature Transducers"},
+        {"id": "E98515", "name": "Spectrum Analyzer"},
+	{"id": "E98514", "name": "AC and DC Bridges"},
+	{"id": "E98513", "name": "Frequency and Phase Measurement using Lissajous Patterns"},     
+	{"id": "E98512", "name": "Flow Measurement using Rotameter"},    
+	{"id": "E98511", "name": "Weight Measurement using Strain Gauge"},
+	{"id": "E98510", "name": "DAC using R-2R Ladder Network"},
+	{"id": "E98509", "name": "Displacement Transducers"},
+        {"id": "E98508", "name": "Pressure Measurement using Bourdon Tube"}, 
+	{"id": "E98507", "name": "Speed Measurement using Photoelectric and Magnetic pick-up"},    
+	{"id": "E98506", "name": "Data Acquisition"}
 ]}
+
