@@ -1315,5 +1315,18 @@
 	{"id": "E98725","name": "Behaviour of Rigid Blocks"}
 	{"id": "E98724","name": "Torsional Response of Building"}
 	{"id": "E98723","name": "Continuous Systems"}
-	{"id": "E98722","name": "Vibration Control"}
+	{"id": "E98722","name": "Vibration Control"},
+	{"id": "E98721", "name": "Temperature Transducers"},
+        {"id": "E98720", "name": "Spectrum Analyzer"},
+	{"id": "E98719", "name": "AC and DC Bridges"},
+	{"id": "E98718", "name": "Frequency and Phase Measurement using Lissajous Patterns"},     
+	{"id": "E98717", "name": "Flow Measurement using Rotameter"},    
+	{"id": "E98716", "name": "Weight Measurement using Strain Gauge"},
+	{"id": "E98715", "name": "DAC using R-2R Ladder Network"},
+	{"id": "E98714", "name": "Displacement Transducers"},
+        {"id": "E98713", "name": "Pressure Measurement using Bourdon Tube"}, 
+	{"id": "E98712", "name": "Speed Measurement using Photoelectric and Magnetic pick-up"},    
+	{"id": "E98711", "name": "Data Acquisition"}
+	
+
 ]}
