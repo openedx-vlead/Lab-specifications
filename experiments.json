@@ -1532,5 +1532,15 @@
         {"id": "E98508", "name": "Pressure Measurement using Bourdon Tube"}, 
 	{"id": "E98507", "name": "Speed Measurement using Photoelectric and Magnetic pick-up"},    
 	{"id": "E98506", "name": "Data Acquisition"}
+	{"id": "E98505", "name": "Study of field pattern of various modes inside a rectangular waveguide"}
+	{"id": "E98504", "name": "Study of field pattern of various modes inside a rectangular waveguide cavity"}
+	{"id": "E98503", "name": "Measurement of the dielectric constant and loss tangent of materials in microwave frequency band using a rectangular waveguide cavity"}
+	{"id": "E98502", "name": "Observe the transient phenomenon of terminated coaxial transmission lines in order to study their time domain behaviour"}
+	{"id": "E98501", "name": "Study the behavior of terminated coaxial transmission lines in frequency domain"}
+	{"id": "E98500", "name": "Introduction to Smith chart and its application for the unknown impedance measurement"}
+	{"id": "E98499", "name": "Study the behavior of impedance matching for passive networks using Smith chart"}
+	{"id": "E98498", "name": "Concept of generalized n-port scattering parameters, and formulation of these parameters into 2-port reflection and transmission coefficients"}
+	{"id": "E98497", "name": "Find the change in characteristics impedance and reflection coefficients of the transmission line by changing the dielectric properties of materials embedded between two conductors"}
+	{"id": "E98496", "name": "Introduce the concept of ratio meter, and its significance for the scalar network analyzer"}
 ]}
 
