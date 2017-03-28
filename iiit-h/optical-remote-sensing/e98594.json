@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98594",
+                "name": "Visual Analysis - Band Combination",
+                "overview": "This experiment deals with Visual Analysis - Band Combination",
+                "sections": [
+                "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "MANUAL", 
+ 							 "EXPERIMENT", 
+ 							 "QUIZZES", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

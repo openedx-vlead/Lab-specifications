@@ -1,0 +1,12 @@
+{
+              "experiment": {
+                "id": "e98666",
+                "name": "The Missionaries Archive",
+                "overview": "This experiment deals with The Missionaries Archive",
+                "sections": [
+                "Archive", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

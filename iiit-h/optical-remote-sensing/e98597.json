@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98597",
+                "name": "Reflectance of Natural objects in the Electromagnetic spectrum",
+                "overview": "This experiment deals with Reflectance of Natural objects in the Electromagnetic spectrum",
+                "sections": [
+                "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "MANUAL", 
+ 							 "EXPERIMENT", 
+ 							 "QUIZZES", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

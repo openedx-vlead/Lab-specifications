@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98713",
+                "name": "Parallel RC Circuits",
+                "overview": "This experiment deals with Parallel RC Circuits",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98674",
+                "name": "Icons in Graphical User Interfaces(GUI)",
+                "overview": "This experiment deals with Icons in Graphical User Interfaces(GUI)",
+                "sections": [
+                "Theory", 
+ 							 "Objective", 
+ 							 "Design Heuristics", 
+ 							 "Procedure", 
+ 							 "Design Task", 
+ 							 "Quiz", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

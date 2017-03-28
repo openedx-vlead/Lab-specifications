@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98532",
+                "name": "Forced vibration of cantilever beam (PZT actuation)",
+                "overview": "This experiment deals with Forced vibration of cantilever beam (PZT actuation)",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Remote Trigger", 
+ 							 "Assignments", 
+ 							 "Reference", 
+ 							 "Video", 
+ 							 "Quiz" 
+                ]
+              },
+              "content-type": "org"
+            }

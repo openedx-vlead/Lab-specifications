@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98533",
+                "name": "Free vibration of fixed fixed beam",
+                "overview": "This experiment deals with Free vibration of fixed fixed beam",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Remote Trigger", 
+ 							 "Assignments", 
+ 							 "Reference", 
+ 							 "Video", 
+ 							 "Quiz" 
+                ]
+              },
+              "content-type": "org"
+            }

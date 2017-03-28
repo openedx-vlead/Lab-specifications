@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98710",
+                "name": "Send and Receive",
+                "overview": "This experiment deals with Send and Receive",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulation", 
+ 							 "Remote Panel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

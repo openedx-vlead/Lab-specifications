@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98600",
+                "name": "Pipes and Redirection",
+                "overview": "This experiment deals with Pipes and Redirection",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Tasks", 
+ 							 "Quiz", 
+ 							 "Further Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

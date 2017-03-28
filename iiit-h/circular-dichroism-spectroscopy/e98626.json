@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98626",
+                "name": "To study the comparison between protein unfolding and protein aggregation in the presence of chemical denaturing agents.",
+                "overview": "This experiment deals with To study the comparison between protein unfolding and protein aggregation in the presence of chemical denaturing agents.",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

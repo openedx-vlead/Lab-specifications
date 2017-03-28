@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98659",
+                "name": "The Rare Periodicals Archive",
+                "overview": "This experiment deals with The Rare Periodicals Archive",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Periodicals", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

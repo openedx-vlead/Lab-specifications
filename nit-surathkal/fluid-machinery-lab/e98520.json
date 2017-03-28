@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98520",
+                "name": "Pelton Turbine Constant Speed",
+                "overview": "This experiment deals with Pelton Turbine Constant Speed",
+                "sections": [
+                "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SELF EVALUATION", 
+ 							 "SIMULATOR", 
+ 							 "ASSIGNMENT", 
+ 							 "QUIZ", 
+ 							 "VIDEOS", 
+ 							 "REFERENCES", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

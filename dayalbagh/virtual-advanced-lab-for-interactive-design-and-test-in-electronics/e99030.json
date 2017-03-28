@@ -1,8 +1,8 @@
 {
               "experiment": {
                 "id": "e99030",
-                "name": "*Diode Limiter",
-                "overview": "This experiment deals with *Diode Limiter",
+                "name": "Diode Limiter",
+                "overview": "This experiment deals with Diode Limiter",
                 "sections": [
                 "Theory", 
  							 "Procedure", 

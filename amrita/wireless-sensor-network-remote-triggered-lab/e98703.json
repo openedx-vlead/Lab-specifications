@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98703",
+                "name": "Clustering Algorithms",
+                "overview": "This experiment deals with Clustering Algorithms",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Remote panel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

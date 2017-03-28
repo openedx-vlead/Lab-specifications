@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e99488",
+                "name": "Ripple Carry Adder",
+                "overview": "This experiment deals with Ripple Carry Adder",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

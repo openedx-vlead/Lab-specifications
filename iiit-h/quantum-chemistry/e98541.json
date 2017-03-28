@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98541",
+                "name": "Calculation of Vibrational Frequency of Molecules and Visualization of Normal Modes",
+                "overview": "This experiment deals with Calculation of Vibrational Frequency of Molecules and Visualization of Normal Modes",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

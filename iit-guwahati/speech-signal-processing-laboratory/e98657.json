@@ -1,0 +1,20 @@
+{
+              "experiment": {
+                "id": "e98657",
+                "name": "Non-Stationary Nature of Speech Signal",
+                "overview": "This experiment deals with Non-Stationary Nature of Speech Signal",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Pre Quiz", 
+ 							 "Simulation", 
+ 							 "Post Quiz", 
+ 							 "Assignment", 
+ 							 "Slot Booking", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

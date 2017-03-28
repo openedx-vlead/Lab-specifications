@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "nan",
+                "name": "circular dichroism spectroscopy",
+                "overview": "This lab deals with circular dichroism spectroscopy",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98635", 
+ 							 "e98634", 
+ 							 "e98633", 
+ 							 "e98632", 
+ 							 "e98631", 
+ 							 "e98630", 
+ 							 "e98629", 
+ 							 "e98628", 
+ 							 "e98627", 
+ 							 "e98626" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

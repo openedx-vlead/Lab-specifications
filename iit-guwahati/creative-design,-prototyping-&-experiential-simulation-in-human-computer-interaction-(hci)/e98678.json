@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98678",
+                "name": "Card Sorting Technique",
+                "overview": "This experiment deals with Card Sorting Technique",
+                "sections": [
+                "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

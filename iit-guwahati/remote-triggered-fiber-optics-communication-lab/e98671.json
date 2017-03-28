@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98671",
+                "name": "Fiber Optic Bi-directional Communication",
+                "overview": "This experiment deals with Fiber Optic Bi-directional Communication",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Experiment", 
+ 							 "Animation", 
+ 							 "Quiz", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

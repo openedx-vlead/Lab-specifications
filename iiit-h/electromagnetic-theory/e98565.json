@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98565",
+                "name": "Plane Waves - Reflection and Refraction",
+                "overview": "This experiment deals with Plane Waves - Reflection and Refraction",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Video Tutorial", 
+ 							 "Procedure", 
+ 							 "Virtual Experiment", 
+ 							 "Theory", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

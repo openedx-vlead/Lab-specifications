@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98574",
+                "name": "Coulomb's Law",
+                "overview": "This experiment deals with Coulomb's Law",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Video Tutorial", 
+ 							 "Procedure", 
+ 							 "Virtual Experiment", 
+ 							 "Theory", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

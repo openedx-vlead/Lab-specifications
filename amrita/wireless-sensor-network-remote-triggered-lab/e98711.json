@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98711",
+                "name": "nesC Programming",
+                "overview": "This experiment deals with nesC Programming",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Remote Panel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

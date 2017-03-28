@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98610",
+                "name": "Block-Structured Language",
+                "overview": "This experiment deals with Block-Structured Language",
+                "sections": [
+                "Prerequisites for the Experiment", 
+ 							 "Learning Objective of the Experiment", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98662",
+                "name": "Northeast Expert Zone",
+                "overview": "This experiment deals with Northeast Expert Zone",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Lecture Videos", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

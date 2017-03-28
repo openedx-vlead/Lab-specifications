@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98631",
+                "name": "To Study the operational details of a CD spectrometer.",
+                "overview": "This experiment deals with To Study the operational details of a CD spectrometer.",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,20 @@
+{
+              "experiment": {
+                "id": "e98652",
+                "name": "Short-Term Frequency Domain Processing of Speech",
+                "overview": "This experiment deals with Short-Term Frequency Domain Processing of Speech",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Pre Quiz", 
+ 							 "Simulation", 
+ 							 "Post Quiz", 
+ 							 "Assignment", 
+ 							 "Slot Booking", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

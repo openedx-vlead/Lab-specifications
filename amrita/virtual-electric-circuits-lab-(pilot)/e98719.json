@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98719",
+                "name": "Series LCR Circuits",
+                "overview": "This experiment deals with Series LCR Circuits",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

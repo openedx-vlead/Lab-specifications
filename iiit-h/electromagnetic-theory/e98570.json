@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98570",
+                "name": "Electric Field in Material Space",
+                "overview": "This experiment deals with Electric Field in Material Space",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Video Tutorial", 
+ 							 "Procedure", 
+ 							 "Virtual Experiment", 
+ 							 "Theory", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

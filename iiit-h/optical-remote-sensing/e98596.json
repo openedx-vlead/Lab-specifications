@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98596",
+                "name": "Capturing Area-wide reflectance effect of spatial resolution",
+                "overview": "This experiment deals with Capturing Area-wide reflectance effect of spatial resolution",
+                "sections": [
+                "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "MANUAL", 
+ 							 "EXPERIMENT", 
+ 							 "QUIZZES", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

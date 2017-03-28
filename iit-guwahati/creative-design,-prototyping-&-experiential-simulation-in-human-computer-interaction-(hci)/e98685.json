@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98685",
+                "name": "Fitts Law",
+                "overview": "This experiment deals with Fitts Law",
+                "sections": [
+                "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

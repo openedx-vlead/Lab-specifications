@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98613",
+                "name": "Higher-Order Functions",
+                "overview": "This experiment deals with Higher-Order Functions",
+                "sections": [
+                "Prerequisites for the Experiment", 
+ 							 "Learning Objective of the Experiment", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98612",
+                "name": "Arithmetic Interpreter",
+                "overview": "This experiment deals with Arithmetic Interpreter",
+                "sections": [
+                "Prerequisites for the Experiment", 
+ 							 "Learning Objective of the Experiment", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

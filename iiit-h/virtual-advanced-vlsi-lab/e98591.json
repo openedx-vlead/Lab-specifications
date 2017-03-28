@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98591",
+                "name": "Semi Custom Design",
+                "overview": "This experiment deals with Semi Custom Design",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

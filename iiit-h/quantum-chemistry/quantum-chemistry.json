@@ -1,0 +1,26 @@
+{ 
+              "lab": { 
+                "id": "nan",
+                "name": "quantum chemistry",
+                "overview": "This lab deals with quantum chemistry",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98544", 
+ 							 "e98543", 
+ 							 "e98542", 
+ 							 "e98541", 
+ 							 "e98540", 
+ 							 "e98539", 
+ 							 "e98538", 
+ 							 "e98537", 
+ 							 "e98536" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

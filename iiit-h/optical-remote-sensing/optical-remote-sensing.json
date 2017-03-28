@@ -1,0 +1,24 @@
+{ 
+              "lab": { 
+                "id": "nan",
+                "name": "optical remote sensing",
+                "overview": "This lab deals with optical remote sensing",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98598", 
+ 							 "e99978", 
+ 							 "e98597", 
+ 							 "e98596", 
+ 							 "e98595", 
+ 							 "e98594", 
+ 							 "e98593" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

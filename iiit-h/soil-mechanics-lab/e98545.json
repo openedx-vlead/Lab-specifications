@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98545",
+                "name": "Triaxial Test Experiment",
+                "overview": "This experiment deals with Triaxial Test Experiment",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

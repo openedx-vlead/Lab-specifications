@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98675",
+                "name": "Prototyping of Control Panel of Domestic Appliances",
+                "overview": "This experiment deals with Prototyping of Control Panel of Domestic Appliances",
+                "sections": [
+                "Theory", 
+ 							 "Design Guidelines", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98579",
+                "name": "3rd Normal Form",
+                "overview": "This experiment deals with 3rd Normal Form",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulation", 
+ 							 "Quiz", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

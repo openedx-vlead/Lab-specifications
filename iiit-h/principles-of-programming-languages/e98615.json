@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98615",
+                "name": "Design Inductive Data",
+                "overview": "This experiment deals with Design Inductive Data",
+                "sections": [
+                "Prerequisites for the Experiment", 
+ 							 "Learning Objective of the Experiment", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

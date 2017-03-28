@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98709",
+                "name": "Range & Connectivity vs. Antenna Power",
+                "overview": "This experiment deals with Range & Connectivity vs. Antenna Power",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Simulator", 
+ 							 "Remote Panel", 
+ 							 "Assignment", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

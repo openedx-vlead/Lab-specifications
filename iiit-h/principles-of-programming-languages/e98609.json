@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98609",
+                "name": "Language with Closures",
+                "overview": "This experiment deals with Language with Closures",
+                "sections": [
+                "Prerequisites for the Experiment", 
+ 							 "Learning Objective of the Experiment", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

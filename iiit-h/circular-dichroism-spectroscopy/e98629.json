@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98629",
+                "name": "To deconvolute the CD spectrum of a given protein solution and to classify it in terms of its secondary structure elements.",
+                "overview": "This experiment deals with To deconvolute the CD spectrum of a given protein solution and to classify it in terms of its secondary structure elements.",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

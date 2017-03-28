@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98649",
+                "name": "Estimation Of Pitch From Speech Signals",
+                "overview": "This experiment deals with Estimation Of Pitch From Speech Signals",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulation", 
+ 							 "Quiz", 
+ 							 "Assignment", 
+ 							 "Slot Booking", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

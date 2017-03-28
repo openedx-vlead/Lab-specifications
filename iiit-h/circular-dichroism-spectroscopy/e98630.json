@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98630",
+                "name": "To Study the effect of Secondary Structure elements on CD spectrum of proteins.",
+                "overview": "This experiment deals with To Study the effect of Secondary Structure elements on CD spectrum of proteins.",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

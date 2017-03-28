@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98720",
+                "name": "Norton's theorem",
+                "overview": "This experiment deals with Norton's theorem",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

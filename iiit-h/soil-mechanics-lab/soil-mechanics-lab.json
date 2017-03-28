@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "nan",
+                "name": "soil mechanics lab",
+                "overview": "This lab deals with soil mechanics lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98554", 
+ 							 "e98553", 
+ 							 "e98552", 
+ 							 "e98551", 
+ 							 "e98550", 
+ 							 "e98549", 
+ 							 "e98548", 
+ 							 "e98547", 
+ 							 "e98546", 
+ 							 "e98545" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

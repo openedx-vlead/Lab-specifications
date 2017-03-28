@@ -1,0 +1,20 @@
+{
+              "experiment": {
+                "id": "e98638",
+                "name": "Architectural Design Approach",
+                "overview": "This experiment deals with Architectural Design Approach",
+                "sections": [
+                "Aim", 
+ 							 "Pre Test", 
+ 							 "Theory", 
+ 							 "Procedure and Demo", 
+ 							 "Simulator", 
+ 							 "Post Test", 
+ 							 "Assignment", 
+ 							 "References", 
+ 							 "People", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

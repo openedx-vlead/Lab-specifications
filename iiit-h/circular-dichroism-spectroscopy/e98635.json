@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98635",
+                "name": "To determine the specific rotation of a sugar using a polarimeter.",
+                "overview": "This experiment deals with To determine the specific rotation of a sugar using a polarimeter.",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

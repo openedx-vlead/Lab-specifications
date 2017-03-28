@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98702",
+                "name": "Time Synchronization",
+                "overview": "This experiment deals with Time Synchronization",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Remote Panel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

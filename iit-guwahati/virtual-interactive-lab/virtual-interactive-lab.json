@@ -1,0 +1,26 @@
+{ 
+              "lab": { 
+                "id": "Humanities",
+                "name": "virtual interactive lab",
+                "overview": "This lab deals with virtual interactive lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98666", 
+ 							 "e98665", 
+ 							 "e98664", 
+ 							 "e98663", 
+ 							 "e98662", 
+ 							 "e98661", 
+ 							 "e98660", 
+ 							 "e98659", 
+ 							 "e98658" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

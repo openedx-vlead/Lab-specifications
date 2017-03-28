@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98623",
+                "name": "Mapping",
+                "overview": "This experiment deals with Mapping",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "PROCEDURE", 
+ 							 "EXPERIMENT", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

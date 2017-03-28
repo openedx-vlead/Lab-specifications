@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98699",
+                "name": "To obtain Torque Slip characteristics of three phase induction motor",
+                "overview": "This experiment deals with To obtain Torque Slip characteristics of three phase induction motor",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Assignment", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

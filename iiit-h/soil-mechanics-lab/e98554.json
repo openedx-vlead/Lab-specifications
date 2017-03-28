@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98554",
+                "name": "Water Content Experiment",
+                "overview": "This experiment deals with Water Content Experiment",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

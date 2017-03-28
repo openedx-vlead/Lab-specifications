@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98601",
+                "name": "Obtaining System Information",
+                "overview": "This experiment deals with Obtaining System Information",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Tasks", 
+ 							 "Quiz", 
+ 							 "Further Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

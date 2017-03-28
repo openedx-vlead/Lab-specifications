@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98556",
+                "name": "Decision Tree (Classification algorithm)",
+                "overview": "This experiment deals with Decision Tree (Classification algorithm)",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "ASSIGMENT", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READING" 
+                ]
+              },
+              "content-type": "org"
+            }

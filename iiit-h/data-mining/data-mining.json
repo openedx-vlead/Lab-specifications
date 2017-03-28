@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "nan",
+                "name": "data mining",
+                "overview": "This lab deals with data mining",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98564", 
+ 							 "e98563", 
+ 							 "e98562", 
+ 							 "e98561", 
+ 							 "e98560", 
+ 							 "e98559", 
+ 							 "e98558", 
+ 							 "e98557", 
+ 							 "e98556", 
+ 							 "e98555" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

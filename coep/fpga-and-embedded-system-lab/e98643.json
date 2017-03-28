@@ -1,0 +1,20 @@
+{
+              "experiment": {
+                "id": "e98643",
+                "name": "Floating Point Arithmetic Operations",
+                "overview": "This experiment deals with Floating Point Arithmetic Operations",
+                "sections": [
+                "Aim", 
+ 							 "Pre Test", 
+ 							 "Theory", 
+ 							 "Procedure and Demo", 
+ 							 "Simulator", 
+ 							 "Post Test", 
+ 							 "Assignment", 
+ 							 "References", 
+ 							 "People", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98669",
+                "name": "Measurement Of Bending Losses in Optical Fiber",
+                "overview": "This experiment deals with Measurement Of Bending Losses in Optical Fiber",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Set Up", 
+ 							 "Procedure", 
+ 							 "Experiment", 
+ 							 "Animation", 
+ 							 "Quiz", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

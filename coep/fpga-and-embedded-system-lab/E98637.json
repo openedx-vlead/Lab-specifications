@@ -1,0 +1,20 @@
+{
+              "experiment": {
+                "id": "e98637",
+                "name": "Designing of Reconfigurable Architecture for PID Controller",
+                "overview": "This experiment deals with Designing of Reconfigurable Architecture for PID Controller",
+                "sections": [
+                "Aim", 
+ 							 "Pre Test", 
+ 							 "Theory", 
+ 							 "Procedure and Demo", 
+ 							 "Simulator", 
+ 							 "Post Test", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "People", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

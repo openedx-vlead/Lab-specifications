@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98582",
+                "name": "Relational Model",
+                "overview": "This experiment deals with Relational Model",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Practice", 
+ 							 "Simulation", 
+ 							 "Quiz", 
+ 							 "Further-readings" 
+                ]
+              },
+              "content-type": "org"
+            }

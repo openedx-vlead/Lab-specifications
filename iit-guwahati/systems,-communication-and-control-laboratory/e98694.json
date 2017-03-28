@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98694",
+                "name": "Amplitude Modulation and Demodulation (Real time experiment)",
+                "overview": "This experiment deals with Amplitude Modulation and Demodulation (Real time experiment)",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Set Up", 
+ 							 "Procedure", 
+ 							 "Experiment", 
+ 							 "Webcam", 
+ 							 "Quiz", 
+ 							 "Slot Booking Procedure", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

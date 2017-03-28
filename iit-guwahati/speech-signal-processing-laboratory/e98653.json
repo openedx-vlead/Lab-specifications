@@ -1,0 +1,20 @@
+{
+              "experiment": {
+                "id": "e98653",
+                "name": "Short Term Time Domain Processing of Speech",
+                "overview": "This experiment deals with Short Term Time Domain Processing of Speech",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Pre Quiz", 
+ 							 "Simulation", 
+ 							 "Post Quiz", 
+ 							 "Assignment", 
+ 							 "Slot Booking", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

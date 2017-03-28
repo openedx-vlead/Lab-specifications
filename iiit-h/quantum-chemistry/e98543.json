@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98543",
+                "name": "Vib-rotational Spectroscopy of Hydrogen Chloride",
+                "overview": "This experiment deals with Vib-rotational Spectroscopy of Hydrogen Chloride",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

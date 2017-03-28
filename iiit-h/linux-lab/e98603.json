@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98603",
+                "name": "File Permissions",
+                "overview": "This experiment deals with File Permissions",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Tasks", 
+ 							 "Quiz", 
+ 							 "Further Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

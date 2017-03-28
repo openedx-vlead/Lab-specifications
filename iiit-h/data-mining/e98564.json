@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98564",
+                "name": "Apriori (An association rule mining algorithm)",
+                "overview": "This experiment deals with Apriori (An association rule mining algorithm)",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "ASSIGMENT", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READING" 
+                ]
+              },
+              "content-type": "org"
+            }

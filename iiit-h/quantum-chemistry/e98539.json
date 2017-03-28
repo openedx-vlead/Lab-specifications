@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98539",
+                "name": "Conformational Analysis of 1,2-dichloroethane",
+                "overview": "This experiment deals with Conformational Analysis of 1,2-dichloroethane",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

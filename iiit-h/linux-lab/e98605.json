@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98605",
+                "name": "Text Editor",
+                "overview": "This experiment deals with Text Editor",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Tasks", 
+ 							 "Quiz", 
+ 							 "Further Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

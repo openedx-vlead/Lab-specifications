@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98602",
+                "name": "Archival and Compression",
+                "overview": "This experiment deals with Archival and Compression",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Tasks", 
+ 							 "Quiz", 
+ 							 "Further Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

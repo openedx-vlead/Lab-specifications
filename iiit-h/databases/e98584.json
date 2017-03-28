@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98584",
+                "name": "ER Model",
+                "overview": "This experiment deals with ER Model",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Objective", 
+ 							 "Simulation", 
+ 							 "Quiz", 
+ 							 "Further-readings" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,28 @@
+{ 
+              "lab": { 
+                "id": "Physical Sciences",
+                "name": "virtual electric circuits lab (pilot)",
+                "overview": "This lab deals with virtual electric circuits lab (pilot)",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98713", 
+ 							 "e98723", 
+ 							 "e98722", 
+ 							 "e98721", 
+ 							 "e98720", 
+ 							 "e98719", 
+ 							 "e98718", 
+ 							 "e98717", 
+ 							 "e98716", 
+ 							 "e98715", 
+ 							 "e98714" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

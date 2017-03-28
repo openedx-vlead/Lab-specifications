@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98588",
+                "name": "5-3 Compressor",
+                "overview": "This experiment deals with 5-3 Compressor",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

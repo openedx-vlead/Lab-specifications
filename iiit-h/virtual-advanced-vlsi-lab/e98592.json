@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98592",
+                "name": "Full Custom Design",
+                "overview": "This experiment deals with Full Custom Design",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

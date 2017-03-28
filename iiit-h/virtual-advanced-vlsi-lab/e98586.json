@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98586",
+                "name": "(8,4) Hamming Coder",
+                "overview": "This experiment deals with (8,4) Hamming Coder",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

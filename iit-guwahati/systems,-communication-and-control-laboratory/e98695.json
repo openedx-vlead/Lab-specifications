@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98695",
+                "name": "BPSK Modulation and Demodulation(Real time experiment)",
+                "overview": "This experiment deals with BPSK Modulation and Demodulation(Real time experiment)",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Setup", 
+ 							 "Procedure", 
+ 							 "Experiment", 
+ 							 "Webcam", 
+ 							 "Quiz", 
+ 							 "Slot Booking procedure", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

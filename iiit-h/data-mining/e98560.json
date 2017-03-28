@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98560",
+                "name": "k-Means (A partitioning clustering algorithm)",
+                "overview": "This experiment deals with k-Means (A partitioning clustering algorithm)",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "ASSIGMENT", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READING" 
+                ]
+              },
+              "content-type": "org"
+            }

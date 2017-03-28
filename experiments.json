@@ -996,7 +996,7 @@
 	{"id": "E99044","name": "Electrical Motor Fault Detection by MCSA"}
 	{"id": "E99043","name": "Ultrasonics in Fault Detection"}
 	{"id": "E99042","name": "Gearbox Fault Detection"}
-	{"id": "E99041","name": "*Full-Wave Rectification"}
+	{"id": "E99041","name": "Full-Wave Rectification"}
 	{"id": "E99040","name": "Voltage Tripler"}
 	{"id": "E99039","name": "Varactor Tuner"}
 	{"id": "E99038","name": "Tunnel Diode Oscillator"}
@@ -1005,22 +1005,22 @@
 	{"id": "E99035","name": "Voltage Doubler"}
 	{"id": "E99034","name": "Zener Diode Applications"}
 	{"id": "E99033","name": "FM Detector"}
-	{"id": "E99032","name": "*Diode Clamper"}
-	{"id": "E99031","name": "*Diode Clipper"}
-	{"id": "E99030","name": "*Diode Limiter"}
-	{"id": "E99029","name": "*Push Pull Amplifier"}
-	{"id": "E99028","name": "*Integrator"}
-	{"id": "E99027","name": "*Non-Inverting Amplifier"}
-	{"id": "E99026","name": "*Voltage Follower"}
+	{"id": "E99032","name": "Diode Clamper"}
+	{"id": "E99031","name": "Diode Clipper"}
+	{"id": "E99030","name": "Diode Limiter"}
+	{"id": "E99029","name": "Push Pull Amplifier"}
+	{"id": "E99028","name": "Integrator"}
+	{"id": "E99027","name": "Non-Inverting Amplifier"}
+	{"id": "E99026","name": "Voltage Follower"}
 	{"id": "E99025","name": "Summing amplifier"}
-	{"id": "E99024","name": "*Halfwave Rectifier"}
-	{"id": "E99023","name": "*Logarithmic Amplifier"}
+	{"id": "E99024","name": "Halfwave Rectifier"}
+	{"id": "E99023","name": "Logarithmic Amplifier"}
 	{"id": "E99022","name": "Schmitt Trigger"}
-	{"id": "E99021","name": "*Inverting Amplifier"}
-	{"id": "E99020","name": "*Astable Multi-Vibrator"}
+	{"id": "E99021","name": "Inverting Amplifier"}
+	{"id": "E99020","name": "Astable Multi-Vibrator"}
 	{"id": "E99019","name": "Monostable Multi-Vibrator"}
-	{"id": "E99018","name": "*RC-Integrator"}
-	{"id": "E99017","name": "*RC-Differentiator"}
+	{"id": "E99018","name": "RC-Integrator"}
+	{"id": "E99017","name": "RC-Differentiator"}
 	{"id": "E99016","name": "To Design, implement and Simulate the Full adder using two half adder."}
 	{"id": "E99015","name": "To Design, implement and Simulate the 3 : 8 Decoder."}
 	{"id": "E99014","name": "To Design, implement and Simulate the 16 : 1 Multiplexer using 4 : 1 Multiplexer."}
@@ -1143,7 +1143,7 @@
 	{"id": "E98897","name": "Immobilization of whole cells"}
 	{"id": "E98896","name": "Zener Regulator"}
 	{"id": "E98895","name": "Differential Amplifier"}
-	{"id": "E98894","name": "*Differentiator"}
+	{"id": "E98894","name": "Differentiator"}
 	{"id": "E98893","name": "15 Liter Bio-reactor Cultivation"}
 	{"id": "E98892","name": "Experiment-1 : Dynamics of quality fluctuations"}
 	{"id": "E98891","name": "Experiment-2 : Simulation of Auction Markets"}
@@ -1314,6 +1314,209 @@
 	{"id": "E98726","name": "Vibration of M.D.O.F System"}
 	{"id": "E98725","name": "Behaviour of Rigid Blocks"}
 	{"id": "E98724","name": "Torsional Response of Building"}
-	{"id": "E98723","name": "Continuous Systems"}
-	{"id": "E98722","name": "Vibration Control"}
+	{"id": "E98723","name": "Parallel LC Circuits"}
+	{"id": "E98722","name": "Thevenin’s Theorem"}
+	{"id": "E98721","name": "Series RL Circuits"}
+	{"id": "E98720","name": "Norton's theorem"}
+	{"id": "E98719","name": "Series LCR Circuits"}
+	{"id": "E98718","name": "Kirchhoff’s Laws"}
+	{"id": "E98717","name": "Series RC Circuits"}
+	{"id": "E98716","name": "Series LC Circuits"}
+	{"id": "E98715","name": "Parallel LCR Circuits"}
+	{"id": "E98714","name": "Parallel RL Circuits"}
+	{"id": "E98713","name": "Parallel RC Circuits"}
+	{"id": "E98712","name": "Introduction to WSN"}
+	{"id": "E98711","name": "nesC Programming"}
+	{"id": "E98710","name": "Send and Receive"}
+	{"id": "E98709","name": "Range & Connectivity vs. Antenna Power"}
+	{"id": "E98708","name": "Duty Cycle vs. Power Consumption"}
+	{"id": "E98707","name": "Sensor Data Acquisition"}
+	{"id": "E98706","name": "Data Collection Frequency and Tx. vs. Power Consumption"}
+	{"id": "E98705","name": "Wireless Propagation"}
+	{"id": "E98704","name": "Wireless Sensor Network Data Acquisition, Transmission, and Aggregation"}
+	{"id": "E98703","name": "Clustering Algorithms"}
+	{"id": "E98702","name": "Time Synchronization"}
+	{"id": "E98701","name": "To perform No Load test of three phase induction motor"}
+	{"id": "E98700","name": "To perform Blocked Rotor test of three phase induction motor"}
+	{"id": "E98699","name": "To obtain Torque Slip characteristics of three phase induction motor"}
+	{"id": "E98698","name": "Amplitude Modulation (Simulation experiment)"}
+	{"id": "E98697","name": "BPSK Modulation and Demodulation(Simulation experiment)"}
+	{"id": "E98696","name": "Frequency Modulation(Simulation experiment)"}
+	{"id": "E98695","name": "BPSK Modulation and Demodulation(Real time experiment)"}
+	{"id": "E98694","name": "Amplitude Modulation and Demodulation (Real time experiment)"}
+	{"id": "E98693","name": "QPSK Modulation (Real time experiment)"}
+	{"id": "E98692","name": "Simple Inverted Pendulum System"}
+	{"id": "E98691","name": "Realization of different modulation schemes using I/Q modulators"}
+	{"id": "E98690","name": "Control of Inverted Pendulum System (Real Time)"}
+	{"id": "E98689","name": "Vertical take Off and landing (currently offline: Experiment will be available on request)"}
+	{"id": "E98688","name": "Serial Position Effect"}
+	{"id": "E98687","name": "Weber's Law"}
+	{"id": "E98686","name": "Sensitivity, Errors And Task Complexity Measurements For Pointing Devices"}
+	{"id": "E98685","name": "Fitts Law"}
+	{"id": "E98684","name": "Mobile Keypad Design"}
+	{"id": "E98683","name": "Hick Hyman's Law"}
+	{"id": "E98682","name": "GOMS Model"}
+	{"id": "E98681","name": "Consistency and Inconsistency In Interaction"}
+	{"id": "E98680","name": "The Visual Coding Of Information In Short Term Memory (STM)"}
+	{"id": "E98679","name": "Color Theory"}
+	{"id": "E98678","name": "Card Sorting Technique"}
+	{"id": "E98677","name": "Usability Measurement Tool for E-Learning ( UMTEL )"}
+	{"id": "E98676","name": "Prototyping of TV Remote Control Panel"}
+	{"id": "E98675","name": "Prototyping of Control Panel of Domestic Appliances"}
+	{"id": "E98674","name": "Icons in Graphical User Interfaces(GUI)"}
+	{"id": "E98673","name": "Effect of Typography design on Readability"}
+	{"id": "E98672","name": "Fiber Optic Analog and Digital Link"}
+	{"id": "E98671","name": "Fiber Optic Bi-directional Communication"}
+	{"id": "E98670","name": "Wavelength Division Multiplexing"}
+	{"id": "E98669","name": "Measurement Of Bending Losses in Optical Fiber"}
+	{"id": "E98668","name": "Measurement Of Numerical Aperture"}
+	{"id": "E98667","name": "Study Of LED and Detector Characteristics"}
+	{"id": "E98666","name": "The Missionaries Archive"}
+	{"id": "E98665","name": "Ethnographic Reports "}
+	{"id": "E98664","name": "The Folklore and Literature Archive"}
+	{"id": "E98663","name": "Miscellaneous Books Archive"}
+	{"id": "E98662","name": "Northeast Expert Zone"}
+	{"id": "E98661","name": "The Advertisements Archive"}
+	{"id": "E98660","name": "The Northeast Illustrated Bibliography"}
+	{"id": "E98659","name": "The Rare Periodicals Archive"}
+	{"id": "E98658","name": "Lab Staff and Contributors (not an experiment)"}
+	{"id": "E98657","name": "Non-Stationary Nature of Speech Signal"}
+	{"id": "E98656","name": "Sampling Frequency and Bit Resolution for Speech Signal Processing"}
+	{"id": "E98655","name": "Identification of Voice/Unvoiced/Silence regions of Speech"}
+	{"id": "E98654","name": "Different Sounds In Language"}
+	{"id": "E98653","name": "Short Term Time Domain Processing of Speech"}
+	{"id": "E98652","name": "Short-Term Frequency Domain Processing of Speech"}
+	{"id": "E98651","name": "Cepstral Analysis of Speech"}
+	{"id": "E98650","name": "Linear Prediction Analysis"}
+	{"id": "E98649","name": "Estimation Of Pitch From Speech Signals"}
+	{"id": "E98648","name": "Estimation Of Formants From Speech Signals"}
+	{"id": "E98647","name": "Voice Activity Detection In Speech"}
+	{"id": "E98646","name": "Introduction to FPGA and Verilog Programming"}
+	{"id": "E98645","name": "Introduction to Verilog Abstraction Levels"}
+	{"id": "E98644","name": "Fixed Point Arithmetic Operations and Logical Operators"}
+	{"id": "E98643","name": "Floating Point Arithmetic Operations"}
+	{"id": "E98642","name": "Logarithmic Number System (LNS) Based Arithmetic Operations"}
+	{"id": "E98641","name": "Linear Matrix Algebra"}
+	{"id": "E98640","name": "Linear Equation Solver"}
+	{"id": "E98639","name": "Pulse-Width Modulation (PWM) Generation Using FPGA"}
+	{"id": "E98638","name": "Architectural Design Approach"}
+	{"id": "E98637","name": "Designing of Reconfigurable Architecture for PID Controller"}
+	{"id": "E98636","name": "Half-Wave Rectification"}
+	{"id": "E98635","name": "To determine the specific rotation of a sugar using a polarimeter."}
+	{"id": "E98634","name": "To understand the effect of chiral substances on plane polarized light as a function of wavelength."}
+	{"id": "E98633","name": "To study the Optical Rotatory Dispersion (ORD) of some chiral substances."}
+	{"id": "E98632","name": "To study the Circular Dichroism of some substances with chiral chromophores."}
+	{"id": "E98631","name": "To Study the operational details of a CD spectrometer."}
+	{"id": "E98630","name": "To Study the effect of Secondary Structure elements on CD spectrum of proteins."}
+	{"id": "E98629","name": "To deconvolute the CD spectrum of a given protein solution and to classify it in terms of its secondary structure elements."}
+	{"id": "E98628","name": "To study the thermal stability of proteins."}
+	{"id": "E98627","name": "To study the effect of chemical denaturants on protein stability."}
+	{"id": "E98626","name": "To study the comparison between protein unfolding and protein aggregation in the presence of chemical denaturing agents."}
+	{"id": "E98625","name": "Sensor Modelling"}
+	{"id": "E98624","name": "Velocity Modelling"}
+	{"id": "E98623","name": "Mapping"}
+	{"id": "E98622","name": "Localization"}
+	{"id": "E98621","name": "Grid based navigation"}
+	{"id": "E98620","name": "Forward kinematics"}
+	{"id": "E98619","name": "Scan matching"}
+	{"id": "E98618","name": "RRT based path planning"}
+	{"id": "E98617","name": "Exploration"}
+	{"id": "E98616","name": "Monte Carlo localization"}
+	{"id": "E98615","name": "Design Inductive Data"}
+	{"id": "E98614","name": "Programming with Inductive Data"}
+	{"id": "E98613","name": "Higher-Order Functions"}
+	{"id": "E98612","name": "Arithmetic Interpreter"}
+	{"id": "E98611","name": "Environment"}
+	{"id": "E98610","name": "Block-Structured Language"}
+	{"id": "E98609","name": "Language with Closures"}
+	{"id": "E98608","name": "Language with Recursive Functions"}
+	{"id": "E98607","name": "Language with Objects"}
+	{"id": "E98606","name": "File Management"}
+	{"id": "E98605","name": "Text Editor"}
+	{"id": "E98604","name": "File Content"}
+	{"id": "E98603","name": "File Permissions"}
+	{"id": "E98602","name": "Archival and Compression"}
+	{"id": "E98601","name": "Obtaining System Information"}
+	{"id": "E98600","name": "Pipes and Redirection"}
+	{"id": "E98599","name": "Basic Networking"}
+	{"id": "E98598","name": "EM Spectrum"}
+	{"id": "E98597","name": "Reflectance of Natural objects in the Electromagnetic spectrum"}
+	{"id": "E98596","name": "Capturing Area-wide reflectance effect of spatial resolution"}
+	{"id": "E98595","name": "Data quantization levels and object extraction effects of Radiometric characteristics of the sensor"}
+	{"id": "E98594","name": "Visual Analysis - Band Combination"}
+	{"id": "E98593","name": "Band Algebra - Index based Analysis"}
+	{"id": "E98592","name": "Full Custom Design"}
+	{"id": "E98591","name": "Semi Custom Design"}
+	{"id": "E98590","name": "Power Reduction Using Gated Clocking"}
+	{"id": "E98589","name": "Carry Look Ahead Adder"}
+	{"id": "E98588","name": "5-3 Compressor"}
+	{"id": "E98587","name": "Array Multiplier"}
+	{"id": "E98586","name": "(8,4) Hamming Coder"}
+	{"id": "E98585","name": "Linear Feedback Shift Register (LFSR)"}
+	{"id": "E98584","name": "ER Model"}
+	{"id": "E98583","name": "Enhanced ER Model"}
+	{"id": "E98582","name": "Relational Model"}
+	{"id": "E98581","name": "1st Normal Form"}
+	{"id": "E98580","name": "2nd Normal Form"}
+	{"id": "E98579","name": "3rd Normal Form"}
+	{"id": "E98578","name": "Boyce Codd Normal Form"}
+	{"id": "E98577","name": "SQL 1"}
+	{"id": "E98576","name": "SQL 2"}
+	{"id": "E98575","name": "SQL 3"}
+	{"id": "E98574","name": "Coulomb's Law"}
+	{"id": "E98573","name": "Electrostatic Fields I"}
+	{"id": "E98572","name": "Electrostatic Fields II"}
+	{"id": "E98571","name": "Boundary Conditions"}
+	{"id": "E98570","name": "Electric Field in Material Space"}
+	{"id": "E98569","name": "Magnetostatic Fields"}
+	{"id": "E98568","name": "Application of Faraday's Laws"}
+	{"id": "E98567","name": "Wave Propagation"}
+	{"id": "E98566","name": "Distance and Altitude Measurement"}
+	{"id": "E98565","name": "Plane Waves - Reflection and Refraction"}
+	{"id": "E98564","name": "Apriori (An association rule mining algorithm)"}
+	{"id": "E98563","name": "Sampling (An association rule mining algorithm)"}
+	{"id": "E98562","name": "Partition (An association rule mining algorithm)"}
+	{"id": "E98561","name": "Comparison of Association Rule Mining Algorithms"}
+	{"id": "E98560","name": "k-Means (A partitioning clustering algorithm)"}
+	{"id": "E98559","name": "Agglomerative Clustering (A hierachial clustering algorithm)"}
+	{"id": "E98558","name": "DBSCAN (A density-based clustering algorithm)"}
+	{"id": "E98557","name": "kNN (A nearest neighbour based classification algorithm)"}
+	{"id": "E98556","name": "Decision Tree (Classification algorithm)"}
+	{"id": "E98555","name": "Comparison of Classification algorithms"}
+	{"id": "E98554","name": "Water Content Experiment"}
+	{"id": "E98553","name": "Unit Weight Experiment"}
+	{"id": "E98552","name": "Specific Gravity Experiment"}
+	{"id": "E98551","name": "Grain Size Distribution Experiment"}
+	{"id": "E98550","name": "Attenberg Limits Experiment"}
+	{"id": "E98549","name": "Permeability Experiment"}
+	{"id": "E98548","name": "Compaction Test Experiment"}
+	{"id": "E98547","name": "Consolidation Test Experiment"}
+	{"id": "E98546","name": "Direct Shear Test Experiment"}
+	{"id": "E98545","name": "Triaxial Test Experiment"}
+	{"id": "E98544","name": "UV-Visible Spectroscopy of Conjugated Molecules"}
+	{"id": "E98543","name": "Vib-rotational Spectroscopy of Hydrogen Chloride"}
+	{"id": "E98542","name": "Geometry Optimization using ab initio quantum calcuations"}
+	{"id": "E98541","name": "Calculation of Vibrational Frequency of Molecules and Visualization of Normal Modes"}
+	{"id": "E98540","name": "Huckel Molecular Orbital Theory"}
+	{"id": "E98539","name": "Conformational Analysis of 1,2-dichloroethane"}
+	{"id": "E98538","name": "Transition State Calculation for a SN2 reaction"}
+	{"id": "E98537","name": "Eigen systems: Geometrical Intepretation"}
+	{"id": "E98536","name": "Geometry Optimization of Molecules"}
+	{"id": "E98535","name": "Free Vibration of Cantilever Beam"}
+	{"id": "E98534","name": "Free Vibration of Simply Supported Beam"}
+	{"id": "E98533","name": "Free vibration of fixed fixed beam"}
+	{"id": "E98532","name": "Forced vibration of cantilever beam (PZT actuation)"}
+	{"id": "E98531","name": "Forced vibration of cantilever beam (Motor with unbalance)"}
+	{"id": "E98530","name": "Reconfigurable cantilever beam"}
+	{"id": "E98529","name": "Reconfigurable simple pendulum"}
+	{"id": "E98528","name": "Transmissibility Ratio"}
+	{"id": "E98527","name": "Two Degree of Freedom System"}
+	{"id": "E98526","name": "Tuned Mass Damper"}
+	{"id": "E98525","name": "Francis Turbine Constant Head"}
+	{"id": "E98524","name": "Francis Turbine Constant Speed"}
+	{"id": "E98523","name": "Hydraulic Ram"}
+	{"id": "E98522","name": "Kaplan Turbine"}
+	{"id": "E98521","name": "Pelton Turbine Constant Head"}
+	{"id": "E98520","name": "Pelton Turbine Constant Speed"}
+	{"id": "E98519","name": "Double Acting Reciprocating Pump"}
 ]}

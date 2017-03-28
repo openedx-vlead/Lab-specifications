@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98540",
+                "name": "Huckel Molecular Orbital Theory",
+                "overview": "This experiment deals with Huckel Molecular Orbital Theory",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

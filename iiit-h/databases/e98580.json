@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98580",
+                "name": "2nd Normal Form",
+                "overview": "This experiment deals with 2nd Normal Form",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulation", 
+ 							 "Quiz", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

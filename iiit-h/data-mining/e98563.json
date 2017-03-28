@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98563",
+                "name": "Sampling (An association rule mining algorithm)",
+                "overview": "This experiment deals with Sampling (An association rule mining algorithm)",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "ASSIGMENT", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READING" 
+                ]
+              },
+              "content-type": "org"
+            }

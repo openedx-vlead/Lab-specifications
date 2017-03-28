@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98616",
+                "name": "Monte Carlo localization",
+                "overview": "This experiment deals with Monte Carlo localization",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "PROCEDURE", 
+ 							 "EXPERIMENT", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98708",
+                "name": "Duty Cycle vs. Power Consumption",
+                "overview": "This experiment deals with Duty Cycle vs. Power Consumption",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Simulator", 
+ 							 "Remote Panel", 
+ 							 "Assignment", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

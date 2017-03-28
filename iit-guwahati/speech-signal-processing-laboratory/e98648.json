@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98648",
+                "name": "Estimation Of Formants From Speech Signals",
+                "overview": "This experiment deals with Estimation Of Formants From Speech Signals",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Pre Quiz", 
+ 							 "Simulator", 
+ 							 "Post Quiz", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

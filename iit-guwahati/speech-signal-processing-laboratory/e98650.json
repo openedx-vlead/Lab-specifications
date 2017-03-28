@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98650",
+                "name": "Linear Prediction Analysis",
+                "overview": "This experiment deals with Linear Prediction Analysis",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulation", 
+ 							 "Quiz", 
+ 							 "Assignment", 
+ 							 "Slot Booking", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,20 @@
+{
+              "experiment": {
+                "id": "e98679",
+                "name": "Color Theory",
+                "overview": "This experiment deals with Color Theory",
+                "sections": [
+                "Theory I", 
+ 							 "Theory II", 
+ 							 "Theory III", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

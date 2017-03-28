@@ -1,0 +1,33 @@
+{ 
+              "lab": { 
+                "id": "Design Engineering",
+                "name": "creative design, prototyping & experiential simulation in human computer interaction (hci)",
+                "overview": "This lab deals with creative design, prototyping & experiential simulation in human computer interaction (hci)",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98688", 
+ 							 "e98687", 
+ 							 "e98686", 
+ 							 "e98685", 
+ 							 "e98684", 
+ 							 "e98683", 
+ 							 "e98682", 
+ 							 "e98681", 
+ 							 "e98680", 
+ 							 "e98679", 
+ 							 "e98678", 
+ 							 "e98677", 
+ 							 "e98676", 
+ 							 "e98675", 
+ 							 "e98674", 
+ 							 "e98673" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,13 @@
+{
+              "experiment": {
+                "id": "e98660",
+                "name": "The Northeast Illustrated Bibliography",
+                "overview": "This experiment deals with The Northeast Illustrated Bibliography",
+                "sections": [
+                "Theory", 
+ 							 "NE Bibliography", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

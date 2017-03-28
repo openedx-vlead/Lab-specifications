@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98552",
+                "name": "Specific Gravity Experiment",
+                "overview": "This experiment deals with Specific Gravity Experiment",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

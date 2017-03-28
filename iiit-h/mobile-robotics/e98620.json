@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98620",
+                "name": "Forward kinematics",
+                "overview": "This experiment deals with Forward kinematics",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "PROCEDURE", 
+ 							 "EXPERIMENT", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

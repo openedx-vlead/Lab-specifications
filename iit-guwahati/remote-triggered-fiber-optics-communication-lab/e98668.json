@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98668",
+                "name": "Measurement Of Numerical Aperture",
+                "overview": "This experiment deals with Measurement Of Numerical Aperture",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Set up", 
+ 							 "Experiment", 
+ 							 "Animation", 
+ 							 "Quiz", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -4,7 +4,10 @@
                 "name": "Varactor Tuner",
                 "overview": "This experiment deals with Varactor Tuner",
                 "sections": [
-                "Theory" 
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Live Experiment", 
+ 							 "Lab-Report" 
                 ]
               },
               "content-type": "org"

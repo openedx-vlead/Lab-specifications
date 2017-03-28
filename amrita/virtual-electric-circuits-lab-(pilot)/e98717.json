@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98717",
+                "name": "Series RC Circuits",
+                "overview": "This experiment deals with Series RC Circuits",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

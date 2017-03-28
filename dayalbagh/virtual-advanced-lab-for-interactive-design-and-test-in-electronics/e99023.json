@@ -1,14 +1,15 @@
 {
               "experiment": {
                 "id": "e99023",
-                "name": "*Logarithmic Amplifier",
-                "overview": "This experiment deals with *Logarithmic Amplifier",
+                "name": "Logarithmic Amplifier",
+                "overview": "This experiment deals with Logarithmic Amplifier",
                 "sections": [
                 "Theory", 
  							 "Procedure", 
  							 "Live Experiment", 
  							 "Case Study", 
- 							 "Lab-Report" 
+ 							 "Lab-Report", 
+ 							 "Videos Tutorial" 
                 ]
               },
               "content-type": "org"

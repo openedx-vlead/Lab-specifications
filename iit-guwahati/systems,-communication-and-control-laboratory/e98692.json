@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98692",
+                "name": "Simple Inverted Pendulum System",
+                "overview": "This experiment deals with Simple Inverted Pendulum System",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "QUIZ", 
+ 							 "Slot Booking Procedure", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

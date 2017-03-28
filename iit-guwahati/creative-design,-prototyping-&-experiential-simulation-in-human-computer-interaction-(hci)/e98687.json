@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98687",
+                "name": "Weber's Law",
+                "overview": "This experiment deals with Weber's Law",
+                "sections": [
+                "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

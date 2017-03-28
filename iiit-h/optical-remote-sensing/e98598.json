@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98598",
+                "name": "EM Spectrum",
+                "overview": "This experiment deals with EM Spectrum",
+                "sections": [
+                "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "MANUAL", 
+ 							 "EXPERIMENT", 
+ 							 "QUIZZES", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

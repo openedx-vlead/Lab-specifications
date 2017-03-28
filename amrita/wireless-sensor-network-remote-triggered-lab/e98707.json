@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98707",
+                "name": "Sensor Data Acquisition",
+                "overview": "This experiment deals with Sensor Data Acquisition",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Simulator", 
+ 							 "Remote Panel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98569",
+                "name": "Magnetostatic Fields",
+                "overview": "This experiment deals with Magnetostatic Fields",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Video Tutorial", 
+ 							 "Procedure", 
+ 							 "Virtual Experiment", 
+ 							 "Theory", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

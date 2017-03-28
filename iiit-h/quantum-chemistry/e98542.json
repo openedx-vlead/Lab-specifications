@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98542",
+                "name": "Geometry Optimization using ab initio quantum calcuations",
+                "overview": "This experiment deals with Geometry Optimization using ab initio quantum calcuations",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

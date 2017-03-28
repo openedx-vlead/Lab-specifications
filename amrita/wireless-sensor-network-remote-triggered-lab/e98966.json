@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98966",
+                "name": "Wireless Sensor Network",
+                "overview": "This experiment deals with Wireless Sensor Network",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Remote panel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98698",
+                "name": "Amplitude Modulation (Simulation experiment)",
+                "overview": "This experiment deals with Amplitude Modulation (Simulation experiment)",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Experiment", 
+ 							 "Slot Booking Procedure", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

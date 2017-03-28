@@ -1,0 +1,20 @@
+{
+              "experiment": {
+                "id": "e98656",
+                "name": "Sampling Frequency and Bit Resolution for Speech Signal Processing",
+                "overview": "This experiment deals with Sampling Frequency and Bit Resolution for Speech Signal Processing",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Pre Quiz", 
+ 							 "Simulation", 
+ 							 "Post quiz", 
+ 							 "Assignment", 
+ 							 "Slot Booking", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

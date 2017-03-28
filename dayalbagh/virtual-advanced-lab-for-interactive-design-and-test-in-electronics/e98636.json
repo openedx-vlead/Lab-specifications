@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98636",
+                "name": "Half-Wave Rectification",
+                "overview": "This experiment deals with Half-Wave Rectification",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Live Experiment", 
+ 							 "Case Study", 
+ 							 "Lab-Report", 
+ 							 "Videos Tutorial" 
+                ]
+              },
+              "content-type": "org"
+            }

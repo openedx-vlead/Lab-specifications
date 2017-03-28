@@ -1,0 +1,29 @@
+{ 
+              "lab": { 
+                "id": "Computer sciences",
+                "name": "wireless sensor network remote triggered lab",
+                "overview": "This lab deals with wireless sensor network remote triggered lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98712", 
+ 							 "e98711", 
+ 							 "e98710", 
+ 							 "e98709", 
+ 							 "e98708", 
+ 							 "e98707", 
+ 							 "e98706", 
+ 							 "e98705", 
+ 							 "e98966", 
+ 							 "e98704", 
+ 							 "e98703", 
+ 							 "e98702" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

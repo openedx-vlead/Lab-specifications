@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98718",
+                "name": "Kirchhoff’s Laws",
+                "overview": "This experiment deals with Kirchhoff’s Laws",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "Computer Science and Engineering",
+                "name": "fpga-and-embedded-system-lab",
+                "overview": "This lab deals with fpga-and-embedded-system-lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98646", 
+ 							 "e98645", 
+ 							 "e98644", 
+ 							 "e98643", 
+ 							 "e98642", 
+ 							 "e98641", 
+ 							 "e98640", 
+ 							 "e98639", 
+ 							 "e98638", 
+ 							 "e98637" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

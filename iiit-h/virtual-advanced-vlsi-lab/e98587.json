@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98587",
+                "name": "Array Multiplier",
+                "overview": "This experiment deals with Array Multiplier",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

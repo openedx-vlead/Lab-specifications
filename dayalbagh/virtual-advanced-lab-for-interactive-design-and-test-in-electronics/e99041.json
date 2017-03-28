@@ -1,21 +1,15 @@
 {
               "experiment": {
                 "id": "e99041",
-                "name": "*Full-Wave Rectification",
-                "overview": "This experiment deals with *Full-Wave Rectification",
+                "name": "Full-Wave Rectification",
+                "overview": "This experiment deals with Full-Wave Rectification",
                 "sections": [
-                "Introduction", 
- 							 "Theory", 
- 							 "Objective", 
- 							 "Procedure", 
- 							 "Simulator", 
- 							 "Reference", 
- 							 "Theory", 
+                "Theory", 
  							 "Procedure", 
  							 "Live Experiment", 
  							 "Case Study", 
  							 "Lab-Report", 
- 							 "Videos Tutoria" 
+ 							 "Videos Tutorial" 
                 ]
               },
               "content-type": "org"

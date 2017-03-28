@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98647",
+                "name": "Voice Activity Detection In Speech",
+                "overview": "This experiment deals with Voice Activity Detection In Speech",
+                "sections": [
+                "Aim", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Pre Quiz", 
+ 							 "Simulator", 
+ 							 "Post Quiz", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

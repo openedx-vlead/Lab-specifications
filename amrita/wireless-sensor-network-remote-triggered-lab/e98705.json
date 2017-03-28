@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98705",
+                "name": "Wireless Propagation",
+                "overview": "This experiment deals with Wireless Propagation",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Animation", 
+ 							 "Remote Panel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

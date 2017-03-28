@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98595",
+                "name": "Data quantization levels and object extraction effects of Radiometric characteristics of the sensor",
+                "overview": "This experiment deals with Data quantization levels and object extraction effects of Radiometric characteristics of the sensor",
+                "sections": [
+                "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "MANUAL", 
+ 							 "EXPERIMENT", 
+ 							 "QUIZZES", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

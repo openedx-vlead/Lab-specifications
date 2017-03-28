@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98604",
+                "name": "File Content",
+                "overview": "This experiment deals with File Content",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Tasks", 
+ 							 "Quiz", 
+ 							 "Further Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

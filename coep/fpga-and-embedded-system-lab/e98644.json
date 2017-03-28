@@ -1,0 +1,20 @@
+{
+              "experiment": {
+                "id": "e98644",
+                "name": "Fixed Point Arithmetic Operations and Logical Operators",
+                "overview": "This experiment deals with Fixed Point Arithmetic Operations and Logical Operators",
+                "sections": [
+                "Aim", 
+ 							 "Pre Test", 
+ 							 "Theory", 
+ 							 "Procedure and Demo", 
+ 							 "Simulation", 
+ 							 "Post Test", 
+ 							 "Assignment", 
+ 							 "References", 
+ 							 "People", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

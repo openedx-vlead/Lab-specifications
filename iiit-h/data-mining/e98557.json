@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98557",
+                "name": "kNN (A nearest neighbour based classification algorithm)",
+                "overview": "This experiment deals with kNN (A nearest neighbour based classification algorithm)",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "ASSIGMENT", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READING" 
+                ]
+              },
+              "content-type": "org"
+            }

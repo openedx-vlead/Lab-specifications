@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98561",
+                "name": "Comparison of Association Rule Mining Algorithms",
+                "overview": "This experiment deals with Comparison of Association Rule Mining Algorithms",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "ASSIGMENT", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READING" 
+                ]
+              },
+              "content-type": "org"
+            }

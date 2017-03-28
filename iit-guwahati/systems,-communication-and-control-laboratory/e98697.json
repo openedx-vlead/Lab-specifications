@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98697",
+                "name": "BPSK Modulation and Demodulation(Simulation experiment)",
+                "overview": "This experiment deals with BPSK Modulation and Demodulation(Simulation experiment)",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Experiment", 
+ 							 "Videos", 
+ 							 "Slot Booking Procedure", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

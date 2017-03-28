@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98696",
+                "name": "Frequency Modulation(Simulation experiment)",
+                "overview": "This experiment deals with Frequency Modulation(Simulation experiment)",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Experiment", 
+ 							 "Quiz", 
+ 							 "Slot Booking Procedure", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98538",
+                "name": "Transition State Calculation for a SN2 reaction",
+                "overview": "This experiment deals with Transition State Calculation for a SN2 reaction",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

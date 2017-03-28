@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98559",
+                "name": "Agglomerative Clustering (A hierachial clustering algorithm)",
+                "overview": "This experiment deals with Agglomerative Clustering (A hierachial clustering algorithm)",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "ASSIGMENT", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READING" 
+                ]
+              },
+              "content-type": "org"
+            }

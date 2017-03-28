@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98614",
+                "name": "Programming with Inductive Data",
+                "overview": "This experiment deals with Programming with Inductive Data",
+                "sections": [
+                "Prerequisites for the Experiment", 
+ 							 "Learning Objective of the Experiment", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

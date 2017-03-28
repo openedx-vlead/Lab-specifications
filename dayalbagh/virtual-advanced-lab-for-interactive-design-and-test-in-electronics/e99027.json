@@ -1,8 +1,8 @@
 {
               "experiment": {
                 "id": "e99027",
-                "name": "*Non-Inverting Amplifier",
-                "overview": "This experiment deals with *Non-Inverting Amplifier",
+                "name": "Non-Inverting Amplifier",
+                "overview": "This experiment deals with Non-Inverting Amplifier",
                 "sections": [
                 "Theory", 
  							 "Procedure", 

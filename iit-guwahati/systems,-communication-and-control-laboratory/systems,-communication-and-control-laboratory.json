@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "Electronics and Communications",
+                "name": "systems, communication and control laboratory",
+                "overview": "This lab deals with systems, communication and control laboratory",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98698", 
+ 							 "e98697", 
+ 							 "e98696", 
+ 							 "e98695", 
+ 							 "e98694", 
+ 							 "e98693", 
+ 							 "e98692", 
+ 							 "e98691", 
+ 							 "e98690", 
+ 							 "e98689" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98676",
+                "name": "Prototyping of TV Remote Control Panel",
+                "overview": "This experiment deals with Prototyping of TV Remote Control Panel",
+                "sections": [
+                "Theory", 
+ 							 "Design Guidelines", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Assignment", 
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

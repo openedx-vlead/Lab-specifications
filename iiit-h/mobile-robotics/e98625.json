@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98625",
+                "name": "Sensor Modelling",
+                "overview": "This experiment deals with Sensor Modelling",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "PROCEDURE", 
+ 							 "EXPERIMENT", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

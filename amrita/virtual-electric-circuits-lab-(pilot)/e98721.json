@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98721",
+                "name": "Series RL Circuits",
+                "overview": "This experiment deals with Series RL Circuits",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

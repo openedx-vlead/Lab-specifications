@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e99978",
+                "name": "Black Body Radiation",
+                "overview": "This experiment deals with Black Body Radiation",
+                "sections": [
+                "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "MANUAL", 
+ 							 "EXPERIMENT", 
+ 							 "QUIZZES", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

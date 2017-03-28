@@ -1,0 +1,20 @@
+{
+              "experiment": {
+                "id": "e98641",
+                "name": "Linear Matrix Algebra",
+                "overview": "This experiment deals with Linear Matrix Algebra",
+                "sections": [
+                "Aim", 
+ 							 "Pre Test", 
+ 							 "Theory", 
+ 							 "Procedure and Demo", 
+ 							 "Simulation", 
+ 							 "Post Test", 
+ 							 "Assignment", 
+ 							 "References", 
+ 							 "People", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e99058",
+                "name": "Centrifugal Pump",
+                "overview": "This experiment deals with Centrifugal Pump",
+                "sections": [
+                "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SELF EVALUATION", 
+ 							 "SIMULATOR", 
+ 							 "ASSIGNMENT", 
+ 							 "QUIZ", 
+ 							 "VIDEOS", 
+ 							 "REFERENCES", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

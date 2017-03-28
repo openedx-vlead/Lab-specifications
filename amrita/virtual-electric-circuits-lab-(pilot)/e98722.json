@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98722",
+                "name": "Thevenin’s Theorem",
+                "overview": "This experiment deals with Thevenin’s Theorem",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98628",
+                "name": "To study the thermal stability of proteins.",
+                "overview": "This experiment deals with To study the thermal stability of proteins.",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98573",
+                "name": "Electrostatic Fields I",
+                "overview": "This experiment deals with Electrostatic Fields I",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Video Tutorial", 
+ 							 "Procedure", 
+ 							 "Virtual Experiment", 
+ 							 "Theory", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

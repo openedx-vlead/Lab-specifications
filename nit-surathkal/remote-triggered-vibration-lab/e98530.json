@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98530",
+                "name": "Reconfigurable cantilever beam",
+                "overview": "This experiment deals with Reconfigurable cantilever beam",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Remote Trigger", 
+ 							 "Assignments", 
+ 							 "Reference", 
+ 							 "Video", 
+ 							 "Quiz" 
+                ]
+              },
+              "content-type": "org"
+            }

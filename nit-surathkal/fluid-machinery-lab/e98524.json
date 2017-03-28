@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98524",
+                "name": "Francis Turbine Constant Speed",
+                "overview": "This experiment deals with Francis Turbine Constant Speed",
+                "sections": [
+                "THEORY", 
+ 							 "PROCEDURE", 
+ 							 "SELF EVALUATION", 
+ 							 "SIMULATOR", 
+ 							 "ASSIGNMENT", 
+ 							 "QUIZ", 
+ 							 "VIDEOS", 
+ 							 "REFERENCES", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

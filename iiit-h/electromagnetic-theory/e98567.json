@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98567",
+                "name": "Wave Propagation",
+                "overview": "This experiment deals with Wave Propagation",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Video Tutorial", 
+ 							 "Procedure", 
+ 							 "Virtual Experiment", 
+ 							 "Theory", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

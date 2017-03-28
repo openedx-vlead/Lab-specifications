@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98667",
+                "name": "Study Of LED and Detector Characteristics",
+                "overview": "This experiment deals with Study Of LED and Detector Characteristics",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Set up", 
+ 							 "Procedure", 
+ 							 "Experiment", 
+ 							 "Animation", 
+ 							 "WebCam", 
+ 							 "Quiz", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

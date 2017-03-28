@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "nan",
+                "name": "remote triggered vibration lab",
+                "overview": "This lab deals with remote triggered vibration lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98535", 
+ 							 "e98534", 
+ 							 "e98533", 
+ 							 "e98532", 
+ 							 "e98531", 
+ 							 "e98530", 
+ 							 "e98529", 
+ 							 "e98528", 
+ 							 "e98527", 
+ 							 "e98526" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

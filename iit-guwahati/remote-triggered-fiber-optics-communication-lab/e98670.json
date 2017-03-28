@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98670",
+                "name": "Wavelength Division Multiplexing",
+                "overview": "This experiment deals with Wavelength Division Multiplexing",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Experiment", 
+ 							 "Animation", 
+ 							 "Quiz", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

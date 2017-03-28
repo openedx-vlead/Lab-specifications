@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98634",
+                "name": "To understand the effect of chiral substances on plane polarized light as a function of wavelength.",
+                "overview": "This experiment deals with To understand the effect of chiral substances on plane polarized light as a function of wavelength.",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

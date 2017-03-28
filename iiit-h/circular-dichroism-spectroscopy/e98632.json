@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98632",
+                "name": "To study the Circular Dichroism of some substances with chiral chromophores.",
+                "overview": "This experiment deals with To study the Circular Dichroism of some substances with chiral chromophores.",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

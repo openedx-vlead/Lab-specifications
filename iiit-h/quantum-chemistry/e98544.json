@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98544",
+                "name": "UV-Visible Spectroscopy of Conjugated Molecules",
+                "overview": "This experiment deals with UV-Visible Spectroscopy of Conjugated Molecules",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

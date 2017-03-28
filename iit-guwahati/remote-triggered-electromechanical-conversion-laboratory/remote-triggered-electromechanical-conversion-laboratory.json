@@ -1,0 +1,20 @@
+{ 
+              "lab": { 
+                "id": "Electrical Engg",
+                "name": "remote triggered electromechanical conversion laboratory",
+                "overview": "This lab deals with remote triggered electromechanical conversion laboratory",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98701", 
+ 							 "e98700", 
+ 							 "e98699" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

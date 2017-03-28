@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98578",
+                "name": "Boyce Codd Normal Form",
+                "overview": "This experiment deals with Boyce Codd Normal Form",
+                "sections": [
+                "Introduction", 
+ 							 "Theory/Procedure", 
+ 							 "Simulation", 
+ 							 "Quiz", 
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

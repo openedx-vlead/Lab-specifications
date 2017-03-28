@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98568",
+                "name": "Application of Faraday's Laws",
+                "overview": "This experiment deals with Application of Faraday's Laws",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Video Tutorial", 
+ 							 "Procedure", 
+ 							 "Virtual Experiment", 
+ 							 "Theory", 
+ 							 "Quiz", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

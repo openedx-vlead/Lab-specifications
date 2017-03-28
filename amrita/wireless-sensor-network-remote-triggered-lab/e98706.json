@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98706",
+                "name": "Data Collection Frequency and Tx. vs. Power Consumption",
+                "overview": "This experiment deals with Data Collection Frequency and Tx. vs. Power Consumption",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "RemotePanel", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

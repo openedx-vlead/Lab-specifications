@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98690",
+                "name": "Control of Inverted Pendulum System (Real Time)",
+                "overview": "This experiment deals with Control of Inverted Pendulum System (Real Time)",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Experiment", 
+ 							 "Webcam", 
+ 							 "Slot Booking Procedure", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

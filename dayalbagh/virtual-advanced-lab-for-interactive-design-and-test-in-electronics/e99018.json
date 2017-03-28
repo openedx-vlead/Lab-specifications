@@ -1,8 +1,8 @@
 {
               "experiment": {
                 "id": "e99018",
-                "name": "*RC-Integrator",
-                "overview": "This experiment deals with *RC-Integrator",
+                "name": "RC-Integrator",
+                "overview": "This experiment deals with RC-Integrator",
                 "sections": [
                 "Theory", 
  							 "Procedure", 

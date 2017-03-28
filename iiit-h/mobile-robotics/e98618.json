@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98618",
+                "name": "RRT based path planning",
+                "overview": "This experiment deals with RRT based path planning",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "PROCEDURE", 
+ 							 "EXPERIMENT", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

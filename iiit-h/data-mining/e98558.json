@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98558",
+                "name": "DBSCAN (A density-based clustering algorithm)",
+                "overview": "This experiment deals with DBSCAN (A density-based clustering algorithm)",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "ASSIGMENT", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READING" 
+                ]
+              },
+              "content-type": "org"
+            }

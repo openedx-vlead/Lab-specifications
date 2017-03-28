@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98599",
+                "name": "Basic Networking",
+                "overview": "This experiment deals with Basic Networking",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Tasks", 
+ 							 "Quiz", 
+ 							 "Further Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

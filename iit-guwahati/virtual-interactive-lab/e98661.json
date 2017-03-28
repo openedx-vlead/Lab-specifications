@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98661",
+                "name": "The Advertisements Archive",
+                "overview": "This experiment deals with The Advertisements Archive",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Advertisements", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98607",
+                "name": "Language with Objects",
+                "overview": "This experiment deals with Language with Objects",
+                "sections": [
+                "Prerequisites for the Experiment", 
+ 							 "Learning Objective of the Experiment", 
+ 							 "Theory", 
+ 							 "Procedure", 
+ 							 "Exercises", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

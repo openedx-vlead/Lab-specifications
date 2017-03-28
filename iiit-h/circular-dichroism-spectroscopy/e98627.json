@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98627",
+                "name": "To study the effect of chemical denaturants on protein stability.",
+                "overview": "This experiment deals with To study the effect of chemical denaturants on protein stability.",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

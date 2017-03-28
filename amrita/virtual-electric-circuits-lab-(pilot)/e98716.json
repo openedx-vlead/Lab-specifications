@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98716",
+                "name": "Series LC Circuits",
+                "overview": "This experiment deals with Series LC Circuits",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98683",
+                "name": "Hick Hyman's Law",
+                "overview": "This experiment deals with Hick Hyman's Law",
+                "sections": [
+                "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98550",
+                "name": "Attenberg Limits Experiment",
+                "overview": "This experiment deals with Attenberg Limits Experiment",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

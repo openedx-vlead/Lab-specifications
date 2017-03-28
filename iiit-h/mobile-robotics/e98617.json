@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98617",
+                "name": "Exploration",
+                "overview": "This experiment deals with Exploration",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "PROCEDURE", 
+ 							 "EXPERIMENT", 
+ 							 "QUIZZES", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }

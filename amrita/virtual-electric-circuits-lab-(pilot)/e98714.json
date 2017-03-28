@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98714",
+                "name": "Parallel RL Circuits",
+                "overview": "This experiment deals with Parallel RL Circuits",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

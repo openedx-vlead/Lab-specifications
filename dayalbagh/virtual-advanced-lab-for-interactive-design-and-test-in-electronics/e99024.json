@@ -1,8 +1,8 @@
 {
               "experiment": {
                 "id": "e99024",
-                "name": "*Halfwave Rectifier",
-                "overview": "This experiment deals with *Halfwave Rectifier",
+                "name": "Halfwave Rectifier",
+                "overview": "This experiment deals with Halfwave Rectifier",
                 "sections": [
                 "Theory", 
  							 "Procedure", 

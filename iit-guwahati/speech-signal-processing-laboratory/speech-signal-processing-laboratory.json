@@ -1,0 +1,28 @@
+{ 
+              "lab": { 
+                "id": "Electronics and Communications",
+                "name": "speech signal processing laboratory",
+                "overview": "This lab deals with speech signal processing laboratory",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98657", 
+ 							 "e98656", 
+ 							 "e98655", 
+ 							 "e98654", 
+ 							 "e98653", 
+ 							 "e98652", 
+ 							 "e98651", 
+ 							 "e98650", 
+ 							 "e98649", 
+ 							 "e98648", 
+ 							 "e98647" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

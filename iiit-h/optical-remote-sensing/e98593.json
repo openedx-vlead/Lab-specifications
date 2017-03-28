@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98593",
+                "name": "Band Algebra - Index based Analysis",
+                "overview": "This experiment deals with Band Algebra - Index based Analysis",
+                "sections": [
+                "OBJECTIVE", 
+ 							 "THEORY", 
+ 							 "MANUAL", 
+ 							 "EXPERIMENT", 
+ 							 "QUIZZES", 
+ 							 "FEEDBACK" 
+                ]
+              },
+              "content-type": "org"
+            }

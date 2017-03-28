@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98606",
+                "name": "File Management",
+                "overview": "This experiment deals with File Management",
+                "sections": [
+                "Introduction", 
+ 							 "Objective", 
+ 							 "Theory", 
+ 							 "Tasks", 
+ 							 "Quiz", 
+ 							 "Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

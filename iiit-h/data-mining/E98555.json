@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98555",
+                "name": "Comparison of Classification algorithms",
+                "overview": "This experiment deals with Comparison of Classification algorithms",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "ASSIGMENT", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READING" 
+                ]
+              },
+              "content-type": "org"
+            }

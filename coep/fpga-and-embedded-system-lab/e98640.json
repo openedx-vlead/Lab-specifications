@@ -1,0 +1,20 @@
+{
+              "experiment": {
+                "id": "e98640",
+                "name": "Linear Equation Solver",
+                "overview": "This experiment deals with Linear Equation Solver",
+                "sections": [
+                "Aim", 
+ 							 "Pre Test", 
+ 							 "Theory", 
+ 							 "Procedure and Demo", 
+ 							 "Simulation", 
+ 							 "Post Test", 
+ 							 "Assignment", 
+ 							 "References", 
+ 							 "People", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

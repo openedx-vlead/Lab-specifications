@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98688",
+                "name": "Serial Position Effect",
+                "overview": "This experiment deals with Serial Position Effect",
+                "sections": [
+                "Theory", 
+ 							 "Objective", 
+ 							 "Procedure", 
+ 							 "Simulator", 
+ 							 "Quiz", 
+ 							 "Assignment", 
+ 							 "Reference", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

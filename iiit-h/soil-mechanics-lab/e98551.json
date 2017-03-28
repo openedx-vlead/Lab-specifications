@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98551",
+                "name": "Grain Size Distribution Experiment",
+                "overview": "This experiment deals with Grain Size Distribution Experiment",
+                "sections": [
+                "INTRODUCTION", 
+ 							 "THEORY", 
+ 							 "OBJECTIVE", 
+ 							 "EXPERIMENT", 
+ 							 "MANUAL", 
+ 							 "QUIZZES", 
+ 							 "PROCEDURE", 
+ 							 "FURTHER READINGS" 
+                ]
+              },
+              "content-type": "org"
+            }
