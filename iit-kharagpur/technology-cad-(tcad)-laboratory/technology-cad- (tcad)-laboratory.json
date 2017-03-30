@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "vls02",
+                "name": "technology cad (tcad) laboratory",
+                "overview": "This lab deals with tcad technology",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98488", 
+ 							 "e98487", 
+ 							 "e98486", 
+ 							 "e98485", 
+ 							 "e98484", 
+ 							 "e98483", 
+ 							 "e98482", 
+ 							 "e98481", 
+ 							 "e98480", 
+ 							 "e98479" 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98487",
+                "name": "Extraction of diode SPICE parameters related to Capacitance-Voltage (C-V) characteristics",
+                "overview": "This experiment deals with extraction of diode SPICE parameters",
+                "sections": [
+                "Introduction", 
+ 							 "Aim",
+                                                         "Theory",
+                                                         "Procedure",
+ 							 "Simulator", 
+                                                         "Quiz",
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }
