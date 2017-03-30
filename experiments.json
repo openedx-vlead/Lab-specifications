@@ -1531,14 +1531,14 @@
 	{"id": "E98509", "name": "Displacement Transducers"},
         {"id": "E98508", "name": "Pressure Measurement using Bourdon Tube"}, 
 	{"id": "E98507", "name": "Speed Measurement using Photoelectric and Magnetic pick-up"},    
-	{"id": "E98506", "name": "Data Acquisition"}
-	{"id": "E98505", "name": "Study of field pattern of various modes inside a rectangular waveguide"}
-	{"id": "E98504", "name": "Study of field pattern of various modes inside a rectangular waveguide cavity"}
+	{"id": "E98506", "name": "Data Acquisition"},
+	{"id": "E98505", "name": "Study of field pattern of various modes inside a rectangular waveguide"},
+	{"id": "E98504", "name": "Study of field pattern of various modes inside a rectangular waveguide cavity"},
 	{"id": "E98503", "name": "Measurement of the dielectric constant and loss tangent of materials in microwave frequency band using a rectangular waveguide cavity"}
 	{"id": "E98502", "name": "Observe the transient phenomenon of terminated coaxial transmission lines in order to study their time domain behaviour"}
-	{"id": "E98501", "name": "Study the behavior of terminated coaxial transmission lines in frequency domain"}
-	{"id": "E98500", "name": "Introduction to Smith chart and its application for the unknown impedance measurement"}
-	{"id": "E98499", "name": "Study the behavior of impedance matching for passive networks using Smith chart"}
+	{"id": "E98501", "name": "Study the behavior of terminated coaxial transmission lines in frequency domain"},
+	{"id": "E98500", "name": "Introduction to Smith chart and its application for the unknown impedance measurement"},
+	{"id": "E98499", "name": "Study the behavior of impedance matching for passive networks using Smith chart"},
 	{"id": "E98498", "name": "Concept of generalized n-port scattering parameters, and formulation of these parameters into 2-port reflection and transmission coefficients"}
 	{"id": "E98497", "name": "Find the change in characteristics impedance and reflection coefficients of the transmission line by changing the dielectric properties of materials embedded between two conductors"}
 	{"id": "E98496", "name": "Introduce the concept of ratio meter, and its significance for the scalar network analyzer"}
@@ -1548,6 +1548,16 @@
         {"id": "E98492", "name": "L-I and V-I Characteristics of fiber optic LEDs"}
         {"id": "E98491", "name": "Optical Spectral Characteristics of Laser Diodes"}
 	{"id": "E98490", "name": "Optical Spectral Characteristics of LEDs"}
-	{"id": "E98489", "name": "Digital Fiber Optic link for different data rates (trial stage)"}
+	{"id": "E98489", "name": "Digital Fiber Optic link for different data rates (trial stage)"},
+	{"id": "E98488", "name": "Extraction of diode SPICE parameters related to forward Current-Voltage (I-V) characteristics"},
+	{"id": "E98487", "name": "Extraction of diode SPICE parameters related to Capacitance-Voltage (C-V) characteristics"},
+	{"id": "E98486", "name": "Extraction of bipolar SPICE Gummel-Poon parameters related to forward Gummel (Ic and Ib vs. Vbe) characteristics"},
+	{"id": "E98485", "name": "Extraction of bipolar SPICE Gummel-Poon parameters related to reverse Gummel (Ie and Ib vs. Vbc) characteristics"},
+	{"id": "E98484", "name": "Extraction of bipolar SPICE Gummel-Poon parameters related to forward Output (Ic vs. Vc) characteristics"},
+	{"id": "E98483", "name": "Extraction of bipolar SPICE Gummel-Poon parameters related to B-C junction Capacitance-Voltage (C-V) characteristics"},
+	{"id": "E98482", "name": "Extraction of bipolar SPICE Gummel-Poon parameters related to B-E junction Capacitance-Voltage (C-V) characteristics"},
+	{"id": "E98481", "name": "Extraction of MOSFET LEVEL (1,2,3 and 6) SPICE parameters related to transfer (Id vs. Vg) characteristics"},
+	{"id": "E98480", "name": "Extraction of MOSFET LEVEL (1,2,3 and 6) SPICE parameters related to output (Id vs. Vd) characteristics"},
+	{"id": "E98479", "name": "Extraction of MOSFET LEVEL (1,2,3 and 6) SPICE parameters related to gate voltage Capacitance (Cg vs. Vg) characteristics"},
 ]}
 
