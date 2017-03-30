@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98474",
+                "name": "Demonstrate the extraction and qualitative and quantitative estimation of secondary metabolites",
+                "overview": "This experiment deals with Demonstrate the extraction and qualitative and quantitative estimation of secondary metabolites",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Self-evaluation",
+			"Simulator",
+			"Analysis ans Remote View", 
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

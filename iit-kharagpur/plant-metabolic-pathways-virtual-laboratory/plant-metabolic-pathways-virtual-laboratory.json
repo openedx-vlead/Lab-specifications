@@ -1,0 +1,22 @@
+{ 
+              "lab": { 
+                "id": "rtv05",
+                "name": "Plant Metabolic Pathways Virtual Laboratory",
+                "overview": "This lab deals with Plant Metabolic Pathways Virtual Laboratory",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+			"e98475", 
+ 			"e98474", 
+ 			"e98473", 
+ 			"e98472", 
+ 			"e98471" 
+ 		                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }
