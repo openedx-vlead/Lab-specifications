@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98475",
+                "name": "Study accumulation of secondary metabolites in plants",
+                "overview": "This experiment deals with Study accumulation of secondary metabolites in plants",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Self-evaluation",
+			"Simulator",
+			"Remote Trigger", 
+			"Reference",
+			"Pathway"
+                ]
+              },
+              "content-type": "org"
+            }
