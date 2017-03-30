@@ -1559,5 +1559,9 @@
 	{"id": "E98481", "name": "Extraction of MOSFET LEVEL (1,2,3 and 6) SPICE parameters related to transfer (Id vs. Vg) characteristics"},
 	{"id": "E98480", "name": "Extraction of MOSFET LEVEL (1,2,3 and 6) SPICE parameters related to output (Id vs. Vd) characteristics"},
 	{"id": "E98479", "name": "Extraction of MOSFET LEVEL (1,2,3 and 6) SPICE parameters related to gate voltage Capacitance (Cg vs. Vg) characteristics"},
+	{"id": "E98478", "name": "Introduction to Tensile Testing: Analysis of Stress-Strain Curves"}
+	{"id": "E98477", "name": "The Yield Point Phenomenon"}
+	{"id": "E98476", "name": "Determination of Weibull Modulus of Brittle Materials"}
+	
 ]}
 
