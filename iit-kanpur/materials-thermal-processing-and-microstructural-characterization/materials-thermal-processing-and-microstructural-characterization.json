@@ -1,0 +1,15 @@
+{"lab": {
+  "id":  "mat-sc01",
+  "name": "Thermal Processing and Microstructural Characterization",
+  "overview": "This lab deals with Thermal Processing and Microstructural Characterization",
+  "sections": [ 
+    {"name": "Introduction" }, 
+    {
+      "experiments" : ["E98478", 
+ 		       "E98477", 
+ 		       "E98476" 
+                      ]
+    }
+  ]
+}
+}

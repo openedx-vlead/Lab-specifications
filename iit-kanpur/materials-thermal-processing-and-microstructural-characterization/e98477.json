@@ -1,0 +1,14 @@
+{"experiment": {"id":  "E98477",
+                "name": "The Yield Point Phenomenon",
+                "overview": "This Experiment deals with The Yield Point Phenomenon",
+                "sections" : ["Objective",
+                              "Theory",
+                              "Methodology",
+                              "Results",
+                              "Discussion and Conclusions",
+                              "Questions"
+                             ],
+ "content-type": "org"                
+
+                  }
+}
