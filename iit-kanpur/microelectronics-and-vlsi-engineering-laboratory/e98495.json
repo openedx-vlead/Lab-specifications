@@ -1,0 +1,13 @@
+{
+  "experiment": {
+    "id":  "E98495",
+    "name": "MOS Capacitor",
+    "overview": "This experiment deals with MOS Capacitor",        
+    "sections" : ["Introduction",
+ 		  "Theory", 
+ 		  "Feedback"
+                 ]
+                
+  },
+ "content-type": "org"
+}
