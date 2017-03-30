@@ -1542,5 +1542,8 @@
 	{"id": "E98498", "name": "Concept of generalized n-port scattering parameters, and formulation of these parameters into 2-port reflection and transmission coefficients"}
 	{"id": "E98497", "name": "Find the change in characteristics impedance and reflection coefficients of the transmission line by changing the dielectric properties of materials embedded between two conductors"}
 	{"id": "E98496", "name": "Introduce the concept of ratio meter, and its significance for the scalar network analyzer"}
+	{"id": "E98495", "name": "MOS Capacitor"}
+	{"id": "E98494", "name": "BJT Characterization (Gummel Plot)"}
+	{"id": "E98493", "name": "Output Characteristics of a NPN Transistor"}
 ]}
 
