@@ -1,0 +1,19 @@
+{
+  "experiment": {
+    "id":  "E98503",
+    "name": "Measurement of the dielectric constant and loss tangent of materials in microwave frequency band using a rectangular waveguide cavity",
+    "overview": "This experiment deals with measurement of the dielectric constant and loss tangent of materials in microwave frequency band using a rectangular waveguide cavity",        
+    "sections" : ["Aim",
+                  "About",
+ 		  "Theory", 
+ 		  "Procedure",
+                  "Quiz",
+                  "Tutorial",
+                  "Experiment Manual",
+                  "References",
+                  "Requirement",
+                  "Live support"
+                 ]
+  },
+ "content-type": "org"
+}

@@ -1,0 +1,19 @@
+{
+  "experiment": {
+    "id":  "E98502",
+    "name": "Observe the transient phenomenon of terminated coaxial transmission lines in order to study their time domain behavior",
+    "overview": "This experiment deals with Observe the transient phenomenon of terminated coaxial transmission lines in order to study their time domain behavior",        
+    "sections" : ["Aim",
+                  "About",
+ 		  "Theory", 
+ 		  "Procedure",
+                  "Quiz",
+                  "Tutorial",
+                  "Experiment Manual",
+                  "References",
+                  "Requirement",
+                  "Live support"
+                 ]
+  },
+ "content-type": "org"
+}

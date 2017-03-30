@@ -1,0 +1,19 @@
+{
+  "experiment": {
+    "id":  "E98498",
+    "name": "Concept of generalized n-port scattering parameters, and formulation of these parameters into 2-port reflection and transmission coefficients",
+    "overview": "This experiment deals with Concept of generalized n-port scattering parameters, and formulation of these parameters into 2-port reflection and transmission coefficients",        
+    "sections" : ["Aim",
+                  "About",
+ 		  "Theory", 
+ 		  "Procedure",
+                  "Quiz",
+                  "Tutorial",
+                  "Experiment Manual",
+                  "References",
+                  "Requirement",
+                  "Live support"
+                 ]
+  },
+ "content-type": "org"
+}

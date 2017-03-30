@@ -1,0 +1,19 @@
+{
+  "experiment": {
+    "id":  "E98501",
+    "name": "Study the behaviour of terminated coaxial transmission line in frequency domain",
+    "overview": "This experiment deals with Study the behaviour of terminated coaxial transmission line in frequency domain",        
+    "sections" : ["Aim",
+                  "About",
+ 		  "Theory", 
+ 		  "Procedure",
+                  "Quiz",
+                  "Tutorial",
+                  "Experiment Manual",
+                  "References",
+                  "Requirement",
+                  "Live support"
+                 ]
+  },
+ "content-type": "org"
+}

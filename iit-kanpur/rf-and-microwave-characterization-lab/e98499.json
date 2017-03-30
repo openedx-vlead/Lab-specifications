@@ -1,0 +1,19 @@
+{
+  "experiment": {
+    "id":  "E98499",
+    "name": "Study the behavior of impedance matching for passive networks using Smith chart",
+    "overview": "This experiment deals with Study the behavior of impedance matching for passive networks using Smith chart",        
+    "sections" : ["Aim",
+                  "About",
+ 		  "Theory", 
+ 		  "Procedure",
+                  "Quiz",
+                  "Tutorial",
+                  "Experiment Manual",
+                  "References",
+                  "Requirement",
+                  "Live support"
+                 ]
+  },
+ "content-type": "org"
+}

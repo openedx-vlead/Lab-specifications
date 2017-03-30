@@ -1,0 +1,19 @@
+{"experiment": {
+  "id":  "E98489",
+  "name": "Digital Fiber Optic link for different data rates (trial stage)",
+  "overview": "This Experiment deals with Digital Fiber Optic link for different data rates (trial stage)",
+  "sections" : [
+    "Objective",
+    "Background",
+    "Circuit Diagram",
+    "Procedure",
+    "Precautions",
+    "Photo Gallery",
+    "Reference Books",
+    "Feedback"
+    
+  ],
+ "content-type": "org"                
+
+}
+}
