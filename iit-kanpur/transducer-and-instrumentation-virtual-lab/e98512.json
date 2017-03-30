@@ -1,0 +1,18 @@
+{"experiment": {
+  "id":  "E98512",
+  "name": "Rotameter",
+  "overview": "This experiment deals with Rotameter",                        
+  "sections" : [
+    "Aim",
+    "About",
+    "Theory", 
+    "Procedure",
+    "Quiz",
+    "Perform Experiment",
+    "Experiment Manual",
+    "Experiment Demo"
+  ]
+  
+},
+  "content-type": "org"
+}

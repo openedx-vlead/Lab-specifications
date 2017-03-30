@@ -1,0 +1,19 @@
+{"experiment": {
+  "id":  "E98513",
+  "name": "Lissajous Patterns",
+  "overview": "This experiment deals with Lissajous Patterns",                      
+  "sections" : [
+    "Aim",
+    "About",
+    "Theory", 
+    "Procedure",
+    "Quiz",
+    "Perform Experiment",
+    "Experiment Manual",
+    "Experiment Demo"
+  ]
+  
+},
+ "content-type": "org"
+}
+

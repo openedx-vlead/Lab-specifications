@@ -1,0 +1,19 @@
+{
+  "experiment": {
+    "id":  "E98510",
+    "name": "R-2R Ladder Network",
+    "overview": "This experiment deals with R-2R Ladder Network",                        
+    "sections" : [
+      "Aim",
+      "About",
+      "Theory", 
+      "Procedure",
+      "Quiz",
+      "Perform Experiment",
+      "Experiment Manual",
+      "Experiment Demo"
+    ]
+  
+  },
+  "content-type": "org"
+}

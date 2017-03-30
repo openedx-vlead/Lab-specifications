@@ -1,0 +1,18 @@
+{"experiment": {
+  "id":  "E98515",
+  "name": "Spectrum Analyzer",
+  "overview": "This experiment deals with Spectrum Analyzer",                    
+  "sections" : [
+    "Aim",
+    "About",
+    "Theory", 
+    "Procedure",
+    "Quiz",
+    "Perform Experiment",
+    "Experiment Manual",
+    "Experiment Demo"
+  ]
+  
+},
+ "content-type": "org"
+}

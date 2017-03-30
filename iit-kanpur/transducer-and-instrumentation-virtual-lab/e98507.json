@@ -1,0 +1,18 @@
+{
+  "experiment":{
+    "id":  "E98507",
+    "name": "Speed measurement",
+    "overview": "This experiment deals with Speed measurement",        
+    "sections" :[
+      "Aim",
+      "About",
+      "Theory", 
+      "Procedure",
+      "Quiz",
+      "Perform Experiment",
+      "Experiment Manual",
+      "Experiment Demo"
+    ],
+    "content-type": "org"    
+  }
+}

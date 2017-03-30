@@ -1,0 +1,19 @@
+{
+  "experiment": {
+    "id":  "E98509",
+    "name": "Displacement Transducers",
+    "overview": "This experiment deals with Displacement Transducers",        
+    "sections" : [
+      "Aim",
+      "About",
+      "Theory", 
+      "Procedure",
+      "Quiz",
+      "Perform Experiment",
+      "Experiment Manual",
+      "Experiment Demo"
+    ]
+
+  },
+  "content-type": "org"
+}

@@ -1,0 +1,18 @@
+{"experiment": {
+  "id":  "E98516",
+  "name": "Temperature Transducers",
+  "overview": "This experiment deals with Temperature Transducers",                    
+  "sections" : [
+    "Aim",
+    "About",
+    "Theory", 
+    "Procedure",
+    "Quiz",
+    "Perform Experiment",
+    "Experiment Manual",
+    "Experiment Demo"
+  ]
+  
+},
+ "content-type": "org"
+}

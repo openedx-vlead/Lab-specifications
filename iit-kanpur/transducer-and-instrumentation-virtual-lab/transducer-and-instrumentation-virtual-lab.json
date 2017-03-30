@@ -1,0 +1,23 @@
+{"lab": {"id":  "ece03",
+         "name": "Transducer and Instrumentation Virtual Lab",
+         "overview": "This lab deals with Transducer and Instrumentation Virtual Lab",
+         "sections": [ 
+           {"name": "Introduction" }, 
+           {
+             "experiments" : [
+               "e98516", 
+ 	       "e98515", 
+ 	       "e98514", 
+ 	       "e98513", 
+ 	       "e98512", 
+ 	       "e98511", 
+ 	       "e98510", 
+ 	       "e98509", 
+ 	       "e98508", 
+ 	       "e98507",
+               "e98506"
+                             ]
+           }
+         ]
+        }
+}

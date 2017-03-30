@@ -1,0 +1,17 @@
+{"experiment": {
+  "id":  "E98508",
+  "name": "Pressure measurement",
+  "overview": "This experiment deals with Pressure measurement",        
+  "sections" : [
+    "Aim",
+    "About",
+    "Theory", 
+    "Procedure",
+    "Quiz",
+    "Perform Experiment",
+    "Experiment Manual",
+    "Experiment Demo"
+  ] 
+},
+ "content-type": "org"
+}

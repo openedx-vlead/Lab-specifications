@@ -1,0 +1,17 @@
+{"experiment": {
+  "id":  "E98511",
+  "name": "Strain Gauge",
+  "overview": "This experiment deals with Strain Gauge",                        
+  "sections" : [
+    "Aim",
+    "About",
+    "Theory", 
+    "Procedure",
+    "Quiz",
+    "Perform Experiment",
+    "Experiment Manual",
+    "Experiment Demo"
+  ]
+},
+ "content-type": "org"
+}
