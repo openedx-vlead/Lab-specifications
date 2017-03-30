@@ -1,0 +1,14 @@
+{"experiment": {"id":  "E98476",
+                "name": "Determination of Weibull Modulus of Brittle Materials",
+                "overview": "This Experiment deals with Determination of Weibull Modulus of Brittle Materials",
+                "sections" : ["Objective",
+                              "Theory",
+                              "Methodology",
+                              "Results",
+                              "Discussion and Conclusions",
+                              "Questions"
+                             ],
+                
+ "content-type": "org"
+                  }
+}
