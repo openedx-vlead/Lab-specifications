@@ -1,0 +1,23 @@
+{"experiment": {
+  "id":  "E98492",
+  "name": "L-I and V-I Characteristics of fiber optic LEDs",
+  "overview": "This Experiment deals with L-I and V-I Characteristics of fiber optic LEDs",
+  "sections" : [
+    "Objective",
+    "Background",
+    "Equipments", 
+    "Components",
+    "Circuit Diagram",
+    "Description",
+    "Procedure",
+    "Precautions",
+    "Photo Gallery",
+    "Reference Books",
+    "Remote Experiment",
+    "Feedback"
+    
+  ],
+  "content-type": "org" 
+
+}
+}

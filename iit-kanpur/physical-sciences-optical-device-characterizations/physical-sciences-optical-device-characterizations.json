@@ -1,0 +1,17 @@
+{"lab": {
+  "id":  "phy-sc30",
+  "name": "Optical Device Characterizations",
+  "overview": "This lab deals with Optical Device Characterizations",
+  "sections": [ 
+    {"name": "Introduction" }, 
+    {
+      "experiments" : ["E98492", 
+ 		       "E98491", 
+ 		       "E98490", 
+ 		       "E98489"
+                      ]
+    }
+  ]
+}
+}
+
