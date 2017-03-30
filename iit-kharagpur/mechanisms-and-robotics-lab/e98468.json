@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98468",
+                "name": "Forward Kinematics of PUMA 560",
+                "overview": "This experiment deals with Forward Kinematics of PUMA 560",
+                "sections": [
+                "Theory", 
+ 							 "Introduction", 
+ 							 "Theory", 
+ 							 "Objective",  				
+ 							 "Procedure", 		
+ 							 "Simulation", 	
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }

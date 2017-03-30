@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98464",
+                "name": "A quick return mechanism",
+                "overview": "This experiment deals with a quick return mechanism",
+                "sections": [
+                "Theory", 
+ 							 "Introduction", 
+ 							 "Theory", 
+ 							 "Objective",  				
+ 							 "Procedure", 		
+ 							 "Simulation", 	
+ 							 "References" 
+                ]
+              },
+              "content-type": "org"
+            }
