@@ -1636,5 +1636,22 @@
 	{"id" : "E98404", "name": "Coupled Harmonic Oscillator"}
 	{"id" : "E98403", "name": "Nonlinear Oscillator"}
 	{"id" : "E98402", "name": "Nonlinear Damped Oscillator"}
+	{"id" : "E98401", "name": "Design and characterization of common source amplifier with Resistive load : Transfer Characteristics (Vin v/s Vout)"}
+	{"id" : "E98400", "name": "Design and characterization of common source amplifier with Resistive load : Frequency Response (Vin v/s Frequency)"}
+	{"id" : "E98399", "name": "Design and characterization of common source amplifier with Diode connected load : Transfer Characteristics (Vin v/s Vout)"}
+	{"id" : "E98398", "name": "Design and characterization of common source amplifier with Diode connected load : Frequency Response (Vin v/s Frequency)"}
+	{"id" : "E98397", "name": "Design and characterization of common source amplifier with Current source load : Transfer Characteristics (Vin v/s Vout)"}
+	{"id" : "E98396", "name": "Design and characterization of common source amplifier with Current source load : Frequency Response (Vin v/s Frequency)"}
+	{"id" : "E98395", "name": "Design and characterization of common gate amplifier : Transfer Characteristics (Vin v/s Vout)"}
+	{"id" : "E98394", "name": "Design and characterization of common gate amplifier : Frequency Response (Vin v/s Frequency)"}
+	{"id" : "E98393", "name": "Design and characterization of differential amplifier : Transfer Characteristics (Vin v/s Vout)"}
+	{"id" : "E98392", "name": "Design and characterization of differential amplifier : Frequency Response (Vin v/s Frequency)"}
+	{"id" : "E98391", "name": "Design and characterization of differential to single-ended circuit : Transfer Characteristics (Vin v/s Vout)"}
+	{"id" : "E98390", "name": "Design and characterization of differential to single-ended circuit : Frequency Response (Vin v/s Frequency)"}
+	{"id" : "E98389", "name": "Design and characterization of basic current mirror"}
+	{"id" : "E98388", "name": "Design and characterization of cascode current mirror"}
+	{"id" : "E98387", "name": "Design and characterization of voltage mode buffer : Transfer Characteristics (Vin v/s Vout)"}
+	{"id" : "E98386", "name": "Design and characterization of voltage mode buffer : Frequency Response (Vin v/s Frequency)"}
+	
 ]}
 
