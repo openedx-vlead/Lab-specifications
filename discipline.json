@@ -68,5 +68,10 @@
     "dis_id": "mat-sc",
     "id": 14,
     "dis_name": "Material Sciences"
+  },
+  {
+    "dis_id": "mm-engg",
+    "id": 15,
+    "dis_name": "Metallurgical and Materials Engineering"
   }
 ]
