@@ -1597,6 +1597,10 @@
 	{"id" : "E98443", "name" : "Automatic Gain Control Amplifier"}
 	{"id" : "E98442", "name" : "Clipper and Clampers circuits"}
 	{"id" : "E98441" , "name" : "Study of Rectangular Pulse Current Generator"}
+	{"id" : "E98440" , "name" : "Power frequency AC Test Source"}
+	{"id" : "E98439" , "name" : "Critical Flashover of a Sphere Gap using IVG "}
+	{"id" : "E98438" , "name" : "Application of High Voltage D.C.Test Source(Half Wave)"}
+	
 	
 ]}
 
