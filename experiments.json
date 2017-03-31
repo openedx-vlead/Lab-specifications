@@ -1626,5 +1626,15 @@
 	{"id" : "E98414" , "name" : "Studies on BJT CE Amplifier"}
 	{"id" : "E98413" , "name" : "RC Frequency Response"}
 	{"id" : "E98412" , "name" : "RC Differentiator and Integrator"}
+	{"id" : "E98411", "name": "Few important things to DO befor going to the experiments"}
+	{"id" : "E98410", "name": "Philosophy"}
+	{"id" : "E98409", "name": "Simple Harmonic Motion"}
+	{"id" : "E98408", "name": "Damped Harmonic Motion"}
+	{"id" : "E98407", "name": "LC Circuit"}
+	{"id" : "E98406", "name": "LCR Circuit"}
+	{"id" : "E98405", "name": "Resonance in LCR Circuit"}
+	{"id" : "E98404", "name": "Coupled Harmonic Oscillator"}
+	{"id" : "E98403", "name": "Nonlinear Oscillator"}
+	{"id" : "E98402", "name": "Nonlinear Damped Oscillator"}
 ]}
 
