@@ -1596,22 +1596,6 @@
 	{"id" : "E98444", "name" : "Astable Multivibrator by Using 555 Timer"}
 	{"id" : "E98443", "name" : "Automatic Gain Control Amplifier"}
 	{"id" : "E98442", "name" : "Clipper and Clampers circuits"}
-	{"id" : "E98441", "name" : "Rectifying and Breakdown Characteristics of pn-junctions and point contact diodes"}
-	{"id" : "E98440", "name" : "Diode Rectifiers: Full wave and Half wave (with and without filters)"}
-	{"id" : "E98439", "name" : "Silicon Controlled Rectifiers(SCR) characteristics"}
-	{"id" : "E98438", "name" : "Bipolar Junction Transistor: input and output characteristic (a)common base,(b) common collector, and (c)common emitter configuration"}
-	{"id" : "E98437", "name" : "CB, CE,CC transistors amplifier"}
-	{"id" : "E98436", "name" : "ID-VD characteristics of junction field effect transistors"}
-	{"id" : "E98435", "name" : "Unijunction Transistor(UJT) and relaxation oscillator"}
-	{"id" : "E98434", "name" : "Study of basic properties of operational amplifier: voltage follower, inverting and non-inverting amplifiers"}
-	{"id" : "E98433", "name" : "Differentiator, Integrator, Phase shift oscillator by using operational Amplifier"}
-	{"id" : "E98432", "name" : "Frequency response of RC-coupled amplifiers by using operational Amplifier"}
-	{"id" : "E98431", "name" : "Voltage variable Resistance"}
-	{"id" : "E98430", "name" : "Astable Multivibrator using BJT"}
-	{"id" : "E98429", "name" : "Monostable Multivibrator by Using 555 Timer"}
-	{"id" : "E98428", "name" : "Astable Multivibrator by Using 555 Timer"}
-	{"id" : "E98427", "name" : "Automatic Gain Control Amplifier"}
-	{"id" : "E98426", "name" : "Clipper and Clampers circuits"}
 	
 ]}
 
