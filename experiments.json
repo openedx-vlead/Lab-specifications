@@ -1578,9 +1578,16 @@
 	{"id": "E98462", "name": "Cell Culture"}
 	{"id": "E98461", "name": "Bacteria Culture"}
 	{"id": "E98460", "name": "Influence of Electric Field on Cell Adhesion"}
-	{"id" : "E98459", "name" : "Study Of Impulse Voltage Generator"}
-	{"id" : "E98458", "name" : "Parametric Analysis Of Impulse Voltage Waveform"}
-	{"id" : "E98457", "name" : "Study Of Impulse Current Generator"}
+	{"id": "E98459", "name" : "Study Of Impulse Voltage Generator"}
+	{"id": "E98458", "name" : "Parametric Analysis Of Impulse Voltage Waveform"}
+	{"id": "E98457", "name" : "PV Diagram of a SI Engine"}
+	{"id": "E98456", "name" : "Torque Crank Angle Curve of a SI Engine"}
+	{"id": "E98455", "name" : "Load Test on a SI Engine"}
+	{"id": "E98454", "name" : "Mechanical Efficiency of a SI Engine"}
+	{"id": "E98453", "name" : "Determination of Cylinder Mean Effective Pressure"}
+	{"id": "E98452", "name" : "Engine Health Monitoring by Vibration Analysis"}
+	{"id": "E98451", "name" : "Variation of Exhaust Noise with Engine Speed"}
+	{"id": "E98450", "name" : "Torsional Vibrations of an Engine"}
 	
 ]}
 
