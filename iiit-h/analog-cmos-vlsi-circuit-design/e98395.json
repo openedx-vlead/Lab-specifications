@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98395",
+                "name": "Design and characterization of common gate amplifier : Transfer Characteristics (Vin v/s Vout)",
+                "overview": "This experiment deals with Design and characterization of common gate amplifier",
+                "sections": [
+ 							 "Introduction and Theory", 
+ 							 "Objective", 
+ 							 "Experiment", 
+ 							 "Procedure", 
+ 							 "Further Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }
