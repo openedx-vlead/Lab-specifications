@@ -1652,6 +1652,13 @@
 	{"id" : "E98388", "name": "Design and characterization of cascode current mirror"}
 	{"id" : "E98387", "name": "Design and characterization of voltage mode buffer : Transfer Characteristics (Vin v/s Vout)"}
 	{"id" : "E98386", "name": "Design and characterization of voltage mode buffer : Frequency Response (Vin v/s Frequency)"}
+	{"id" : "E98385", "name": "Printing Hello World"}
+	{"id" : "E98384", "name": "Printing Numbers"}
+	{"id" : "E98383", "name": "Get Number from User"}
+	{"id" : "E98382", "name": "Get String from User"}
+	{"id" : "E98381", "name": "Different data types"}
+	{"id" : "E98380", "name": "Expression evaluation"}
+	{"id" : "E98379", "name": "Type casting & data conversion"}
 	
 ]}
 
