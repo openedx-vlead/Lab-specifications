@@ -1603,9 +1603,13 @@
 	{"id" : "E98437" , "name" : "Parametric Analysis Of Impulse Current Waveform"}
 	{"id" : "E98436" , "name" : "Functioning of Voltage Doubler"}
 	{"id" : "E98435" , "name" : "3-Stage Cockroft Walton Voltage Multiplier"}
-	  
-
-	
-	
+	{"id" : "E98434" , "name" : "Modeling and Simulation of Computer Integrated Manufacturing System"}
+	{"id" : "E98433" , "name" : "Modelling, Offline Manual Part Programming and Simulation of the operation of a 3 axis CNC Milling Machine"}
+	{"id" : "E98432" , "name" : "Programming and operation of a 3 axis CNC Miling Machine"}
+	{"id" : "E98431" , "name" : "CAD/CAM based Part Programming and operation of a 3 axis CNC Milling Machine"}
+	{"id" : "E98430" , "name" : "Modelling, offline programming and simulation of a 5-Axis Robot manipulator"}
+	{"id" : "E98429" , "name" : "Programming and operation of a 5-Axis Robot manipulator"}
+	{"id" : "E98428" , "name" : "Machine vision based quality control"}
+	{"id" : "E98427" , "name" : "Remote Monitoring and Operation of a Computer Integrated Manufacturing System"}
 ]}
 
