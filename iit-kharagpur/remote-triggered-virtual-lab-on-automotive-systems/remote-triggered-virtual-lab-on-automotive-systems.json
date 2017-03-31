@@ -1,0 +1,25 @@
+{ 
+              "lab": { 
+                "id": "rtv02",
+                "name": "Remote Triggered Virtual Lab on Automotive Systems",
+                "overview": "This lab deals with Remote Triggered Virtual Lab on Automotive Systems",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+			"e98457", 
+ 			"e98456", 
+ 			"e98455", 
+ 			"e98454", 
+ 			"e98453", 
+ 			"e98452", 
+ 			"e98451", 
+ 			"e98450"
+ 		                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

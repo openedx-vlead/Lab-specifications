@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98456",
+                "name": "Torque Crank Angle Curve of a SI Engine",
+                "overview": "This experiment deals with Torque Crank Angle Curve of a SI Engine",
+                "sections": [
+			"Introduction",
+			"Theory",
+			"Objective",
+			"Procedure",
+			"Simulator",
+			"Quiz",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

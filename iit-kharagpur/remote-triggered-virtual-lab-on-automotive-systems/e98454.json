@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98454",
+                "name": "Mechanical Efficiency of a SI Engine",
+                "overview": "This experiment deals with Mechanical Efficiency of a SI Engine",
+                "sections": [
+			"Introduction",
+			"Theory",
+			"Objective",
+			"Procedure",
+			"Simulator",
+			"Quiz",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }
