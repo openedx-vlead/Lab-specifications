@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98458",
+    "name": "Parametric Analysis Of Impulse Voltage Waveform",
+    "overview": "This experiment deals with Parametric Analysis Of Impulse Voltage Waveform",
+    "sections": [
+      "Introduction",
+      "Theory",
+      "Objective",
+      "Simulator",
+      "Application",
+      "Quiz",
+      "References"
+    ]
+  },
+  "content-type": "org"
+}

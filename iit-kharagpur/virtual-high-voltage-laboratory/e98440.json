@@ -1,0 +1,16 @@
+{
+  "experiment": {
+    "id": "e98440",
+    "name": "Power frequency AC Test Source",
+    "overview": "This experiment deals with Power frequency AC Test Source",
+    "sections": [
+      "Introduction",
+      "Theory",
+      "Objective",
+      "Simulator",
+      "Application",
+      "Procedure"
+    ]
+  },
+  "content-type": "org"
+}

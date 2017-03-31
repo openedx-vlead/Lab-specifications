@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98459",
+    "name": "Study Of Impulse Voltage Generator",
+    "overview": "This experiment deals with Study Of Impulse Voltage Generator",
+    "sections": [
+      "Introduction",
+      "Theory",
+      "Objective",
+      "Simulator",
+      "Application",
+      "Quiz",
+      "References"
+    ]
+  },
+  "content-type": "org"
+}

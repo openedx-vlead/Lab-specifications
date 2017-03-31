@@ -1,0 +1,16 @@
+{
+  "experiment": {
+    "id": "e98441",
+    "name": "Study of Rectangular Pulse Current Generator",
+    "overview": "This experiment deals with Study of Rectangular Pulse Current Generator",
+    "sections": [
+      "Introduction",
+      "Theory",
+      "Objective",
+      "Simulator",
+      "Application",
+      "Procedure"
+    ]
+  },
+  "content-type": "org"
+}
