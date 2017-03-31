@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98348",
+                "name": "Effect of beam energy on SEM imaging",
+                "overview": "This experiment deals with Effect of beam energy on SEM imaging",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

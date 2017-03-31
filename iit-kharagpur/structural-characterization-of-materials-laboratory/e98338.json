@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98338",
+                "name": "Case Study with SEM: Formation of alpha titanium phase in beta titanium grains",
+                "overview": "This experiment deals with Case Study with SEM: Formation of alpha titanium phase in beta titanium grains",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

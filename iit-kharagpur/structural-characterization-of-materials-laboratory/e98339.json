@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98339",
+                "name": "Case Study with SEM: Morphological analysis of Nickel foams",
+                "overview": "This experiment deals with Case Study with SEM: Morphological analysis of Nickel foams",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98350",
+                "name": "Quantitative X-ray analysis using Rietveld Refinement",
+                "overview": "This experiment deals with Quantitative X-ray analysis using Rietveld Refinement",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

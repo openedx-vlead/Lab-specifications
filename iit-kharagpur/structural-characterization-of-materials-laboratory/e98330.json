@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98330",
+                "name": "Surface roughness analysis of metallic sample in contact mode/non-contact mode using Atomic Force Microscopy",
+                "overview": "This experiment deals with Surface roughness analysis of metallic sample in contact mode/non-contact mode using Atomic Force Microscopy",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

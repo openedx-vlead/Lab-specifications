@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98356",
+                "name": "Production and Measurements of X-rays",
+                "overview": "This experiment deals with Production and Measurements of X-rays",
+                "sections": [
+			"Theory",
+			"Objective",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

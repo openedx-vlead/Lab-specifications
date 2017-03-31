@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98349",
+                "name": "High Resolution Imaging with SEM",
+                "overview": "This experiment deals with High Resolution Imaging with SEM",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

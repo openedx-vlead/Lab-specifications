@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98342",
+                "name": "Effect of Current Density on the Nucleation and Growth of Crystal Facets during Electrodeposition",
+                "overview": "This experiment deals with Effect of Current Density on the Nucleation and Growth of Crystal Facets during Electrodeposition",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

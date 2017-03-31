@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98345",
+                "name": "Back Scattered Electron Imaging",
+                "overview": "This experiment deals with Back Scattered Electron Imaging",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

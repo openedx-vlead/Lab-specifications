@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98355",
+                "name": "Phase Identification by XRD",
+                "overview": "This experiment deals with Phase Identification by XRD",
+                "sections": [
+			"Theory",
+			"Objective",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

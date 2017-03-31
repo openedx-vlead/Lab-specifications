@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98347",
+                "name": "Charging effect on non conducting sample and its elimination",
+                "overview": "This experiment deals with Charging effect on non conducting sample and its elimination",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98354",
+                "name": "Indexing of Powder Patterns",
+                "overview": "This experiment deals with Indexing of Powder Patterns",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }
