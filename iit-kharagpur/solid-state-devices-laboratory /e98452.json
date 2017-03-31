@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98452",
+                "name": "ID-VD characteristics of junction field effect transistors",
+                "overview": "This experiment deals with ID-VD characteristics of junction field effect transistors",
+                "sections": [
+                "Introduction", 
+ 							 "Introduction", 
+ 							 "Demo", 
+  							 "Simulator", 
+ 							 "Assignment", 
+                                                         "Quiz",
+ 							 "References", 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

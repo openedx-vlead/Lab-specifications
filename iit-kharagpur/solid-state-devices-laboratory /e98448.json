@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98448",
+                "name": "Frequency response of RC-coupled amplifiers by using operational Amplifier",
+                "overview": "This experiment deals with Frequency response of RC-coupled amplifiers by using operational Amplifier",
+                "sections": [
+                "Introduction", 
+ 							 "Introduction", 
+ 							 "Demo", 
+  							 "Simulator", 
+ 							 "Assignment", 
+                                                         "Quiz",
+ 							 "References", 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

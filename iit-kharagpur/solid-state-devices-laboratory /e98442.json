@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98442",
+                "name": "Clipper and Clampers circuits",
+                "overview": "This experiment deals with Clipper and Clampers circuits",
+                "sections": [
+                "Introduction", 
+ 							 "Introduction", 
+ 							 "Demo", 
+  							 "Simulator", 
+ 							 "Assignment", 
+                                                         "Quiz",
+ 							 "References", 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

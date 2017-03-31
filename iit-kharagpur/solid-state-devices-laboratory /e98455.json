@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98455",
+                "name": "Silicon Controlled Rectifiers(SCR) characteristics",
+                "overview": "This experiment deals with Silicon Controlled Rectifiers(SCR) characteristics",
+                "sections": [
+                "Introduction", 
+ 							 "Introduction", 
+ 							 "Demo", 
+  							 "Simulator", 
+ 							 "Assignment", 
+                                                         "Quiz",
+ 							 "References", 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }
