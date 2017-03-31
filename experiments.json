@@ -1588,6 +1588,7 @@
 	{"id": "E98452", "name" : "Engine Health Monitoring by Vibration Analysis"}
 	{"id": "E98451", "name" : "Variation of Exhaust Noise with Engine Speed"}
 	{"id": "E98450", "name" : "Torsional Vibrations of an Engine"}
+	{"id" : "E98449", "name" : "Parametric Analysis Of Impulse Current Waveform"}
 	
 ]}
 
