@@ -1659,6 +1659,29 @@
 	{"id" : "E98381", "name": "Different data types"}
 	{"id" : "E98380", "name": "Expression evaluation"}
 	{"id" : "E98379", "name": "Type casting & data conversion"}
+	{"id" : "E98378", "name": "Simple Mathemetical problem solving"}
+	{"id" : "E98377", "name": "Modular arithmetic"}
+	{"id" : "E98376", "name": "Control:if-else loop"}
+	{"id" : "E98375", "name": "Control:Switch case"}
+	{"id" : "E98374", "name": "Iterative for loop"}
+	{"id" : "E98373", "name": "Iterative while loop"}
+	{"id" : "E98372", "name": "Iterative do-while loop"}
+	{"id" : "E98371", "name": "Function in C"}
+	{"id" : "E98370", "name": "More on Functions"}
+	{"id" : "E98369", "name": "Recursive factorial"}
+	{"id" : "E98368", "name": "Recursive fibonacci Series"}
+	{"id" : "E98367", "name": "Non-reursive fibonacci Series"}
+	{"id" : "E98366", "name": "Dimensional Array"}
+	{"id" : "E98365", "name": "Linear Searching"}
+	{"id" : "E98364", "name": "Binary Searching"}
+	{"id" : "E98363", "name": "Linear Sorting.:selection sort"}
+	{"id" : "E98362", "name": "Linear Sorting.:Insertion Sort"}
+	{"id" : "E98361", "name": "Multi-dimensional Array"}
+	{"id" : "E98359", "name": "Matrix Calculations In C"}
+	{"id" : "E98358", "name": "strings In C"}
+	{"id" : "E98357", "name": "Abstract Data Type: Complex Number"}
+	
+	
 	
 ]}
 
