@@ -1,0 +1,16 @@
+{
+  "experiment": {
+    "id": "e98449",
+    "name": "Parametric Analysis Of Impulse Current Waveform",
+    "overview": "This experiment deals with Parametric Analysis Of Impulse Current Waveform",
+    "sections": [
+      "Introduction",
+      "Theory",
+      "Objective",
+      "Simulator",
+      "Application",
+      "Procedure"
+    ]
+  },
+  "content-type": "org"
+}
