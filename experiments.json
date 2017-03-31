@@ -1601,7 +1601,10 @@
 	{"id" : "E98439" , "name" : "Critical Flashover of a Sphere Gap using IVG "}
 	{"id" : "E98438" , "name" : "Application of High Voltage D.C.Test Source(Half Wave)"}
 	{"id" : "E98437" , "name" : "Parametric Analysis Of Impulse Current Waveform"}
-	
+	{"id" : "E98436" , "name" : "Functioning of Voltage Doubler"}
+	{"id" : "E98435" , "name" : "3-Stage Cockroft Walton Voltage Multiplier"}
+	  
+
 	
 	
 ]}
