@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98415",
+                "name": "Voltage Multipliers",
+                "overview": "This experiment deals with Voltage Multipliers",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Evaluation", 
+  						         "References" 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

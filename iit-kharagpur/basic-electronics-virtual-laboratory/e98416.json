@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98416",
+                "name": "Capacitative Rectification",
+                "overview": "This experiment deals with Capacitative Rectification",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Evaluation", 
+  						         "References" 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98413",
+                "name": "RC Frequency Response",
+                "overview": "This experiment deals with RC Frequency Response",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Evaluation", 
+  						         "References" 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

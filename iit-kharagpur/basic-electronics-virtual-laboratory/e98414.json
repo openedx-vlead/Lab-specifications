@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98414",
+                "name": "Studies on BJT CE Amplifier",
+                "overview": "This experiment deals with Studies on BJT CE Amplifier",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Evaluation", 
+  						         "References" 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

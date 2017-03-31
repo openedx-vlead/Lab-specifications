@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98425",
+                "name": "Familiarisation with Capacitor",
+                "overview": "This experiment deals with Familiarisation with Capacitor",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Evaluation", 
+  						         "References" 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

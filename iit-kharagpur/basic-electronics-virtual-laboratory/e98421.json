@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98421",
+                "name": "Half Wave Rectification",
+                "overview": "This experiment deals with Half Wave Rectification",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Evaluation", 
+  						         "References" 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98419",
+                "name": "Zener Diode-Voltage Regulator",
+                "overview": "This experiment deals with Zener Diode-Voltage Regulator",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Evaluation", 
+  						         "References" 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

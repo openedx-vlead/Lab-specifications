@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98418",
+                "name": "BJT Common Emitter Characteristics",
+                "overview": "This experiment deals with BJT Common Emitter Characteristics",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Evaluation", 
+  						         "References" 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

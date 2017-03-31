@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98426",
+                "name": "Familiarisation with Resistor",
+                "overview": "This experiment deals with Familiarisation with Resistor",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Evaluation", 
+  						         "References" 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }
