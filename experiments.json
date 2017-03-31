@@ -1680,6 +1680,34 @@
 	{"id" : "E98359", "name": "Matrix Calculations In C"}
 	{"id" : "E98358", "name": "strings In C"}
 	{"id" : "E98357", "name": "Abstract Data Type: Complex Number"}
+	{"id" : "E98356", "name": "Production and Measurements of X-rays"}
+	{"id" : "E98355", "name": "Phase Identification by XRD"}
+	{"id" : "E98354", "name": "Indexing of Powder Patterns"}
+	{"id" : "E98353", "name": "Estimation of Precise Lattice Parameter of Cubic Crystals"}
+	{"id" : "E98352", "name": "Determination of Retained Austenite in Quenched Steel"}
+	{"id" : "E98351", "name": "Measurement of Residual Stress by X-ray diffraction"}
+	{"id" : "E98350", "name": "Quantitative X-ray analysis using Rietveld Refinement"}
+	{"id" : "E98349", "name": "High Resolution Imaging with SEM"}
+	{"id" : "E98348", "name": "Effect of beam energy on SEM imaging"}
+	{"id" : "E98347", "name": "Charging effect on non conducting sample and its elimination"}
+	{"id" : "E98346", "name": "Powder sample preparation for SEM analysis"}
+	{"id" : "E98345", "name": "Back Scattered Electron Imaging"}
+	{"id" : "E98344", "name": "Fracture surface analysis by SEM"}
+	{"id" : "E98343", "name": "EDS analysis "}
+	{"id" : "E98342", "name": "Effect of Current Density on the Nucleation and Growth of Crystal Facets during Electrodeposition"}
+	{"id" : "E98341", "name": "Compositional and Morphological analysis of Meteorite samples"}
+	{"id" : "E98340", "name": "Case Study with SEM: Morphological analysis of disperse protein sample"}
+	{"id" : "E98339", "name": "Case Study with SEM: Morphological analysis of Nickel foams"}
+	{"id" : "E98338", "name": "Case Study with SEM: Formation of alpha titanium phase in beta titanium grains"}
+	{"id" : "E98337", "name": "Atomic Force Microscopy"}
+	{"id" : "E98336", "name": "Surface topography of a metallic sample in contact mode using Atomic Force Microscopy"}
+	{"id" : "E98335", "name": "Surface topography of a metallic sample in non contact mode using Atomic Force Microscopy"}
+	{"id" : "E98334", "name": "Surface topography of a metallic sample in using Scanning Tunnelling Microscopy"}
+	{"id" : "E98333", "name": "Surface topography of a metallic sample in using Magnetic Force Microscope"}
+	{"id" : "E98332", "name": "Surface topography of a ceramic sample using Atomic Force Microscopy"}
+	{"id" : "E98331", "name": "Compositional Mapping using LFM"}
+	{"id" : "E98330", "name": "Surface roughness analysis of metallic sample in contact mode/non-contact mode using Atomic Force Microscopy"}
+	{"id" : "E98329", "name": "High Resolution AFM Imaging of Carbon Nanotubes coated with Sn-Based Material"}
 	
 	
 	
