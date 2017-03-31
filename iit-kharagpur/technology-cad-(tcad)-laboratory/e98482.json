@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98482",
+                "name": "Extraction of bipolar SPICE Gummel-Poon parameters related to B-E junction Capacitance-Voltage (C-V) characteristics",
+                "overview": "This experiment deals with extraction of diode SPICE parameters",
+                "sections": [
+                "Introduction", 
+ 							 "Aim",
+                                                         "Theory",
+                                                         "Procedure",
+ 							 "Simulator", 
+                                                         "Quiz",
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

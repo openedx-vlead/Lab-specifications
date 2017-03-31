@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98473",
+                "name": "Apply protocols to see how the accumulation of metabolites changes",
+                "overview": "This experiment deals with Apply protocols to see how the accumulation of metabolites changes",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Self-evaluation",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

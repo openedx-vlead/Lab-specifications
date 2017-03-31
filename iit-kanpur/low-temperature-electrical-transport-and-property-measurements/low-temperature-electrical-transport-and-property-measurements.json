@@ -1,0 +1,11 @@
+{"lab": {"id":  "phy-sc31",
+         "name": "Low Temperature Electrical Transport and Property Measurements",
+         "overview": "This lab deals with Low Temperature Electrical Transport and Property Measurements",
+         "sections": [ 
+           {"name": "Introduction" }, 
+           {
+             "experiments" : ["e98470"]
+           }
+         ]
+        }
+}

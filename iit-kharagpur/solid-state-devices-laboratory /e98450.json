@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98450",
+                "name": "Study of basic properties of operational amplifier: voltage follower, inverting and non-inverting amplifiers",
+                "overview": "This experiment deals with Study of basic properties of operational amplifier: voltage follower, inverting and non-inverting amplifiers",
+                "sections": [
+                "Introduction", 
+ 							 "Introduction", 
+ 							 "Demo", 
+  							 "Simulator", 
+ 							 "Assignment", 
+                                                         "Quiz",
+ 							 "References", 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

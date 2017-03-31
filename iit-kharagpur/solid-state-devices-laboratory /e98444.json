@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98444",
+                "name": "Astable Multivibrator by Using 555 Timer",
+                "overview": "This experiment deals with Astable Multivibrator by Using 555 Timer",
+                "sections": [
+                "Introduction", 
+ 							 "Introduction", 
+ 							 "Demo", 
+  							 "Simulator", 
+ 							 "Assignment", 
+                                                         "Quiz",
+ 							 "References", 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

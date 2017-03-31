@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98447",
+                "name": "Voltage variable Resistance",
+                "overview": "This experiment deals with Voltage variable Resistance",
+                "sections": [
+                "Introduction", 
+ 							 "Introduction", 
+ 							 "Demo", 
+  							 "Simulator", 
+ 							 "Assignment", 
+                                                         "Quiz",
+ 							 "References", 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

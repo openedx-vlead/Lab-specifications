@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98471",
+                "name": "Purification and Derivatization of secondary metabolites from plants",
+                "overview": "This experiment deals with Purification and Derivatization of secondary metabolites from plants",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Self-evaluation",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

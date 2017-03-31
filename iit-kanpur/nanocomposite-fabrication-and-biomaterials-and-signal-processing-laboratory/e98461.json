@@ -1,0 +1,11 @@
+{
+  "experiment": {
+    "id":  "E98461",
+    "name": "Bacteria Culture",
+    "overview": "This experiment deals with Bacteria Culture",        
+    "sections" : ["Theory", 
+                  "Experiment"
+                 ]
+  },
+ "content-type": "org"
+}

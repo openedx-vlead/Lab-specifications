@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98454",
+                "name": "Bipolar Junction Transistor: input and output characteristic (a)common base,(b) common collector, and (c)common emitter configuration",
+                "overview": "This experiment deals with Bipolar Junction Transistor: input and output characteristic (a)common base,(b) common collector, and (c)common emitter configuration",
+                "sections": [
+                "Introduction", 
+ 							 "Introduction", 
+ 							 "Demo", 
+  							 "Simulator", 
+ 							 "Assignment", 
+                                                         "Quiz",
+ 							 "References", 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

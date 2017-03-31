@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98450",
+                "name": "Torsional Vibrations of an Engine",
+                "overview": "This experiment deals with Torsional Vibrations of an Engine",
+                "sections": [
+			"Introduction",
+			"Theory",
+			"Objective",
+			"Procedure",
+			"Simulator",
+			"Quiz",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

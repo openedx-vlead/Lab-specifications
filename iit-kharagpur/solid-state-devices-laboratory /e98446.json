@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98446",
+                "name": "Astable Multivibrator using BJT",
+                "overview": "This experiment deals with Astable Multivibrator using BJT",
+                "sections": [
+                "Introduction", 
+ 							 "Introduction", 
+ 							 "Demo", 
+  							 "Simulator", 
+ 							 "Assignment", 
+                                                         "Quiz",
+ 							 "References", 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

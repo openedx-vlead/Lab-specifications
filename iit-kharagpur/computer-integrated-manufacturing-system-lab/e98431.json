@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98431",
+                "name": "CAD/CAM based Part Programming and operation of a 3 axis CNC Milling Machine",
+                "overview": "This experiment deals with CAD/CAM based Part Programming and operation of a 3 axis CNC Milling Machine",
+                "sections": [
+			"Introduction",
+			"Theory",
+			"Objective",
+			"Setup",
+			"Procedure",
+			"Simulator",
+			"Quiz",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98434",
+                "name": "Modeling and Simulation of Computer Integrated Manufacturing System",
+                "overview": "This experiment deals with Modeling and Simulation of Computer Integrated Manufacturing System",
+                "sections": [
+			"Introduction",
+			"Theory",
+			"Objective",
+			"Setup",
+			"Procedure",
+			"Simulator",
+			"Quiz",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

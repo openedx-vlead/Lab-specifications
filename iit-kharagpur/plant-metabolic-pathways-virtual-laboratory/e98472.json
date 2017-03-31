@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98472",
+                "name": "Demonstrate plant genetics by the accumulation pattern of secondary metabolites in plants",
+                "overview": "This experiment deals with Demonstrate plant genetics by the accumulation pattern of secondary metabolites in plants",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Self-evaluation",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

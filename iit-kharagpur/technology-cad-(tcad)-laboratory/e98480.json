@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98480",
+                "name": "Extraction of MOSFET LEVEL (1,2,3 and 6) SPICE parameters related to output (Id vs. Vd) characteristics",
+                "overview": "This experiment deals with extraction of MOSFET LEVEL SPICE parameters",
+                "sections": [
+                "Introduction", 
+ 							 "Aim",
+                                                         "Theory",
+                                                         "Procedure",
+ 							 "Simulator", 
+                                                         "Quiz",
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98453",
+                "name": "CB, CE,CC transistors amplifier",
+                "overview": "This experiment deals with CB, CE,CC transistors amplifier",
+                "sections": [
+                "Introduction", 
+ 							 "Introduction", 
+ 							 "Demo", 
+  							 "Simulator", 
+ 							 "Assignment", 
+                                                         "Quiz",
+ 							 "References", 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

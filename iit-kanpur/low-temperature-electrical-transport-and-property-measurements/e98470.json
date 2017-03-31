@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id":  "E98470",
+    "name": "Low Temperature Electrical Transport and Property Measurements",
+    "overview": "This experiment deals with Low Temperature Electrical Transport and Property Measurements",        
+    "sections" : "sections" : ["Objective",
+ 			      "Theory",
+                              "Principle",
+ 			      "Method",
+                              "Detailed Manual",
+                              "Links to Experiments",
+                              "Internal",
+                              "External"
+                             ]
+  },
+ "content-type": "org"
+}

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98443",
+                "name": "Automatic Gain Control Amplifier",
+                "overview": "This experiment deals with Automatic Gain Control Amplifier",
+                "sections": [
+                "Introduction", 
+ 							 "Introduction", 
+ 							 "Demo", 
+  							 "Simulator", 
+ 							 "Assignment", 
+                                                         "Quiz",
+ 							 "References", 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

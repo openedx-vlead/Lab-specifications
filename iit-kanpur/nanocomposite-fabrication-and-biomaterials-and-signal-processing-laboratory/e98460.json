@@ -1,0 +1,10 @@
+{
+  "experiment": {
+    "id":  "E98461",
+    "name": "Influence of Electric Field on Cell Adhesion",
+    "overview": "This experiment deals with Influence of Electric Field on Cell Adhesion",        
+    "sections" : ["Experiment"
+                 ]
+  },
+ "content-type": "org"
+}

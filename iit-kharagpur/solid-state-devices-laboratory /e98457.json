@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98457",
+                "name": "Rectifying and Breakdown Characteristics of pn-junctions and point contact diodes",
+                "overview": "This experiment deals with Rectifying and Breakdown Characteristics of pn-junctions and point contact diodes",
+                "sections": [
+                "Introduction", 
+ 							 "Introduction", 
+ 							 "Demo", 
+  							 "Simulator", 
+ 							 "Assignment", 
+                                                         "Quiz",
+ 							 "References", 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,17 @@
+{
+              "experiment": {
+                "id": "e98485",
+                "name": "Extraction of bipolar SPICE Gummel-Poon parameters related to reverse Gummel (Ie and Ib vs. Vbc) characteristics",
+                "overview": "This experiment deals with extraction of diode SPICE Gummel-Poon parameters",
+                "sections": [
+                "Introduction", 
+ 							 "Aim",
+                                                         "Theory",
+                                                         "Procedure",
+ 							 "Simulator", 
+                                                         "Quiz",
+ 							 "Reference" 
+                ]
+              },
+              "content-type": "org"
+            }

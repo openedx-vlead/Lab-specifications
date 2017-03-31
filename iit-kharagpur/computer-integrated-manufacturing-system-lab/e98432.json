@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98432",
+                "name": "Programming and operation of a 3 axis CNC Miling Machine",
+                "overview": "This experiment deals with Programming and operation of a 3 axis CNC Miling Machine",
+                "sections": [
+			"Introduction",
+			"Theory",
+			"Objective",
+			"Setup",
+			"Procedure",
+			"Simulator",
+			"Quiz",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }
