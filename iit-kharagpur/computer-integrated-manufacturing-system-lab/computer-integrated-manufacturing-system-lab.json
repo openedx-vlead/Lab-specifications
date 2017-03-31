@@ -1,0 +1,25 @@
+{ 
+              "lab": { 
+                "id": "rtv01",
+                "name": "Computer Integrated Manufacturing Laboratory",
+                "overview": "This lab deals with Computer Integrated Manufacturing Laboratory",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+			"e98434", 
+ 			"e98433", 
+ 			"e98432", 
+ 			"e98431", 
+ 			"e98430", 
+ 			"e98429", 
+ 			"e98428", 
+ 			"e98427"
+ 		                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

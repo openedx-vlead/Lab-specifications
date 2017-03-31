@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98430",
+                "name": "Modelling, offline programming and simulation of a 5-Axis Robot manipulator",
+                "overview": "This experiment deals with Modelling, offline programming and simulation of a 5-Axis Robot manipulator",
+                "sections": [
+			"Introduction",
+			"Theory",
+			"Objective",
+			"Setup",
+			"Procedure",
+			"Simulator",
+			"Quiz",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

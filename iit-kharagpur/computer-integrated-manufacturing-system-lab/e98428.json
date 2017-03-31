@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98428",
+                "name": "Machine vision based quality control",
+                "overview": "This experiment deals with Machine vision based quality control",
+                "sections": [
+			"Introduction",
+			"Theory",
+			"Objective",
+			"Setup",
+			"Procedure",
+			"Simulator",
+			"Quiz",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,18 @@
+{
+              "experiment": {
+                "id": "e98427",
+                "name": "Remote Monitoring and Operation of a Computer Integrated Manufacturing System",
+                "overview": "This experiment deals with Remote Monitoring and Operation of a Computer Integrated Manufacturing System",
+                "sections": [
+			"Introduction",
+			"Theory",
+			"Objective",
+			"Setup",
+			"Procedure",
+			"Simulator",
+			"Quiz",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }
