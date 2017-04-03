@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98424",
+                "name": "Familiarisation with Inductor",
+                "overview": "This experiment deals with Familiarisation with Inductor",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Evaluation", 
+  						         "References" 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

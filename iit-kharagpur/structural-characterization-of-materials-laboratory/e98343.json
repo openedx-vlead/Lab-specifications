@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98343",
+                "name": "EDS analysis ",
+                "overview": "This experiment deals with EDS analysis ",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

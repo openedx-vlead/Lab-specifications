@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98391",
+                "name": "Design and characterization of differential to single-ended circuit : Transfer Characteristics (Vin v/s Vout)",
+                "overview": "This experiment deals with Design and characterization of differential to single-ended circuit",
+                "sections": [
+ 							 "Introduction and Theory", 
+ 							 "Objective", 
+ 							 "Experiment", 
+ 							 "Procedure", 
+ 							 "Further Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

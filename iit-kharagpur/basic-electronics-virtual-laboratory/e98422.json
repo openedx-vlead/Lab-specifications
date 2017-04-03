@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98422",
+                "name": "VI Characteristics of a Diode",
+                "overview": "This experiment deals with VI Characteristics of a Diode",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Evaluation", 
+  						         "References" 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

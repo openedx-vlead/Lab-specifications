@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98389",
+                "name": "Design and characterization of basic current mirror",
+                "overview": "This experiment deals with Design and characterization basic current mirror",
+                "sections": [
+			                                 "Introduction and Theory", 
+ 							 "Objective", 
+ 							 "Experiment", 
+ 							 "Procedure", 
+ 							 "Further Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

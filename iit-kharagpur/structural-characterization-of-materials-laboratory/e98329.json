@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98329",
+                "name": "High Resolution AFM Imaging of Carbon Nanotubes coated with Sn-Based Material",
+                "overview": "This experiment deals with High Resolution AFM Imaging of Carbon Nanotubes coated with Sn-Based Material",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

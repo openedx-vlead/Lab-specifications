@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98386",
+                "name": "Design and characterization of voltage mode buffer : Frequency Response (Vin v/s Frequency)",
+                "overview": "This experiment deals with Design and characterization of voltage mode buffer",
+                "sections": [
+ 							 "Introduction and Theory", 
+ 							 "Objective", 
+ 							 "Experiment", 
+ 							 "Procedure", 
+ 							 "Further Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

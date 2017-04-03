@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98417",
+                "name": "BJT Common Base Characteristics",
+                "overview": "This experiment deals with BJT Common Base Characteristics",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Evaluation", 
+  						         "References" 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

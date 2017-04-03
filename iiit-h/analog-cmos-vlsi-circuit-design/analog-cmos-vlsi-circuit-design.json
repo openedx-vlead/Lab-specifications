@@ -1,0 +1,33 @@
+{ 
+              "lab": { 
+                "id": "cse30",
+                "name": "Analog CMOS VLSI Circuit Design",
+                "overview": "This lab deals with Analog CMOS VLSI Circuit Design",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                                                         "e98401", 
+ 							 "e98400", 
+ 							 "e98399", 
+ 							 "e98398", 
+ 							 "e98397", 
+ 							 "e98396", 
+ 							 "e98395", 
+ 							 "e98394", 
+ 							 "e98393",
+                                                         "e98392",
+                                                         "e98391",
+                                                         "e98390",
+                                                         "e98389",
+                                                         "e98388",
+                                                         "e98387",
+                                                         "e98386"
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

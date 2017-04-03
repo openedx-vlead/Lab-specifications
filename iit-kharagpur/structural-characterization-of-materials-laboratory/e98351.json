@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98351",
+                "name": "Measurement of Residual Stress by X-ray diffraction",
+                "overview": "This experiment deals with Measurement of Residual Stress by X-ray diffraction",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

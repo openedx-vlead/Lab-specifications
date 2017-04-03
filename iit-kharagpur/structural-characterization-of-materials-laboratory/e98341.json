@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98341",
+                "name": "Compositional and Morphological analysis of Meteorite samples",
+                "overview": "This experiment deals with Compositional and Morphological analysis of Meteorite samples",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

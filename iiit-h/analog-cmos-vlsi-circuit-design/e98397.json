@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98397",
+                "name": "Design and characterization of common source amplifier with Current source load : Transfer Characteristics (Vin v/s Vout)",
+                "overview": "This experiment deals with Design and characterization of common source amplifier with Current source load",
+                "sections": [
+ 							 "Introduction and Theory", 
+ 							 "Objective", 
+ 							 "Experiment", 
+ 							 "Procedure", 
+ 							 "Further Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,16 @@
+{
+              "experiment": {
+                "id": "e98388",
+                "name": "Design and characterization of cascode current mirror",
+                "overview": "This experiment deals with Design and characterization of cascode current mirror",
+                "sections": [
+ 							 "Introduction and Theory", 
+ 							 "Objective", 
+ 							 "Experiment", 
+ 							 "Procedure", 
+ 							 "Further Readings", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

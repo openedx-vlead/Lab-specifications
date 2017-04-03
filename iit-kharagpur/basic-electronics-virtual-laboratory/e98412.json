@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98412",
+                "name": "RC Differentiator and Integrator",
+                "overview": "This experiment deals with RC Differentiator and Integrator",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Evaluation", 
+  						         "References" 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

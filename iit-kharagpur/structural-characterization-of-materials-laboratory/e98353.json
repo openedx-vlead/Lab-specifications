@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98353",
+                "name": "Estimation of Precise Lattice Parameter of Cubic Crystals",
+                "overview": "This experiment deals with Estimation of Precise Lattice Parameter of Cubic Crystals",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

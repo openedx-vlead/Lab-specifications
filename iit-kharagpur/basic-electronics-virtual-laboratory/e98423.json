@@ -1,0 +1,15 @@
+{
+              "experiment": {
+                "id": "e98423",
+                "name": "Ohm's Law",
+                "overview": "This experiment deals with Ohm's Law",
+                "sections": [
+                "Introduction", 
+ 							 "Theory", 
+ 							 "Evaluation", 
+  						         "References" 
+ 							 
+                ]
+              },
+              "content-type": "org"
+            }

@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98346",
+                "name": "Powder sample preparation for SEM analysis",
+                "overview": "This experiment deals with Powder sample preparation for SEM analysis",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

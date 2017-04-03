@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98331",
+                "name": "Compositional Mapping using LFM",
+                "overview": "This experiment deals with Compositional Mapping using LFM",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }

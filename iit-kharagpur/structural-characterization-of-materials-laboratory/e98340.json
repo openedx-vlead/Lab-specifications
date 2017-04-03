@@ -1,0 +1,14 @@
+{
+              "experiment": {
+                "id": "e98340",
+                "name": "Case Study with SEM: Morphological analysis of disperse protein sample",
+                "overview": "This experiment deals with Case Study with SEM: Morphological analysis of disperse protein sample",
+                "sections": [
+			"Theory",
+			"Procedure",
+			"Simulator",
+			"Reference"
+                ]
+              },
+              "content-type": "org"
+            }
