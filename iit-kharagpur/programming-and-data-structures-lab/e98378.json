@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98378",
+    "name": "Simple Mathemetical problem solving",
+    "overview": "This experiment deals with Simple Mathemetical problem solving",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"                                    
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98363",
+    "name": "Linear Sorting.:selection sort",
+    "overview": "This experiment deals with Linear Sorting.:selection sort",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "experiment": {
+    "id": "e98376",
+    "name": "Control:if-else loop",
+    "overview": "This experiment deals with Control:if-else loop",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"                                            
+  }
+}
+ 

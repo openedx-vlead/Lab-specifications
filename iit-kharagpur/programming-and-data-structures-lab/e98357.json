@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98357",
+    "name": "Abstract Data Type: Complex Number",
+    "overview": "This experiment deals with Abstract Data Type: Complex Number",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"
+  }
+}

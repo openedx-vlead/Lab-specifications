@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98383",
+    "name": "Get number from user",
+    "overview": "This experiment deals with Get number from user",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"                    
+  }
+}

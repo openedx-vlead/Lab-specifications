@@ -1,0 +1,18 @@
+
+{
+  "experiment": {
+    "id": "e98381",
+    "name": "Different data types",
+    "overview": "This experiment deals with different datatypes",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"                        
+  }
+}

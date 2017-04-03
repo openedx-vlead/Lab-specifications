@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98367",
+    "name": "Non-reursive fibonacci Series",
+    "overview": "This experiment deals with Non-reursive fibonacci Series",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"
+  }
+}

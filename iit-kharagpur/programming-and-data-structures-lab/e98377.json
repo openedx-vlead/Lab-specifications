@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98377",
+    "name": "Modular arithmetic",
+    "overview": "This experiment deals with Modular arithmetic",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"                                        
+  }
+}

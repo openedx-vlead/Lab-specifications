@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98362",
+    "name": "Linear Sorting.:Insertion Sort",
+    "overview": "This experiment deals with Linear Sorting.:Insertion Sort",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"
+  }
+}

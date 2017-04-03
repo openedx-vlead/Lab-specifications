@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98384",
+    "name": "Printing Numbers",
+    "overview": "This experiment deals with Printing Numbers",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"                
+  }
+}

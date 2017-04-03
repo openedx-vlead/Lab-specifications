@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98373",
+    "name": "Iterative while loop",
+    "overview": "This experiment deals with Iterative while loop",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"                                                        
+  }
+}

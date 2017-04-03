@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98372",
+    "name": "Iterative do-while loop",
+    "overview": "This experiment deals with Iterative do-while loop",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"                                                            
+  }
+}

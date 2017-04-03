@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98359",
+    "name": "Matrix Calculations In C",
+    "overview": "This experiment deals with Matrix Calculations In C",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"
+  }
+}

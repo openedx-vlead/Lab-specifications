@@ -1,0 +1,18 @@
+{
+  "experiment": {
+    "id": "e98385",
+    "name": "Printing Hello World",
+    "overview": "This experiment deals with Printing Hello World",
+    "assets": [],
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"            
+  }
+}

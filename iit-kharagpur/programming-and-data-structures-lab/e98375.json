@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98375",
+    "name": "Control:Switch case",
+    "overview": "This experiment deals with Control:Switch case",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"                                                
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98369",
+    "name": "Recursive fibonacci Series",
+    "overview": "This experiment deals with Recursive factorial",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"
+  }
+}

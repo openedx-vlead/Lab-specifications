@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98364",
+    "name": "Binary Searching",
+    "overview": "This experiment deals with Binary Searching",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"
+  }
+}

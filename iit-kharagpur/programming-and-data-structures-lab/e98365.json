@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98365",
+    "name": "Linear Searching",
+    "overview": "This experiment deals with Linear Searching",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"
+  }
+}

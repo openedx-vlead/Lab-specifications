@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98370",
+    "name": "More on Functions",
+    "overview": "This experiment deals with More on Functions",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"
+  }
+}

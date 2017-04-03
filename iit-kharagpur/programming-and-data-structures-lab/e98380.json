@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "id": "e98380",
+    "name": "Expression evaluation",
+    "overview": "This experiment deals with expression evaluation",
+    "sections": [
+      "Theory",
+      "Tutorial",
+      "Lab work",
+      "Assignment",
+      "Simulation",
+      "FAQ",
+      "Contents"
+    ],
+    "content-type": "org"                            
+  }
+}
