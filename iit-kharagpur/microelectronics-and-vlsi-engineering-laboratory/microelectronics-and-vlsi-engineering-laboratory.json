@@ -2,7 +2,11 @@
          "name": "Microelectronics and VLSI Engineering Laboratory",
          "overview": "This lab deals with Microelectronics and VLSI Engineering Laboratory",
          "sections": [ 
-           {"name": "Introduction" }, 
+           {
+                    "name": "Introduction",
+                    "name": "Contact Us",
+                    "name": "People"
+           }, 
            {
              "experiments" : [
                "e98495", 

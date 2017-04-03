@@ -5,7 +5,8 @@
                 "overview": "This lab deals with Structural Characterization of Materials Laboratory",
                 "sections": [
                   {
-                    "name": "Introduction"
+                    "name": "Introduction",
+                    "name": "People"
                   },
                   {
                     "experiments": [

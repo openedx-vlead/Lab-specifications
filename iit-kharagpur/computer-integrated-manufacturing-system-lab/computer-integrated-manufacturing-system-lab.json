@@ -5,7 +5,9 @@
                 "overview": "This lab deals with Computer Integrated Manufacturing Laboratory",
                 "sections": [
                   {
-                    "name": "Introduction"
+                    "name": "Introduction",
+                    "name": "People",
+                    "name": "Feedback"
                   },
                   {
                     "experiments": [

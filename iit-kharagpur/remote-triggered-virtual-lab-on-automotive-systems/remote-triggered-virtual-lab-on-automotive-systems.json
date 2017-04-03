@@ -5,7 +5,9 @@
                 "overview": "This lab deals with Remote Triggered Virtual Lab on Automotive Systems",
                 "sections": [
                   {
-                    "name": "Introduction"
+                    "name": "Introduction",
+                    "name": "People",
+                    "name": "Feedback"
                   },
                   {
                     "experiments": [
