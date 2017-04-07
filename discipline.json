@@ -73,5 +73,10 @@
     "dis_id": "mm-engg",
     "id": 15,
     "dis_name": "Metallurgical and Materials Engineering"
+  },
+  {
+    "dis_id": "mine-engg",
+    "id": 16,
+    "dis_name": "Mining Engineering"
   }
 ]
