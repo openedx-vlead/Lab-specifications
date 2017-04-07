@@ -78,5 +78,10 @@
     "dis_id": "mine-engg",
     "id": 16,
     "dis_name": "Mining Engineering"
+  },
+  {
+    "dis_id": "is-engg",
+    "id": 17,
+    "dis_name": "Industrial and Systems Engineering"
   }
 ]
